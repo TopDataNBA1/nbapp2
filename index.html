@@ -41,8 +41,13 @@
         .diff-blink{color:#ffaa00!important;font-weight:900;animation:blink 1.6s infinite;}
         @keyframes blink{0%,100%{opacity:1}50%{opacity:0.5}}
 
-        /* TELEGRAM WEB EMBEBIDO – 100% FUNCIONANDO */
-        .telegram-web{height:88vh;background:#1e1e2e;border-radius:16px;overflow:hidden;box-shadow:0 12px 40px rgba(255,70,85,0.4);}
+        .telegram-web{height:88vh;background:#1e1e2e;border-radius:16px;overflow:hidden;box-shadow:0 12px 40px rgba(255,70,85,0.4);display:flex;flex-direction:column;}
+        .telegram-iframe{flex:1;background:#1e1e2e;}
+        .telegram-fallback{text-align:center;padding:30px;color:#ffaa00;font-size:1.1em;}
+        .telegram-fallback a{color:#ff4655;font-weight:bold;text-decoration:none;font-size:1.2em;}
+        .notis-section{background:#1e1e2e;border-top:2px solid #ff4655;padding:15px 0;}
+        .notis-title{text-align:center;color:#ffaa00;font-family:Orbitron;font-size:1.3em;margin:10px 0;}
+        .noti-item{background:rgba(255,70,85,0.1);border-left:4px solid #ff4655;padding:12px 15px;margin:8px 12px;border-radius:0 8px 8px 0;font-size:0.95em;line-height:1.45;}
 
         .leyenda{text-align:center;padding:10px;background:rgba(255,70,85,0.15);border:1px solid #ff4655;border-radius:8px;font-size:0.9em;margin:10px 0;}
     </style>
@@ -60,20 +65,36 @@
     </div>
 
     <div class="tabs">
-        <button class="tab-btn active" onclick="openTab('telegram')">Latest Movs</button>
+        <button class="tab-btn active" onclick="openTab('telegram')">Latest Moves</button>
         <button class="tab-btn" onclick="openTab('live')">Live Rankings</button>
     </div>
 
-    <!-- TELEGRAM WEB EMBEBIDO -->
+    <!-- TELEGRAM + NOTIFICACIONES (con fallback si falla el iframe) -->
     <div id="telegram" class="tab-content active">
         <div class="container">
             <div class="telegram-web">
-                <iframe src="https://web.telegram.org/k/#@TopDataNBAlive" 
-                        width="100%" 
-                        height="100%" 
-                        style="border:none;" 
-                        sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-top-navigation">
+                <!-- iframe con truco que SÍ funciona en 2025 -->
+                <iframe class="telegram-iframe" 
+                        src="https://web.telegram.org/a/#@TopDataNBAlive" 
+                        style="border:none;width:100%;height:100%;"
+                        sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-top-navigation-by-user-activation"
+                        onload="this.style.background='#0f0f1b';"
+                        onerror="document.getElementById('telegram-fallback').style.display='block';this.style.display='none';">
                 </iframe>
+
+                <!-- Fallback por si el iframe falla -->
+                <div id="telegram-fallback" class="telegram-fallback" style="display:none;">
+                    <p>Telegram Web temporary unavailable</p>
+                    <a href="https://t.me/TopDataNBAlive" target="_blank">→ OPEN CHANNEL IN TELEGRAM</a>
+                </div>
+
+                <!-- NOTIFICACIONES -->
+                <div class="notis-section">
+                    <div style="max-height:500px;overflow-y:auto;padding:0 10px;">
+                        <div class="notis-title">Latest Movements</div>
+                        <div id="notificaciones"></div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -104,6 +125,7 @@
             document.getElementById(tabName).classList.add('active');
             document.querySelector(`button[onclick="openTab('${tabName}')"]`).classList.add('active');
             if (tabName === 'live') updatePage();
+            if (tabName === 'telegram') updateNotificaciones();
         }
 
         const statNames = {pts:"NBA All-Time Points",trb:"NBA All-Time Rebounds",ast:"NBA All-Time Assists",stl:"NBA All-Time Steals",blk:"NBA All-Time Blocks",fg3:"NBA All-Time Three-Pointers",g:"NBA All-Time Games Played"};
@@ -157,7 +179,6 @@
                         let filtered = tabla.filter(row => {
                             const rank = row.Rank;
                             const gameStatus = String(row.game_status || '').toLowerCase();
-
                             if (filters.top25 && rank > 25) return false;
                             if (filters.top100 && !filters.top25 && rank > 100) return false;
                             if (filters.playing && gameStatus !== 'playing') return false;
@@ -177,16 +198,18 @@
                             const gameStatus = String(row.game_status || '').toLowerCase();
                             const isInactive = hoy === -1;
 
-                            const isPoints = stat === 'pts';
-                            const isGames = stat === 'g';
-                            const near = isPoints ? ['0','1','2','3'] : ['0','1'];
-                            const mustBlink = near.includes(diff) && !isInactive && (isGames ? hoy === 0 : true);
-
                             let todayStyle = '';
                             if (isInactive) todayStyle = 'color:#ff5555';
                             else if (gameStatus === 'finished') todayStyle = 'color:white';
                             else if (gameStatus === 'playing') todayStyle = 'color:#ffaa00;font-weight:900;text-shadow:0 0 12px #ffaa00';
                             else todayStyle = 'color:#888';
+
+                            const isActiveGame = (gameStatus === 'playing' || gameStatus === 'not_started');
+                            const nearPoints = stat === 'pts' ? ['0','1','2','3'] : ['0','1'];
+                            const mustBlinkNormal = isActiveGame && nearPoints.includes(diff) && !isInactive;
+                            const isGamesStat = stat === 'g';
+                            const mustBlinkGames = isGamesStat && isActiveGame && hoy === 0 && nearPoints.includes(diff);
+                            const mustBlink = isGamesStat ? mustBlinkGames : mustBlinkNormal;
 
                             const tr = document.createElement('tr');
                             tr.innerHTML = `
@@ -204,8 +227,31 @@
                 });
         }
 
+        function updateNotificaciones() {
+            fetch('data.json?t=' + Date.now())
+                .then(r => r.json())
+                .then(data => {
+                    const container = document.getElementById('notificaciones');
+                    if (!container) return;
+                    const notis = data.notificaciones || [];
+                    if (notis.length === 0) {
+                        container.innerHTML = '<div style="text-align:center;color:#666;padding:30px 20px;font-size:0.95em;">No new movements yet</div>';
+                        return;
+                    }
+                    container.innerHTML = notis.slice(0, 30).reverse().map(noti => 
+                        `<div class="noti-item">${noti}</div>`
+                    ).join('');
+                })
+                .catch(() => {});
+        }
+
+        setInterval(() => {
+            if (document.getElementById('telegram').classList.contains('active')) updateNotificaciones();
+            if (document.getElementById('live').classList.contains('active')) updatePage();
+        }, 30000);
+
         updatePage();
-        setInterval(updatePage, 30000);
+        updateNotificaciones();
     </script>
 </body>
 </html>
