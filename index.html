@@ -24,8 +24,17 @@
 
         .container{max-width:900px;margin:0 auto;}
 
+        /* LATEST MOVES – 100% CON data.json */
+        .moves-area{height:88vh;background:#1e1e2e;border-radius:16px;overflow:hidden;box-shadow:0 12px 40px rgba(255,70,85,0.4);display:flex;flex-direction:column;}
+        .moves-header{background:#ff4655;color:white;padding:12px;text-align:center;font-family:Orbitron;font-size:1.3em;}
+        .moves-list{flex:1;overflow-y:auto;padding:15px;background:#0f0f1b;}
+        .move-item{background:rgba(30,30,46,0.8);border-radius:12px;margin:12px 0;padding:14px;display:flex;gap:15px;align-items:center;border-left:5px solid #ff4655;}
+        .move-item img{width:70px;height:70px;border-radius:50%;object-fit:cover;border:3px solid #ff4655;}
+        .move-text{flex:1;font-size:1.02em;line-height:1.5;}
+        .move-text strong{color:#ffaa00;}
+
         .filters{display:flex;gap:10px;margin:12px 0;justify-content:center;padding:4px 0;overflow-x:auto;}
-        .filter-btn{white-space:nowrap;padding:6px 11px;background:rgba(255,70,85,0.25);border:1px solid #ff4655;border-radius:6px;font-family:'Orbitron',sans-serif;font-size:0.86em;cursor:pointer;transition:0.3s;}
+        .filter-btn{white-space:nowrap;padding:6px…
         .filter-btn.active{background:#ff4655;box-shadow:0 0 10px #ff4655;font-weight:bold;}
 
         .card{background:rgba(20,20,40,0.97);border-radius:8px;overflow:hidden;margin:10px 0;box-shadow:0 4px 12px rgba(0,0,0,0.6);}
@@ -41,21 +50,13 @@
         .diff-blink{color:#ffaa00!important;font-weight:900;animation:blink 1.6s infinite;}
         @keyframes blink{0%,100%{opacity:1}50%{opacity:0.5}}
 
-        .telegram-web{height:88vh;background:#1e1e2e;border-radius:16px;overflow:hidden;box-shadow:0 12px 40px rgba(255,70,85,0.4);display:flex;flex-direction:column;}
-        .telegram-iframe{flex:1;background:#1e1e2e;}
-        .telegram-fallback{text-align:center;padding:30px;color:#ffaa00;font-size:1.1em;}
-        .telegram-fallback a{color:#ff4655;font-weight:bold;text-decoration:none;font-size:1.2em;}
-        .notis-section{background:#1e1e2e;border-top:2px solid #ff4655;padding:15px 0;}
-        .notis-title{text-align:center;color:#ffaa00;font-family:Orbitron;font-size:1.3em;margin:10px 0;}
-        .noti-item{background:rgba(255,70,85,0.1);border-left:4px solid #ff4655;padding:12px 15px;margin:8px 12px;border-radius:0 8px 8px 0;font-size:0.95em;line-height:1.45;}
-
         .leyenda{text-align:center;padding:10px;background:rgba(255,70,85,0.15);border:1px solid #ff4655;border-radius:8px;font-size:0.9em;margin:10px 0;}
     </style>
 </head>
 <body>
 
     <div class="topbar">
-        <img src="https://pbs.twimg.com/profile_images/1924671897083523072/z8xXyx-2_400x400.jpg" alt="Logo" class="logo-img">
+        <img src="logo.jpg" alt="Logo" class="logo-img">
         <div class="nbapp">NBApp</div>
     </div>
 
@@ -69,31 +70,13 @@
         <button class="tab-btn" onclick="openTab('live')">Live Rankings</button>
     </div>
 
-    <!-- TELEGRAM + NOTIFICACIONES (con fallback si falla el iframe) -->
+    <!-- LATEST MOVES – SIN IFRAME, 100% data.json -->
     <div id="telegram" class="tab-content active">
         <div class="container">
-            <div class="telegram-web">
-                <!-- iframe con truco que SÍ funciona en 2025 -->
-                <iframe class="telegram-iframe" 
-                        src="https://web.telegram.org/a/#@TopDataNBAlive" 
-                        style="border:none;width:100%;height:100%;"
-                        sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-top-navigation-by-user-activation"
-                        onload="this.style.background='#0f0f1b';"
-                        onerror="document.getElementById('telegram-fallback').style.display='block';this.style.display='none';">
-                </iframe>
-
-                <!-- Fallback por si el iframe falla -->
-                <div id="telegram-fallback" class="telegram-fallback" style="display:none;">
-                    <p>Telegram Web temporary unavailable</p>
-                    <a href="https://t.me/TopDataNBAlive" target="_blank">→ OPEN CHANNEL IN TELEGRAM</a>
-                </div>
-
-                <!-- NOTIFICACIONES -->
-                <div class="notis-section">
-                    <div style="max-height:500px;overflow-y:auto;padding:0 10px;">
-                        <div class="notis-title">Latest Movements</div>
-                        <div id="notificaciones"></div>
-                    </div>
+            <div class="moves-area">
+                <div class="moves-header">Latest Moves – LIVE</div>
+                <div class="moves-list">
+                    <div id="moves-list"></div>
                 </div>
             </div>
         </div>
@@ -125,7 +108,7 @@
             document.getElementById(tabName).classList.add('active');
             document.querySelector(`button[onclick="openTab('${tabName}')"]`).classList.add('active');
             if (tabName === 'live') updatePage();
-            if (tabName === 'telegram') updateNotificaciones();
+            if (tabName === 'telegram') updateMoves();
         }
 
         const statNames = {pts:"NBA All-Time Points",trb:"NBA All-Time Rebounds",ast:"NBA All-Time Assists",stl:"NBA All-Time Steals",blk:"NBA All-Time Blocks",fg3:"NBA All-Time Three-Pointers",g:"NBA All-Time Games Played"};
@@ -137,6 +120,7 @@
             return {cest, est};
         }
 
+        // FILTROS
         document.querySelectorAll('.filter-btn').forEach(btn => {
             btn.addEventListener('click', function() {
                 const filter = this.getAttribute('data-filter');
@@ -162,6 +146,7 @@
             };
         }
 
+        // LIVE RANKINGS
         function updatePage() {
             const {cest, est} = getTimes();
             document.getElementById('clock-line').textContent = `${est} ET • ${cest} CEST`;
@@ -227,31 +212,53 @@
                 });
         }
 
-        function updateNotificaciones() {
+        // LATEST MOVES CON FOTOS
+        function updateMoves() {
             fetch('data.json?t=' + Date.now())
                 .then(r => r.json())
                 .then(data => {
-                    const container = document.getElementById('notificaciones');
-                    if (!container) return;
-                    const notis = data.notificaciones || [];
-                    if (notis.length === 0) {
-                        container.innerHTML = '<div style="text-align:center;color:#666;padding:30px 20px;font-size:0.95em;">No new movements yet</div>';
-                        return;
-                    }
-                    container.innerHTML = notis.slice(0, 30).reverse().map(noti => 
-                        `<div class="noti-item">${noti}</div>`
-                    ).join('');
+                    const list = document.getElementById('moves-list');
+                    if (!list) return;
+                    const notis = (data.notificaciones || []).reverse();
+
+                    list.innerHTML = notis.map(noti => {
+                        const playerMatch = noti.match(/(LeBron James|Stephen Curry|Tobias Harris|Kevin Love|Al Horford|Harrison Barnes|Jayson Tatum|Luka Doncic|Draymond Green|Trae Young|De'Aaron Fox|Tyus Jones|Kentavious Caldwell-Pope|Marcus Smart|Bismack Biyombo|Kristaps Porzingis|Jaren Jackson Jr.|Jusuf Nurkic|Buddy Hield|Duncan Robinson|Lauri Markkanen|Jaylen Brown|Anfernee Simons|Derrick White|Kelly Olynyk|Luke Kennard|Michael Porter Jr.|Georges Niang|Desmond Bane)/);
+                        const playerName = playerMatch ? playerMatch[0] : null;
+                        const photoUrl = playerName ? `https://cdn.nba.com/headshots/nba/latest/1040x760/${getPlayerId(playerName)}.png` : 'logo.jpg';
+
+                        return `
+                        <div class="move-item">
+                            <img src="${photoUrl}" onerror="this.src='logo.jpg'">
+                            <div class="move-text">
+                                ${noti.replace(playerName || '', playerName ? `<strong>${playerName}</strong>` : '')}
+                            </div>
+                        </div>`;
+                    }).join('');
                 })
-                .catch(() => {});
+                .catch(() => { document.getElementById('moves-list').innerHTML = '<div style="text-align:center;color:#888;padding:50px;">Waiting for tonight\'s action...</div>'; });
         }
 
-        setInterval(() => {
-            if (document.getElementById('telegram').classList.contains('active')) updateNotificaciones();
-            if (document.getElementById('live').classList.contains('active')) updatePage();
-        }, 30000);
+        function getPlayerId(name) {
+            const ids = {
+                "LeBron James": 2544, "Stephen Curry": 201939, "Kevin Love": 201567, "Al Horford": 201143,
+                "Luka Doncic": 1629029, "Jayson Tatum": 1628369, "Draymond Green": 203110, "Trae Young": 1629027,
+                "De'Aaron Fox": 1628368, "Harrison Barnes": 203084, "Tobias Harris": 202699, "Kentavious Caldwell-Pope": 203484,
+                "Marcus Smart": 203935, "Kristaps Porzingis": 204001, "Jusuf Nurkic": 203994, "Buddy Hield": 1627741,
+                "Duncan Robinson": 1629130, "Jaylen Brown": 1627759, "Anfernee Simons": 1629014, "Derrick White": 1628401,
+                "Michael Porter Jr.": 1629008
+            };
+            return ids[name] || 0;
+        }
 
+        // ACTUALIZACIÓN AUTOMÁTICA
+        setInterval(() => {
+            if (document.getElementById('telegram').classList.contains('active')) updateMoves();
+            if (document.getElementById('live').classList.contains('active')) updatePage();
+        }, 25000);
+
+        // Primera carga
         updatePage();
-        updateNotificaciones();
+        updateMoves();
     </script>
 </body>
 </html>
