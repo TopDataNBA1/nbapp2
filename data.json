@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:26:35",
+  "ultima_actualizacion": "03:27:39",
   "tablas": {
     "pts": [
       {
@@ -127,9 +127,9 @@
         "Rank": 140,
         "Nombre": "CJ McCollum",
         "Antes": 15626,
-        "Hoy": 11,
-        "Total": 15637,
-        "Diff": "10",
+        "Hoy": 14,
+        "Total": 15640,
+        "Diff": "7",
         "Antece": "Antoine Walker",
         "Nota": "",
         "game_status": "playing"
@@ -316,9 +316,9 @@
         "Rank": 73,
         "Nombre": "Nikola Jokic",
         "Antes": 8315,
-        "Hoy": 6,
-        "Total": 8321,
-        "Diff": "88",
+        "Hoy": 7,
+        "Total": 8322,
+        "Diff": "87",
         "Antece": "P.J. Brown",
         "Nota": "",
         "game_status": "playing"
@@ -505,9 +505,9 @@
         "Rank": 75,
         "Nombre": "Kevin Durant",
         "Antes": 4949,
-        "Hoy": 0,
-        "Total": 4949,
-        "Diff": "51",
+        "Hoy": 1,
+        "Total": 4950,
+        "Diff": "50",
         "Antece": "5000",
         "Nota": "",
         "game_status": "playing"
@@ -518,7 +518,7 @@
         "Antes": 4918,
         "Hoy": 3,
         "Total": 4921,
-        "Diff": "28",
+        "Diff": "29",
         "Antece": "Kevin Durant",
         "Nota": "",
         "game_status": "playing"
@@ -1072,9 +1072,9 @@
         "Rank": 18,
         "Nombre": "CJ McCollum",
         "Antes": 2023,
-        "Hoy": 1,
-        "Total": 2024,
-        "Diff": "62",
+        "Hoy": 2,
+        "Total": 2025,
+        "Diff": "61",
         "Antece": "Eric Gordon",
         "Nota": "",
         "game_status": "playing"
@@ -1581,5 +1581,5 @@
   "notificaciones": [
     "CJ McCollum (11 points today) has passed Sam Cassell and is now ranked 140th all-time in career points with 15,637."
   ],
-  "cache_buster": 1763605595
+  "cache_buster": 1763605659
 }
