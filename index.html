@@ -27,15 +27,17 @@
         .moves-area{height:88vh;background:#1e1e2e;border-radius:16px;overflow:hidden;box-shadow:0 12px 40px rgba(255,70,85,0.4);display:flex;flex-direction:column;}
         .moves-list{flex:1;overflow-y:auto;padding:18px 12px;background:#0f0f1b;}
         .move-item{background:rgba(30,30,46,0.9);border-radius:14px;margin:14px 8px;padding:16px 14px;box-shadow:0 4px 12px rgba(0,0,0,0.5);}
-        .move-photos{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin:14px 0;}
-        .move-photos img{width:100%;height:auto;border-radius:12px;border:3px solid #ff4655;box-shadow:0 6px 20px rgba(255,70,85,0.5);}        .move-text{font-size:1.01em;line-height:1.52;color:#e0e0e0;text-align:center;}
+        .move-photos{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-bottom:12px;}
+        .move-photos img{width:78px;height:78px;border-radius:50%;object-fit:cover;border:4px solid #ff4655;box-shadow:0 0 15px rgba(255,70,85,0.6);}
+        .move-text{font-size:1.01em;line-height:1.52;color:#e0e0e0;text-align:center;}
         .move-text strong{color:#ffaa00;font-weight:700;}
-        .move-time{color:#888;font-size:0.9em;text-align:right;margin-top:8px;font-style:italic;}
-        
-        /* LIVE RANKINGS – 100% INTACTO */
+        .move-time{color:#888;font-size:0.89em;text-align:center;margin-top:10px;font-style:italic;}
+
+        /* LIVE RANKINGS – 100% COMO ANTES */
         .filters{display:flex;gap:10px;margin:12px 0;justify-content:center;padding:4px 0;overflow-x:auto;}
         .filter-btn{white-space:nowrap;padding:6px 11px;background:rgba(255,70,85,0.25);border:1px solid #ff4655;border-radius:6px;font-family:'Orbitron',sans-serif;font-size:0.86em;cursor:pointer;transition:0.3s;}
         .filter-btn.active{background:#ff4655;box-shadow:0 0 10px #ff4655;font-weight:bold;}
+
         .card{background:rgba(20,20,40,0.97);border-radius:8px;overflow:hidden;margin:10px 0;box-shadow:0 4px 12px rgba(0,0,0,0.6);}
         .card h2{margin:0;padding:8px;font-family:'Orbitron',sans-serif;font-size:1.15em;background:#ff4655;color:white;text-align:center;}
         table{width:100%;border-collapse:collapse;font-size:0.84em;}
@@ -68,7 +70,7 @@
         <button class="tab-btn" onclick="openTab('live')">Live Rankings</button>
     </div>
 
-    <!-- LATEST MOVES – TU VERSIÓN FAVORITA + 4 CAMBIOS -->
+    <!-- LATEST MOVES -->
     <div id="telegram" class="tab-content active">
         <div class="container">
             <div class="moves-area">
@@ -79,7 +81,7 @@
         </div>
     </div>
 
-    <!-- LIVE RANKINGS (sin tocar) -->
+    <!-- LIVE RANKINGS -->
     <div id="live" class="tab-content">
         <div class="container">
             <div class="leyenda">
@@ -93,6 +95,7 @@
                 <button class="filter-btn" data-filter="top25">Top 25</button>
                 <button class="filter-btn" data-filter="top100">Top 100</button>
                 <button class="filter-btn" data-filter="playing">Playing</button>
+                <button class="filter-btn" data-filter="almost">Almost</button>
             </div>
             <div id="tables"></div>
         </div>
@@ -108,51 +111,6 @@
             if (tabName === 'telegram') updateMoves();
         }
 
-        // TIEMPO RELATIVO
-        function timeAgo(date) {
-            const seconds = Math.floor((new Date() - new Date(date)) / 1000);
-            if (seconds < 60) return "now";
-            let interval = Math.floor(seconds / 60);
-            if (interval < 60) return interval + " minute" + (interval > 1 ? "s" : "") + " ago";
-            interval = Math.floor(seconds / 3600);
-            if (interval < 24) return interval + " hour" + (interval > 1 ? "s" : "") + " ago";
-            interval = Math.floor(seconds / 86400);
-            return interval + " day" + (interval > 1 ? "s" : "") + " ago";
-        }
-
-        // LATEST MOVES – CÍRCULOS + COLLAGE + TIEMPO
-        function updateMoves() {
-            fetch('data.json?t=' + Date.now())
-                .then(r => r.json())
-                .then(data => {
-                    const list = document.getElementById('moves-list');
-                    const notis = (data.notificaciones || []).reverse();
-
-                    list.innerHTML = notis.map(raw => {
-                        // Formato que envía tu script: "texto|url1,url2,url3|timestamp"
-                        const parts = raw.split('|');
-                        const text = parts[0] || raw;
-                        const urls = parts[1] ? parts[1].split(',').map(u => u.trim()) : [];
-                        const timestamp = parts[2] || new Date().toISOString();
-
-                        const photosHtml = urls.length > 0
-                            ? urls.map(url => `<img src="${url}" onerror="this.style.display='none'">`).join('')
-                            : `<img src="logo.jpg">`;
-
-                        return `
-                        <div class="move-item">
-                            <div class="move-photos">${photosHtml}</div>
-                            <div class="move-text">
-                                ${text.replace(/\b([A-Z][a-z]+(?: [A-Z][a-z]+)*)\b/g, '<strong>$1</strong>')}
-                            </div>
-                            <div class="move-time">${timeAgo(timestamp)}</div>
-                        </div>`;
-                    }).join('');
-                })
-                .catch(() => {});
-        }
-
-        // Resto del script (Live Rankings) 100% igual que tu versión buena
         const statNames = {pts:"NBA All-Time Points",trb:"NBA All-Time Rebounds",ast:"NBA All-Time Assists",stl:"NBA All-Time Steals",blk:"NBA All-Time Blocks",fg3:"NBA All-Time Three-Pointers",g:"NBA All-Time Games Played"};
 
         function getTimes() {
@@ -183,6 +141,7 @@
                 top25: document.querySelector('[data-filter="top25"]').classList.contains('active'),
                 top100: document.querySelector('[data-filter="top100"]').classList.contains('active'),
                 playing: document.querySelector('[data-filter="playing"]').classList.contains('active'),
+                almost: document.querySelector('[data-filter="almost"]').classList.contains('active'),
                 all: document.querySelector('[data-filter="all"]').classList.contains('active')
             };
         }
@@ -204,10 +163,28 @@
                         let filtered = tabla.filter(row => {
                             const rank = row.Rank;
                             const gameStatus = String(row.game_status || '').toLowerCase();
+                            const hoy = row.Hoy ?? 0;
+                            const diff = (row.Diff ?? '').toString().trim() || '0';
+
+                            // FILTROS EXISTENTES
                             if (filters.top25 && rank > 25) return false;
                             if (filters.top100 && !filters.top25 && rank > 100) return false;
                             if (filters.playing && gameStatus !== 'playing') return false;
-                            if (filters.all || (!filters.top25 && !filters.top100 && !filters.playing)) return true;
+
+                            // FILTRO "ALMOST" – CON EXCEPCIÓN PERFECTA PARA GAMES PLAYED
+                            if (filters.almost) {
+                                if (stat === 'g') {
+                                    // En Games Played: solo los que NO han jugado hoy (Hoy=0) y están a 0 o 1 del de arriba
+                                    if (hoy !== 0 || !['0','1'].includes(diff)) return false;
+                                } else {
+                                    // En el resto de stats: como antes (a 0-1-2-3 del de arriba y jugando o no empezado)
+                                    const isPlayingOrNotStarted = (gameStatus === 'playing' || gameStatus === 'not_started');
+                                    const near = (stat === 'pts') ? ['0','1','2','3'] : ['0','1'];
+                                    if (!isPlayingOrNotStarted || !near.includes(diff)) return false;
+                                }
+                            }
+
+                            if (filters.all || (!filters.top25 && !filters.top100 && !filters.playing && !filters.almost)) return true;
                             return true;
                         });
 
@@ -223,18 +200,18 @@
                             const gameStatus = String(row.game_status || '').toLowerCase();
                             const isInactive = hoy === -1;
 
+                            const isPoints = stat === 'pts';
+                            const isGames = stat === 'g';
+                            const near = isPoints ? ['0','1','2','3'] : ['0','1'];
+                            const mustBlinkNormal = (gameStatus === 'playing' || gameStatus === 'not_started') && near.includes(diff) && !isInactive;
+                            const mustBlinkGames = isGames && (gameStatus === 'playing' || gameStatus === 'not_started') && hoy === 0 && near.includes(diff);
+                            const mustBlink = isGames ? mustBlinkGames : mustBlinkNormal;
+
                             let todayStyle = '';
                             if (isInactive) todayStyle = 'color:#ff5555';
                             else if (gameStatus === 'finished') todayStyle = 'color:white';
                             else if (gameStatus === 'playing') todayStyle = 'color:#ffaa00;font-weight:900;text-shadow:0 0 12px #ffaa00';
                             else todayStyle = 'color:#888';
-
-                            const isActiveGame = (gameStatus === 'playing' || gameStatus === 'not_started');
-                            const nearPoints = stat === 'pts' ? ['0','1','2','3'] : ['0','1'];
-                            const mustBlinkNormal = isActiveGame && nearPoints.includes(diff) && !isInactive;
-                            const isGamesStat = stat === 'g';
-                            const mustBlinkGames = isGamesStat && isActiveGame && hoy === 0 && nearPoints.includes(diff);
-                            const mustBlink = isGamesStat ? mustBlinkGames : mustBlinkNormal;
 
                             const tr = document.createElement('tr');
                             tr.innerHTML = `
@@ -250,6 +227,44 @@
                         tablesDiv.appendChild(card);
                     }
                 });
+        }
+
+        // LATEST MOVES CON FOTOS
+        function updateMoves() {
+            fetch('data.json?t=' + Date.now())
+                .then(r => r.json())
+                .then(data => {
+                    const list = document.getElementById('moves-list');
+                    if (!list) return;
+                    const notis = (data.notificaciones || []).reverse();
+
+                    list.innerHTML = notis.map(noti => {
+                        const playerMatch = noti.match(/(LeBron James|Stephen Curry|Tobias Harris|Kevin Love|Al Horford|Harrison Barnes|Jayson Tatum|Luka Doncic|Draymond Green|Trae Young|De'Aaron Fox|Tyus Jones|Kentavious Caldwell-Pope|Marcus Smart|Bismack Biyombo|Kristaps Porzingis|Jaren Jackson Jr.|Jusuf Nurkic|Buddy Hield|Duncan Robinson|Lauri Markkanen|Jaylen Brown|Anfernee Simons|Derrick White|Kelly Olynyk|Luke Kennard|Michael Porter Jr.|Georges Niang|Desmond Bane)/);
+                        const playerName = playerMatch ? playerMatch[0] : null;
+                        const photoUrl = playerName ? `https://cdn.nba.com/headshots/nba/latest/1040x760/${getPlayerId(playerName)}.png` : 'logo.jpg';
+
+                        return `
+                        <div class="move-item">
+                            <img src="${photoUrl}" onerror="this.src='logo.jpg'">
+                            <div class="move-text">
+                                ${noti.replace(playerName || '', playerName ? `<strong>${playerName}</strong>` : '')}
+                            </div>
+                        </div>`;
+                    }).join('');
+                })
+                .catch(() => { document.getElementById('moves-list').innerHTML = '<div style="text-align:center;color:#888;padding:50px;">Waiting for tonight\'s action...</div>'; });
+        }
+
+        function getPlayerId(name) {
+            const ids = {
+                "LeBron James": 2544, "Stephen Curry": 201939, "Kevin Love": 201567, "Al Horford": 201143,
+                "Luka Doncic": 1629029, "Jayson Tatum": 1628369, "Draymond Green": 203110, "Trae Young": 1629027,
+                "De'Aaron Fox": 1628368, "Harrison Barnes": 203084, "Tobias Harris": 202699, "Kentavious Caldwell-Pope": 203484,
+                "Marcus Smart": 203935, "Kristaps Porzingis": 204001, "Jusuf Nurkic": 203994, "Buddy Hield": 1627741,
+                "Duncan Robinson": 1629130, "Jaylen Brown": 1627759, "Anfernee Simons": 1629014, "Derrick White": 1628401,
+                "Michael Porter Jr.": 1629008
+            };
+            return ids[name] || 0;
         }
 
         setInterval(() => {
