@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "01:15:27",
+  "ultima_actualizacion": "01:15:59",
   "tablas": {
     "pts": [
       {
@@ -107,9 +107,9 @@
         "Rank": 31,
         "Nombre": "Andre Drummond",
         "Antes": 11096,
-        "Hoy": 0,
-        "Total": 11096,
-        "Diff": "160",
+        "Hoy": 1,
+        "Total": 11097,
+        "Diff": "159",
         "Antece": "Dolph Schayes",
         "Nota": "",
         "game_status": "playing"
@@ -763,14 +763,14 @@
         "game_status": "playing"
       },
       {
-        "Rank": 247,
+        "Rank": 246,
         "Nombre": "Andre Drummond",
         "Antes": 916,
-        "Hoy": 0,
-        "Total": 916,
-        "Diff": "1",
-        "Antece": "Danny Ferry",
-        "Nota": "A tiro de 1",
+        "Hoy": 1,
+        "Total": 917,
+        "Diff": "2",
+        "Antece": "Serge Ibaka",
+        "Nota": "",
         "game_status": "playing"
       }
     ]
