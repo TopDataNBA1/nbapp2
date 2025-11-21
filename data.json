@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:29:31",
+    "ultima_actualizacion": "03:30:05",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 18,
                 "Nombre": "Russell Westbrook",
                 "Antes": 26406,
-                "Hoy": 6,
-                "Total": 26412,
-                "Diff": "84",
+                "Hoy": 9,
+                "Total": 26415,
+                "Diff": "81",
                 "Antece": "Tim Duncan",
                 "Nota": "",
                 "game_status": "playing"
@@ -162,9 +162,9 @@
                 "Rank": 62,
                 "Nombre": "Russell Westbrook",
                 "Antes": 8770,
-                "Hoy": 3,
-                "Total": 8773,
-                "Diff": "11",
+                "Hoy": 4,
+                "Total": 8774,
+                "Diff": "10",
                 "Antece": "Jonas Valanciunas",
                 "Nota": "",
                 "game_status": "playing"
@@ -296,9 +296,9 @@
                 "Rank": 76,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 4918,
-                "Hoy": 0,
-                "Total": 4918,
-                "Diff": "31",
+                "Hoy": 1,
+                "Total": 4919,
+                "Diff": "30",
                 "Antece": "Kevin Durant",
                 "Nota": "",
                 "game_status": "playing"
@@ -775,9 +775,9 @@
                 "Rank": 67,
                 "Nombre": "Russell Westbrook",
                 "Antes": 1397,
-                "Hoy": 1,
-                "Total": 1398,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 1399,
+                "Diff": "1",
                 "Antece": "1400",
                 "Nota": "",
                 "game_status": "playing"
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763692171
+    "cache_buster": 1763692205
 }
