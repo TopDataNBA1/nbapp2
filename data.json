@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:55:10",
+    "ultima_actualizacion": "03:55:44",
     "tablas": {
         "pts": [
             {
@@ -362,9 +362,9 @@
                 "Rank": 191,
                 "Nombre": "Paul George",
                 "Antes": 3372,
-                "Hoy": 2,
-                "Total": 3374,
-                "Diff": "20",
+                "Hoy": 3,
+                "Total": 3375,
+                "Diff": "19",
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
                 "game_status": "playing"
@@ -1100,5 +1100,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763693710
+    "cache_buster": 1763693744
 }
