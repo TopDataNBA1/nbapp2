@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:21:10",
+    "ultima_actualizacion": "03:21:44",
     "tablas": {
         "pts": [
             {
@@ -151,9 +151,9 @@
                 "Rank": 31,
                 "Nombre": "Andre Drummond",
                 "Antes": 11096,
-                "Hoy": 6,
-                "Total": 11102,
-                "Diff": "154",
+                "Hoy": 7,
+                "Total": 11103,
+                "Diff": "153",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
                 "game_status": "playing"
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763691670
+    "cache_buster": 1763691704
 }
