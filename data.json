@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "00:58:17",
+  "ultima_actualizacion": "01:05:08",
   "tablas": {
     "pts": [
       {
@@ -401,14 +401,6 @@
       }
     ]
   },
-  "notificaciones": [
-    "Coby White (3 three-pointers today) has passed Joe Dumars and is now ranked 172nd all-time in career three-pointers with 991.",
-    "Nikola Vucevic (3 three-pointers today) has passed Raymond Felton and is now ranked 203rd all-time in career three-pointers with 926.",
-    "D'Angelo Russell (6 assists today) has passed Latrell Sprewell and is now ranked 159th all-time in career assists with 3,665.",
-    "Coby White (4 three-pointers today) has passed Al Horford and Stephon Marbury and is now ranked 171st all-time in career three-pointers with 992.",
-    "Jerami Grant (4 three-pointers today) has passed Vladimir Radmanovic and is now ranked 188th all-time in career three-pointers with 972.",
-    "Karl-Anthony Towns (14 rebounds today) has passed Chet Walker and is now ranked 104th all-time in career rebounds with 7,315.",
-    "Daniel Gafford (1 block today) becomes the 230th player to reach 600 blocks"
-  ],
-  "cache_buster": 1763683097
+  "notificaciones": [],
+  "cache_buster": 1763683508
 }
