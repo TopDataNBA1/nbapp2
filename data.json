@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:15:38",
+    "ultima_actualizacion": "03:16:11",
     "tablas": {
         "pts": [
             {
@@ -252,9 +252,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12528,
-                "Hoy": 3,
-                "Total": 12531,
-                "Diff": "469",
+                "Hoy": 4,
+                "Total": 12532,
+                "Diff": "468",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763691338
+    "cache_buster": 1763691371
 }
