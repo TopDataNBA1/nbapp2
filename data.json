@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:06:34",
+    "ultima_actualizacion": "03:07:06",
     "tablas": {
         "pts": [
             {
@@ -896,11 +896,11 @@
                 "Rank": 191,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 964,
-                "Hoy": 1,
-                "Total": 965,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 966,
+                "Diff": "1",
                 "Antece": "Spencer Dinwiddie",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763690794
+    "cache_buster": 1763690826
 }
