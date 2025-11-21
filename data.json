@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:28:18",
+    "ultima_actualizacion": "02:28:49",
     "tablas": {
         "pts": [
             {
@@ -138,9 +138,9 @@
                 "Rank": 205,
                 "Nombre": "Zach LaVine",
                 "Antes": 13862,
-                "Hoy": 2,
-                "Total": 13864,
-                "Diff": "28",
+                "Hoy": 5,
+                "Total": 13867,
+                "Diff": "25",
                 "Antece": "Marques Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -329,9 +329,9 @@
                 "Rank": 117,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4180,
-                "Hoy": 0,
-                "Total": 4180,
-                "Diff": "12",
+                "Hoy": 1,
+                "Total": 4181,
+                "Diff": "11",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
                 "game_status": "playing"
@@ -742,9 +742,9 @@
                 "Rank": 47,
                 "Nombre": "Zach LaVine",
                 "Antes": 1571,
-                "Hoy": 0,
-                "Total": 1571,
-                "Diff": "6",
+                "Hoy": 1,
+                "Total": 1572,
+                "Diff": "5",
                 "Antece": "Danny Green",
                 "Nota": "",
                 "game_status": "playing"
@@ -1095,5 +1095,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763688498
+    "cache_buster": 1763688529
 }
