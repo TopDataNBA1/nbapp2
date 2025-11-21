@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:36:12",
+    "ultima_actualizacion": "02:36:43",
     "tablas": {
         "pts": [
             {
@@ -329,9 +329,9 @@
                 "Rank": 117,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4180,
-                "Hoy": 1,
-                "Total": 4181,
-                "Diff": "11",
+                "Hoy": 2,
+                "Total": 4182,
+                "Diff": "10",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
                 "game_status": "playing"
@@ -430,9 +430,9 @@
                 "Rank": 23,
                 "Nombre": "James Harden",
                 "Antes": 1727,
-                "Hoy": 1,
-                "Total": 1728,
-                "Diff": "24",
+                "Hoy": 2,
+                "Total": 1729,
+                "Diff": "23",
                 "Antece": "Paul Pierce",
                 "Nota": "",
                 "game_status": "playing"
@@ -940,9 +940,9 @@
                 "Rank": 211,
                 "Nombre": "Gary Harris",
                 "Antes": 915,
-                "Hoy": 0,
-                "Total": 915,
-                "Diff": "5",
+                "Hoy": 1,
+                "Total": 916,
+                "Diff": "4",
                 "Antece": "Jose Calderon",
                 "Nota": "",
                 "game_status": "playing"
@@ -1095,5 +1095,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763688972
+    "cache_buster": 1763689003
 }
