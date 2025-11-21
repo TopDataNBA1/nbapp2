@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:39:49",
+    "ultima_actualizacion": "02:40:20",
     "tablas": {
         "pts": [
             {
@@ -228,9 +228,9 @@
                 "Rank": 219,
                 "Nombre": "Paul George",
                 "Antes": 5691,
-                "Hoy": 2,
-                "Total": 5693,
-                "Diff": "14",
+                "Hoy": 3,
+                "Total": 5694,
+                "Diff": "13",
                 "Antece": "Dan Issel",
                 "Nota": "",
                 "game_status": "playing"
@@ -1098,5 +1098,5 @@
         "James Harden (5 rebounds today) has passed Magic Johnson and is now ranked 155th all-time in career rebounds with 6,560.",
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924."
     ],
-    "cache_buster": 1763689189
+    "cache_buster": 1763689220
 }
