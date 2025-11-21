@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:38:16",
+    "ultima_actualizacion": "02:38:47",
     "tablas": {
         "pts": [
             {
@@ -203,14 +203,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 156,
+                "Rank": 155,
                 "Nombre": "James Harden",
                 "Antes": 6555,
-                "Hoy": 3,
-                "Total": 6558,
-                "Diff": "1",
-                "Antece": "Magic Johnson",
-                "Nota": "A tiro de 1",
+                "Hoy": 4,
+                "Total": 6559,
+                "Diff": "16",
+                "Antece": "Joe Smith",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -373,9 +373,9 @@
                 "Rank": 199,
                 "Nombre": "De'Aaron Fox",
                 "Antes": 3299,
-                "Hoy": 1,
-                "Total": 3300,
-                "Diff": "13",
+                "Hoy": 2,
+                "Total": 3301,
+                "Diff": "12",
                 "Antece": "Bimbo Coles",
                 "Nota": "",
                 "game_status": "playing"
@@ -1095,5 +1095,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763689096
+    "cache_buster": 1763689127
 }
