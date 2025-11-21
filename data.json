@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:42:24",
+    "ultima_actualizacion": "02:42:55",
     "tablas": {
         "pts": [
             {
@@ -206,9 +206,9 @@
                 "Rank": 155,
                 "Nombre": "James Harden",
                 "Antes": 6555,
-                "Hoy": 5,
-                "Total": 6560,
-                "Diff": "15",
+                "Hoy": 6,
+                "Total": 6561,
+                "Diff": "14",
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -1098,5 +1098,5 @@
         "James Harden (5 rebounds today) has passed Magic Johnson and is now ranked 155th all-time in career rebounds with 6,560.",
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924."
     ],
-    "cache_buster": 1763689344
+    "cache_buster": 1763689375
 }
