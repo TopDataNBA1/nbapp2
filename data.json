@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:45:09",
+    "ultima_actualizacion": "03:45:42",
     "tablas": {
         "pts": [
             {
@@ -162,9 +162,9 @@
                 "Rank": 62,
                 "Nombre": "Russell Westbrook",
                 "Antes": 8770,
-                "Hoy": 5,
-                "Total": 8775,
-                "Diff": "9",
+                "Hoy": 6,
+                "Total": 8776,
+                "Diff": "8",
                 "Antece": "Jonas Valanciunas",
                 "Nota": "",
                 "game_status": "playing"
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763693109
+    "cache_buster": 1763693142
 }
