@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:36:43",
+    "ultima_actualizacion": "02:37:14",
     "tablas": {
         "pts": [
             {
@@ -597,11 +597,11 @@
                 "Rank": 120,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 923,
-                "Hoy": 0,
-                "Total": 923,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 924,
+                "Diff": "1",
                 "Antece": "Antoine Carr",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1095,5 +1095,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763689003
+    "cache_buster": 1763689034
 }
