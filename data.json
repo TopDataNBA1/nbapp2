@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:38:08",
+    "ultima_actualizacion": "04:38:41",
     "tablas": {
         "pts": [
             {
@@ -55,7 +55,7 @@
                 "Diff": "57",
                 "Antece": "21000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 72,
@@ -66,7 +66,7 @@
                 "Diff": "60",
                 "Antece": "Bob McAdoo",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 92,
@@ -99,7 +99,7 @@
                 "Diff": "42",
                 "Antece": "Joe Dumars",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 162,
@@ -121,7 +121,7 @@
                 "Diff": "13",
                 "Antece": "Eddie Jones",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 198,
@@ -156,7 +156,7 @@
                 "Diff": "152",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 62,
@@ -178,7 +178,7 @@
                 "Diff": "38",
                 "Antece": "Leroy Ellis",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 121,
@@ -233,7 +233,7 @@
                 "Diff": "11",
                 "Antece": "Dan Issel",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 236,
@@ -290,7 +290,7 @@
                 "Diff": "60",
                 "Antece": "Terry Porter",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 76,
@@ -323,7 +323,7 @@
                 "Diff": "25",
                 "Antece": "Calvin Murphy",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 117,
@@ -367,7 +367,7 @@
                 "Diff": "19",
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 199,
@@ -446,7 +446,7 @@
                 "Diff": "3",
                 "Antece": "Nate McMillan",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 55,
@@ -457,7 +457,7 @@
                 "Diff": "5",
                 "Antece": "Reggie Miller",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 83,
@@ -490,7 +490,7 @@
                 "Diff": "1",
                 "Antece": "Raymond Felton",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 152,
@@ -523,7 +523,7 @@
                 "Diff": "1",
                 "Antece": "Stacey Augmon",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 246,
@@ -558,7 +558,7 @@
                 "Diff": "18",
                 "Antece": "Hot Rod Williams",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 70,
@@ -569,7 +569,7 @@
                 "Diff": "1",
                 "Antece": "Sam Lacey",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 84,
@@ -591,7 +591,7 @@
                 "Diff": "7",
                 "Antece": "Thurl Bailey",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 120,
@@ -624,7 +624,7 @@
                 "Diff": "2",
                 "Antece": "Rich Kelley",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 188,
@@ -681,7 +681,7 @@
                 "Diff": "46",
                 "Antece": "2400",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 14,
@@ -692,7 +692,7 @@
                 "Diff": "7",
                 "Antece": "Kevin Durant",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 17,
@@ -703,7 +703,7 @@
                 "Diff": "14",
                 "Antece": "2100",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 27,
@@ -846,7 +846,7 @@
                 "Diff": "1",
                 "Antece": "Allen Iverson",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 150,
@@ -857,7 +857,7 @@
                 "Diff": "3",
                 "Antece": "Nick Anderson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 167,
@@ -868,7 +868,7 @@
                 "Diff": "1",
                 "Antece": "Danny Granger",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 169,
@@ -879,7 +879,7 @@
                 "Diff": "2",
                 "Antece": "Danny Ainge",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 177,
@@ -945,7 +945,7 @@
                 "Diff": "4",
                 "Antece": "Jose Calderon",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 242,
@@ -1013,7 +1013,7 @@
                 "Diff": "4",
                 "Antece": "Scottie Pippen",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 62,
@@ -1068,7 +1068,7 @@
                 "Diff": "1",
                 "Antece": "Tom Van Arsdale",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 232,
@@ -1090,7 +1090,7 @@
                 "Diff": "2",
                 "Antece": "Serge Ibaka",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ]
     },
@@ -1100,5 +1100,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763696288
+    "cache_buster": 1763696321
 }
