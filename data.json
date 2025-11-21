@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:43:26",
+    "ultima_actualizacion": "02:43:56",
     "tablas": {
         "pts": [
             {
@@ -794,14 +794,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 94,
+                "Rank": 92,
                 "Nombre": "Bogdan Bogdanovic",
                 "Antes": 1247,
-                "Hoy": 0,
-                "Total": 1247,
-                "Diff": "1",
-                "Antece": "Duncan Robinson",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 1248,
+                "Diff": "2",
+                "Antece": "Shane Battier",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1098,5 +1098,5 @@
         "James Harden (5 rebounds today) has passed Magic Johnson and is now ranked 155th all-time in career rebounds with 6,560.",
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924."
     ],
-    "cache_buster": 1763689406
+    "cache_buster": 1763689436
 }
