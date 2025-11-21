@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:32:58",
+    "ultima_actualizacion": "02:33:29",
     "tablas": {
         "pts": [
             {
@@ -203,14 +203,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 155,
+                "Rank": 156,
                 "Nombre": "James Harden",
                 "Antes": 6555,
-                "Hoy": 4,
-                "Total": 6559,
-                "Diff": "16",
-                "Antece": "Joe Smith",
-                "Nota": "",
+                "Hoy": 3,
+                "Total": 6558,
+                "Diff": "1",
+                "Antece": "Magic Johnson",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1095,5 +1095,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763688778
+    "cache_buster": 1763688809
 }
