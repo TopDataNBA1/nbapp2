@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "02:51:40",
+    "ultima_actualizacion": "02:52:11",
     "tablas": {
         "pts": [
             {
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Antes": 28027,
-                "Hoy": 29,
-                "Total": 28056,
-                "Diff": "233",
+                "Hoy": 31,
+                "Total": 28058,
+                "Diff": "231",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763689900
+    "cache_buster": 1763689931
 }
