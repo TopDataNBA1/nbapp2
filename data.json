@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:09:39",
+    "ultima_actualizacion": "04:10:12",
     "tablas": {
         "pts": [
             {
@@ -597,11 +597,11 @@
                 "Rank": 120,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 923,
-                "Hoy": 1,
-                "Total": 924,
-                "Diff": "1",
+                "Hoy": 2,
+                "Total": 925,
+                "Diff": "",
                 "Antece": "Antoine Carr",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1100,5 +1100,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763694579
+    "cache_buster": 1763694612
 }
