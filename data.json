@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:16:54",
+    "ultima_actualizacion": "04:17:28",
     "tablas": {
         "pts": [
             {
@@ -22,7 +22,7 @@
                 "Diff": "79",
                 "Antece": "Tim Duncan",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 25,
@@ -33,7 +33,7 @@
                 "Diff": "51",
                 "Antece": "Alex English",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 36,
@@ -143,7 +143,7 @@
                 "Diff": "4",
                 "Antece": "Marques Johnson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "trb": [
@@ -167,7 +167,7 @@
                 "Diff": "7",
                 "Antece": "Jonas Valanciunas",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 66,
@@ -189,7 +189,7 @@
                 "Diff": "8",
                 "Antece": "Detlef Schrempf",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 133,
@@ -268,7 +268,7 @@
                 "Diff": "122",
                 "Antece": "Magic Johnson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 13,
@@ -301,7 +301,7 @@
                 "Diff": "29",
                 "Antece": "Kevin Durant",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 81,
@@ -334,7 +334,7 @@
                 "Diff": "6",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 170,
@@ -389,7 +389,7 @@
                 "Diff": "9",
                 "Antece": "Vinnie Johnson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 234,
@@ -424,7 +424,7 @@
                 "Diff": "14",
                 "Antece": "Allen Iverson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 23,
@@ -479,7 +479,7 @@
                 "Diff": "7",
                 "Antece": "Draymond Green",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 120,
@@ -501,7 +501,7 @@
                 "Diff": "1",
                 "Antece": "Joe Johnson",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 168,
@@ -613,7 +613,7 @@
                 "Diff": "2",
                 "Antece": "Vin Baker",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 175,
@@ -747,7 +747,7 @@
                 "Diff": "2",
                 "Antece": "Danny Green",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 49,
@@ -758,7 +758,7 @@
                 "Diff": "12",
                 "Antece": "Glen Rice",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 58,
@@ -780,7 +780,7 @@
                 "Diff": "1",
                 "Antece": "1400",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 84,
@@ -835,7 +835,7 @@
                 "Diff": "3",
                 "Antece": "Cuttino Mobley",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 148,
@@ -890,7 +890,7 @@
                 "Diff": "2",
                 "Antece": "Leandro Barbosa",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 191,
@@ -912,7 +912,7 @@
                 "Diff": "2",
                 "Antece": "Tim Thomas",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 204,
@@ -991,7 +991,7 @@
                 "Diff": "2",
                 "Antece": "Tony Parker",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 48,
@@ -1002,7 +1002,7 @@
                 "Diff": "5",
                 "Antece": "Shaquille O'Neal",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 58,
@@ -1079,7 +1079,7 @@
                 "Diff": "",
                 "Antece": "John Lucas",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 246,
@@ -1100,5 +1100,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763695014
+    "cache_buster": 1763695048
 }
