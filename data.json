@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:02:19",
+    "ultima_actualizacion": "03:02:51",
     "tablas": {
         "pts": [
             {
@@ -138,9 +138,9 @@
                 "Rank": 205,
                 "Nombre": "Zach LaVine",
                 "Antes": 13862,
-                "Hoy": 13,
-                "Total": 13875,
-                "Diff": "17",
+                "Hoy": 14,
+                "Total": 13876,
+                "Diff": "16",
                 "Antece": "Marques Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -329,9 +329,9 @@
                 "Rank": 117,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4180,
-                "Hoy": 3,
-                "Total": 4183,
-                "Diff": "9",
+                "Hoy": 4,
+                "Total": 4184,
+                "Diff": "8",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
                 "game_status": "playing"
@@ -408,9 +408,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 2726,
-                "Hoy": 1,
-                "Total": 2727,
-                "Diff": "73",
+                "Hoy": 2,
+                "Total": 2728,
+                "Diff": "72",
                 "Antece": "2800",
                 "Nota": "",
                 "game_status": "playing"
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763690539
+    "cache_buster": 1763690571
 }
