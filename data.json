@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:02:51",
+    "ultima_actualizacion": "03:03:22",
     "tablas": {
         "pts": [
             {
@@ -408,9 +408,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 2726,
-                "Hoy": 2,
-                "Total": 2728,
-                "Diff": "72",
+                "Hoy": 1,
+                "Total": 2727,
+                "Diff": "73",
                 "Antece": "2800",
                 "Nota": "",
                 "game_status": "playing"
@@ -959,14 +959,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 245,
+                "Rank": 244,
                 "Nombre": "De'Aaron Fox",
                 "Antes": 830,
-                "Hoy": 1,
-                "Total": 831,
-                "Diff": "1",
-                "Antece": "Devin Harris",
-                "Nota": "A tiro de 1",
+                "Hoy": 2,
+                "Total": 832,
+                "Diff": "6",
+                "Antece": "Nikola Jokic",
+                "Nota": "",
                 "game_status": "playing"
             }
         ],
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763690571
+    "cache_buster": 1763690602
 }
