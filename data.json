@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:41:22",
+    "ultima_actualizacion": "02:41:53",
     "tablas": {
         "pts": [
             {
@@ -373,9 +373,9 @@
                 "Rank": 199,
                 "Nombre": "De'Aaron Fox",
                 "Antes": 3299,
-                "Hoy": 3,
-                "Total": 3302,
-                "Diff": "11",
+                "Hoy": 4,
+                "Total": 3303,
+                "Diff": "10",
                 "Antece": "Bimbo Coles",
                 "Nota": "",
                 "game_status": "playing"
@@ -1098,5 +1098,5 @@
         "James Harden (5 rebounds today) has passed Magic Johnson and is now ranked 155th all-time in career rebounds with 6,560.",
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924."
     ],
-    "cache_buster": 1763689282
+    "cache_buster": 1763689313
 }
