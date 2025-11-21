@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:41:53",
+    "ultima_actualizacion": "02:42:24",
     "tablas": {
         "pts": [
             {
@@ -373,9 +373,9 @@
                 "Rank": 199,
                 "Nombre": "De'Aaron Fox",
                 "Antes": 3299,
-                "Hoy": 4,
-                "Total": 3303,
-                "Diff": "10",
+                "Hoy": 5,
+                "Total": 3304,
+                "Diff": "9",
                 "Antece": "Bimbo Coles",
                 "Nota": "",
                 "game_status": "playing"
@@ -849,14 +849,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 151,
+                "Rank": 150,
                 "Nombre": "Gary Trent Jr.",
                 "Antes": 1049,
-                "Hoy": 0,
-                "Total": 1049,
-                "Diff": "",
-                "Antece": "Channing Frye",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 1050,
+                "Diff": "5",
+                "Antece": "Nick Anderson",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1098,5 +1098,5 @@
         "James Harden (5 rebounds today) has passed Magic Johnson and is now ranked 155th all-time in career rebounds with 6,560.",
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924."
     ],
-    "cache_buster": 1763689313
+    "cache_buster": 1763689344
 }
