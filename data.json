@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:37:53",
+    "ultima_actualizacion": "03:38:27",
     "tablas": {
         "pts": [
             {
@@ -138,9 +138,9 @@
                 "Rank": 205,
                 "Nombre": "Zach LaVine",
                 "Antes": 13862,
-                "Hoy": 22,
-                "Total": 13884,
-                "Diff": "8",
+                "Hoy": 25,
+                "Total": 13887,
+                "Diff": "5",
                 "Antece": "Marques Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -742,11 +742,11 @@
                 "Rank": 47,
                 "Nombre": "Zach LaVine",
                 "Antes": 1571,
-                "Hoy": 4,
-                "Total": 1575,
-                "Diff": "2",
+                "Hoy": 5,
+                "Total": 1576,
+                "Diff": "1",
                 "Antece": "Danny Green",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763692673
+    "cache_buster": 1763692707
 }
