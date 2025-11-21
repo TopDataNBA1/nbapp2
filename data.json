@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:17:50",
+    "ultima_actualizacion": "03:18:24",
     "tablas": {
         "pts": [
             {
@@ -852,9 +852,9 @@
                 "Rank": 150,
                 "Nombre": "Gary Trent Jr.",
                 "Antes": 1049,
-                "Hoy": 2,
-                "Total": 1051,
-                "Diff": "4",
+                "Hoy": 3,
+                "Total": 1052,
+                "Diff": "3",
                 "Antece": "Nick Anderson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763691470
+    "cache_buster": 1763691504
 }
