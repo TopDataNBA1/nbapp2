@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:30:54",
+    "ultima_actualizacion": "02:31:25",
     "tablas": {
         "pts": [
             {
@@ -274,9 +274,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Antes": 8429,
-                "Hoy": 6,
-                "Total": 8435,
-                "Diff": "89",
+                "Hoy": 7,
+                "Total": 8436,
+                "Diff": "88",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -951,9 +951,9 @@
                 "Rank": 243,
                 "Nombre": "Desmond Bane",
                 "Antes": 835,
-                "Hoy": 0,
-                "Total": 835,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 836,
+                "Diff": "2",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1095,5 +1095,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763688654
+    "cache_buster": 1763688685
 }
