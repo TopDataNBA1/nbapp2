@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:54:37",
+    "ultima_actualizacion": "03:55:10",
     "tablas": {
         "pts": [
             {
@@ -329,9 +329,9 @@
                 "Rank": 117,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4180,
-                "Hoy": 5,
-                "Total": 4185,
-                "Diff": "7",
+                "Hoy": 6,
+                "Total": 4186,
+                "Diff": "6",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
                 "game_status": "playing"
@@ -1100,5 +1100,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763693677
+    "cache_buster": 1763693710
 }
