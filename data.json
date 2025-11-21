@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:52:23",
+    "ultima_actualizacion": "03:52:57",
     "tablas": {
         "pts": [
             {
@@ -127,10 +127,10 @@
                 "Rank": 198,
                 "Nombre": "Harrison Barnes",
                 "Antes": 13987,
-                "Hoy": 12,
-                "Total": 13999,
-                "Diff": "1",
-                "Antece": "14000",
+                "Hoy": 13,
+                "Total": 14000,
+                "Diff": "18",
+                "Antece": "Fred Brown",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -1097,7 +1097,8 @@
     "notificaciones": [
         "James Harden (5 rebounds today) has passed Magic Johnson and is now ranked 155th all-time in career rebounds with 6,560.",
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
-        "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
+        "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
+        "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763693543
+    "cache_buster": 1763693577
 }
