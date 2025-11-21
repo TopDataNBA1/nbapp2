@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:38:47",
+    "ultima_actualizacion": "02:39:18",
     "tablas": {
         "pts": [
             {
@@ -206,9 +206,9 @@
                 "Rank": 155,
                 "Nombre": "James Harden",
                 "Antes": 6555,
-                "Hoy": 4,
-                "Total": 6559,
-                "Diff": "16",
+                "Hoy": 5,
+                "Total": 6560,
+                "Diff": "15",
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -329,9 +329,9 @@
                 "Rank": 117,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4180,
-                "Hoy": 2,
-                "Total": 4182,
-                "Diff": "10",
+                "Hoy": 3,
+                "Total": 4183,
+                "Diff": "9",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
                 "game_status": "playing"
@@ -1094,6 +1094,8 @@
             }
         ]
     },
-    "notificaciones": [],
-    "cache_buster": 1763689127
+    "notificaciones": [
+        "James Harden (5 rebounds today) has passed Magic Johnson and is now ranked 155th all-time in career rebounds with 6,560."
+    ],
+    "cache_buster": 1763689158
 }
