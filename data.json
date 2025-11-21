@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:33:38",
+    "ultima_actualizacion": "02:34:09",
     "tablas": {
         "pts": [
             {
@@ -138,9 +138,9 @@
                 "Rank": 205,
                 "Nombre": "Zach LaVine",
                 "Antes": 13862,
-                "Hoy": 8,
-                "Total": 13870,
-                "Diff": "22",
+                "Hoy": 10,
+                "Total": 13872,
+                "Diff": "20",
                 "Antece": "Marques Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -915,7 +915,18 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 206,
+                "Rank": 205,
+                "Nombre": "Luke Kennard",
+                "Antes": 922,
+                "Hoy": 1,
+                "Total": 923,
+                "Diff": "",
+                "Antece": "Darrell Armstrong",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 207,
                 "Nombre": "Kelly Olynyk",
                 "Antes": 922,
                 "Hoy": 0,
@@ -923,17 +934,6 @@
                 "Diff": "1",
                 "Antece": "Nikola Vucevic",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 207,
-                "Nombre": "Luke Kennard",
-                "Antes": 922,
-                "Hoy": 0,
-                "Total": 922,
-                "Diff": "",
-                "Antece": "Kelly Olynyk",
-                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1095,5 +1095,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763688818
+    "cache_buster": 1763688849
 }
