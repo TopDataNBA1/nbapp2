@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:53:43",
+    "ultima_actualizacion": "02:56:21",
     "tablas": {
         "pts": [
             {
@@ -926,14 +926,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 207,
+                "Rank": 206,
                 "Nombre": "Kelly Olynyk",
                 "Antes": 922,
-                "Hoy": 0,
-                "Total": 922,
-                "Diff": "1",
-                "Antece": "Nikola Vucevic",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 923,
+                "Diff": "",
+                "Antece": "Darrell Armstrong",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -951,11 +951,11 @@
                 "Rank": 243,
                 "Nombre": "Desmond Bane",
                 "Antes": 835,
-                "Hoy": 1,
-                "Total": 836,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 837,
+                "Diff": "1",
                 "Antece": "Nikola Jokic",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1099,5 +1099,5 @@
         "Luke Kennard (2 three-pointers today) has passed Darrell Armstrong and Nikola Vucevic and is now ranked 204th all-time in career three-pointers with 924.",
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249."
     ],
-    "cache_buster": 1763690023
+    "cache_buster": 1763690181
 }
