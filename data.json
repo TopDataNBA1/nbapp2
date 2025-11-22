@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:36:13",
+    "ultima_actualizacion": "03:36:47",
     "tablas": {
         "pts": [
             {
@@ -124,14 +124,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 139,
+                "Rank": 138,
                 "Nombre": "CJ McCollum",
                 "Antes": 15640,
-                "Hoy": 18,
-                "Total": 15658,
-                "Diff": "1",
-                "Antece": "Jeff Hornacek",
-                "Nota": "A tiro de 1",
+                "Hoy": 20,
+                "Total": 15660,
+                "Diff": "25",
+                "Antece": "Tobias Harris",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1486,7 +1486,8 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897.",
-        "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605."
+        "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
+        "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660."
     ],
-    "cache_buster": 1763778973
+    "cache_buster": 1763779007
 }
