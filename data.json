@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:12:57",
+    "ultima_actualizacion": "03:13:31",
     "tablas": {
         "pts": [
             {
@@ -149,9 +149,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 26,
-                "Total": 13769,
-                "Diff": "15",
+                "Hoy": 29,
+                "Total": 13772,
+                "Diff": "12",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -351,9 +351,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3625,
-                "Hoy": 0,
-                "Total": 3625,
-                "Diff": "23",
+                "Hoy": 1,
+                "Total": 3626,
+                "Diff": "22",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -698,9 +698,9 @@
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1673,
-                "Hoy": 2,
-                "Total": 1675,
-                "Diff": "5",
+                "Hoy": 3,
+                "Total": 1676,
+                "Diff": "4",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "playing"
@@ -918,11 +918,11 @@
                 "Rank": 186,
                 "Nombre": "Royce O'Neale",
                 "Antes": 974,
-                "Hoy": 0,
-                "Total": 974,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 975,
+                "Diff": "",
                 "Antece": "Alec Burks",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1112,5 +1112,5 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763777577
+    "cache_buster": 1763777611
 }
