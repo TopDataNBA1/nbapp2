@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:02:07",
+    "ultima_actualizacion": "03:02:42",
     "tablas": {
         "pts": [
             {
@@ -151,9 +151,9 @@
                 "Rank": 41,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 10308,
-                "Hoy": 1,
-                "Total": 10309,
-                "Diff": "61",
+                "Hoy": 2,
+                "Total": 10310,
+                "Diff": "60",
                 "Antece": "Otis Thorpe",
                 "Nota": "",
                 "game_status": "playing"
@@ -804,5 +804,5 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763776927
+    "cache_buster": 1763776962
 }
