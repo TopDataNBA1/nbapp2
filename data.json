@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:35:25",
+    "ultima_actualizacion": "04:36:00",
     "tablas": {
         "pts": [
             {
@@ -491,13 +491,13 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 163,
+                "Rank": 162,
                 "Nombre": "Al Horford",
                 "Antes": 3648,
-                "Hoy": 1,
-                "Total": 3649,
+                "Hoy": 2,
+                "Total": 3650,
                 "Diff": "1",
-                "Antece": "Elgin Baylor",
+                "Antece": "Dirk Nowitzki",
                 "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
@@ -507,8 +507,8 @@
                 "Antes": 3625,
                 "Hoy": 8,
                 "Total": 3633,
-                "Diff": "16",
-                "Antece": "Al Horford",
+                "Diff": "17",
+                "Antece": "Elgin Baylor",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -1494,5 +1494,5 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763782525
+    "cache_buster": 1763782560
 }
