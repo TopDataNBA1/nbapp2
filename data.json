@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:23:49",
+    "ultima_actualizacion": "01:24:25",
     "tablas": {
         "pts": [
             {
@@ -236,11 +236,11 @@
                 "Rank": 216,
                 "Nombre": "Darius Garland",
                 "Antes": 904,
-                "Hoy": 0,
-                "Total": 904,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 905,
+                "Diff": "1",
                 "Antece": "Grayson Allen",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -396,5 +396,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763771029
+    "cache_buster": 1763771065
 }
