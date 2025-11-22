@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:42:45",
+    "ultima_actualizacion": "01:43:20",
     "tablas": {
         "pts": [
             {
@@ -22,7 +22,7 @@
                 "Diff": "7",
                 "Antece": "Antoine Walker",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 183,
@@ -66,7 +66,7 @@
                 "Diff": "4",
                 "Antece": "Jeff Mullins",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "trb": [
@@ -114,7 +114,7 @@
                 "Diff": "2",
                 "Antece": "Clifford Robinson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 233,
@@ -125,7 +125,7 @@
                 "Diff": "3",
                 "Antece": "Blake Griffin",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 249,
@@ -149,7 +149,7 @@
                 "Diff": "",
                 "Antece": "John Long",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "blk": [
@@ -173,7 +173,7 @@
                 "Diff": "4",
                 "Antece": "Duane Causwell",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 184,
@@ -208,7 +208,7 @@
                 "Diff": "61",
                 "Antece": "Eric Gordon",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 39,
@@ -241,7 +241,7 @@
                 "Diff": "2",
                 "Antece": "Jordan Clarkson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 73,
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763772165
+    "cache_buster": 1763772200
 }
