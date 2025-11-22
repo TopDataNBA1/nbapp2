@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:50:17",
+    "ultima_actualizacion": "03:50:51",
     "tablas": {
         "pts": [
             {
@@ -305,9 +305,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8326,
-                "Hoy": 3,
-                "Total": 8329,
-                "Diff": "80",
+                "Hoy": 4,
+                "Total": 8330,
+                "Diff": "79",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -349,9 +349,9 @@
                 "Rank": 174,
                 "Nombre": "Steven Adams",
                 "Antes": 6229,
-                "Hoy": 0,
-                "Total": 6229,
-                "Diff": "10",
+                "Hoy": 1,
+                "Total": 6230,
+                "Diff": "9",
                 "Antece": "Shareef Abdur-Rahim",
                 "Nota": "",
                 "game_status": "playing"
@@ -1490,5 +1490,5 @@
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660.",
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
     ],
-    "cache_buster": 1763779817
+    "cache_buster": 1763779851
 }
