@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:43:34",
+    "ultima_actualizacion": "05:44:09",
     "tablas": {
         "pts": [
             {
@@ -261,9 +261,9 @@
                 "Rank": 49,
                 "Nombre": "Kevin Love",
                 "Antes": 9531,
-                "Hoy": 0,
-                "Total": 9531,
-                "Diff": "87",
+                "Hoy": 1,
+                "Total": 9532,
+                "Diff": "86",
                 "Antece": "Dave DeBusschere",
                 "Nota": "",
                 "game_status": "playing"
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763786614
+    "cache_buster": 1763786649
 }
