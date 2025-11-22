@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:58:41",
+    "ultima_actualizacion": "02:59:16",
     "tablas": {
         "pts": [
             {
@@ -588,10 +588,10 @@
                 "Rank": 133,
                 "Nombre": "Norman Powell",
                 "Antes": 1098,
-                "Hoy": 1,
-                "Total": 1099,
-                "Diff": "1",
-                "Antece": "1100",
+                "Hoy": 2,
+                "Total": 1100,
+                "Diff": "4",
+                "Antece": "Randy Foye",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -801,7 +801,8 @@
         "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886.",
         "Darius Garland (3 three-pointers today) has passed Grayson Allen and is now ranked 215th all-time in career three-pointers with 907.",
         "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
-        "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095."
+        "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
+        "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763776721
+    "cache_buster": 1763776756
 }
