@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "20:56:06",
+    "ultima_actualizacion": "20:56:40",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 92,
                 "Nombre": "Brook Lopez",
                 "Antes": 17613,
-                "Hoy": 2,
-                "Total": 17615,
-                "Diff": "8",
+                "Hoy": 5,
+                "Total": 17618,
+                "Diff": "5",
                 "Antece": "Rolando Blackman",
                 "Nota": "",
                 "game_status": "playing"
@@ -82,23 +82,23 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 195,
+                "Rank": 194,
                 "Nombre": "Chris Paul",
                 "Antes": 5996,
-                "Hoy": 2,
-                "Total": 5998,
+                "Hoy": 3,
+                "Total": 5999,
                 "Diff": "1",
-                "Antece": "Joe Graboski",
-                "Nota": "A tiro de 1",
+                "Antece": "6000",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
                 "Rank": 211,
                 "Nombre": "Mason Plumlee",
                 "Antes": 5772,
-                "Hoy": 2,
-                "Total": 5774,
-                "Diff": "17",
+                "Hoy": 3,
+                "Total": 5775,
+                "Diff": "16",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
                 "game_status": "playing"
@@ -120,9 +120,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12532,
-                "Hoy": 3,
-                "Total": 12535,
-                "Diff": "465",
+                "Hoy": 4,
+                "Total": 12536,
+                "Diff": "464",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -346,9 +346,9 @@
                 "Rank": 134,
                 "Nombre": "Brook Lopez",
                 "Antes": 1095,
-                "Hoy": 0,
-                "Total": 1095,
-                "Diff": "5",
+                "Hoy": 1,
+                "Total": 1096,
+                "Diff": "4",
                 "Antece": "Norman Powell",
                 "Nota": "",
                 "game_status": "playing"
@@ -401,6 +401,8 @@
             }
         ]
     },
-    "notificaciones": [],
-    "cache_buster": 1763841366
+    "notificaciones": [
+        "Chris Paul (3 rebounds today) has passed Hot Rod Williams and is now ranked 194th all-time in career rebounds with 5,999."
+    ],
+    "cache_buster": 1763841400
 }
