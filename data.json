@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:13:19",
+    "ultima_actualizacion": "06:13:53",
     "tablas": {
         "pts": [
             {
@@ -11,15 +11,15 @@
                 "Diff": "85",
                 "Antece": "31000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 22,
                 "Nombre": "Stephen Curry",
                 "Antes": 25749,
-                "Hoy": 30,
-                "Total": 25779,
-                "Diff": "221",
+                "Hoy": 32,
+                "Total": 25781,
+                "Diff": "219",
                 "Antece": "26000",
                 "Nota": "",
                 "game_status": "playing"
@@ -99,7 +99,7 @@
                 "Diff": "34",
                 "Antece": "Klay Thompson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 114,
@@ -165,7 +165,7 @@
                 "Diff": "12",
                 "Antece": "Nate Thurmond",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 183,
@@ -288,7 +288,7 @@
                 "Diff": "42",
                 "Antece": "Shawn Kemp",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 70,
@@ -310,7 +310,7 @@
                 "Diff": "73",
                 "Antece": "P.J. Brown",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 83,
@@ -321,7 +321,7 @@
                 "Diff": "106",
                 "Antece": "8000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 118,
@@ -332,7 +332,7 @@
                 "Diff": "8",
                 "Antece": "Kobe Bryant",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 150,
@@ -354,7 +354,7 @@
                 "Diff": "2",
                 "Antece": "Shareef Abdur-Rahim",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 179,
@@ -444,7 +444,7 @@
                 "Diff": "76",
                 "Antece": "Allen Iverson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 72,
@@ -466,7 +466,7 @@
                 "Diff": "46",
                 "Antece": "5000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 101,
@@ -532,7 +532,7 @@
                 "Diff": "4",
                 "Antece": "Richard Hamilton",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 224,
@@ -622,7 +622,7 @@
                 "Diff": "2",
                 "Antece": "DeMar DeRozan",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 165,
@@ -655,7 +655,7 @@
                 "Diff": "",
                 "Antece": "J.R. Smith",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 236,
@@ -723,7 +723,7 @@
                 "Diff": "11",
                 "Antece": "Julius Erving",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 112,
@@ -734,7 +734,7 @@
                 "Diff": "6",
                 "Antece": "Taj Gibson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 126,
@@ -756,7 +756,7 @@
                 "Diff": "4",
                 "Antece": "Roy Hinson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 141,
@@ -811,7 +811,7 @@
                 "Diff": "1",
                 "Antece": "Tony Battie",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 204,
@@ -844,7 +844,7 @@
                 "Diff": "",
                 "Antece": "Brad Miller",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 250,
@@ -901,7 +901,7 @@
                 "Diff": "6",
                 "Antece": "Jamal Crawford",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 15,
@@ -945,7 +945,7 @@
                 "Diff": "20",
                 "Antece": "1900",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 26,
@@ -1044,7 +1044,7 @@
                 "Diff": "",
                 "Antece": "Antoine Walker",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 73,
@@ -1077,7 +1077,7 @@
                 "Diff": "9",
                 "Antece": "Wayne Ellington",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 109,
@@ -1099,7 +1099,7 @@
                 "Diff": "5",
                 "Antece": "Rudy Gay",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 113,
@@ -1275,7 +1275,7 @@
                 "Diff": "3",
                 "Antece": "Kelly Olynyk",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 211,
@@ -1363,7 +1363,7 @@
                 "Diff": "1",
                 "Antece": "John Stockton",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "g": [
@@ -1376,7 +1376,7 @@
                 "Diff": "4",
                 "Antece": "Pau Gasol",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 53,
@@ -1409,7 +1409,7 @@
                 "Diff": "1",
                 "Antece": "Danny Schayes",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 82,
@@ -1475,7 +1475,7 @@
                 "Diff": "1",
                 "Antece": "Alton Lister",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ]
     },
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763788399
+    "cache_buster": 1763788433
 }
