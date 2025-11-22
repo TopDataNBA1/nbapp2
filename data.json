@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:31:31",
+    "ultima_actualizacion": "23:32:05",
     "tablas": {
         "pts": [
             {
@@ -434,9 +434,9 @@
                 "Rank": 163,
                 "Nombre": "Mikal Bridges",
                 "Antes": 1010,
-                "Hoy": 1,
-                "Total": 1011,
-                "Diff": "4",
+                "Hoy": 2,
+                "Total": 1012,
+                "Diff": "3",
                 "Antece": "Marcus Smart",
                 "Nota": "",
                 "game_status": "playing"
@@ -518,5 +518,5 @@
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624.",
         "Mitchell Robinson (2 blocks today) has passed Spencer Haywood and is now ranked 220th all-time in career blocks with 630."
     ],
-    "cache_buster": 1763850691
+    "cache_buster": 1763850725
 }
