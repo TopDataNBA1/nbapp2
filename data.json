@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:11:08",
+    "ultima_actualizacion": "04:11:42",
     "tablas": {
         "pts": [
             {
@@ -143,7 +143,7 @@
                 "Diff": "75",
                 "Antece": "Bob Dandridge",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 165,
@@ -266,7 +266,7 @@
                 "Diff": "87",
                 "Antece": "Dave DeBusschere",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 58,
@@ -376,7 +376,7 @@
                 "Diff": "3",
                 "Antece": "Trevor Ariza",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 248,
@@ -822,7 +822,7 @@
                 "Diff": "2",
                 "Antece": "James Johnson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 230,
@@ -967,7 +967,7 @@
                 "Diff": "5",
                 "Antece": "Steve Nash",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 39,
@@ -1088,7 +1088,7 @@
                 "Diff": "6",
                 "Antece": "1200",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 111,
@@ -1330,7 +1330,7 @@
                 "Diff": "",
                 "Antece": "Ersan Ilyasova",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 227,
@@ -1464,7 +1464,7 @@
                 "Diff": "1",
                 "Antece": "Lamar Odom",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 210,
@@ -1493,5 +1493,5 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763781068
+    "cache_buster": 1763781102
 }
