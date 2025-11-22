@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:03:50",
+    "ultima_actualizacion": "05:06:23",
     "tablas": {
         "pts": [
             {
@@ -44,7 +44,7 @@
                 "Diff": "99",
                 "Antece": "Gail Goodrich",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 76,
@@ -55,7 +55,7 @@
                 "Diff": "5",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 107,
@@ -88,15 +88,15 @@
                 "Diff": "26",
                 "Antece": "Latrell Sprewell",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 19,
-                "Total": 16637,
-                "Diff": "49",
+                "Hoy": 21,
+                "Total": 16639,
+                "Diff": "47",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,7 +107,7 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "15",
+                "Diff": "17",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -233,7 +233,7 @@
                 "Diff": "21",
                 "Antece": "Jack Sikma",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 41,
@@ -250,9 +250,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 7,
-                "Total": 9856,
-                "Diff": "144",
+                "Hoy": 8,
+                "Total": 9857,
+                "Diff": "143",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -272,9 +272,9 @@
                 "Rank": 58,
                 "Nombre": "Al Horford",
                 "Antes": 8988,
-                "Hoy": 3,
-                "Total": 8991,
-                "Diff": "9",
+                "Hoy": 4,
+                "Total": 8992,
+                "Diff": "8",
                 "Antece": "9000",
                 "Nota": "",
                 "game_status": "playing"
@@ -299,7 +299,7 @@
                 "Diff": "138",
                 "Antece": "Dale Davis",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 73,
@@ -477,7 +477,7 @@
                 "Diff": "13",
                 "Antece": "Giannis Antetokounmp",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 158,
@@ -488,7 +488,7 @@
                 "Diff": "18",
                 "Antece": "Boris Diaw",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 161,
@@ -633,7 +633,7 @@
                 "Diff": "3",
                 "Antece": "Darwin Cook",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 175,
@@ -644,7 +644,7 @@
                 "Diff": "1",
                 "Antece": "Corey Brewer",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 196,
@@ -679,7 +679,7 @@
                 "Diff": "7",
                 "Antece": "Elton Brand",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 29,
@@ -701,7 +701,7 @@
                 "Diff": "13",
                 "Antece": "Benoit Benjamin",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 52,
@@ -833,7 +833,7 @@
                 "Diff": "2",
                 "Antece": "Jamaal Magloire",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 234,
@@ -890,7 +890,7 @@
                 "Diff": "67",
                 "Antece": "2800",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 13,
@@ -956,7 +956,7 @@
                 "Diff": "3",
                 "Antece": "Tim Hardaway Jr.",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 38,
@@ -1000,7 +1000,7 @@
                 "Diff": "3",
                 "Antece": "1600",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 51,
@@ -1094,9 +1094,9 @@
                 "Rank": 111,
                 "Nombre": "Jamal Murray",
                 "Antes": 1178,
-                "Hoy": 1,
-                "Total": 1179,
-                "Diff": "7",
+                "Hoy": 2,
+                "Total": 1180,
+                "Diff": "6",
                 "Antece": "Rudy Gay",
                 "Nota": "",
                 "game_status": "playing"
@@ -1165,7 +1165,7 @@
                 "Diff": "",
                 "Antece": "James Posey",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 164,
@@ -1245,14 +1245,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 193,
+                "Rank": 192,
                 "Nombre": "Donte DiVincenzo",
                 "Antes": 962,
-                "Hoy": 0,
-                "Total": 962,
-                "Diff": "1",
-                "Antece": "Malik Monk",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 963,
+                "Diff": "3",
+                "Antece": "Kristaps Porzingis",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1420,7 +1420,7 @@
                 "Diff": "3",
                 "Antece": "Zach Randolph",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 122,
@@ -1497,5 +1497,5 @@
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
     ],
-    "cache_buster": 1763784230
+    "cache_buster": 1763784383
 }
