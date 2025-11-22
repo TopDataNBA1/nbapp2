@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:26:22",
+    "ultima_actualizacion": "04:26:56",
     "tablas": {
         "pts": [
             {
@@ -182,9 +182,9 @@
                 "Rank": 203,
                 "Nombre": "Julius Randle",
                 "Antes": 13892,
-                "Hoy": 11,
-                "Total": 13903,
-                "Diff": "7",
+                "Hoy": 13,
+                "Total": 13905,
+                "Diff": "5",
                 "Antece": "Ron Harper",
                 "Nota": "",
                 "game_status": "playing"
@@ -1127,9 +1127,9 @@
                 "Rank": 125,
                 "Nombre": "Anthony Edwards",
                 "Antes": 1141,
-                "Hoy": 2,
-                "Total": 1143,
-                "Diff": "5",
+                "Hoy": 3,
+                "Total": 1144,
+                "Diff": "4",
                 "Antece": "Steve Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -1491,7 +1491,8 @@
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188.",
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
-        "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
+        "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
+        "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763781982
+    "cache_buster": 1763782016
 }
