@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:11:15",
+    "ultima_actualizacion": "03:11:49",
     "tablas": {
         "pts": [
             {
@@ -50,9 +50,9 @@
                 "Rank": 108,
                 "Nombre": "Devin Booker",
                 "Antes": 16869,
-                "Hoy": 0,
-                "Total": 16869,
-                "Diff": "89",
+                "Hoy": 2,
+                "Total": 16871,
+                "Diff": "87",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
@@ -830,11 +830,11 @@
                 "Rank": 126,
                 "Nombre": "Anthony Edwards",
                 "Antes": 1141,
-                "Hoy": 0,
-                "Total": 1141,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 1142,
+                "Diff": "1",
                 "Antece": "Karl-Anthony Towns",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1112,5 +1112,5 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763777475
+    "cache_buster": 1763777509
 }
