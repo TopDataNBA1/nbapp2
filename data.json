@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:22:59",
+    "ultima_actualizacion": "04:23:33",
     "tablas": {
         "pts": [
             {
@@ -360,9 +360,9 @@
                 "Rank": 179,
                 "Nombre": "Draymond Green",
                 "Antes": 6174,
-                "Hoy": 0,
-                "Total": 6174,
-                "Diff": "17",
+                "Hoy": 1,
+                "Total": 6175,
+                "Diff": "16",
                 "Antece": "Zydrunas Ilgauskas",
                 "Nota": "",
                 "game_status": "playing"
@@ -707,9 +707,9 @@
                 "Rank": 52,
                 "Nombre": "Al Horford",
                 "Antes": 1311,
-                "Hoy": 0,
-                "Total": 1311,
-                "Diff": "16",
+                "Hoy": 1,
+                "Total": 1312,
+                "Diff": "15",
                 "Antece": "Zydrunas Ilgauskas",
                 "Nota": "",
                 "game_status": "playing"
@@ -1493,5 +1493,5 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763781779
+    "cache_buster": 1763781813
 }
