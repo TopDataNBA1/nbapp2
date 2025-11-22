@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "20:50:20",
+    "ultima_actualizacion": "20:50:55",
     "tablas": {
         "pts": [
             {
@@ -107,9 +107,9 @@
                 "Rank": 236,
                 "Nombre": "Nicolas Batum",
                 "Antes": 5515,
-                "Hoy": 2,
-                "Total": 5517,
-                "Diff": "6",
+                "Hoy": 3,
+                "Total": 5518,
+                "Diff": "5",
                 "Antece": "Hassan Whiteside",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763841020
+    "cache_buster": 1763841055
 }
