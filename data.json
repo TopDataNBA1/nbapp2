@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:20:55",
+    "ultima_actualizacion": "03:21:29",
     "tablas": {
         "pts": [
             {
@@ -184,9 +184,9 @@
                 "Rank": 41,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 10308,
-                "Hoy": 3,
-                "Total": 10311,
-                "Diff": "59",
+                "Hoy": 4,
+                "Total": 10312,
+                "Diff": "58",
                 "Antece": "Otis Thorpe",
                 "Nota": "",
                 "game_status": "playing"
@@ -1113,5 +1113,5 @@
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897."
     ],
-    "cache_buster": 1763778055
+    "cache_buster": 1763778089
 }
