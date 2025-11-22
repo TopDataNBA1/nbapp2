@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:59:52",
+    "ultima_actualizacion": "04:00:25",
     "tablas": {
         "pts": [
             {
@@ -570,14 +570,14 @@
         ],
         "stl": [
             {
-                "Rank": 34,
+                "Rank": 35,
                 "Nombre": "Mike Conley",
                 "Antes": 1615,
-                "Hoy": 1,
-                "Total": 1616,
-                "Diff": "4",
-                "Antece": "Eddie Jones",
-                "Nota": "",
+                "Hoy": 0,
+                "Total": 1615,
+                "Diff": "1",
+                "Antece": "Rod Strickland",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -647,13 +647,13 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 200,
+                "Rank": 198,
                 "Nombre": "Nikola Jokic",
                 "Antes": 972,
-                "Hoy": 0,
-                "Total": 972,
+                "Hoy": 1,
+                "Total": 973,
                 "Diff": "",
-                "Antece": "Kirk Hinrich",
+                "Antece": "Giannis Antetokounmp",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             },
@@ -1491,5 +1491,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188."
     ],
-    "cache_buster": 1763780392
+    "cache_buster": 1763780425
 }
