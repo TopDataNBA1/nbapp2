@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:22:55",
+    "ultima_actualizacion": "05:23:29",
     "tablas": {
         "pts": [
             {
@@ -1248,9 +1248,9 @@
                 "Rank": 192,
                 "Nombre": "Donte DiVincenzo",
                 "Antes": 962,
-                "Hoy": 1,
-                "Total": 963,
-                "Diff": "3",
+                "Hoy": 2,
+                "Total": 964,
+                "Diff": "2",
                 "Antece": "Kristaps Porzingis",
                 "Nota": "",
                 "game_status": "playing"
@@ -1497,7 +1497,8 @@
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651.",
         "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358.",
-        "Royce O'Neale (3 three-pointers today) has passed Mark Price and Walt Williams and is now ranked 183rd all-time in career three-pointers with 977."
+        "Royce O'Neale (3 three-pointers today) has passed Mark Price and Walt Williams and is now ranked 183rd all-time in career three-pointers with 977.",
+        "Donte DiVincenzo (2 three-pointers today) has passed Malik Monk and is now ranked 192nd all-time in career three-pointers with 964."
     ],
-    "cache_buster": 1763785375
+    "cache_buster": 1763785409
 }
