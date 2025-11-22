@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:30:20",
+    "ultima_actualizacion": "04:30:54",
     "tablas": {
         "pts": [
             {
@@ -138,9 +138,9 @@
                 "Rank": 149,
                 "Nombre": "Kevin Love",
                 "Antes": 15455,
-                "Hoy": 6,
-                "Total": 15461,
-                "Diff": "69",
+                "Hoy": 9,
+                "Total": 15464,
+                "Diff": "66",
                 "Antece": "Bob Dandridge",
                 "Nota": "",
                 "game_status": "playing"
@@ -685,9 +685,9 @@
                 "Rank": 29,
                 "Nombre": "Rudy Gobert",
                 "Antes": 1744,
-                "Hoy": 1,
-                "Total": 1745,
-                "Diff": "2",
+                "Hoy": 0,
+                "Total": 1744,
+                "Diff": "3",
                 "Antece": "Artis Gilmore",
                 "Nota": "",
                 "game_status": "playing"
@@ -962,9 +962,9 @@
                 "Rank": 38,
                 "Nombre": "Kevin Love",
                 "Antes": 1680,
-                "Hoy": 2,
-                "Total": 1682,
-                "Diff": "3",
+                "Hoy": 3,
+                "Total": 1683,
+                "Diff": "2",
                 "Antece": "Steve Nash",
                 "Nota": "",
                 "game_status": "playing"
@@ -975,7 +975,7 @@
                 "Antes": 1673,
                 "Hoy": 4,
                 "Total": 1677,
-                "Diff": "5",
+                "Diff": "6",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "finished"
@@ -1494,5 +1494,5 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763782220
+    "cache_buster": 1763782254
 }
