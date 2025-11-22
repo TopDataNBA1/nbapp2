@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:22:04",
+    "ultima_actualizacion": "03:22:38",
     "tablas": {
         "pts": [
             {
@@ -195,9 +195,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 3,
-                "Total": 9852,
-                "Diff": "148",
+                "Hoy": 5,
+                "Total": 9854,
+                "Diff": "146",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -258,14 +258,14 @@
                 "game_status": "not_started"
             },
             {
-                "Rank": 152,
+                "Rank": 151,
                 "Nombre": "Julius Randle",
                 "Antes": 6603,
-                "Hoy": 0,
-                "Total": 6603,
-                "Diff": "1",
-                "Antece": "Marc Gasol",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 6604,
+                "Diff": "2",
+                "Antece": "Vince Carter",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -362,11 +362,11 @@
                 "Rank": 170,
                 "Nombre": "T.J. McConnell",
                 "Antes": 3559,
-                "Hoy": 3,
-                "Total": 3562,
-                "Diff": "1",
+                "Hoy": 4,
+                "Total": 3563,
+                "Diff": "",
                 "Antece": "Pete Maravich",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1113,5 +1113,5 @@
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897."
     ],
-    "cache_buster": 1763778124
+    "cache_buster": 1763778158
 }
