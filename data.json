@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:33:09",
+    "ultima_actualizacion": "04:33:44",
     "tablas": {
         "pts": [
             {
@@ -406,9 +406,9 @@
                 "Rank": 28,
                 "Nombre": "Stephen Curry",
                 "Antes": 6593,
-                "Hoy": 2,
-                "Total": 6595,
-                "Diff": "85",
+                "Hoy": 3,
+                "Total": 6596,
+                "Diff": "84",
                 "Antece": "Mike Conley",
                 "Nota": "",
                 "game_status": "playing"
@@ -1494,5 +1494,5 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763782389
+    "cache_buster": 1763782424
 }
