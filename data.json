@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:35:09",
+    "ultima_actualizacion": "01:35:44",
     "tablas": {
         "pts": [
             {
@@ -50,9 +50,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 2,
-                "Total": 13745,
-                "Diff": "39",
+                "Hoy": 5,
+                "Total": 13748,
+                "Diff": "36",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -214,9 +214,9 @@
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1673,
-                "Hoy": 0,
-                "Total": 1673,
-                "Diff": "7",
+                "Hoy": 1,
+                "Total": 1674,
+                "Diff": "6",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763771709
+    "cache_buster": 1763771744
 }
