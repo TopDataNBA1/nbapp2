@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:25:28",
+    "ultima_actualizacion": "03:26:02",
     "tablas": {
         "pts": [
             {
@@ -351,9 +351,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3625,
-                "Hoy": 1,
-                "Total": 3626,
-                "Diff": "22",
+                "Hoy": 2,
+                "Total": 3627,
+                "Diff": "21",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -1113,5 +1113,5 @@
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897."
     ],
-    "cache_buster": 1763778328
+    "cache_buster": 1763778362
 }
