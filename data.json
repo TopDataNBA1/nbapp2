@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:59:36",
+    "ultima_actualizacion": "06:00:11",
     "tablas": {
         "pts": [
             {
@@ -360,9 +360,9 @@
                 "Rank": 179,
                 "Nombre": "Draymond Green",
                 "Antes": 6174,
-                "Hoy": 1,
-                "Total": 6175,
-                "Diff": "16",
+                "Hoy": 2,
+                "Total": 6176,
+                "Diff": "15",
                 "Antece": "Zydrunas Ilgauskas",
                 "Nota": "",
                 "game_status": "playing"
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763787576
+    "cache_buster": 1763787611
 }
