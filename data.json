@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:20:39",
+    "ultima_actualizacion": "05:21:13",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 26,
-                "Total": 16644,
-                "Diff": "42",
+                "Hoy": 28,
+                "Total": 16646,
+                "Diff": "40",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,7 +107,7 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "22",
+                "Diff": "24",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1499,5 +1499,5 @@
         "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358.",
         "Royce O'Neale (3 three-pointers today) has passed Mark Price and Walt Williams and is now ranked 183rd all-time in career three-pointers with 977."
     ],
-    "cache_buster": 1763785239
+    "cache_buster": 1763785273
 }
