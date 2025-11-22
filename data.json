@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:15:48",
+    "ultima_actualizacion": "03:16:22",
     "tablas": {
         "pts": [
             {
@@ -195,9 +195,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 1,
-                "Total": 9850,
-                "Diff": "150",
+                "Hoy": 2,
+                "Total": 9851,
+                "Diff": "149",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1112,5 +1112,5 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763777748
+    "cache_buster": 1763777782
 }
