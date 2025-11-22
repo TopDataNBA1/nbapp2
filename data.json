@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:17:48",
+    "ultima_actualizacion": "05:18:22",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 24,
-                "Total": 16642,
-                "Diff": "44",
+                "Hoy": 26,
+                "Total": 16644,
+                "Diff": "42",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,7 +107,7 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "20",
+                "Diff": "22",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -505,9 +505,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3625,
-                "Hoy": 8,
-                "Total": 3633,
-                "Diff": "17",
+                "Hoy": 9,
+                "Total": 3634,
+                "Diff": "16",
                 "Antece": "Elgin Baylor",
                 "Nota": "",
                 "game_status": "playing"
@@ -1223,13 +1223,13 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 184,
+                "Rank": 183,
                 "Nombre": "Royce O'Neale",
                 "Antes": 974,
-                "Hoy": 2,
-                "Total": 976,
+                "Hoy": 3,
+                "Total": 977,
                 "Diff": "",
-                "Antece": "Mark Price",
+                "Antece": "Al Harrington",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             },
@@ -1496,7 +1496,8 @@
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917.",
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651.",
-        "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358."
+        "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358.",
+        "Royce O'Neale (3 three-pointers today) has passed Mark Price and Walt Williams and is now ranked 183rd all-time in career three-pointers with 977."
     ],
-    "cache_buster": 1763785068
+    "cache_buster": 1763785102
 }
