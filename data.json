@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:18:05",
+    "ultima_actualizacion": "03:18:39",
     "tablas": {
         "pts": [
             {
@@ -124,14 +124,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 205,
+                "Rank": 203,
                 "Nombre": "Julius Randle",
                 "Antes": 13892,
-                "Hoy": 3,
-                "Total": 13895,
-                "Diff": "",
-                "Antece": "Bob Love",
-                "Nota": "Mismo total",
+                "Hoy": 5,
+                "Total": 13897,
+                "Diff": "13",
+                "Antece": "Ron Harper",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -195,9 +195,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 2,
-                "Total": 9851,
-                "Diff": "149",
+                "Hoy": 3,
+                "Total": 9852,
+                "Diff": "148",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1110,7 +1110,8 @@
         "Darius Garland (3 three-pointers today) has passed Grayson Allen and is now ranked 215th all-time in career three-pointers with 907.",
         "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
-        "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
+        "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
+        "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897."
     ],
-    "cache_buster": 1763777885
+    "cache_buster": 1763777919
 }
