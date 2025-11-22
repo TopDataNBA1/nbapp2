@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:09:15",
+    "ultima_actualizacion": "05:09:49",
     "tablas": {
         "pts": [
             {
@@ -439,9 +439,9 @@
                 "Rank": 54,
                 "Nombre": "Nikola Jokic",
                 "Antes": 5539,
-                "Hoy": 4,
-                "Total": 5543,
-                "Diff": "81",
+                "Hoy": 5,
+                "Total": 5544,
+                "Diff": "80",
                 "Antece": "Allen Iverson",
                 "Nota": "",
                 "game_status": "playing"
@@ -450,9 +450,9 @@
                 "Rank": 73,
                 "Nombre": "Draymond Green",
                 "Antes": 5034,
-                "Hoy": 3,
-                "Total": 5037,
-                "Diff": "3",
+                "Hoy": 4,
+                "Total": 5038,
+                "Diff": "2",
                 "Antece": "Walt Frazier",
                 "Nota": "",
                 "game_status": "playing"
@@ -1497,5 +1497,5 @@
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
     ],
-    "cache_buster": 1763784555
+    "cache_buster": 1763784589
 }
