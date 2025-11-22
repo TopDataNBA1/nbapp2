@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:12:49",
+    "ultima_actualizacion": "04:13:23",
     "tablas": {
         "pts": [
             {
@@ -132,7 +132,7 @@
                 "Diff": "25",
                 "Antece": "Tobias Harris",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 149,
@@ -220,7 +220,7 @@
                 "Diff": "2",
                 "Antece": "Jeff Mullins",
                 "Nota": "A tiro de 2",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "trb": [
@@ -543,7 +543,7 @@
                 "Diff": "15",
                 "Antece": "Foots Walker",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 233,
@@ -554,7 +554,7 @@
                 "Diff": "",
                 "Antece": "Blake Griffin",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 249,
@@ -603,14 +603,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 102,
+                "Rank": 101,
                 "Nombre": "Draymond Green",
                 "Antes": 1194,
-                "Hoy": 0,
-                "Total": 1194,
-                "Diff": "",
-                "Antece": "Dan Majerle",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 1195,
+                "Diff": "2",
+                "Antece": "Chris Webber",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -666,7 +666,7 @@
                 "Diff": "",
                 "Antece": "John Long",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "blk": [
@@ -778,7 +778,7 @@
                 "Diff": "3",
                 "Antece": "Duane Causwell",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 168,
@@ -923,7 +923,7 @@
                 "Diff": "59",
                 "Antece": "Eric Gordon",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 23,
@@ -1033,7 +1033,7 @@
                 "Diff": "2",
                 "Antece": "Jordan Clarkson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 70,
@@ -1493,5 +1493,5 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763781169
+    "cache_buster": 1763781203
 }
