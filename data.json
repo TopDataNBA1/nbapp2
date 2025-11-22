@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "19:32:31",
+    "ultima_actualizacion": "19:33:06",
     "tablas": {
         "pts": [
             {
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Antes": 28058,
-                "Hoy": 15,
-                "Total": 28073,
-                "Diff": "216",
+                "Hoy": 18,
+                "Total": 28076,
+                "Diff": "213",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -17,9 +17,9 @@
                 "Rank": 36,
                 "Nombre": "Chris Paul",
                 "Antes": 23036,
-                "Hoy": 0,
-                "Total": 23036,
-                "Diff": "113",
+                "Hoy": 3,
+                "Total": 23039,
+                "Diff": "110",
                 "Antece": "Elgin Baylor",
                 "Nota": "",
                 "game_status": "playing"
@@ -82,14 +82,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 197,
+                "Rank": 196,
                 "Nombre": "Chris Paul",
                 "Antes": 5996,
-                "Hoy": 0,
-                "Total": 5996,
-                "Diff": "",
-                "Antece": "Alton Lister",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 5997,
+                "Diff": "1",
+                "Antece": "Hot Rod Williams",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -120,9 +120,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12532,
-                "Hoy": 0,
-                "Total": 12532,
-                "Diff": "468",
+                "Hoy": 1,
+                "Total": 12533,
+                "Diff": "467",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -223,9 +223,9 @@
                 "Rank": 18,
                 "Nombre": "Brook Lopez",
                 "Antes": 2073,
-                "Hoy": 0,
-                "Total": 2073,
-                "Diff": "9",
+                "Hoy": 1,
+                "Total": 2074,
+                "Diff": "8",
                 "Antece": "George Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -280,9 +280,9 @@
                 "Rank": 2,
                 "Nombre": "James Harden",
                 "Antes": 3227,
-                "Hoy": 2,
-                "Total": 3229,
-                "Diff": "71",
+                "Hoy": 3,
+                "Total": 3230,
+                "Diff": "70",
                 "Antece": "3300",
                 "Nota": "",
                 "game_status": "playing"
@@ -291,9 +291,9 @@
                 "Rank": 27,
                 "Nombre": "Chris Paul",
                 "Antes": 1866,
-                "Hoy": 0,
-                "Total": 1866,
-                "Diff": "10",
+                "Hoy": 1,
+                "Total": 1867,
+                "Diff": "9",
                 "Antece": "Kyrie Irving",
                 "Nota": "",
                 "game_status": "playing"
@@ -359,9 +359,9 @@
                 "Rank": 15,
                 "Nombre": "Chris Paul",
                 "Antes": 1364,
-                "Hoy": 0,
-                "Total": 1364,
-                "Diff": "16",
+                "Hoy": 1,
+                "Total": 1365,
+                "Diff": "15",
                 "Antece": "Clifford Robinson",
                 "Nota": "",
                 "game_status": "playing"
@@ -392,15 +392,15 @@
                 "Rank": 77,
                 "Nombre": "Brook Lopez",
                 "Antes": 1120,
-                "Hoy": 0,
-                "Total": 1120,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 1121,
+                "Diff": "1",
                 "Antece": "Hal Greer",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             }
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763836351
+    "cache_buster": 1763836386
 }
