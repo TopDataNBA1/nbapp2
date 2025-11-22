@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:27:36",
+    "ultima_actualizacion": "02:28:11",
     "tablas": {
         "pts": [
             {
@@ -500,11 +500,11 @@
                 "Rank": 178,
                 "Nombre": "Derrick White",
                 "Antes": 984,
-                "Hoy": 0,
-                "Total": 984,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 985,
+                "Diff": "1",
                 "Antece": "Doug McDermott",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -513,9 +513,9 @@
                 "Antes": 984,
                 "Hoy": 0,
                 "Total": 984,
-                "Diff": "",
+                "Diff": "1",
                 "Antece": "Derrick White",
-                "Nota": "Mismo total",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -594,5 +594,5 @@
         "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095."
     ],
-    "cache_buster": 1763774856
+    "cache_buster": 1763774891
 }
