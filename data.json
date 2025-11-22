@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "04:07:45",
+    "ultima_actualizacion": "04:08:18",
     "tablas": {
         "pts": [
             {
                 "Rank": 8,
                 "Nombre": "Kevin Durant",
                 "Antes": 30902,
-                "Hoy": 4,
-                "Total": 30906,
-                "Diff": "94",
+                "Hoy": 6,
+                "Total": 30908,
+                "Diff": "92",
                 "Antece": "31000",
                 "Nota": "",
                 "game_status": "playing"
@@ -92,25 +92,25 @@
             },
             {
                 "Rank": 113,
+                "Nombre": "Nikola Jokic",
+                "Antes": 16618,
+                "Hoy": 5,
+                "Total": 16623,
+                "Diff": "63",
+                "Antece": "Klay Thompson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 114,
                 "Nombre": "Jrue Holiday",
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "64",
-                "Antece": "Klay Thompson",
-                "Nota": "",
+                "Diff": "1",
+                "Antece": "Nikola Jokic",
+                "Nota": "A tiro de 1",
                 "game_status": "not_started"
-            },
-            {
-                "Rank": 114,
-                "Nombre": "Nikola Jokic",
-                "Antes": 16618,
-                "Hoy": 4,
-                "Total": 16622,
-                "Diff": "",
-                "Antece": "Jrue Holiday",
-                "Nota": "Mismo total",
-                "game_status": "playing"
             },
             {
                 "Rank": 115,
@@ -119,7 +119,7 @@
                 "Hoy": 0,
                 "Total": 16566,
                 "Diff": "56",
-                "Antece": "Nikola Jokic",
+                "Antece": "Jrue Holiday",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -1489,7 +1489,8 @@
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660.",
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
-        "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188."
+        "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188.",
+        "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623."
     ],
-    "cache_buster": 1763780865
+    "cache_buster": 1763780898
 }
