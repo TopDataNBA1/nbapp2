@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "20:24:16",
+    "ultima_actualizacion": "20:24:50",
     "tablas": {
         "pts": [
             {
@@ -74,9 +74,9 @@
                 "Rank": 155,
                 "Nombre": "James Harden",
                 "Antes": 6560,
-                "Hoy": 0,
-                "Total": 6560,
-                "Diff": "15",
+                "Hoy": 1,
+                "Total": 6561,
+                "Diff": "14",
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -131,9 +131,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Antes": 8437,
-                "Hoy": 1,
-                "Total": 8438,
-                "Diff": "86",
+                "Hoy": 3,
+                "Total": 8440,
+                "Diff": "84",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763839456
+    "cache_buster": 1763839490
 }
