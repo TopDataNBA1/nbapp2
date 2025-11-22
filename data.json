@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:16:56",
+    "ultima_actualizacion": "03:17:31",
     "tablas": {
         "pts": [
             {
@@ -50,9 +50,9 @@
                 "Rank": 108,
                 "Nombre": "Devin Booker",
                 "Antes": 16869,
-                "Hoy": 2,
-                "Total": 16871,
-                "Diff": "87",
+                "Hoy": 3,
+                "Total": 16872,
+                "Diff": "86",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1112,5 +1112,5 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763777816
+    "cache_buster": 1763777851
 }
