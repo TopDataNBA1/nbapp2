@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:23:12",
+    "ultima_actualizacion": "03:23:46",
     "tablas": {
         "pts": [
             {
@@ -195,9 +195,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 5,
-                "Total": 9854,
-                "Diff": "146",
+                "Hoy": 6,
+                "Total": 9855,
+                "Diff": "145",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1113,5 +1113,5 @@
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897."
     ],
-    "cache_buster": 1763778192
+    "cache_buster": 1763778226
 }
