@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:39:15",
+    "ultima_actualizacion": "01:39:50",
     "tablas": {
         "pts": [
             {
@@ -95,14 +95,14 @@
         ],
         "ast": [
             {
-                "Rank": 171,
+                "Rank": 170,
                 "Nombre": "T.J. McConnell",
                 "Antes": 3559,
-                "Hoy": 0,
-                "Total": 3559,
-                "Diff": "",
-                "Antece": "Nicolas Batum",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 3560,
+                "Diff": "3",
+                "Antece": "Pete Maravich",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763771955
+    "cache_buster": 1763771990
 }
