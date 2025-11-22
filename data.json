@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:32:15",
+    "ultima_actualizacion": "06:32:49",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 22,
                 "Nombre": "Stephen Curry",
                 "Antes": 25749,
-                "Hoy": 35,
-                "Total": 25784,
-                "Diff": "216",
+                "Hoy": 38,
+                "Total": 25787,
+                "Diff": "213",
                 "Antece": "26000",
                 "Nota": "",
                 "game_status": "playing"
@@ -863,9 +863,9 @@
                 "Rank": 1,
                 "Nombre": "Stephen Curry",
                 "Antes": 4116,
-                "Hoy": 8,
-                "Total": 4124,
-                "Diff": "76",
+                "Hoy": 9,
+                "Total": 4125,
+                "Diff": "75",
                 "Antece": "4200",
                 "Nota": "",
                 "game_status": "playing"
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763789535
+    "cache_buster": 1763789569
 }
