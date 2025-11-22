@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:42:25",
+    "ultima_actualizacion": "03:42:58",
     "tablas": {
         "pts": [
             {
@@ -570,14 +570,14 @@
         ],
         "stl": [
             {
-                "Rank": 35,
+                "Rank": 34,
                 "Nombre": "Mike Conley",
                 "Antes": 1615,
-                "Hoy": 0,
-                "Total": 1615,
-                "Diff": "1",
-                "Antece": "Rod Strickland",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 1616,
+                "Diff": "4",
+                "Antece": "Eddie Jones",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1489,5 +1489,5 @@
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660."
     ],
-    "cache_buster": 1763779345
+    "cache_buster": 1763779378
 }
