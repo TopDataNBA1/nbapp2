@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:58:07",
+    "ultima_actualizacion": "02:58:41",
     "tablas": {
         "pts": [
             {
@@ -72,9 +72,9 @@
                 "Rank": 139,
                 "Nombre": "CJ McCollum",
                 "Antes": 15640,
-                "Hoy": 10,
-                "Total": 15650,
-                "Diff": "9",
+                "Hoy": 13,
+                "Total": 15653,
+                "Diff": "6",
                 "Antece": "Jeff Hornacek",
                 "Nota": "",
                 "game_status": "playing"
@@ -116,9 +116,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 20,
-                "Total": 13763,
-                "Diff": "21",
+                "Hoy": 22,
+                "Total": 13765,
+                "Diff": "19",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -445,9 +445,9 @@
                 "Rank": 18,
                 "Nombre": "CJ McCollum",
                 "Antes": 2025,
-                "Hoy": 0,
-                "Total": 2025,
-                "Diff": "61",
+                "Hoy": 1,
+                "Total": 2026,
+                "Diff": "60",
                 "Antece": "Eric Gordon",
                 "Nota": "",
                 "game_status": "playing"
@@ -803,5 +803,5 @@
         "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095."
     ],
-    "cache_buster": 1763776687
+    "cache_buster": 1763776721
 }
