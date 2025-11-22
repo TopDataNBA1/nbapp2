@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:54:14",
+    "ultima_actualizacion": "03:54:47",
     "tablas": {
         "pts": [
             {
@@ -617,9 +617,9 @@
                 "Rank": 104,
                 "Nombre": "Kevin Durant",
                 "Antes": 1186,
-                "Hoy": 1,
-                "Total": 1187,
-                "Diff": "3",
+                "Hoy": 2,
+                "Total": 1188,
+                "Diff": "2",
                 "Antece": "DeMar DeRozan",
                 "Nota": "",
                 "game_status": "playing"
@@ -1488,7 +1488,8 @@
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897.",
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660.",
-        "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
+        "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
+        "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188."
     ],
-    "cache_buster": 1763780054
+    "cache_buster": 1763780087
 }
