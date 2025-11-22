@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "21:00:07",
+    "ultima_actualizacion": "21:00:41",
     "tablas": {
         "pts": [
             {
@@ -28,11 +28,11 @@
                 "Rank": 92,
                 "Nombre": "Brook Lopez",
                 "Antes": 17613,
-                "Hoy": 5,
-                "Total": 17618,
-                "Diff": "5",
+                "Hoy": 8,
+                "Total": 17621,
+                "Diff": "2",
                 "Antece": "Rolando Blackman",
-                "Nota": "",
+                "Nota": "A tiro de 2",
                 "game_status": "playing"
             },
             {
@@ -120,9 +120,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12532,
-                "Hoy": 5,
-                "Total": 12537,
-                "Diff": "463",
+                "Hoy": 6,
+                "Total": 12538,
+                "Diff": "462",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -346,9 +346,9 @@
                 "Rank": 134,
                 "Nombre": "Brook Lopez",
                 "Antes": 1095,
-                "Hoy": 1,
-                "Total": 1096,
-                "Diff": "4",
+                "Hoy": 2,
+                "Total": 1097,
+                "Diff": "3",
                 "Antece": "Norman Powell",
                 "Nota": "",
                 "game_status": "playing"
@@ -406,5 +406,5 @@
         "Chris Paul (4 rebounds today) becomes the 194th player to reach 6,000 rebounds",
         "Chris Paul (4 rebounds today) has passed Joe Graboski and is now ranked 194th all-time in career rebounds with 6,000."
     ],
-    "cache_buster": 1763841607
+    "cache_buster": 1763841641
 }
