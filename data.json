@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:05:29",
+    "ultima_actualizacion": "04:06:03",
     "tablas": {
         "pts": [
             {
@@ -105,11 +105,11 @@
                 "Rank": 114,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 3,
-                "Total": 16621,
-                "Diff": "1",
+                "Hoy": 4,
+                "Total": 16622,
+                "Diff": "",
                 "Antece": "Jrue Holiday",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -118,7 +118,7 @@
                 "Antes": 16566,
                 "Hoy": 0,
                 "Total": 16566,
-                "Diff": "55",
+                "Diff": "56",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -505,9 +505,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3625,
-                "Hoy": 7,
-                "Total": 3632,
-                "Diff": "16",
+                "Hoy": 8,
+                "Total": 3633,
+                "Diff": "15",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -1124,14 +1124,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 126,
+                "Rank": 125,
                 "Nombre": "Anthony Edwards",
                 "Antes": 1141,
-                "Hoy": 1,
-                "Total": 1142,
-                "Diff": "1",
-                "Antece": "Karl-Anthony Towns",
-                "Nota": "A tiro de 1",
+                "Hoy": 2,
+                "Total": 1143,
+                "Diff": "5",
+                "Antece": "Steve Smith",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1491,5 +1491,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188."
     ],
-    "cache_buster": 1763780729
+    "cache_buster": 1763780763
 }
