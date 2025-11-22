@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:15:39",
+    "ultima_actualizacion": "23:16:13",
     "tablas": {
         "pts": [
             {
@@ -434,9 +434,9 @@
                 "Rank": 163,
                 "Nombre": "Mikal Bridges",
                 "Antes": 1010,
-                "Hoy": 0,
-                "Total": 1010,
-                "Diff": "5",
+                "Hoy": 1,
+                "Total": 1011,
+                "Diff": "4",
                 "Antece": "Marcus Smart",
                 "Nota": "",
                 "game_status": "playing"
@@ -517,5 +517,5 @@
         "Chris Paul (4 rebounds today) has passed Joe Graboski and is now ranked 194th all-time in career rebounds with 6,000.",
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624."
     ],
-    "cache_buster": 1763849739
+    "cache_buster": 1763849773
 }
