@@ -1,7 +1,18 @@
 {
-    "ultima_actualizacion": "01:10:54",
+    "ultima_actualizacion": "01:11:29",
     "tablas": {
         "pts": [
+            {
+                "Rank": 140,
+                "Nombre": "CJ McCollum",
+                "Antes": 15640,
+                "Hoy": 0,
+                "Total": 15640,
+                "Diff": "7",
+                "Antece": "Antoine Walker",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 210,
                 "Nombre": "Jayson Tatum",
@@ -21,6 +32,17 @@
                 "Total": 13743,
                 "Diff": "41",
                 "Antece": "Jayson Tatum",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 231,
+                "Nombre": "Khris Middleton",
+                "Antes": 13013,
+                "Hoy": 0,
+                "Total": 13013,
+                "Diff": "4",
+                "Antece": "Jeff Mullins",
                 "Nota": "",
                 "game_status": "not_started"
             }
@@ -51,6 +73,28 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 225,
+                "Nombre": "Khris Middleton",
+                "Antes": 3092,
+                "Hoy": 0,
+                "Total": 3092,
+                "Diff": "2",
+                "Antece": "Clifford Robinson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 233,
+                "Nombre": "CJ McCollum",
+                "Antes": 3052,
+                "Hoy": 0,
+                "Total": 3052,
+                "Diff": "3",
+                "Antece": "Blake Griffin",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 249,
                 "Nombre": "Tyrese Haliburton",
                 "Antes": 2947,
@@ -64,139 +108,29 @@
         ],
         "stl": [
             {
-                "Rank": 2,
-                "Nombre": "Chris Paul",
-                "Antes": 2726,
-                "Hoy": 1,
-                "Total": 2727,
-                "Diff": "73",
-                "Antece": "2800",
-                "Nota": "",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 15,
-                "Nombre": "Russell Westbrook",
-                "Antes": 1969,
+                "Rank": 236,
+                "Nombre": "Khris Middleton",
+                "Antes": 912,
                 "Hoy": 0,
-                "Total": 1969,
-                "Diff": "14",
-                "Antece": "Allen Iverson",
-                "Nota": "",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 23,
-                "Nombre": "James Harden",
-                "Antes": 1727,
-                "Hoy": 2,
-                "Total": 1729,
-                "Diff": "23",
-                "Antece": "Paul Pierce",
-                "Nota": "",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 46,
-                "Nombre": "Paul George",
-                "Antes": 1539,
-                "Hoy": 2,
-                "Total": 1541,
-                "Diff": "3",
-                "Antece": "Nate McMillan",
-                "Nota": "",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 55,
-                "Nombre": "Kyle Lowry",
-                "Antes": 1500,
-                "Hoy": 0,
-                "Total": 1500,
-                "Diff": "5",
-                "Antece": "Reggie Miller",
-                "Nota": "",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 83,
-                "Nombre": "Kawhi Leonard",
-                "Antes": 1270,
-                "Hoy": 0,
-                "Total": 1270,
-                "Diff": "3",
-                "Antece": "John Lucas",
-                "Nota": "",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 103,
-                "Nombre": "DeMar DeRozan",
-                "Antes": 1186,
-                "Hoy": 1,
-                "Total": 1187,
-                "Diff": "7",
-                "Antece": "Draymond Green",
-                "Nota": "",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 120,
-                "Nombre": "Andre Drummond",
-                "Antes": 1142,
-                "Hoy": 1,
-                "Total": 1143,
-                "Diff": "1",
-                "Antece": "Raymond Felton",
-                "Nota": "A tiro de 1",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 152,
-                "Nombre": "Kentavious Caldwell-Pope",
-                "Antes": 1069,
-                "Hoy": 1,
-                "Total": 1070,
-                "Diff": "1",
-                "Antece": "Joe Johnson",
-                "Nota": "A tiro de 1",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 168,
-                "Nombre": "Nicolas Batum",
-                "Antes": 1040,
-                "Hoy": 1,
-                "Total": 1041,
+                "Total": 912,
                 "Diff": "",
-                "Antece": "Nene",
+                "Antece": "John Long",
                 "Nota": "Mismo total",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 197,
-                "Nombre": "Giannis Antetokounmpo",
-                "Antes": 973,
-                "Hoy": 0,
-                "Total": 973,
-                "Diff": "1",
-                "Antece": "Stacey Augmon",
-                "Nota": "A tiro de 1",
-                "game_status": "finished"
-            },
-            {
-                "Rank": 246,
-                "Nombre": "Bradley Beal",
-                "Antes": 885,
-                "Hoy": 0,
-                "Total": 885,
-                "Diff": "2",
-                "Antece": "Greg Anthony",
-                "Nota": "",
-                "game_status": "finished"
+                "game_status": "not_started"
             }
         ],
         "blk": [
+            {
+                "Rank": 165,
+                "Nombre": "Jakob Poeltl",
+                "Antes": 763,
+                "Hoy": 0,
+                "Total": 763,
+                "Diff": "4",
+                "Antece": "Duane Causwell",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 184,
                 "Nombre": "Jarrett Allen",
@@ -222,6 +156,17 @@
         ],
         "fg3": [
             {
+                "Rank": 18,
+                "Nombre": "CJ McCollum",
+                "Antes": 2025,
+                "Hoy": 0,
+                "Total": 2025,
+                "Diff": "61",
+                "Antece": "Eric Gordon",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1673,
@@ -241,6 +186,17 @@
                 "Diff": "",
                 "Antece": "Eddie Jones",
                 "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 65,
+                "Nombre": "Khris Middleton",
+                "Antes": 1419,
+                "Hoy": 0,
+                "Total": 1419,
+                "Diff": "2",
+                "Antece": "Jordan Clarkson",
+                "Nota": "",
                 "game_status": "not_started"
             },
             {
@@ -440,5 +396,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763770254
+    "cache_buster": 1763770289
 }
