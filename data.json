@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:51:32",
+    "ultima_actualizacion": "01:52:07",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 140,
                 "Nombre": "CJ McCollum",
                 "Antes": 15640,
-                "Hoy": 0,
-                "Total": 15640,
-                "Diff": "7",
+                "Hoy": 2,
+                "Total": 15642,
+                "Diff": "5",
                 "Antece": "Antoine Walker",
                 "Nota": "",
                 "game_status": "playing"
@@ -109,11 +109,11 @@
                 "Rank": 225,
                 "Nombre": "Khris Middleton",
                 "Antes": 3092,
-                "Hoy": 0,
-                "Total": 3092,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 3093,
+                "Diff": "1",
                 "Antece": "Clifford Robinson",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763772692
+    "cache_buster": 1763772727
 }
