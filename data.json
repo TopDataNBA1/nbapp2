@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:03:48",
+    "ultima_actualizacion": "04:04:22",
     "tablas": {
         "pts": [
             {
@@ -505,9 +505,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3625,
-                "Hoy": 7,
-                "Total": 3632,
-                "Diff": "16",
+                "Hoy": 6,
+                "Total": 3631,
+                "Diff": "17",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -1491,5 +1491,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188."
     ],
-    "cache_buster": 1763780628
+    "cache_buster": 1763780662
 }
