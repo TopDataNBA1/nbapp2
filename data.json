@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "04:27:30",
+    "ultima_actualizacion": "04:28:04",
     "tablas": {
         "pts": [
             {
                 "Rank": 8,
                 "Nombre": "Kevin Durant",
                 "Antes": 30902,
-                "Hoy": 6,
-                "Total": 30908,
-                "Diff": "92",
+                "Hoy": 9,
+                "Total": 30911,
+                "Diff": "89",
                 "Antece": "31000",
                 "Nota": "",
                 "game_status": "playing"
@@ -138,9 +138,9 @@
                 "Rank": 149,
                 "Nombre": "Kevin Love",
                 "Antes": 15455,
-                "Hoy": 0,
-                "Total": 15455,
-                "Diff": "75",
+                "Hoy": 3,
+                "Total": 15458,
+                "Diff": "72",
                 "Antece": "Bob Dandridge",
                 "Nota": "",
                 "game_status": "playing"
@@ -272,9 +272,9 @@
                 "Rank": 58,
                 "Nombre": "Al Horford",
                 "Antes": 8988,
-                "Hoy": 0,
-                "Total": 8988,
-                "Diff": "12",
+                "Hoy": 1,
+                "Total": 8989,
+                "Diff": "11",
                 "Antece": "9000",
                 "Nota": "",
                 "game_status": "playing"
@@ -316,9 +316,9 @@
                 "Rank": 83,
                 "Nombre": "Kevin Durant",
                 "Antes": 7887,
-                "Hoy": 2,
-                "Total": 7889,
-                "Diff": "111",
+                "Hoy": 3,
+                "Total": 7890,
+                "Diff": "110",
                 "Antece": "8000",
                 "Nota": "",
                 "game_status": "playing"
@@ -360,9 +360,9 @@
                 "Rank": 179,
                 "Nombre": "Draymond Green",
                 "Antes": 6174,
-                "Hoy": 1,
-                "Total": 6175,
-                "Diff": "16",
+                "Hoy": 0,
+                "Total": 6174,
+                "Diff": "17",
                 "Antece": "Zydrunas Ilgauskas",
                 "Nota": "",
                 "game_status": "playing"
@@ -494,11 +494,11 @@
                 "Rank": 163,
                 "Nombre": "Al Horford",
                 "Antes": 3648,
-                "Hoy": 0,
-                "Total": 3648,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 3649,
+                "Diff": "1",
                 "Antece": "Elgin Baylor",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -507,7 +507,7 @@
                 "Antes": 3625,
                 "Hoy": 8,
                 "Total": 3633,
-                "Diff": "15",
+                "Diff": "16",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -707,9 +707,9 @@
                 "Rank": 52,
                 "Nombre": "Al Horford",
                 "Antes": 1311,
-                "Hoy": 2,
-                "Total": 1313,
-                "Diff": "14",
+                "Hoy": 1,
+                "Total": 1312,
+                "Diff": "15",
                 "Antece": "Zydrunas Ilgauskas",
                 "Nota": "",
                 "game_status": "playing"
@@ -896,9 +896,9 @@
                 "Rank": 13,
                 "Nombre": "Kevin Durant",
                 "Antes": 2214,
-                "Hoy": 0,
-                "Total": 2214,
-                "Diff": "7",
+                "Hoy": 1,
+                "Total": 2215,
+                "Diff": "6",
                 "Antece": "Jamal Crawford",
                 "Nota": "",
                 "game_status": "playing"
@@ -962,9 +962,9 @@
                 "Rank": 38,
                 "Nombre": "Kevin Love",
                 "Antes": 1680,
-                "Hoy": 0,
-                "Total": 1680,
-                "Diff": "5",
+                "Hoy": 1,
+                "Total": 1681,
+                "Diff": "4",
                 "Antece": "Steve Nash",
                 "Nota": "",
                 "game_status": "playing"
@@ -975,7 +975,7 @@
                 "Antes": 1673,
                 "Hoy": 4,
                 "Total": 1677,
-                "Diff": "3",
+                "Diff": "4",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "finished"
@@ -1393,9 +1393,9 @@
                 "Rank": 68,
                 "Nombre": "Al Horford",
                 "Antes": 1149,
-                "Hoy": 0,
-                "Total": 1149,
-                "Diff": "4",
+                "Hoy": 1,
+                "Total": 1150,
+                "Diff": "3",
                 "Antece": "Jerome Kersey",
                 "Nota": "",
                 "game_status": "playing"
@@ -1456,14 +1456,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 200,
+                "Rank": 199,
                 "Nombre": "Kevin Love",
                 "Antes": 960,
-                "Hoy": 0,
-                "Total": 960,
-                "Diff": "1",
-                "Antece": "Lamar Odom",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 961,
+                "Diff": "",
+                "Antece": "Brad Davis",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1494,5 +1494,5 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763782050
+    "cache_buster": 1763782084
 }
