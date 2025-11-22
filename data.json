@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:28:38",
+    "ultima_actualizacion": "04:29:12",
     "tablas": {
         "pts": [
             {
@@ -1083,9 +1083,9 @@
                 "Rank": 109,
                 "Nombre": "Lauri Markkanen",
                 "Antes": 1194,
-                "Hoy": 1,
-                "Total": 1195,
-                "Diff": "5",
+                "Hoy": 2,
+                "Total": 1196,
+                "Diff": "4",
                 "Antece": "1200",
                 "Nota": "",
                 "game_status": "playing"
@@ -1494,5 +1494,5 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763782118
+    "cache_buster": 1763782152
 }
