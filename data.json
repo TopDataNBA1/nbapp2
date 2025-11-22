@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:38:50",
+    "ultima_actualizacion": "04:39:24",
     "tablas": {
         "pts": [
             {
@@ -138,9 +138,9 @@
                 "Rank": 149,
                 "Nombre": "Kevin Love",
                 "Antes": 15455,
-                "Hoy": 9,
-                "Total": 15464,
-                "Diff": "66",
+                "Hoy": 12,
+                "Total": 15467,
+                "Diff": "63",
                 "Antece": "Bob Dandridge",
                 "Nota": "",
                 "game_status": "playing"
@@ -962,11 +962,11 @@
                 "Rank": 38,
                 "Nombre": "Kevin Love",
                 "Antes": 1680,
-                "Hoy": 3,
-                "Total": 1683,
-                "Diff": "2",
+                "Hoy": 4,
+                "Total": 1684,
+                "Diff": "1",
                 "Antece": "Steve Nash",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -975,7 +975,7 @@
                 "Antes": 1673,
                 "Hoy": 4,
                 "Total": 1677,
-                "Diff": "6",
+                "Diff": "7",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "finished"
@@ -1495,5 +1495,5 @@
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
     ],
-    "cache_buster": 1763782730
+    "cache_buster": 1763782764
 }
