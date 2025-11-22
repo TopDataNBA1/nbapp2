@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:52:28",
+    "ultima_actualizacion": "04:53:02",
     "tablas": {
         "pts": [
             {
@@ -338,9 +338,9 @@
                 "Rank": 150,
                 "Nombre": "Julius Randle",
                 "Antes": 6603,
-                "Hoy": 3,
-                "Total": 6606,
-                "Diff": "8",
+                "Hoy": 4,
+                "Total": 6607,
+                "Diff": "7",
                 "Antece": "Thaddeus Young",
                 "Nota": "",
                 "game_status": "playing"
@@ -368,14 +368,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 246,
+                "Rank": 245,
                 "Nombre": "Jusuf Nurkic",
                 "Antes": 5353,
-                "Hoy": 2,
-                "Total": 5355,
-                "Diff": "1",
-                "Antece": "Trevor Ariza",
-                "Nota": "A tiro de 1",
+                "Hoy": 3,
+                "Total": 5356,
+                "Diff": "10",
+                "Antece": "Jerry West",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1493,7 +1493,8 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
-        "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
+        "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917.",
+        "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607."
     ],
-    "cache_buster": 1763783548
+    "cache_buster": 1763783582
 }
