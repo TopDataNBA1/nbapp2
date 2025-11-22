@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "20:51:30",
+    "ultima_actualizacion": "20:52:04",
     "tablas": {
         "pts": [
             {
@@ -131,9 +131,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Antes": 8437,
-                "Hoy": 5,
-                "Total": 8442,
-                "Diff": "82",
+                "Hoy": 6,
+                "Total": 8443,
+                "Diff": "81",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -302,9 +302,9 @@
                 "Rank": 32,
                 "Nombre": "Nicolas Batum",
                 "Antes": 1768,
-                "Hoy": 1,
-                "Total": 1769,
-                "Diff": "18",
+                "Hoy": 2,
+                "Total": 1770,
+                "Diff": "17",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763841090
+    "cache_buster": 1763841124
 }
