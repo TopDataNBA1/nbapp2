@@ -1,7 +1,18 @@
 {
-    "ultima_actualizacion": "01:02:37",
+    "ultima_actualizacion": "01:03:12",
     "tablas": {
         "pts": [
+            {
+                "Rank": 210,
+                "Nombre": "Jayson Tatum",
+                "Antes": 13784,
+                "Hoy": 0,
+                "Total": 13784,
+                "Diff": "6",
+                "Antece": "Bill Laimbeer",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
@@ -196,6 +207,17 @@
                 "Antece": "Clemon Johnson",
                 "Nota": "",
                 "game_status": "not_started"
+            },
+            {
+                "Rank": 251,
+                "Nombre": "Nic Claxton",
+                "Antes": 553,
+                "Hoy": 0,
+                "Total": 553,
+                "Diff": "",
+                "Antece": "Nate Thurmond",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
             }
         ],
         "fg3": [
@@ -211,6 +233,50 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 51,
+                "Nombre": "Jayson Tatum",
+                "Antes": 1546,
+                "Hoy": 0,
+                "Total": 1546,
+                "Diff": "",
+                "Antece": "Eddie Jones",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 114,
+                "Nombre": "Jaylen Brown",
+                "Antes": 1174,
+                "Hoy": 0,
+                "Total": 1174,
+                "Diff": "",
+                "Antece": "Andrew Wiggins",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 165,
+                "Nombre": "Anfernee Simons",
+                "Antes": 1007,
+                "Hoy": 0,
+                "Total": 1007,
+                "Diff": "2",
+                "Antece": "Morris Peterson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 178,
+                "Nombre": "Derrick White",
+                "Antes": 984,
+                "Hoy": 0,
+                "Total": 984,
+                "Diff": "2",
+                "Antece": "Doug McDermott",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 216,
                 "Nombre": "Darius Garland",
                 "Antes": 904,
@@ -219,6 +285,17 @@
                 "Diff": "2",
                 "Antece": "Grayson Allen",
                 "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 221,
+                "Nombre": "Michael Porter Jr.",
+                "Antes": 884,
+                "Hoy": 0,
+                "Total": 884,
+                "Diff": "1",
+                "Antece": "Davis Bertans",
+                "Nota": "A tiro de 1",
                 "game_status": "not_started"
             },
             {
@@ -363,5 +440,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763769757
+    "cache_buster": 1763769792
 }
