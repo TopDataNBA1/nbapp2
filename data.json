@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:14:31",
+    "ultima_actualizacion": "04:15:05",
     "tablas": {
         "pts": [
             {
@@ -406,9 +406,9 @@
                 "Rank": 28,
                 "Nombre": "Stephen Curry",
                 "Antes": 6593,
-                "Hoy": 0,
-                "Total": 6593,
-                "Diff": "87",
+                "Hoy": 1,
+                "Total": 6594,
+                "Diff": "86",
                 "Antece": "Mike Conley",
                 "Nota": "",
                 "game_status": "playing"
@@ -828,9 +828,9 @@
                 "Rank": 230,
                 "Nombre": "Daniel Gafford",
                 "Antes": 600,
-                "Hoy": 0,
-                "Total": 600,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 601,
+                "Diff": "2",
                 "Antece": "Jamaal Magloire",
                 "Nota": "",
                 "game_status": "playing"
@@ -1437,11 +1437,11 @@
                 "Rank": 131,
                 "Nombre": "Stephen Curry",
                 "Antes": 1039,
-                "Hoy": 0,
-                "Total": 1039,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 1040,
+                "Diff": "",
                 "Antece": "Oscar Robertson",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1493,5 +1493,5 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763781271
+    "cache_buster": 1763781305
 }
