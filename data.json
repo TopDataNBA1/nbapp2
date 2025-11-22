@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:19:03",
+    "ultima_actualizacion": "23:19:37",
     "tablas": {
         "pts": [
             {
@@ -308,13 +308,13 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 221,
+                "Rank": 220,
                 "Nombre": "Mitchell Robinson",
                 "Antes": 628,
-                "Hoy": 0,
-                "Total": 628,
+                "Hoy": 1,
+                "Total": 629,
                 "Diff": "1",
-                "Antece": "Spencer Haywood",
+                "Antece": "DeSagana Diop",
                 "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
@@ -517,5 +517,5 @@
         "Chris Paul (4 rebounds today) has passed Joe Graboski and is now ranked 194th all-time in career rebounds with 6,000.",
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624."
     ],
-    "cache_buster": 1763849943
+    "cache_buster": 1763849977
 }
