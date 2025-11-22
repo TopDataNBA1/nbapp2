@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:41:00",
+    "ultima_actualizacion": "01:41:36",
     "tablas": {
         "pts": [
             {
@@ -44,7 +44,7 @@
                 "Diff": "6",
                 "Antece": "Bill Laimbeer",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 211,
@@ -195,7 +195,7 @@
                 "Diff": "",
                 "Antece": "Nate Thurmond",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "fg3": [
@@ -230,7 +230,7 @@
                 "Diff": "",
                 "Antece": "Eddie Jones",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 65,
@@ -274,7 +274,7 @@
                 "Diff": "",
                 "Antece": "Andrew Wiggins",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 133,
@@ -307,7 +307,7 @@
                 "Diff": "2",
                 "Antece": "Morris Peterson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 171,
@@ -329,7 +329,7 @@
                 "Diff": "2",
                 "Antece": "Doug McDermott",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 179,
@@ -373,7 +373,7 @@
                 "Diff": "1",
                 "Antece": "Davis Bertans",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 236,
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763772060
+    "cache_buster": 1763772096
 }
