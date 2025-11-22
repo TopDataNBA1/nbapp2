@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:10:08",
+    "ultima_actualizacion": "02:10:43",
     "tablas": {
         "pts": [
             {
@@ -541,14 +541,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 220,
+                "Rank": 221,
                 "Nombre": "Michael Porter Jr.",
                 "Antes": 884,
-                "Hoy": 2,
-                "Total": 886,
-                "Diff": "7",
-                "Antece": "Will Barton",
-                "Nota": "",
+                "Hoy": 1,
+                "Total": 885,
+                "Diff": "",
+                "Antece": "Davis Bertans",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -591,5 +591,5 @@
     "notificaciones": [
         "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886."
     ],
-    "cache_buster": 1763773808
+    "cache_buster": 1763773843
 }
