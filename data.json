@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:51:19",
+    "ultima_actualizacion": "04:51:54",
     "tablas": {
         "pts": [
             {
@@ -179,14 +179,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 203,
+                "Rank": 202,
                 "Nombre": "Julius Randle",
                 "Antes": 13892,
-                "Hoy": 17,
-                "Total": 13909,
-                "Diff": "1",
-                "Antece": "Ron Harper",
-                "Nota": "A tiro de 1",
+                "Hoy": 18,
+                "Total": 13910,
+                "Diff": "",
+                "Antece": "Alvan Adams",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1495,5 +1495,5 @@
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
     ],
-    "cache_buster": 1763783479
+    "cache_buster": 1763783514
 }
