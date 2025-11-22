@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:10:39",
+    "ultima_actualizacion": "19:11:13",
     "tablas": {
         "pts": [
             {
@@ -11,7 +11,7 @@
                 "Diff": "231",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 36,
@@ -22,7 +22,7 @@
                 "Diff": "113",
                 "Antece": "Elgin Baylor",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 92,
@@ -33,7 +33,7 @@
                 "Diff": "10",
                 "Antece": "Rolando Blackman",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 98,
@@ -44,7 +44,7 @@
                 "Diff": "29",
                 "Antece": "Kevin McHale",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 162,
@@ -55,7 +55,7 @@
                 "Diff": "25",
                 "Antece": "Richard Jefferson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "trb": [
@@ -68,7 +68,7 @@
                 "Diff": "78",
                 "Antece": "Clarence Weatherspoo",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 155,
@@ -79,7 +79,7 @@
                 "Diff": "15",
                 "Antece": "Joe Smith",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 197,
@@ -90,7 +90,7 @@
                 "Diff": "",
                 "Antece": "Alton Lister",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 211,
@@ -101,7 +101,7 @@
                 "Diff": "19",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 236,
@@ -112,7 +112,7 @@
                 "Diff": "8",
                 "Antece": "Hassan Whiteside",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "ast": [
@@ -125,7 +125,7 @@
                 "Diff": "468",
                 "Antece": "13000",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 13,
@@ -136,7 +136,7 @@
                 "Diff": "87",
                 "Antece": "Andre Miller",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 171,
@@ -147,7 +147,7 @@
                 "Diff": "4",
                 "Antece": "T.J. McConnell",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 186,
@@ -158,7 +158,7 @@
                 "Diff": "4",
                 "Antece": "Steve Blake",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "stl": [
@@ -171,7 +171,7 @@
                 "Diff": "73",
                 "Antece": "2800",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 23,
@@ -182,7 +182,7 @@
                 "Diff": "23",
                 "Antece": "Paul Pierce",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 83,
@@ -193,7 +193,7 @@
                 "Diff": "3",
                 "Antece": "John Lucas",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 168,
@@ -204,7 +204,7 @@
                 "Diff": "",
                 "Antece": "Nene",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 246,
@@ -215,7 +215,7 @@
                 "Diff": "2",
                 "Antece": "Greg Anthony",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "blk": [
@@ -228,7 +228,7 @@
                 "Diff": "9",
                 "Antece": "George Johnson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 188,
@@ -239,7 +239,7 @@
                 "Diff": "1",
                 "Antece": "Billy Paultz",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 189,
@@ -250,7 +250,7 @@
                 "Diff": "2",
                 "Antece": "Nicolas Batum",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 201,
@@ -261,7 +261,7 @@
                 "Diff": "6",
                 "Antece": "Bill Cartwright",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 237,
@@ -272,7 +272,7 @@
                 "Diff": "1",
                 "Antece": "Greg Anderson",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "fg3": [
@@ -285,7 +285,7 @@
                 "Diff": "73",
                 "Antece": "3300",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 27,
@@ -296,7 +296,7 @@
                 "Diff": "10",
                 "Antece": "Kyrie Irving",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 32,
@@ -307,7 +307,7 @@
                 "Diff": "19",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 35,
@@ -318,7 +318,7 @@
                 "Diff": "7",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 92,
@@ -329,7 +329,7 @@
                 "Diff": "1",
                 "Antece": "Shane Battier",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 108,
@@ -340,7 +340,7 @@
                 "Diff": "4",
                 "Antece": "Jeff Green",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 134,
@@ -351,7 +351,7 @@
                 "Diff": "5",
                 "Antece": "Norman Powell",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "g": [
@@ -364,7 +364,7 @@
                 "Diff": "16",
                 "Antece": "Clifford Robinson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 62,
@@ -375,7 +375,7 @@
                 "Diff": "",
                 "Antece": "Horace Grant",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 69,
@@ -386,7 +386,7 @@
                 "Diff": "4",
                 "Antece": "Al Horford",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 77,
@@ -397,10 +397,10 @@
                 "Diff": "2",
                 "Antece": "Hal Greer",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763835039
+    "cache_buster": 1763835073
 }
