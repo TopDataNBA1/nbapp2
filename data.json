@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "05:12:40",
+    "ultima_actualizacion": "05:13:14",
     "tablas": {
         "pts": [
             {
                 "Rank": 8,
                 "Nombre": "Kevin Durant",
                 "Antes": 30902,
-                "Hoy": 10,
-                "Total": 30912,
-                "Diff": "88",
+                "Hoy": 11,
+                "Total": 30913,
+                "Diff": "87",
                 "Antece": "31000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1498,5 +1498,5 @@
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651.",
         "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358."
     ],
-    "cache_buster": 1763784760
+    "cache_buster": 1763784794
 }
