@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:11:52",
+    "ultima_actualizacion": "02:12:27",
     "tablas": {
         "pts": [
             {
@@ -33,7 +33,7 @@
                 "Diff": "8",
                 "Antece": "Bob Cousy",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 112,
@@ -66,7 +66,7 @@
                 "Diff": "5",
                 "Antece": "Jeff Green",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 210,
@@ -123,7 +123,7 @@
                 "Diff": "62",
                 "Antece": "Otis Thorpe",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 70,
@@ -283,7 +283,7 @@
                 "Diff": "13",
                 "Antece": "Kenyon Martin",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 165,
@@ -417,7 +417,7 @@
                 "Diff": "3",
                 "Antece": "Evan Fournier",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 113,
@@ -439,7 +439,7 @@
                 "Diff": "1",
                 "Antece": "Jaylen Brown",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 133,
@@ -450,7 +450,7 @@
                 "Diff": "2",
                 "Antece": "1100",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 155,
@@ -461,7 +461,7 @@
                 "Diff": "",
                 "Antece": "Isaiah Thomas",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 160,
@@ -478,11 +478,11 @@
                 "Rank": 165,
                 "Nombre": "Anfernee Simons",
                 "Antes": 1007,
-                "Hoy": 0,
-                "Total": 1007,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 1008,
+                "Diff": "1",
                 "Antece": "Morris Peterson",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -494,7 +494,7 @@
                 "Diff": "3",
                 "Antece": "Rafer Alston",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 178,
@@ -516,7 +516,7 @@
                 "Diff": "",
                 "Antece": "Derrick White",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 203,
@@ -527,7 +527,7 @@
                 "Diff": "6",
                 "Antece": "Chucky Atkins",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 215,
@@ -584,12 +584,12 @@
                 "Diff": "",
                 "Antece": "Mike Dunleavy",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ]
     },
     "notificaciones": [
         "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886."
     ],
-    "cache_buster": 1763773912
+    "cache_buster": 1763773947
 }
