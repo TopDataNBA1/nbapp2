@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:44:41",
+    "ultima_actualizacion": "19:45:16",
     "tablas": {
         "pts": [
             {
@@ -120,9 +120,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12532,
-                "Hoy": 2,
-                "Total": 12534,
-                "Diff": "466",
+                "Hoy": 3,
+                "Total": 12535,
+                "Diff": "465",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -302,9 +302,9 @@
                 "Rank": 32,
                 "Nombre": "Nicolas Batum",
                 "Antes": 1768,
-                "Hoy": 0,
-                "Total": 1768,
-                "Diff": "19",
+                "Hoy": 1,
+                "Total": 1769,
+                "Diff": "18",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763837081
+    "cache_buster": 1763837116
 }
