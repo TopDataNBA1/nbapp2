@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:41:18",
+    "ultima_actualizacion": "05:41:52",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 28,
-                "Total": 16646,
-                "Diff": "40",
+                "Hoy": 30,
+                "Total": 16648,
+                "Diff": "38",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,7 +107,7 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "24",
+                "Diff": "26",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -250,9 +250,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 12,
-                "Total": 9861,
-                "Diff": "139",
+                "Hoy": 11,
+                "Total": 9860,
+                "Diff": "140",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -272,9 +272,9 @@
                 "Rank": 58,
                 "Nombre": "Al Horford",
                 "Antes": 8988,
-                "Hoy": 5,
-                "Total": 8993,
-                "Diff": "7",
+                "Hoy": 6,
+                "Total": 8994,
+                "Diff": "6",
                 "Antece": "9000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763786478
+    "cache_buster": 1763786512
 }
