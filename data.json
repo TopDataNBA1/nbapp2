@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:37:08",
+    "ultima_actualizacion": "04:37:41",
     "tablas": {
         "pts": [
             {
@@ -182,11 +182,11 @@
                 "Rank": 203,
                 "Nombre": "Julius Randle",
                 "Antes": 13892,
-                "Hoy": 14,
-                "Total": 13906,
-                "Diff": "4",
+                "Hoy": 15,
+                "Total": 13907,
+                "Diff": "3",
                 "Antece": "Ron Harper",
-                "Nota": "",
+                "Nota": "A tiro de 3",
                 "game_status": "playing"
             },
             {
@@ -305,9 +305,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8326,
-                "Hoy": 7,
-                "Total": 8333,
-                "Diff": "76",
+                "Hoy": 8,
+                "Total": 8334,
+                "Diff": "75",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -439,9 +439,9 @@
                 "Rank": 54,
                 "Nombre": "Nikola Jokic",
                 "Antes": 5539,
-                "Hoy": 3,
-                "Total": 5542,
-                "Diff": "82",
+                "Hoy": 4,
+                "Total": 5543,
+                "Diff": "81",
                 "Antece": "Allen Iverson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1281,9 +1281,9 @@
                 "Rank": 211,
                 "Nombre": "Dillon Brooks",
                 "Antes": 914,
-                "Hoy": 2,
-                "Total": 916,
-                "Diff": "4",
+                "Hoy": 3,
+                "Total": 917,
+                "Diff": "3",
                 "Antece": "Jose Calderon",
                 "Nota": "",
                 "game_status": "playing"
@@ -1492,7 +1492,8 @@
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188.",
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
-        "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
+        "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
+        "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
     ],
-    "cache_buster": 1763782628
+    "cache_buster": 1763782661
 }
