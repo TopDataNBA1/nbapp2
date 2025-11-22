@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:54:47",
+    "ultima_actualizacion": "03:55:21",
     "tablas": {
         "pts": [
             {
@@ -198,7 +198,7 @@
                 "Diff": "6",
                 "Antece": "Bill Laimbeer",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 211,
@@ -505,9 +505,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3625,
-                "Hoy": 4,
-                "Total": 3629,
-                "Diff": "19",
+                "Hoy": 5,
+                "Total": 3630,
+                "Diff": "18",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -855,7 +855,7 @@
                 "Diff": "5",
                 "Antece": "Lonnie Shelton",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "fg3": [
@@ -1011,7 +1011,7 @@
                 "Diff": "",
                 "Antece": "Eddie Jones",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 62,
@@ -1110,7 +1110,7 @@
                 "Diff": "3",
                 "Antece": "Deron Williams",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 114,
@@ -1176,7 +1176,7 @@
                 "Diff": "1",
                 "Antece": "Mikal Bridges",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 171,
@@ -1209,7 +1209,7 @@
                 "Diff": "1",
                 "Antece": "Doug McDermott",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 179,
@@ -1319,7 +1319,7 @@
                 "Diff": "5",
                 "Antece": "Will Barton",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 223,
@@ -1491,5 +1491,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188."
     ],
-    "cache_buster": 1763780087
+    "cache_buster": 1763780121
 }
