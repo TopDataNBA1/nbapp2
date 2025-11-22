@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:22:56",
+    "ultima_actualizacion": "02:23:32",
     "tablas": {
         "pts": [
             {
@@ -183,14 +183,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 225,
+                "Rank": 224,
                 "Nombre": "Khris Middleton",
                 "Antes": 3092,
-                "Hoy": 2,
-                "Total": 3094,
-                "Diff": "",
-                "Antece": "Clifford Robinson",
-                "Nota": "Mismo total",
+                "Hoy": 3,
+                "Total": 3095,
+                "Diff": "16",
+                "Antece": "Foots Walker",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -591,7 +591,8 @@
     "notificaciones": [
         "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886.",
         "Darius Garland (3 three-pointers today) has passed Grayson Allen and is now ranked 215th all-time in career three-pointers with 907.",
-        "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648."
+        "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
+        "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095."
     ],
-    "cache_buster": 1763774576
+    "cache_buster": 1763774612
 }
