@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:18:39",
+    "ultima_actualizacion": "03:19:13",
     "tablas": {
         "pts": [
             {
@@ -127,9 +127,9 @@
                 "Rank": 203,
                 "Nombre": "Julius Randle",
                 "Antes": 13892,
-                "Hoy": 5,
-                "Total": 13897,
-                "Diff": "13",
+                "Hoy": 8,
+                "Total": 13900,
+                "Diff": "10",
                 "Antece": "Ron Harper",
                 "Nota": "",
                 "game_status": "playing"
@@ -1003,13 +1003,13 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 228,
+                "Rank": 227,
                 "Nombre": "Julius Randle",
                 "Antes": 877,
-                "Hoy": 1,
-                "Total": 878,
+                "Hoy": 2,
+                "Total": 879,
                 "Diff": "1",
-                "Antece": "Reggie Bullock",
+                "Antece": "P.J. Tucker",
                 "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
@@ -1113,5 +1113,5 @@
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897."
     ],
-    "cache_buster": 1763777919
+    "cache_buster": 1763777953
 }
