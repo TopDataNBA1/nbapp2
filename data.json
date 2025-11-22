@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:13:36",
+    "ultima_actualizacion": "02:14:11",
     "tablas": {
         "pts": [
             {
@@ -83,9 +83,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 10,
-                "Total": 13753,
-                "Diff": "31",
+                "Hoy": 12,
+                "Total": 13755,
+                "Diff": "29",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -591,5 +591,5 @@
     "notificaciones": [
         "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886."
     ],
-    "cache_buster": 1763774016
+    "cache_buster": 1763774051
 }
