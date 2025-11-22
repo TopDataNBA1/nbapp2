@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:41:07",
+    "ultima_actualizacion": "04:41:40",
     "tablas": {
         "pts": [
             {
@@ -685,9 +685,9 @@
                 "Rank": 29,
                 "Nombre": "Rudy Gobert",
                 "Antes": 1744,
-                "Hoy": 0,
-                "Total": 1744,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 1745,
+                "Diff": "2",
                 "Antece": "Artis Gilmore",
                 "Nota": "",
                 "game_status": "playing"
@@ -1495,5 +1495,5 @@
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
     ],
-    "cache_buster": 1763782867
+    "cache_buster": 1763782900
 }
