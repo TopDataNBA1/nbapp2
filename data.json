@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:33:25",
+    "ultima_actualizacion": "03:33:58",
     "tablas": {
         "pts": [
             {
@@ -505,9 +505,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3625,
-                "Hoy": 3,
-                "Total": 3628,
-                "Diff": "20",
+                "Hoy": 4,
+                "Total": 3629,
+                "Diff": "19",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -1488,5 +1488,5 @@
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897.",
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605."
     ],
-    "cache_buster": 1763778805
+    "cache_buster": 1763778838
 }
