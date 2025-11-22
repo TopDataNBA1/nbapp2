@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:41:51",
+    "ultima_actualizacion": "03:42:25",
     "tablas": {
         "pts": [
             {
@@ -209,7 +209,7 @@
                 "Diff": "9",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 231,
@@ -387,7 +387,7 @@
                 "Diff": "2",
                 "Antece": "Mark West",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "ast": [
@@ -521,7 +521,7 @@
                 "Diff": "",
                 "Antece": "Pete Maravich",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 220,
@@ -565,7 +565,7 @@
                 "Diff": "15",
                 "Antece": "Tom Gola",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "stl": [
@@ -800,7 +800,7 @@
                 "Diff": "2",
                 "Antece": "Clemon Johnson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 186,
@@ -978,7 +978,7 @@
                 "Diff": "3",
                 "Antece": "Kevin Love",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 42,
@@ -1297,7 +1297,7 @@
                 "Diff": "4",
                 "Antece": "Rasual Butler",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 216,
@@ -1352,7 +1352,7 @@
                 "Diff": "3",
                 "Antece": "Avery Bradley",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 242,
@@ -1489,5 +1489,5 @@
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660."
     ],
-    "cache_buster": 1763779311
+    "cache_buster": 1763779345
 }
