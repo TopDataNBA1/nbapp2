@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:25:48",
+    "ultima_actualizacion": "04:26:22",
     "tablas": {
         "pts": [
             {
@@ -182,9 +182,9 @@
                 "Rank": 203,
                 "Nombre": "Julius Randle",
                 "Antes": 13892,
-                "Hoy": 10,
-                "Total": 13902,
-                "Diff": "8",
+                "Hoy": 11,
+                "Total": 13903,
+                "Diff": "7",
                 "Antece": "Ron Harper",
                 "Nota": "",
                 "game_status": "playing"
@@ -1493,5 +1493,5 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763781948
+    "cache_buster": 1763781982
 }
