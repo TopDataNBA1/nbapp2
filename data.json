@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "21:17:25",
+    "ultima_actualizacion": "21:17:59",
     "tablas": {
         "pts": [
             {
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Antes": 28058,
-                "Hoy": 52,
-                "Total": 28110,
-                "Diff": "179",
+                "Hoy": 55,
+                "Total": 28113,
+                "Diff": "176",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -280,9 +280,9 @@
                 "Rank": 2,
                 "Nombre": "James Harden",
                 "Antes": 3227,
-                "Hoy": 9,
-                "Total": 3236,
-                "Diff": "64",
+                "Hoy": 10,
+                "Total": 3237,
+                "Diff": "63",
                 "Antece": "3300",
                 "Nota": "",
                 "game_status": "playing"
@@ -407,5 +407,5 @@
         "Chris Paul (4 rebounds today) has passed Joe Graboski and is now ranked 194th all-time in career rebounds with 6,000.",
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624."
     ],
-    "cache_buster": 1763842645
+    "cache_buster": 1763842679
 }
