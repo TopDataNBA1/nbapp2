@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:46:51",
+    "ultima_actualizacion": "23:47:25",
     "tablas": {
         "pts": [
             {
@@ -186,9 +186,9 @@
                 "Rank": 234,
                 "Nombre": "Tyus Jones",
                 "Antes": 3045,
-                "Hoy": 0,
-                "Total": 3045,
-                "Diff": "10",
+                "Hoy": 1,
+                "Total": 3046,
+                "Diff": "9",
                 "Antece": "CJ McCollum",
                 "Nota": "",
                 "game_status": "playing"
@@ -456,9 +456,9 @@
                 "Rank": 243,
                 "Nombre": "Desmond Bane",
                 "Antes": 838,
-                "Hoy": 1,
-                "Total": 839,
-                "Diff": "5",
+                "Hoy": 2,
+                "Total": 840,
+                "Diff": "4",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -518,5 +518,5 @@
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624.",
         "Mitchell Robinson (2 blocks today) has passed Spencer Haywood and is now ranked 220th all-time in career blocks with 630."
     ],
-    "cache_buster": 1763851611
+    "cache_buster": 1763851645
 }
