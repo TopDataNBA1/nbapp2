@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:17:55",
+    "ultima_actualizacion": "23:18:29",
     "tablas": {
         "pts": [
             {
@@ -456,9 +456,9 @@
                 "Rank": 243,
                 "Nombre": "Desmond Bane",
                 "Antes": 838,
-                "Hoy": 0,
-                "Total": 838,
-                "Diff": "6",
+                "Hoy": 1,
+                "Total": 839,
+                "Diff": "5",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -517,5 +517,5 @@
         "Chris Paul (4 rebounds today) has passed Joe Graboski and is now ranked 194th all-time in career rebounds with 6,000.",
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624."
     ],
-    "cache_buster": 1763849875
+    "cache_buster": 1763849909
 }
