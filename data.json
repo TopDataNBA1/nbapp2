@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:43:32",
+    "ultima_actualizacion": "19:44:06",
     "tablas": {
         "pts": [
             {
@@ -196,14 +196,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 168,
+                "Rank": 165,
                 "Nombre": "Nicolas Batum",
                 "Antes": 1041,
-                "Hoy": 0,
-                "Total": 1041,
-                "Diff": "",
-                "Antece": "Nene",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 1042,
+                "Diff": "2",
+                "Antece": "Darwin Cook",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763837012
+    "cache_buster": 1763837046
 }
