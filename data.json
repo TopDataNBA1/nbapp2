@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:26:36",
+    "ultima_actualizacion": "03:27:10",
     "tablas": {
         "pts": [
             {
@@ -1052,9 +1052,9 @@
                 "Rank": 53,
                 "Nombre": "Mike Conley",
                 "Antes": 1187,
-                "Hoy": 0,
-                "Total": 1187,
-                "Diff": "6",
+                "Hoy": 1,
+                "Total": 1188,
+                "Diff": "5",
                 "Antece": "Alex English",
                 "Nota": "",
                 "game_status": "playing"
@@ -1113,5 +1113,5 @@
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897."
     ],
-    "cache_buster": 1763778396
+    "cache_buster": 1763778430
 }
