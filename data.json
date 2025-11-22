@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:03:16",
+    "ultima_actualizacion": "03:03:50",
     "tablas": {
         "pts": [
             {
@@ -39,9 +39,9 @@
                 "Rank": 107,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 16952,
-                "Hoy": 2,
-                "Total": 16954,
-                "Diff": "6",
+                "Hoy": 4,
+                "Total": 16956,
+                "Diff": "4",
                 "Antece": "Bob Cousy",
                 "Nota": "",
                 "game_status": "playing"
@@ -52,7 +52,7 @@
                 "Antes": 16869,
                 "Hoy": 0,
                 "Total": 16869,
-                "Diff": "85",
+                "Diff": "87",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "not_started"
@@ -149,9 +149,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 22,
-                "Total": 13765,
-                "Diff": "19",
+                "Hoy": 24,
+                "Total": 13767,
+                "Diff": "17",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -1112,5 +1112,5 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763776996
+    "cache_buster": 1763777030
 }
