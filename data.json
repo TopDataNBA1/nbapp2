@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:43:32",
+    "ultima_actualizacion": "03:44:05",
     "tablas": {
         "pts": [
             {
@@ -1091,14 +1091,14 @@
                 "game_status": "not_started"
             },
             {
-                "Rank": 112,
+                "Rank": 111,
                 "Nombre": "Jamal Murray",
                 "Antes": 1178,
-                "Hoy": 0,
-                "Total": 1178,
-                "Diff": "",
-                "Antece": "Deron Williams",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 1179,
+                "Diff": "7",
+                "Antece": "Rudy Gay",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1108,7 +1108,7 @@
                 "Hoy": 1,
                 "Total": 1175,
                 "Diff": "3",
-                "Antece": "Jamal Murray",
+                "Antece": "Deron Williams",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -1489,5 +1489,5 @@
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660."
     ],
-    "cache_buster": 1763779412
+    "cache_buster": 1763779445
 }
