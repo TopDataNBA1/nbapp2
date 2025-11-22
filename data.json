@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:04:54",
+    "ultima_actualizacion": "02:05:29",
     "tablas": {
         "pts": [
             {
@@ -354,14 +354,14 @@
                 "game_status": "not_started"
             },
             {
-                "Rank": 216,
+                "Rank": 215,
                 "Nombre": "Darius Garland",
                 "Antes": 904,
-                "Hoy": 1,
-                "Total": 905,
-                "Diff": "1",
-                "Antece": "Grayson Allen",
-                "Nota": "A tiro de 1",
+                "Hoy": 2,
+                "Total": 906,
+                "Diff": "5",
+                "Antece": "Rasual Butler",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763773494
+    "cache_buster": 1763773529
 }
