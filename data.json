@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:41:18",
+    "ultima_actualizacion": "00:41:52",
     "tablas": {
         "pts": [
             {
@@ -50,9 +50,9 @@
                 "Rank": 156,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 15181,
-                "Hoy": 10,
-                "Total": 15191,
-                "Diff": "100",
+                "Hoy": 15,
+                "Total": 15196,
+                "Diff": "95",
                 "Antece": "John Drew",
                 "Nota": "",
                 "game_status": "playing"
@@ -85,11 +85,11 @@
                 "Rank": 104,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 7315,
-                "Hoy": 4,
-                "Total": 7319,
-                "Diff": "1",
+                "Hoy": 5,
+                "Total": 7320,
+                "Diff": "",
                 "Antece": "David Lee",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -467,9 +467,9 @@
                 "Rank": 126,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 1143,
-                "Hoy": 0,
-                "Total": 1143,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 1144,
+                "Diff": "2",
                 "Antece": "Anthony Edwards",
                 "Nota": "",
                 "game_status": "playing"
@@ -617,5 +617,5 @@
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624.",
         "Mitchell Robinson (2 blocks today) has passed Spencer Haywood and is now ranked 220th all-time in career blocks with 630."
     ],
-    "cache_buster": 1763854878
+    "cache_buster": 1763854912
 }
