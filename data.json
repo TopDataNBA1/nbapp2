@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:10:23",
+    "ultima_actualizacion": "05:10:57",
     "tablas": {
         "pts": [
             {
@@ -371,9 +371,9 @@
                 "Rank": 245,
                 "Nombre": "Jusuf Nurkic",
                 "Antes": 5353,
-                "Hoy": 3,
-                "Total": 5356,
-                "Diff": "10",
+                "Hoy": 5,
+                "Total": 5358,
+                "Diff": "8",
                 "Antece": "Jerry West",
                 "Nota": "",
                 "game_status": "playing"
@@ -1495,7 +1495,8 @@
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917.",
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
-        "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
+        "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651.",
+        "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358."
     ],
-    "cache_buster": 1763784623
+    "cache_buster": 1763784657
 }
