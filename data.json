@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "22:33:52",
+    "ultima_actualizacion": "22:34:26",
     "tablas": {
         "pts": [
             {
@@ -47,6 +47,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 156,
+                "Nombre": "Karl-Anthony Towns",
+                "Antes": 15181,
+                "Hoy": 0,
+                "Total": 15181,
+                "Diff": "110",
+                "Antece": "John Drew",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 14879,
@@ -59,6 +70,17 @@
             }
         ],
         "trb": [
+            {
+                "Rank": 104,
+                "Nombre": "Karl-Anthony Towns",
+                "Antes": 7315,
+                "Hoy": 0,
+                "Total": 7315,
+                "Diff": "5",
+                "Antece": "David Lee",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 133,
                 "Nombre": "Brook Lopez",
@@ -159,6 +181,17 @@
                 "Antece": "Steve Blake",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 234,
+                "Nombre": "Tyus Jones",
+                "Antes": 3045,
+                "Hoy": 0,
+                "Total": 3045,
+                "Diff": "10",
+                "Antece": "CJ McCollum",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "stl": [
@@ -231,6 +264,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 162,
+                "Nombre": "Karl-Anthony Towns",
+                "Antes": 783,
+                "Hoy": 0,
+                "Total": 783,
+                "Diff": "6",
+                "Antece": "Charles Smith",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 188,
                 "Nombre": "Nicolas Batum",
                 "Antes": 705,
@@ -262,6 +306,17 @@
                 "Antece": "Bill Cartwright",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 221,
+                "Nombre": "Mitchell Robinson",
+                "Antes": 628,
+                "Hoy": 0,
+                "Total": 628,
+                "Diff": "1",
+                "Antece": "Spencer Haywood",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 237,
@@ -321,6 +376,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 64,
+                "Nombre": "Jordan Clarkson",
+                "Antes": 1421,
+                "Hoy": 0,
+                "Total": 1421,
+                "Diff": "32",
+                "Antece": "Malik Beasley",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 92,
                 "Nombre": "Bogdan Bogdanovic",
                 "Antes": 1249,
@@ -343,6 +409,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 126,
+                "Nombre": "Karl-Anthony Towns",
+                "Antes": 1143,
+                "Hoy": 0,
+                "Total": 1143,
+                "Diff": "3",
+                "Antece": "Anthony Edwards",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 134,
                 "Nombre": "Brook Lopez",
                 "Antes": 1095,
@@ -352,6 +429,39 @@
                 "Antece": "Norman Powell",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 163,
+                "Nombre": "Mikal Bridges",
+                "Antes": 1010,
+                "Hoy": 0,
+                "Total": 1010,
+                "Diff": "5",
+                "Antece": "Marcus Smart",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 218,
+                "Nombre": "OG Anunoby",
+                "Antes": 894,
+                "Hoy": 0,
+                "Total": 894,
+                "Diff": "6",
+                "Antece": "900",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 243,
+                "Nombre": "Desmond Bane",
+                "Antes": 838,
+                "Hoy": 0,
+                "Total": 838,
+                "Diff": "6",
+                "Antece": "Nikola Jokic",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "g": [
@@ -407,5 +517,5 @@
         "Chris Paul (4 rebounds today) has passed Joe Graboski and is now ranked 194th all-time in career rebounds with 6,000.",
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624."
     ],
-    "cache_buster": 1763847232
+    "cache_buster": 1763847266
 }
