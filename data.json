@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:33:58",
+    "ultima_actualizacion": "03:34:32",
     "tablas": {
         "pts": [
             {
@@ -72,9 +72,9 @@
                 "Rank": 108,
                 "Nombre": "Devin Booker",
                 "Antes": 16869,
-                "Hoy": 5,
-                "Total": 16874,
-                "Diff": "84",
+                "Hoy": 6,
+                "Total": 16875,
+                "Diff": "83",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
@@ -204,9 +204,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 29,
-                "Total": 13772,
-                "Diff": "12",
+                "Hoy": 32,
+                "Total": 13775,
+                "Diff": "9",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -973,9 +973,9 @@
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1673,
-                "Hoy": 3,
-                "Total": 1676,
-                "Diff": "4",
+                "Hoy": 4,
+                "Total": 1677,
+                "Diff": "3",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "playing"
@@ -1488,5 +1488,5 @@
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897.",
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605."
     ],
-    "cache_buster": 1763778838
+    "cache_buster": 1763778872
 }
