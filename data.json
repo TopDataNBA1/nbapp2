@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:58:43",
+    "ultima_actualizacion": "04:59:17",
     "tablas": {
         "pts": [
             {
@@ -461,9 +461,9 @@
                 "Rank": 75,
                 "Nombre": "Kevin Durant",
                 "Antes": 4952,
-                "Hoy": 1,
-                "Total": 4953,
-                "Diff": "47",
+                "Hoy": 2,
+                "Total": 4954,
+                "Diff": "46",
                 "Antece": "5000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1497,5 +1497,5 @@
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
     ],
-    "cache_buster": 1763783923
+    "cache_buster": 1763783957
 }
