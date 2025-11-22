@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:08:52",
+    "ultima_actualizacion": "04:09:26",
     "tablas": {
         "pts": [
             {
@@ -316,9 +316,9 @@
                 "Rank": 83,
                 "Nombre": "Kevin Durant",
                 "Antes": 7887,
-                "Hoy": 1,
-                "Total": 7888,
-                "Diff": "112",
+                "Hoy": 2,
+                "Total": 7889,
+                "Diff": "111",
                 "Antece": "8000",
                 "Nota": "",
                 "game_status": "playing"
@@ -439,9 +439,9 @@
                 "Rank": 54,
                 "Nombre": "Nikola Jokic",
                 "Antes": 5539,
-                "Hoy": 1,
-                "Total": 5540,
-                "Diff": "84",
+                "Hoy": 2,
+                "Total": 5541,
+                "Diff": "83",
                 "Antece": "Allen Iverson",
                 "Nota": "",
                 "game_status": "playing"
@@ -647,13 +647,13 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 198,
+                "Rank": 196,
                 "Nombre": "Nikola Jokic",
                 "Antes": 972,
-                "Hoy": 1,
-                "Total": 973,
+                "Hoy": 2,
+                "Total": 974,
                 "Diff": "",
-                "Antece": "Giannis Antetokounmp",
+                "Antece": "J.R. Smith",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             },
@@ -1490,7 +1490,8 @@
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660.",
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188.",
-        "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623."
+        "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
+        "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763780932
+    "cache_buster": 1763780966
 }
