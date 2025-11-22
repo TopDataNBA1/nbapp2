@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:43:22",
+    "ultima_actualizacion": "04:43:56",
     "tablas": {
         "pts": [
             {
@@ -450,9 +450,9 @@
                 "Rank": 73,
                 "Nombre": "Draymond Green",
                 "Antes": 5034,
-                "Hoy": 0,
-                "Total": 5034,
-                "Diff": "6",
+                "Hoy": 1,
+                "Total": 5035,
+                "Diff": "5",
                 "Antece": "Walt Frazier",
                 "Nota": "",
                 "game_status": "playing"
@@ -1495,5 +1495,5 @@
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
     ],
-    "cache_buster": 1763783002
+    "cache_buster": 1763783036
 }
