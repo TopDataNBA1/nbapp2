@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:56:24",
+    "ultima_actualizacion": "02:56:58",
     "tablas": {
         "pts": [
             {
@@ -588,9 +588,9 @@
                 "Rank": 133,
                 "Nombre": "Norman Powell",
                 "Antes": 1098,
-                "Hoy": 0,
-                "Total": 1098,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 1099,
+                "Diff": "1",
                 "Antece": "1100",
                 "Nota": "",
                 "game_status": "playing"
@@ -803,5 +803,5 @@
         "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095."
     ],
-    "cache_buster": 1763776584
+    "cache_buster": 1763776618
 }
