@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:14:11",
+    "ultima_actualizacion": "02:14:46",
     "tablas": {
         "pts": [
             {
@@ -475,13 +475,13 @@
                 "game_status": "not_started"
             },
             {
-                "Rank": 165,
+                "Rank": 164,
                 "Nombre": "Anfernee Simons",
                 "Antes": 1007,
-                "Hoy": 1,
-                "Total": 1008,
+                "Hoy": 2,
+                "Total": 1009,
                 "Diff": "1",
-                "Antece": "Morris Peterson",
+                "Antece": "Mikal Bridges",
                 "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
@@ -591,5 +591,5 @@
     "notificaciones": [
         "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886."
     ],
-    "cache_buster": 1763774051
+    "cache_buster": 1763774086
 }
