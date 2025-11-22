@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:43:00",
+    "ultima_actualizacion": "05:43:34",
     "tablas": {
         "pts": [
             {
@@ -149,9 +149,9 @@
                 "Rank": 165,
                 "Nombre": "Al Horford",
                 "Antes": 14768,
-                "Hoy": 5,
-                "Total": 14773,
-                "Diff": "85",
+                "Hoy": 7,
+                "Total": 14775,
+                "Diff": "83",
                 "Antece": "Monta Ellis",
                 "Nota": "",
                 "game_status": "playing"
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763786580
+    "cache_buster": 1763786614
 }
