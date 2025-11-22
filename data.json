@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:12:15",
+    "ultima_actualizacion": "04:12:49",
     "tablas": {
         "pts": [
             {
@@ -1083,9 +1083,9 @@
                 "Rank": 109,
                 "Nombre": "Lauri Markkanen",
                 "Antes": 1194,
-                "Hoy": 0,
-                "Total": 1194,
-                "Diff": "6",
+                "Hoy": 1,
+                "Total": 1195,
+                "Diff": "5",
                 "Antece": "1200",
                 "Nota": "",
                 "game_status": "playing"
@@ -1493,5 +1493,5 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763781135
+    "cache_buster": 1763781169
 }
