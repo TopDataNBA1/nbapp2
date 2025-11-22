@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:08:18",
+    "ultima_actualizacion": "04:08:52",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 5,
-                "Total": 16623,
-                "Diff": "63",
+                "Hoy": 7,
+                "Total": 16625,
+                "Diff": "61",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,9 +107,9 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "1",
+                "Diff": "3",
                 "Antece": "Nikola Jokic",
-                "Nota": "A tiro de 1",
+                "Nota": "A tiro de 3",
                 "game_status": "not_started"
             },
             {
@@ -1492,5 +1492,5 @@
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188.",
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623."
     ],
-    "cache_buster": 1763780898
+    "cache_buster": 1763780932
 }
