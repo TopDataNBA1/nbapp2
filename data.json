@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:48:02",
+    "ultima_actualizacion": "03:48:35",
     "tablas": {
         "pts": [
             {
@@ -1223,13 +1223,13 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 186,
+                "Rank": 184,
                 "Nombre": "Royce O'Neale",
                 "Antes": 974,
-                "Hoy": 1,
-                "Total": 975,
+                "Hoy": 2,
+                "Total": 976,
                 "Diff": "",
-                "Antece": "Alec Burks",
+                "Antece": "Mark Price",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             },
@@ -1240,7 +1240,7 @@
                 "Hoy": 0,
                 "Total": 973,
                 "Diff": "2",
-                "Antece": "Royce O'Neale",
+                "Antece": "Alec Burks",
                 "Nota": "",
                 "game_status": "not_started"
             },
@@ -1487,7 +1487,8 @@
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers",
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897.",
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
-        "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660."
+        "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660.",
+        "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
     ],
-    "cache_buster": 1763779682
+    "cache_buster": 1763779715
 }
