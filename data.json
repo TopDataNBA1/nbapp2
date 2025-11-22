@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:47:15",
+    "ultima_actualizacion": "02:47:49",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 17,
-                "Total": 13760,
-                "Diff": "24",
+                "Hoy": 20,
+                "Total": 13763,
+                "Diff": "21",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -478,9 +478,9 @@
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1673,
-                "Hoy": 1,
-                "Total": 1674,
-                "Diff": "6",
+                "Hoy": 2,
+                "Total": 1675,
+                "Diff": "5",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "playing"
@@ -803,5 +803,5 @@
         "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095."
     ],
-    "cache_buster": 1763776035
+    "cache_buster": 1763776069
 }
