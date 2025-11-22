@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:55:18",
+    "ultima_actualizacion": "04:55:52",
     "tablas": {
         "pts": [
             {
@@ -606,11 +606,11 @@
                 "Rank": 101,
                 "Nombre": "Draymond Green",
                 "Antes": 1194,
-                "Hoy": 2,
-                "Total": 1196,
-                "Diff": "1",
+                "Hoy": 3,
+                "Total": 1197,
+                "Diff": "",
                 "Antece": "Chris Webber",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1496,5 +1496,5 @@
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917.",
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607."
     ],
-    "cache_buster": 1763783718
+    "cache_buster": 1763783752
 }
