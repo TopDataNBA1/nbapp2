@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:19:30",
+    "ultima_actualizacion": "05:20:04",
     "tablas": {
         "pts": [
             {
@@ -72,9 +72,9 @@
                 "Rank": 108,
                 "Nombre": "Devin Booker",
                 "Antes": 16869,
-                "Hoy": 15,
-                "Total": 16884,
-                "Diff": "74",
+                "Hoy": 16,
+                "Total": 16885,
+                "Diff": "73",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1499,5 +1499,5 @@
         "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358.",
         "Royce O'Neale (3 three-pointers today) has passed Mark Price and Walt Williams and is now ranked 183rd all-time in career three-pointers with 977."
     ],
-    "cache_buster": 1763785170
+    "cache_buster": 1763785204
 }
