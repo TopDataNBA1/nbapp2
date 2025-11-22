@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:48:10",
+    "ultima_actualizacion": "05:48:44",
     "tablas": {
         "pts": [
             {
@@ -305,9 +305,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8326,
-                "Hoy": 9,
-                "Total": 8335,
-                "Diff": "74",
+                "Hoy": 10,
+                "Total": 8336,
+                "Diff": "73",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763786890
+    "cache_buster": 1763786924
 }
