@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "04:32:35",
+    "ultima_actualizacion": "04:33:09",
     "tablas": {
         "pts": [
             {
                 "Rank": 8,
                 "Nombre": "Kevin Durant",
                 "Antes": 30902,
-                "Hoy": 9,
-                "Total": 30911,
-                "Diff": "89",
+                "Hoy": 10,
+                "Total": 30912,
+                "Diff": "88",
                 "Antece": "31000",
                 "Nota": "",
                 "game_status": "playing"
@@ -17,9 +17,9 @@
                 "Rank": 22,
                 "Nombre": "Stephen Curry",
                 "Antes": 25749,
-                "Hoy": 2,
-                "Total": 25751,
-                "Diff": "249",
+                "Hoy": 5,
+                "Total": 25754,
+                "Diff": "246",
                 "Antece": "26000",
                 "Nota": "",
                 "game_status": "playing"
@@ -406,9 +406,9 @@
                 "Rank": 28,
                 "Nombre": "Stephen Curry",
                 "Antes": 6593,
-                "Hoy": 1,
-                "Total": 6594,
-                "Diff": "86",
+                "Hoy": 2,
+                "Total": 6595,
+                "Diff": "85",
                 "Antece": "Mike Conley",
                 "Nota": "",
                 "game_status": "playing"
@@ -863,9 +863,9 @@
                 "Rank": 1,
                 "Nombre": "Stephen Curry",
                 "Antes": 4116,
-                "Hoy": 0,
-                "Total": 4116,
-                "Diff": "84",
+                "Hoy": 1,
+                "Total": 4117,
+                "Diff": "83",
                 "Antece": "4200",
                 "Nota": "",
                 "game_status": "playing"
@@ -1494,5 +1494,5 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763782355
+    "cache_buster": 1763782389
 }
