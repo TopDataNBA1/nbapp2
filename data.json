@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:00:25",
+    "ultima_actualizacion": "04:00:59",
     "tablas": {
         "pts": [
             {
@@ -182,9 +182,9 @@
                 "Rank": 203,
                 "Nombre": "Julius Randle",
                 "Antes": 13892,
-                "Hoy": 8,
-                "Total": 13900,
-                "Diff": "10",
+                "Hoy": 10,
+                "Total": 13902,
+                "Diff": "8",
                 "Antece": "Ron Harper",
                 "Nota": "",
                 "game_status": "playing"
@@ -1491,5 +1491,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Kevin Durant (2 steals today) has passed Norm Nixon and is now ranked 104th all-time in career steals with 1,188."
     ],
-    "cache_buster": 1763780425
+    "cache_buster": 1763780459
 }
