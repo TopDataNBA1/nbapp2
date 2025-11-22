@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:45:13",
+    "ultima_actualizacion": "03:45:47",
     "tablas": {
         "pts": [
             {
@@ -305,9 +305,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8326,
-                "Hoy": 0,
-                "Total": 8326,
-                "Diff": "83",
+                "Hoy": 1,
+                "Total": 8327,
+                "Diff": "82",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -1489,5 +1489,5 @@
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605.",
         "CJ McCollum (20 points today) has passed Jeff Hornacek and is now ranked 138th all-time in career points with 15,660."
     ],
-    "cache_buster": 1763779513
+    "cache_buster": 1763779547
 }
