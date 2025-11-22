@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "21:07:03",
+    "ultima_actualizacion": "21:07:39",
     "tablas": {
         "pts": [
             {
@@ -96,9 +96,9 @@
                 "Rank": 211,
                 "Nombre": "Mason Plumlee",
                 "Antes": 5772,
-                "Hoy": 3,
-                "Total": 5775,
-                "Diff": "16",
+                "Hoy": 4,
+                "Total": 5776,
+                "Diff": "15",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
                 "game_status": "playing"
@@ -407,5 +407,5 @@
         "Chris Paul (4 rebounds today) has passed Joe Graboski and is now ranked 194th all-time in career rebounds with 6,000.",
         "Brook Lopez (11 points today) has passed Rolando Blackman and is now ranked 91st all-time in career points with 17,624."
     ],
-    "cache_buster": 1763842023
+    "cache_buster": 1763842059
 }
