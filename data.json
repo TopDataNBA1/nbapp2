@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "20:09:12",
+    "ultima_actualizacion": "20:09:46",
     "tablas": {
         "pts": [
             {
@@ -74,9 +74,9 @@
                 "Rank": 155,
                 "Nombre": "James Harden",
                 "Antes": 6560,
-                "Hoy": 1,
-                "Total": 6561,
-                "Diff": "14",
+                "Hoy": 0,
+                "Total": 6560,
+                "Diff": "15",
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763838552
+    "cache_buster": 1763838586
 }
