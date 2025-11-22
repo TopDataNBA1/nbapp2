@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:49:47",
+    "ultima_actualizacion": "01:50:22",
     "tablas": {
         "pts": [
             {
@@ -256,25 +256,25 @@
             },
             {
                 "Rank": 113,
+                "Nombre": "Jaylen Brown",
+                "Antes": 1174,
+                "Hoy": 1,
+                "Total": 1175,
+                "Diff": "3",
+                "Antece": "Jamal Murray",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 114,
                 "Nombre": "Andrew Wiggins",
                 "Antes": 1174,
                 "Hoy": 0,
                 "Total": 1174,
-                "Diff": "4",
-                "Antece": "Jamal Murray",
-                "Nota": "",
+                "Diff": "1",
+                "Antece": "Jaylen Brown",
+                "Nota": "A tiro de 1",
                 "game_status": "not_started"
-            },
-            {
-                "Rank": 114,
-                "Nombre": "Jaylen Brown",
-                "Antes": 1174,
-                "Hoy": 0,
-                "Total": 1174,
-                "Diff": "",
-                "Antece": "Andrew Wiggins",
-                "Nota": "Mismo total",
-                "game_status": "playing"
             },
             {
                 "Rank": 133,
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763772587
+    "cache_buster": 1763772622
 }
