@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:32:03",
+    "ultima_actualizacion": "01:32:38",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 0,
-                "Total": 13743,
-                "Diff": "41",
+                "Hoy": 1,
+                "Total": 13744,
+                "Diff": "40",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -396,5 +396,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763771523
+    "cache_buster": 1763771558
 }
