@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:56:45",
+    "ultima_actualizacion": "05:57:19",
     "tablas": {
         "pts": [
             {
@@ -316,9 +316,9 @@
                 "Rank": 83,
                 "Nombre": "Kevin Durant",
                 "Antes": 7887,
-                "Hoy": 6,
-                "Total": 7893,
-                "Diff": "107",
+                "Hoy": 7,
+                "Total": 7894,
+                "Diff": "106",
                 "Antece": "8000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1502,5 +1502,5 @@
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
         "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763787405
+    "cache_buster": 1763787439
 }
