@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:12:06",
+    "ultima_actualizacion": "05:12:40",
     "tablas": {
         "pts": [
             {
@@ -316,9 +316,9 @@
                 "Rank": 83,
                 "Nombre": "Kevin Durant",
                 "Antes": 7887,
-                "Hoy": 4,
-                "Total": 7891,
-                "Diff": "109",
+                "Hoy": 5,
+                "Total": 7892,
+                "Diff": "108",
                 "Antece": "8000",
                 "Nota": "",
                 "game_status": "playing"
@@ -371,9 +371,9 @@
                 "Rank": 245,
                 "Nombre": "Jusuf Nurkic",
                 "Antes": 5353,
-                "Hoy": 6,
-                "Total": 5359,
-                "Diff": "7",
+                "Hoy": 7,
+                "Total": 5360,
+                "Diff": "6",
                 "Antece": "Jerry West",
                 "Nota": "",
                 "game_status": "playing"
@@ -1498,5 +1498,5 @@
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651.",
         "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358."
     ],
-    "cache_buster": 1763784726
+    "cache_buster": 1763784760
 }
