@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:56:58",
+    "ultima_actualizacion": "02:57:32",
     "tablas": {
         "pts": [
             {
@@ -72,9 +72,9 @@
                 "Rank": 139,
                 "Nombre": "CJ McCollum",
                 "Antes": 15640,
-                "Hoy": 8,
-                "Total": 15648,
-                "Diff": "11",
+                "Hoy": 10,
+                "Total": 15650,
+                "Diff": "9",
                 "Antece": "Jeff Hornacek",
                 "Nota": "",
                 "game_status": "playing"
@@ -803,5 +803,5 @@
         "CJ McCollum (8 points today) has passed Antoine Walker and is now ranked 139th all-time in career points with 15,648.",
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095."
     ],
-    "cache_buster": 1763776618
+    "cache_buster": 1763776652
 }
