@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:59:17",
+    "ultima_actualizacion": "04:59:51",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 17,
-                "Total": 16635,
-                "Diff": "51",
+                "Hoy": 19,
+                "Total": 16637,
+                "Diff": "49",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,7 +107,7 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "13",
+                "Diff": "15",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -395,9 +395,9 @@
                 "Rank": 27,
                 "Nombre": "Mike Conley",
                 "Antes": 6680,
-                "Hoy": 0,
-                "Total": 6680,
-                "Diff": "31",
+                "Hoy": 1,
+                "Total": 6681,
+                "Diff": "30",
                 "Antece": "Kevin Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -408,7 +408,7 @@
                 "Antes": 6593,
                 "Hoy": 3,
                 "Total": 6596,
-                "Diff": "84",
+                "Diff": "85",
                 "Antece": "Mike Conley",
                 "Nota": "",
                 "game_status": "playing"
@@ -606,11 +606,11 @@
                 "Rank": 101,
                 "Nombre": "Draymond Green",
                 "Antes": 1194,
-                "Hoy": 3,
-                "Total": 1197,
-                "Diff": "",
+                "Hoy": 2,
+                "Total": 1196,
+                "Diff": "1",
                 "Antece": "Chris Webber",
-                "Nota": "Mismo total",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1497,5 +1497,5 @@
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
     ],
-    "cache_buster": 1763783957
+    "cache_buster": 1763783991
 }
