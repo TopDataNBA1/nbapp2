@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:57:00",
+    "ultima_actualizacion": "04:57:35",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 10,
-                "Total": 16628,
-                "Diff": "58",
+                "Hoy": 12,
+                "Total": 16630,
+                "Diff": "56",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,7 +107,7 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "6",
+                "Diff": "8",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1496,5 +1496,5 @@
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917.",
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607."
     ],
-    "cache_buster": 1763783820
+    "cache_buster": 1763783855
 }
