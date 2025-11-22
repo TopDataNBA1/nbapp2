@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:34:32",
+    "ultima_actualizacion": "03:35:06",
     "tablas": {
         "pts": [
             {
@@ -250,9 +250,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 6,
-                "Total": 9855,
-                "Diff": "145",
+                "Hoy": 7,
+                "Total": 9856,
+                "Diff": "144",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -335,14 +335,14 @@
                 "game_status": "not_started"
             },
             {
-                "Rank": 151,
+                "Rank": 150,
                 "Nombre": "Julius Randle",
                 "Antes": 6603,
-                "Hoy": 2,
-                "Total": 6605,
-                "Diff": "1",
-                "Antece": "Vince Carter",
-                "Nota": "A tiro de 1",
+                "Hoy": 3,
+                "Total": 6606,
+                "Diff": "8",
+                "Antece": "Thaddeus Young",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1488,5 +1488,5 @@
         "Julius Randle (5 points today) has passed Bob Love and Zach LaVine and is now ranked 203rd all-time in career points with 13,897.",
         "Julius Randle (2 rebounds today) has passed Marc Gasol and is now ranked 151st all-time in career rebounds with 6,605."
     ],
-    "cache_buster": 1763778872
+    "cache_buster": 1763778906
 }
