@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:58:09",
+    "ultima_actualizacion": "04:58:43",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 22,
                 "Nombre": "Stephen Curry",
                 "Antes": 25749,
-                "Hoy": 7,
-                "Total": 25756,
-                "Diff": "244",
+                "Hoy": 8,
+                "Total": 25757,
+                "Diff": "243",
                 "Antece": "26000",
                 "Nota": "",
                 "game_status": "playing"
@@ -94,9 +94,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16618,
-                "Hoy": 14,
-                "Total": 16632,
-                "Diff": "54",
+                "Hoy": 17,
+                "Total": 16635,
+                "Diff": "51",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -107,7 +107,7 @@
                 "Antes": 16622,
                 "Hoy": 0,
                 "Total": 16622,
-                "Diff": "10",
+                "Diff": "13",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
@@ -491,14 +491,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 162,
+                "Rank": 161,
                 "Nombre": "Al Horford",
                 "Antes": 3648,
-                "Hoy": 2,
-                "Total": 3650,
-                "Diff": "1",
-                "Antece": "Dirk Nowitzki",
-                "Nota": "A tiro de 1",
+                "Hoy": 3,
+                "Total": 3651,
+                "Diff": "13",
+                "Antece": "Latrell Sprewell",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1358,9 +1358,9 @@
                 "Rank": 242,
                 "Nombre": "Nikola Jokic",
                 "Antes": 840,
-                "Hoy": 2,
-                "Total": 842,
-                "Diff": "3",
+                "Hoy": 3,
+                "Total": 843,
+                "Diff": "2",
                 "Antece": "John Stockton",
                 "Nota": "",
                 "game_status": "playing"
@@ -1494,7 +1494,8 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917.",
-        "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607."
+        "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
+        "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
     ],
-    "cache_buster": 1763783889
+    "cache_buster": 1763783923
 }
