@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:52:07",
+    "ultima_actualizacion": "01:52:42",
     "tablas": {
         "pts": [
             {
@@ -98,11 +98,11 @@
                 "Rank": 170,
                 "Nombre": "T.J. McConnell",
                 "Antes": 3559,
-                "Hoy": 2,
-                "Total": 3561,
-                "Diff": "2",
+                "Hoy": 3,
+                "Total": 3562,
+                "Diff": "1",
                 "Antece": "Pete Maravich",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -368,11 +368,11 @@
                 "Rank": 221,
                 "Nombre": "Michael Porter Jr.",
                 "Antes": 884,
-                "Hoy": 0,
-                "Total": 884,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 885,
+                "Diff": "",
                 "Antece": "Davis Bertans",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763772727
+    "cache_buster": 1763772762
 }
