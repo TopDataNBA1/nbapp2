@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:16:30",
+    "ultima_actualizacion": "02:17:05",
     "tablas": {
         "pts": [
             {
@@ -50,11 +50,11 @@
                 "Rank": 140,
                 "Nombre": "CJ McCollum",
                 "Antes": 15640,
-                "Hoy": 2,
-                "Total": 15642,
-                "Diff": "5",
+                "Hoy": 4,
+                "Total": 15644,
+                "Diff": "3",
                 "Antece": "Antoine Walker",
-                "Nota": "",
+                "Nota": "A tiro de 3",
                 "game_status": "playing"
             },
             {
@@ -186,11 +186,11 @@
                 "Rank": 225,
                 "Nombre": "Khris Middleton",
                 "Antes": 3092,
-                "Hoy": 1,
-                "Total": 3093,
-                "Diff": "1",
+                "Hoy": 2,
+                "Total": 3094,
+                "Diff": "",
                 "Antece": "Clifford Robinson",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -533,9 +533,9 @@
                 "Rank": 215,
                 "Nombre": "Darius Garland",
                 "Antes": 904,
-                "Hoy": 2,
-                "Total": 906,
-                "Diff": "5",
+                "Hoy": 3,
+                "Total": 907,
+                "Diff": "4",
                 "Antece": "Rasual Butler",
                 "Nota": "",
                 "game_status": "playing"
@@ -576,20 +576,21 @@
                 "game_status": "not_started"
             },
             {
-                "Rank": 167,
+                "Rank": 165,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 986,
-                "Hoy": 0,
-                "Total": 986,
+                "Hoy": 1,
+                "Total": 987,
                 "Diff": "",
-                "Antece": "Mike Dunleavy",
+                "Antece": "Erick Dampier",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             }
         ]
     },
     "notificaciones": [
-        "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886."
+        "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886.",
+        "Darius Garland (3 three-pointers today) has passed Grayson Allen and is now ranked 215th all-time in career three-pointers with 907."
     ],
-    "cache_buster": 1763774190
+    "cache_buster": 1763774225
 }
