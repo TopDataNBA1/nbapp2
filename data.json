@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:01:00",
+    "ultima_actualizacion": "05:01:34",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 115,
                 "Nombre": "Mike Conley",
                 "Antes": 16566,
-                "Hoy": 0,
-                "Total": 16566,
-                "Diff": "56",
+                "Hoy": 3,
+                "Total": 16569,
+                "Diff": "53",
                 "Antece": "Jrue Holiday",
                 "Nota": "",
                 "game_status": "playing"
@@ -149,9 +149,9 @@
                 "Rank": 165,
                 "Nombre": "Al Horford",
                 "Antes": 14768,
-                "Hoy": 2,
-                "Total": 14770,
-                "Diff": "88",
+                "Hoy": 5,
+                "Total": 14773,
+                "Diff": "85",
                 "Antece": "Monta Ellis",
                 "Nota": "",
                 "game_status": "playing"
@@ -926,14 +926,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 23,
+                "Rank": 22,
                 "Nombre": "Mike Conley",
                 "Antes": 1950,
-                "Hoy": 0,
-                "Total": 1950,
-                "Diff": "",
-                "Antece": "JJ Redick",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 1951,
+                "Diff": "27",
+                "Antece": "Joe Johnson",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1193,11 +1193,11 @@
                 "Rank": 172,
                 "Nombre": "Al Horford",
                 "Antes": 991,
-                "Hoy": 0,
-                "Total": 991,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 992,
+                "Diff": "1",
                 "Antece": "Coby White",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1497,5 +1497,5 @@
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
     ],
-    "cache_buster": 1763784060
+    "cache_buster": 1763784094
 }
