@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:16:46",
+    "ultima_actualizacion": "04:17:20",
     "tablas": {
         "pts": [
             {
@@ -349,9 +349,9 @@
                 "Rank": 174,
                 "Nombre": "Steven Adams",
                 "Antes": 6229,
-                "Hoy": 2,
-                "Total": 6231,
-                "Diff": "8",
+                "Hoy": 4,
+                "Total": 6233,
+                "Diff": "6",
                 "Antece": "Shareef Abdur-Rahim",
                 "Nota": "",
                 "game_status": "playing"
@@ -1493,5 +1493,5 @@
         "Nikola Jokic (5 points today) has passed Jrue Holiday and is now ranked 113th all-time in career points with 16,623.",
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974."
     ],
-    "cache_buster": 1763781406
+    "cache_buster": 1763781440
 }
