@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:59:05",
+    "ultima_actualizacion": "01:59:40",
     "tablas": {
         "pts": [
             {
@@ -168,9 +168,9 @@
                 "Rank": 165,
                 "Nombre": "Jakob Poeltl",
                 "Antes": 763,
-                "Hoy": 1,
-                "Total": 764,
-                "Diff": "3",
+                "Hoy": 0,
+                "Total": 763,
+                "Diff": "4",
                 "Antece": "Duane Causwell",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763773145
+    "cache_buster": 1763773180
 }
