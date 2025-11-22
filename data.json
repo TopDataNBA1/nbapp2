@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:39:24",
+    "ultima_actualizacion": "04:39:58",
     "tablas": {
         "pts": [
             {
@@ -1127,9 +1127,9 @@
                 "Rank": 125,
                 "Nombre": "Anthony Edwards",
                 "Antes": 1141,
-                "Hoy": 4,
-                "Total": 1145,
-                "Diff": "3",
+                "Hoy": 5,
+                "Total": 1146,
+                "Diff": "2",
                 "Antece": "Steve Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -1495,5 +1495,5 @@
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
     ],
-    "cache_buster": 1763782764
+    "cache_buster": 1763782798
 }
