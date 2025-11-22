@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:34:17",
+    "ultima_actualizacion": "04:34:51",
     "tablas": {
         "pts": [
             {
@@ -439,9 +439,9 @@
                 "Rank": 54,
                 "Nombre": "Nikola Jokic",
                 "Antes": 5539,
-                "Hoy": 2,
-                "Total": 5541,
-                "Diff": "83",
+                "Hoy": 3,
+                "Total": 5542,
+                "Diff": "82",
                 "Antece": "Allen Iverson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1494,5 +1494,5 @@
         "Nikola Jokic (2 steals today) has passed Giannis Antetokounmpo and Robert Reid and is now ranked 196th all-time in career steals with 974.",
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144."
     ],
-    "cache_buster": 1763782457
+    "cache_buster": 1763782491
 }
