@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:42:48",
+    "ultima_actualizacion": "04:43:22",
     "tablas": {
         "pts": [
             {
@@ -72,9 +72,9 @@
                 "Rank": 108,
                 "Nombre": "Devin Booker",
                 "Antes": 16869,
-                "Hoy": 8,
-                "Total": 16877,
-                "Diff": "81",
+                "Hoy": 11,
+                "Total": 16880,
+                "Diff": "78",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1014,14 +1014,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 62,
+                "Rank": 61,
                 "Nombre": "Devin Booker",
                 "Antes": 1453,
-                "Hoy": 0,
-                "Total": 1453,
-                "Diff": "1",
-                "Antece": "Michael Finley",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 1454,
+                "Diff": "2",
+                "Antece": "Danilo Gallinari",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1495,5 +1495,5 @@
         "Anthony Edwards (3 three-pointers today) has passed Karl-Anthony Towns and is now ranked 125th all-time in career three-pointers with 1,144.",
         "Dillon Brooks (3 three-pointers today) has passed Gary Harris and is now ranked 211th all-time in career three-pointers with 917."
     ],
-    "cache_buster": 1763782968
+    "cache_buster": 1763783002
 }
