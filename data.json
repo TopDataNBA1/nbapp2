@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:08:06",
+    "ultima_actualizacion": "05:08:40",
     "tablas": {
         "pts": [
             {
@@ -250,9 +250,9 @@
                 "Rank": 45,
                 "Nombre": "Rudy Gobert",
                 "Antes": 9849,
-                "Hoy": 8,
-                "Total": 9857,
-                "Diff": "143",
+                "Hoy": 10,
+                "Total": 9859,
+                "Diff": "141",
                 "Antece": "10000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1497,5 +1497,5 @@
         "Julius Randle (4 rebounds today) has passed Vince Carter and is now ranked 150th all-time in career rebounds with 6,607.",
         "Al Horford (3 assists today) has passed Elgin Baylor and is now ranked 161st all-time in career assists with 3,651."
     ],
-    "cache_buster": 1763784486
+    "cache_buster": 1763784520
 }
