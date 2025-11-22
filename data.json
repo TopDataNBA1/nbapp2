@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:38:26",
+    "ultima_actualizacion": "05:39:00",
     "tablas": {
         "pts": [
             {
@@ -450,9 +450,9 @@
                 "Rank": 72,
                 "Nombre": "Draymond Green",
                 "Antes": 5034,
-                "Hoy": 6,
-                "Total": 5040,
-                "Diff": "56",
+                "Hoy": 7,
+                "Total": 5041,
+                "Diff": "55",
                 "Antece": "Raymond Felton",
                 "Nota": "",
                 "game_status": "playing"
@@ -1499,7 +1499,8 @@
         "Jusuf Nurkic (5 rebounds today) has passed Trevor Ariza and is now ranked 245th all-time in career rebounds with 5,358.",
         "Royce O'Neale (3 three-pointers today) has passed Mark Price and Walt Williams and is now ranked 183rd all-time in career three-pointers with 977.",
         "Donte DiVincenzo (2 three-pointers today) has passed Malik Monk and is now ranked 192nd all-time in career three-pointers with 964.",
-        "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911."
+        "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911.",
+        "Draymond Green (7 assists today) has passed Walt Frazier and is now ranked 72nd all-time in career assists with 5,041."
     ],
-    "cache_buster": 1763786306
+    "cache_buster": 1763786340
 }
