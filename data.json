@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:52:42",
+    "ultima_actualizacion": "01:53:17",
     "tablas": {
         "pts": [
             {
@@ -50,9 +50,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13743,
-                "Hoy": 9,
-                "Total": 13752,
-                "Diff": "32",
+                "Hoy": 11,
+                "Total": 13754,
+                "Diff": "30",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -402,5 +402,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763772762
+    "cache_buster": 1763772797
 }
