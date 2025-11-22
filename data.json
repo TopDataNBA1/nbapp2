@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:31:35",
+    "ultima_actualizacion": "05:32:09",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 22,
                 "Nombre": "Stephen Curry",
                 "Antes": 25749,
-                "Hoy": 25,
-                "Total": 25774,
-                "Diff": "226",
+                "Hoy": 27,
+                "Total": 25776,
+                "Diff": "224",
                 "Antece": "26000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1501,5 +1501,5 @@
         "Donte DiVincenzo (2 three-pointers today) has passed Malik Monk and is now ranked 192nd all-time in career three-pointers with 964.",
         "Julius Randle (19 points today) has passed Alvan Adams and Ron Harper and is now ranked 201st all-time in career points with 13,911."
     ],
-    "cache_buster": 1763785895
+    "cache_buster": 1763785929
 }
