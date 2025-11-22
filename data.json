@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:18:16",
+    "ultima_actualizacion": "02:18:50",
     "tablas": {
         "pts": [
             {
@@ -50,11 +50,11 @@
                 "Rank": 140,
                 "Nombre": "CJ McCollum",
                 "Antes": 15640,
-                "Hoy": 4,
-                "Total": 15644,
-                "Diff": "3",
+                "Hoy": 6,
+                "Total": 15646,
+                "Diff": "1",
                 "Antece": "Antoine Walker",
-                "Nota": "A tiro de 3",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -118,9 +118,9 @@
                 "Rank": 41,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 10308,
-                "Hoy": 0,
-                "Total": 10308,
-                "Diff": "62",
+                "Hoy": 1,
+                "Total": 10309,
+                "Diff": "61",
                 "Antece": "Otis Thorpe",
                 "Nota": "",
                 "game_status": "playing"
@@ -592,5 +592,5 @@
         "Michael Porter Jr. (2 three-pointers today) has passed Davis Bertans and is now ranked 220th all-time in career three-pointers with 886.",
         "Darius Garland (3 three-pointers today) has passed Grayson Allen and is now ranked 215th all-time in career three-pointers with 907."
     ],
-    "cache_buster": 1763774296
+    "cache_buster": 1763774330
 }
