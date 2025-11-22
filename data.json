@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:59:50",
+    "ultima_actualizacion": "03:00:25",
     "tablas": {
         "pts": [
             {
@@ -72,11 +72,11 @@
                 "Rank": 139,
                 "Nombre": "CJ McCollum",
                 "Antes": 15640,
-                "Hoy": 13,
-                "Total": 15653,
-                "Diff": "6",
+                "Hoy": 16,
+                "Total": 15656,
+                "Diff": "3",
                 "Antece": "Jeff Hornacek",
-                "Nota": "",
+                "Nota": "A tiro de 3",
                 "game_status": "playing"
             },
             {
@@ -445,9 +445,9 @@
                 "Rank": 18,
                 "Nombre": "CJ McCollum",
                 "Antes": 2025,
-                "Hoy": 1,
-                "Total": 2026,
-                "Diff": "60",
+                "Hoy": 2,
+                "Total": 2027,
+                "Diff": "59",
                 "Antece": "Eric Gordon",
                 "Nota": "",
                 "game_status": "playing"
@@ -804,5 +804,5 @@
         "Khris Middleton (3 assists today) has passed Clifford Robinson and is now ranked 224th all-time in career assists with 3,095.",
         "Norman Powell (2 three-pointers today) becomes the 133rd player to reach 1,100 three-pointers"
     ],
-    "cache_buster": 1763776790
+    "cache_buster": 1763776825
 }
