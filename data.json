@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:12:40",
+    "ultima_actualizacion": "01:13:16",
     "tablas": {
         "pts": [
             {
@@ -33,7 +33,7 @@
                 "Diff": "41",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 231,
@@ -57,7 +57,7 @@
                 "Diff": "2",
                 "Antece": "Mark West",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "ast": [
@@ -70,7 +70,7 @@
                 "Diff": "",
                 "Antece": "Nicolas Batum",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 225,
@@ -103,7 +103,7 @@
                 "Diff": "15",
                 "Antece": "Tom Gola",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "stl": [
@@ -140,7 +140,7 @@
                 "Diff": "2",
                 "Antece": "Clemon Johnson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 251,
@@ -175,7 +175,7 @@
                 "Diff": "7",
                 "Antece": "Kevin Love",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 51,
@@ -241,7 +241,7 @@
                 "Diff": "2",
                 "Antece": "Grayson Allen",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 221,
@@ -263,7 +263,7 @@
                 "Diff": "3",
                 "Antece": "Avery Bradley",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "g": [
@@ -396,5 +396,5 @@
         "Bogdan Bogdanovic (2 three-pointers today) has passed Derek Fisher and Duncan Robinson and is now ranked 92nd all-time in career three-pointers with 1,249.",
         "Harrison Barnes (13 points today) becomes the 198th player to reach 14,000 points"
     ],
-    "cache_buster": 1763770360
+    "cache_buster": 1763770396
 }
