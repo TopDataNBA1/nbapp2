@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:56:23",
+    "ultima_actualizacion": "05:56:56",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 18,
                 "Nombre": "Russell Westbrook",
                 "Antes": 26424,
-                "Hoy": 6,
-                "Total": 26430,
-                "Diff": "66",
+                "Hoy": 7,
+                "Total": 26431,
+                "Diff": "65",
                 "Antece": "Tim Duncan",
                 "Nota": "",
                 "game_status": "playing"
@@ -1442,5 +1442,5 @@
         "Dennis Schroder (2 three-pointers today) has passed Cuttino Mobley and is now ranked 137th all-time in career three-pointers with 1,086.",
         "Dennis Schroder (3 three-pointers today) has passed Rasheed Wallace and is now ranked 137th all-time in career three-pointers with 1,087."
     ],
-    "cache_buster": 1763873783
+    "cache_buster": 1763873816
 }
