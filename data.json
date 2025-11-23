@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:51:58",
+    "ultima_actualizacion": "01:52:31",
     "tablas": {
         "pts": [
             {
@@ -99,7 +99,7 @@
                 "Diff": "86",
                 "Antece": "John Drew",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 162,
@@ -167,7 +167,7 @@
                 "Diff": "5",
                 "Antece": "Kurt Thomas",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 133,
@@ -334,7 +334,7 @@
                 "Diff": "7",
                 "Antece": "CJ McCollum",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "stl": [
@@ -492,7 +492,7 @@
                 "Diff": "6",
                 "Antece": "Charles Smith",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 188,
@@ -536,7 +536,7 @@
                 "Diff": "",
                 "Antece": "DeSagana Diop",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 237,
@@ -615,7 +615,7 @@
                 "Diff": "29",
                 "Antece": "Malik Beasley",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 65,
@@ -692,7 +692,7 @@
                 "Diff": "1",
                 "Antece": "Anthony Edwards",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 134,
@@ -758,7 +758,7 @@
                 "Diff": "2",
                 "Antece": "Marcus Smart",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 169,
@@ -835,7 +835,7 @@
                 "Diff": "6",
                 "Antece": "900",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 243,
@@ -846,7 +846,7 @@
                 "Diff": "3",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "g": [
@@ -938,5 +938,5 @@
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926."
     ],
-    "cache_buster": 1763859118
+    "cache_buster": 1763859151
 }
