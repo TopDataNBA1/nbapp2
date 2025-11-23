@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:45:44",
+    "ultima_actualizacion": "00:46:18",
     "tablas": {
         "pts": [
             {
@@ -654,9 +654,9 @@
                 "Rank": 32,
                 "Nombre": "Nicolas Batum",
                 "Antes": 1771,
-                "Hoy": 0,
-                "Total": 1771,
-                "Diff": "16",
+                "Hoy": 1,
+                "Total": 1772,
+                "Diff": "15",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
                 "game_status": "playing"
@@ -942,9 +942,9 @@
                 "Rank": 69,
                 "Nombre": "Nicolas Batum",
                 "Antes": 1147,
-                "Hoy": 0,
-                "Total": 1147,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 1148,
+                "Diff": "2",
                 "Antece": "Al Horford",
                 "Nota": "",
                 "game_status": "playing"
@@ -996,5 +996,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763941544
+    "cache_buster": 1763941578
 }
