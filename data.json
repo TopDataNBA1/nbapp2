@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:15:10",
+    "ultima_actualizacion": "04:15:43",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 25,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 25579,
-                "Hoy": 0,
-                "Total": 25579,
-                "Diff": "34",
+                "Hoy": 1,
+                "Total": 25580,
+                "Diff": "33",
                 "Antece": "Alex English",
                 "Nota": "",
                 "game_status": "playing"
@@ -1327,9 +1327,9 @@
                 "Rank": 48,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 1203,
-                "Hoy": 0,
-                "Total": 1203,
-                "Diff": "4",
+                "Hoy": 1,
+                "Total": 1204,
+                "Diff": "3",
                 "Antece": "Shaquille O'Neal",
                 "Nota": "",
                 "game_status": "playing"
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763867710
+    "cache_buster": 1763867743
 }
