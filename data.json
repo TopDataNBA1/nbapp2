@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:47:58",
+    "ultima_actualizacion": "00:48:32",
     "tablas": {
         "pts": [
             {
@@ -241,9 +241,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12540,
-                "Hoy": 0,
-                "Total": 12540,
-                "Diff": "460",
+                "Hoy": 1,
+                "Total": 12541,
+                "Diff": "459",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -909,9 +909,9 @@
                 "Rank": 15,
                 "Nombre": "Chris Paul",
                 "Antes": 1365,
-                "Hoy": 0,
-                "Total": 1365,
-                "Diff": "15",
+                "Hoy": 1,
+                "Total": 1366,
+                "Diff": "14",
                 "Antece": "Clifford Robinson",
                 "Nota": "",
                 "game_status": "playing"
@@ -996,5 +996,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763941678
+    "cache_buster": 1763941712
 }
