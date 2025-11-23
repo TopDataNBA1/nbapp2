@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:18:42",
+    "ultima_actualizacion": "00:19:16",
     "tablas": {
         "pts": [
             {
@@ -72,9 +72,9 @@
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 14879,
-                "Hoy": 2,
-                "Total": 14881,
-                "Diff": "23",
+                "Hoy": 4,
+                "Total": 14883,
+                "Diff": "21",
                 "Antece": "Richard Jefferson",
                 "Nota": "",
                 "game_status": "playing"
@@ -886,5 +886,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763939922
+    "cache_buster": 1763939956
 }
