@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "19:41:43",
+    "ultima_actualizacion": "19:42:18",
     "tablas": {
         "pts": [
             {
                 "Rank": 72,
                 "Nombre": "Paul George",
                 "Antes": 18727,
-                "Hoy": 4,
-                "Total": 18731,
-                "Diff": "56",
+                "Hoy": 6,
+                "Total": 18733,
+                "Diff": "54",
                 "Antece": "Bob McAdoo",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763923303
+    "cache_buster": 1763923338
 }
