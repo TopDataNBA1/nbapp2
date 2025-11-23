@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:10:10",
+    "ultima_actualizacion": "06:10:43",
     "tablas": {
         "pts": [
             {
@@ -239,11 +239,11 @@
                 "Rank": 62,
                 "Nombre": "Russell Westbrook",
                 "Antes": 8788,
-                "Hoy": 4,
-                "Total": 8792,
-                "Diff": "2",
+                "Hoy": 5,
+                "Total": 8793,
+                "Diff": "1",
                 "Antece": "Jonas Valanciunas",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1443,5 +1443,5 @@
         "Dennis Schroder (3 three-pointers today) has passed Rasheed Wallace and is now ranked 137th all-time in career three-pointers with 1,087.",
         "Zach LaVine (15 points today) has passed Alvan Adams and Ron Harper and is now ranked 202nd all-time in career points with 13,911."
     ],
-    "cache_buster": 1763874610
+    "cache_buster": 1763874643
 }
