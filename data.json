@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:56:56",
+    "ultima_actualizacion": "05:57:29",
     "tablas": {
         "pts": [
             {
@@ -1083,9 +1083,9 @@
                 "Rank": 111,
                 "Nombre": "Jamal Murray",
                 "Antes": 1181,
-                "Hoy": 2,
-                "Total": 1183,
-                "Diff": "3",
+                "Hoy": 3,
+                "Total": 1184,
+                "Diff": "2",
                 "Antece": "Rudy Gay",
                 "Nota": "",
                 "game_status": "playing"
@@ -1226,11 +1226,11 @@
                 "Rank": 193,
                 "Nombre": "Malik Monk",
                 "Antes": 963,
-                "Hoy": 0,
-                "Total": 963,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 964,
+                "Diff": "",
                 "Antece": "Donte DiVincenzo",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1442,5 +1442,5 @@
         "Dennis Schroder (2 three-pointers today) has passed Cuttino Mobley and is now ranked 137th all-time in career three-pointers with 1,086.",
         "Dennis Schroder (3 three-pointers today) has passed Rasheed Wallace and is now ranked 137th all-time in career three-pointers with 1,087."
     ],
-    "cache_buster": 1763873816
+    "cache_buster": 1763873849
 }
