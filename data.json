@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:33:39",
+    "ultima_actualizacion": "03:34:12",
     "tablas": {
         "pts": [
             {
@@ -173,9 +173,9 @@
                 "Rank": 41,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 10312,
-                "Hoy": 9,
-                "Total": 10321,
-                "Diff": "49",
+                "Hoy": 10,
+                "Total": 10322,
+                "Diff": "48",
                 "Antece": "Otis Thorpe",
                 "Nota": "",
                 "game_status": "playing"
@@ -1130,5 +1130,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763865219
+    "cache_buster": 1763865252
 }
