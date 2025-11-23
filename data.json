@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "20:47:26",
+    "ultima_actualizacion": "20:48:06",
     "tablas": {
         "pts": [
             {
@@ -87,9 +87,9 @@
                 "Rank": 191,
                 "Nombre": "Paul George",
                 "Antes": 3375,
-                "Hoy": 4,
-                "Total": 3379,
-                "Diff": "15",
+                "Hoy": 5,
+                "Total": 3380,
+                "Diff": "14",
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763927246
+    "cache_buster": 1763927286
 }
