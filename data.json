@@ -1,6 +1,285 @@
 {
-    "ultima_actualizacion": "19:14:07",
-    "tablas": {},
+    "ultima_actualizacion": "19:14:12",
+    "tablas": {
+        "pts": [
+            {
+                "Rank": 72,
+                "Nombre": "Paul George",
+                "Antes": 18727,
+                "Hoy": 0,
+                "Total": 18727,
+                "Diff": "60",
+                "Antece": "Bob McAdoo",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 119,
+                "Nombre": "Kyle Lowry",
+                "Antes": 16359,
+                "Hoy": 0,
+                "Total": 16359,
+                "Diff": "42",
+                "Antece": "Joe Dumars",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 183,
+                "Nombre": "Andrew Wiggins",
+                "Antes": 14420,
+                "Hoy": 0,
+                "Total": 14420,
+                "Diff": "5",
+                "Antece": "Jeff Green",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Eric Gordon",
+                "Antes": 14142,
+                "Hoy": 0,
+                "Total": 14142,
+                "Diff": "13",
+                "Antece": "Eddie Jones",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "trb": [
+            {
+                "Rank": 31,
+                "Nombre": "Andre Drummond",
+                "Antes": 11116,
+                "Hoy": 1,
+                "Total": 11117,
+                "Diff": "139",
+                "Antece": "Dolph Schayes",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 219,
+                "Nombre": "Paul George",
+                "Antes": 5696,
+                "Hoy": 0,
+                "Total": 5696,
+                "Diff": "11",
+                "Antece": "Dan Issel",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "ast": [
+            {
+                "Rank": 19,
+                "Nombre": "Kyle Lowry",
+                "Antes": 7100,
+                "Hoy": 0,
+                "Total": 7100,
+                "Diff": "60",
+                "Antece": "Terry Porter",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Paul George",
+                "Antes": 3375,
+                "Hoy": 0,
+                "Total": 3375,
+                "Diff": "19",
+                "Antece": "Darrell Armstrong",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "stl": [
+            {
+                "Rank": 46,
+                "Nombre": "Paul George",
+                "Antes": 1541,
+                "Hoy": 0,
+                "Total": 1541,
+                "Diff": "3",
+                "Antece": "Nate McMillan",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 55,
+                "Nombre": "Kyle Lowry",
+                "Antes": 1500,
+                "Hoy": 0,
+                "Total": 1500,
+                "Diff": "5",
+                "Antece": "Reggie Miller",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 119,
+                "Nombre": "Andre Drummond",
+                "Antes": 1145,
+                "Hoy": 0,
+                "Total": 1145,
+                "Diff": "4",
+                "Antece": "Fred Brown",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "blk": [
+            {
+                "Rank": 69,
+                "Nombre": "Andre Drummond",
+                "Antes": 1160,
+                "Hoy": 0,
+                "Total": 1160,
+                "Diff": "23",
+                "Antece": "Elmore Smith",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 175,
+                "Nombre": "Joel Embiid",
+                "Antes": 747,
+                "Hoy": 0,
+                "Total": 747,
+                "Diff": "2",
+                "Antece": "Rich Kelley",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "fg3": [
+            {
+                "Rank": 9,
+                "Nombre": "Paul George",
+                "Antes": 2354,
+                "Hoy": 0,
+                "Total": 2354,
+                "Diff": "46",
+                "Antece": "2400",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 14,
+                "Nombre": "Kyle Lowry",
+                "Antes": 2206,
+                "Hoy": 0,
+                "Total": 2206,
+                "Diff": "9",
+                "Antece": "Kevin Durant",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 17,
+                "Nombre": "Eric Gordon",
+                "Antes": 2086,
+                "Hoy": 0,
+                "Total": 2086,
+                "Diff": "14",
+                "Antece": "2100",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 73,
+                "Nombre": "Terry Rozier",
+                "Antes": 1356,
+                "Hoy": 0,
+                "Total": 1356,
+                "Diff": "3",
+                "Antece": "Evan Fournier",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 114,
+                "Nombre": "Andrew Wiggins",
+                "Antes": 1174,
+                "Hoy": 0,
+                "Total": 1174,
+                "Diff": "1",
+                "Antece": "Jaylen Brown",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 133,
+                "Nombre": "Norman Powell",
+                "Antes": 1100,
+                "Hoy": 1,
+                "Total": 1101,
+                "Diff": "3",
+                "Antece": "Randy Foye",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 167,
+                "Nombre": "Kelly Oubre Jr.",
+                "Antes": 1005,
+                "Hoy": 0,
+                "Total": 1005,
+                "Diff": "1",
+                "Antece": "Danny Granger",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 179,
+                "Nombre": "Tyler Herro",
+                "Antes": 984,
+                "Hoy": 0,
+                "Total": 984,
+                "Diff": "1",
+                "Antece": "Derrick White",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            }
+        ],
+        "g": [
+            {
+                "Rank": 58,
+                "Nombre": "Kyle Lowry",
+                "Antes": 1174,
+                "Hoy": 0,
+                "Total": 1174,
+                "Diff": "4",
+                "Antece": "Scottie Pippen",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 231,
+                "Nombre": "Eric Gordon",
+                "Antes": 928,
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "1",
+                "Antece": "Tom Van Arsdale",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 244,
+                "Nombre": "Andre Drummond",
+                "Antes": 918,
+                "Hoy": 1,
+                "Total": 919,
+                "Diff": "1",
+                "Antece": "Larry Nance",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            }
+        ]
+    },
     "notificaciones": [],
-    "cache_buster": 1763921647
+    "cache_buster": 1763921652
 }
