@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:10:17",
+    "ultima_actualizacion": "02:10:50",
     "tablas": {
         "pts": [
             {
@@ -88,7 +88,7 @@
                 "Diff": "2",
                 "Antece": "Bob Cousy",
                 "Nota": "A tiro de 2",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 112,
@@ -121,7 +121,7 @@
                 "Diff": "25",
                 "Antece": "Tobias Harris",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 156,
@@ -154,7 +154,7 @@
                 "Diff": "2",
                 "Antece": "Jeff Mullins",
                 "Nota": "A tiro de 2",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "trb": [
@@ -178,7 +178,7 @@
                 "Diff": "58",
                 "Antece": "Otis Thorpe",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 66,
@@ -378,7 +378,7 @@
                 "Diff": "15",
                 "Antece": "Foots Walker",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 233,
@@ -389,7 +389,7 @@
                 "Diff": "",
                 "Antece": "Blake Griffin",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 234,
@@ -501,7 +501,7 @@
                 "Diff": "",
                 "Antece": "John Long",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 246,
@@ -591,7 +591,7 @@
                 "Diff": "13",
                 "Antece": "Kenyon Martin",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 157,
@@ -714,7 +714,7 @@
                 "Diff": "59",
                 "Antece": "Eric Gordon",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 26,
@@ -802,7 +802,7 @@
                 "Diff": "5",
                 "Antece": "Jordan Clarkson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 78,
@@ -912,7 +912,7 @@
                 "Diff": "1",
                 "Antece": "Marvin Williams",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 160,
@@ -956,7 +956,7 @@
                 "Diff": "3",
                 "Antece": "Rafer Alston",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 190,
@@ -978,7 +978,7 @@
                 "Diff": "6",
                 "Antece": "Chucky Atkins",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 204,
@@ -1090,7 +1090,7 @@
                 "Diff": "",
                 "Antece": "Erick Dampier",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 183,
@@ -1125,5 +1125,5 @@
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926."
     ],
-    "cache_buster": 1763860217
+    "cache_buster": 1763860250
 }
