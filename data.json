@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:29:16",
+    "ultima_actualizacion": "03:29:48",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 138,
                 "Nombre": "CJ McCollum",
                 "Antes": 15660,
-                "Hoy": 10,
-                "Total": 15670,
-                "Diff": "17",
+                "Hoy": 11,
+                "Total": 15671,
+                "Diff": "16",
                 "Antece": "Larry Nance",
                 "Nota": "",
                 "game_status": "playing"
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763864956
+    "cache_buster": 1763864988
 }
