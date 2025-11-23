@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:49:38",
+    "ultima_actualizacion": "00:50:12",
     "tablas": {
         "pts": [
             {
@@ -127,9 +127,9 @@
                 "Rank": 210,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13775,
-                "Hoy": 9,
-                "Total": 13784,
-                "Diff": "6",
+                "Hoy": 11,
+                "Total": 13786,
+                "Diff": "4",
                 "Antece": "Bill Laimbeer",
                 "Nota": "",
                 "game_status": "playing"
@@ -140,9 +140,9 @@
                 "Antes": 13784,
                 "Hoy": 0,
                 "Total": 13784,
-                "Diff": "",
+                "Diff": "2",
                 "Antece": "Donovan Mitchell",
-                "Nota": "Mismo total",
+                "Nota": "A tiro de 2",
                 "game_status": "playing"
             }
         ],
@@ -995,6 +995,8 @@
             }
         ]
     },
-    "notificaciones": [],
-    "cache_buster": 1763941778
+    "notificaciones": [
+        "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786."
+    ],
+    "cache_buster": 1763941812
 }
