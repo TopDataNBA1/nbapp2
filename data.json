@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:36:12",
+    "ultima_actualizacion": "00:36:46",
     "tablas": {
         "pts": [
             {
@@ -885,9 +885,9 @@
                 "Rank": 220,
                 "Nombre": "Michael Porter Jr.",
                 "Antes": 888,
-                "Hoy": 0,
-                "Total": 888,
-                "Diff": "5",
+                "Hoy": 1,
+                "Total": 889,
+                "Diff": "4",
                 "Antece": "Will Barton",
                 "Nota": "",
                 "game_status": "playing"
@@ -996,5 +996,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763940972
+    "cache_buster": 1763941006
 }
