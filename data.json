@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:19:32",
+    "ultima_actualizacion": "19:20:07",
     "tablas": {
         "pts": [
             {
@@ -100,9 +100,9 @@
                 "Rank": 46,
                 "Nombre": "Paul George",
                 "Antes": 1541,
-                "Hoy": 0,
-                "Total": 1541,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 1542,
+                "Diff": "2",
                 "Antece": "Nate McMillan",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763921972
+    "cache_buster": 1763922007
 }
