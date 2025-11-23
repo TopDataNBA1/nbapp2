@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:04:42",
+    "ultima_actualizacion": "02:05:15",
     "tablas": {
         "pts": [
             {
@@ -36,6 +36,28 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 64,
+                "Nombre": "Anthony Davis",
+                "Antes": 19082,
+                "Hoy": 0,
+                "Total": 19082,
+                "Diff": "99",
+                "Antece": "Gail Goodrich",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 76,
+                "Nombre": "Kyrie Irving",
+                "Antes": 18433,
+                "Hoy": 0,
+                "Total": 18433,
+                "Diff": "5",
+                "Antece": "Dolph Schayes",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 91,
                 "Nombre": "Brook Lopez",
                 "Antes": 17613,
@@ -66,6 +88,17 @@
                 "Diff": "2",
                 "Antece": "Bob Cousy",
                 "Nota": "A tiro de 2",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 112,
+                "Nombre": "Klay Thompson",
+                "Antes": 16686,
+                "Hoy": 0,
+                "Total": 16686,
+                "Diff": "26",
+                "Antece": "Latrell Sprewell",
+                "Nota": "",
                 "game_status": "not_started"
             },
             {
@@ -155,6 +188,17 @@
                 "Total": 8671,
                 "Diff": "38",
                 "Antece": "Leroy Ellis",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 70,
+                "Nombre": "Anthony Davis",
+                "Antes": 8467,
+                "Hoy": 0,
+                "Total": 8467,
+                "Diff": "138",
+                "Antece": "Dale Davis",
                 "Nota": "",
                 "game_status": "not_started"
             },
@@ -282,6 +326,28 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 101,
+                "Nombre": "Kyrie Irving",
+                "Antes": 4364,
+                "Hoy": 0,
+                "Total": 4364,
+                "Diff": "13",
+                "Antece": "Giannis Antetokounmp",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 158,
+                "Nombre": "D'Angelo Russell",
+                "Antes": 3666,
+                "Hoy": 0,
+                "Total": 3666,
+                "Diff": "18",
+                "Antece": "Boris Diaw",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 171,
                 "Nombre": "Nicolas Batum",
                 "Antes": 3559,
@@ -372,6 +438,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 152,
+                "Nombre": "Kentavious Caldwell-Pope",
+                "Antes": 1070,
+                "Hoy": 0,
+                "Total": 1070,
+                "Diff": "1",
+                "Antece": "Joe Johnson",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 165,
                 "Nombre": "Nicolas Batum",
                 "Antes": 1041,
@@ -381,6 +458,28 @@
                 "Antece": "Darwin Cook",
                 "Nota": "A tiro de 1",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 166,
+                "Nombre": "Anthony Davis",
+                "Antes": 1041,
+                "Hoy": 0,
+                "Total": 1041,
+                "Diff": "2",
+                "Antece": "Nicolas Batum",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 175,
+                "Nombre": "Kyrie Irving",
+                "Antes": 1022,
+                "Hoy": 0,
+                "Total": 1022,
+                "Diff": "1",
+                "Antece": "Corey Brewer",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 198,
@@ -427,6 +526,17 @@
                 "Antece": "George Johnson",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 24,
+                "Nombre": "Anthony Davis",
+                "Antes": 1821,
+                "Hoy": 0,
+                "Total": 1821,
+                "Diff": "7",
+                "Antece": "Elton Brand",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 37,
@@ -480,6 +590,17 @@
                 "Total": 851,
                 "Diff": "13",
                 "Antece": "Kenyon Martin",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 157,
+                "Nombre": "Jaren Jackson Jr.",
+                "Antes": 796,
+                "Hoy": 0,
+                "Total": 796,
+                "Diff": "2",
+                "Antece": "Vin Baker",
                 "Nota": "",
                 "game_status": "not_started"
             },
@@ -539,6 +660,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 230,
+                "Nombre": "Daniel Gafford",
+                "Antes": 601,
+                "Hoy": 0,
+                "Total": 601,
+                "Diff": "2",
+                "Antece": "Jamaal Magloire",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 237,
                 "Nombre": "Ivica Zubac",
                 "Antes": 589,
@@ -563,6 +695,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 5,
+                "Nombre": "Klay Thompson",
+                "Antes": 2733,
+                "Hoy": 0,
+                "Total": 2733,
+                "Diff": "67",
+                "Antece": "2800",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 18,
                 "Nombre": "CJ McCollum",
                 "Antes": 2027,
@@ -570,6 +713,17 @@
                 "Total": 2027,
                 "Diff": "59",
                 "Antece": "Eric Gordon",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 26,
+                "Nombre": "Kyrie Irving",
+                "Antes": 1876,
+                "Hoy": 0,
+                "Total": 1876,
+                "Diff": "4",
+                "Antece": "Tim Hardaway Jr.",
                 "Nota": "",
                 "game_status": "not_started"
             },
@@ -605,6 +759,28 @@
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 44,
+                "Nombre": "D'Angelo Russell",
+                "Antes": 1597,
+                "Hoy": 0,
+                "Total": 1597,
+                "Diff": "3",
+                "Antece": "1600",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 49,
+                "Nombre": "Kentavious Caldwell-Pope",
+                "Antes": 1547,
+                "Hoy": 0,
+                "Total": 1547,
+                "Diff": "12",
+                "Antece": "Glen Rice",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 64,
@@ -926,6 +1102,17 @@
                 "Antece": "Randy Smith",
                 "Nota": "Mismo total",
                 "game_status": "not_started"
+            },
+            {
+                "Rank": 232,
+                "Nombre": "Kentavious Caldwell-Pope",
+                "Antes": 928,
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "",
+                "Antece": "John Lucas",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
             }
         ]
     },
@@ -938,5 +1125,5 @@
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926."
     ],
-    "cache_buster": 1763859882
+    "cache_buster": 1763859915
 }
