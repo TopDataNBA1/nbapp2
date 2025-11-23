@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:34:27",
+    "ultima_actualizacion": "02:35:00",
     "tablas": {
         "pts": [
             {
@@ -575,9 +575,9 @@
                 "Rank": 119,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 925,
-                "Hoy": 1,
-                "Total": 926,
-                "Diff": "5",
+                "Hoy": 2,
+                "Total": 927,
+                "Diff": "4",
                 "Antece": "Chris Kaman",
                 "Nota": "",
                 "game_status": "playing"
@@ -962,9 +962,9 @@
                 "Rank": 190,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 966,
-                "Hoy": 1,
-                "Total": 967,
-                "Diff": "4",
+                "Hoy": 2,
+                "Total": 968,
+                "Diff": "3",
                 "Antece": "Vladimir Radmanovic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1125,7 +1125,8 @@
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926.",
         "Nikola Vucevic (4 points today) has passed Bob Cousy and is now ranked 106th all-time in career points with 16,962.",
-        "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250."
+        "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250.",
+        "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968."
     ],
-    "cache_buster": 1763861667
+    "cache_buster": 1763861700
 }
