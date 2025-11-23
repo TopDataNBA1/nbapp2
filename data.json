@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:47:01",
+    "ultima_actualizacion": "05:47:34",
     "tablas": {
         "pts": [
             {
@@ -406,9 +406,9 @@
                 "Rank": 54,
                 "Nombre": "Nikola Jokic",
                 "Antes": 5548,
-                "Hoy": 5,
-                "Total": 5553,
-                "Diff": "71",
+                "Hoy": 6,
+                "Total": 5554,
+                "Diff": "70",
                 "Antece": "Allen Iverson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1441,5 +1441,5 @@
         "Dennis Schroder (4 assists today) has passed Rory Sparrow and is now ranked 116th all-time in career assists with 4,193.",
         "Dennis Schroder (2 three-pointers today) has passed Cuttino Mobley and is now ranked 137th all-time in career three-pointers with 1,086."
     ],
-    "cache_buster": 1763873221
+    "cache_buster": 1763873254
 }
