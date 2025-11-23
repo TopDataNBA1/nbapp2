@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:18:58",
+    "ultima_actualizacion": "06:19:31",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 18,
                 "Nombre": "Russell Westbrook",
                 "Antes": 26424,
-                "Hoy": 19,
-                "Total": 26443,
-                "Diff": "53",
+                "Hoy": 21,
+                "Total": 26445,
+                "Diff": "51",
                 "Antece": "Tim Duncan",
                 "Nota": "",
                 "game_status": "playing"
@@ -1444,5 +1444,5 @@
         "Zach LaVine (15 points today) has passed Alvan Adams and Ron Harper and is now ranked 202nd all-time in career points with 13,911.",
         "Nikola Jokic (2 three-pointers today) has passed John Stockton and is now ranked 241st all-time in career three-pointers with 846."
     ],
-    "cache_buster": 1763875138
+    "cache_buster": 1763875171
 }
