@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:16:13",
+    "ultima_actualizacion": "06:16:46",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 18,
                 "Nombre": "Russell Westbrook",
                 "Antes": 26424,
-                "Hoy": 16,
-                "Total": 26440,
-                "Diff": "56",
+                "Hoy": 19,
+                "Total": 26443,
+                "Diff": "53",
                 "Antece": "Tim Duncan",
                 "Nota": "",
                 "game_status": "playing"
@@ -127,9 +127,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16652,
-                "Hoy": 33,
-                "Total": 16685,
-                "Diff": "23",
+                "Hoy": 36,
+                "Total": 16688,
+                "Diff": "20",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -417,9 +417,9 @@
                 "Rank": 76,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 4925,
-                "Hoy": 4,
-                "Total": 4929,
-                "Diff": "25",
+                "Hoy": 5,
+                "Total": 4930,
+                "Diff": "24",
                 "Antece": "Kevin Durant",
                 "Nota": "",
                 "game_status": "playing"
@@ -1017,9 +1017,9 @@
                 "Rank": 67,
                 "Nombre": "Russell Westbrook",
                 "Antes": 1400,
-                "Hoy": 1,
-                "Total": 1401,
-                "Diff": "15",
+                "Hoy": 2,
+                "Total": 1402,
+                "Diff": "14",
                 "Antece": "Luka Doncic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1278,14 +1278,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 242,
+                "Rank": 241,
                 "Nombre": "Nikola Jokic",
                 "Antes": 844,
-                "Hoy": 1,
-                "Total": 845,
-                "Diff": "",
-                "Antece": "John Stockton",
-                "Nota": "Mismo total",
+                "Hoy": 2,
+                "Total": 846,
+                "Diff": "3",
+                "Antece": "Sam Perkins",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1295,7 +1295,7 @@
                 "Hoy": 3,
                 "Total": 841,
                 "Diff": "4",
-                "Antece": "Nikola Jokic",
+                "Antece": "John Stockton",
                 "Nota": "",
                 "game_status": "finished"
             }
@@ -1441,7 +1441,8 @@
         "Dennis Schroder (4 assists today) has passed Rory Sparrow and is now ranked 116th all-time in career assists with 4,193.",
         "Dennis Schroder (2 three-pointers today) has passed Cuttino Mobley and is now ranked 137th all-time in career three-pointers with 1,086.",
         "Dennis Schroder (3 three-pointers today) has passed Rasheed Wallace and is now ranked 137th all-time in career three-pointers with 1,087.",
-        "Zach LaVine (15 points today) has passed Alvan Adams and Ron Harper and is now ranked 202nd all-time in career points with 13,911."
+        "Zach LaVine (15 points today) has passed Alvan Adams and Ron Harper and is now ranked 202nd all-time in career points with 13,911.",
+        "Nikola Jokic (2 three-pointers today) has passed John Stockton and is now ranked 241st all-time in career three-pointers with 846."
     ],
-    "cache_buster": 1763874973
+    "cache_buster": 1763875006
 }
