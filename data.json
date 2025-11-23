@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:25:33",
+    "ultima_actualizacion": "04:26:06",
     "tablas": {
         "pts": [
             {
@@ -384,9 +384,9 @@
                 "Rank": 8,
                 "Nombre": "Russell Westbrook",
                 "Antes": 10025,
-                "Hoy": 3,
-                "Total": 10028,
-                "Diff": "113",
+                "Hoy": 4,
+                "Total": 10029,
+                "Diff": "112",
                 "Antece": "Magic Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763868333
+    "cache_buster": 1763868366
 }
