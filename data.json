@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:16:49",
+    "ultima_actualizacion": "04:17:21",
     "tablas": {
         "pts": [
             {
@@ -384,9 +384,9 @@
                 "Rank": 8,
                 "Nombre": "Russell Westbrook",
                 "Antes": 10025,
-                "Hoy": 1,
-                "Total": 10026,
-                "Diff": "115",
+                "Hoy": 2,
+                "Total": 10027,
+                "Diff": "114",
                 "Antece": "Magic Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -406,9 +406,9 @@
                 "Rank": 54,
                 "Nombre": "Nikola Jokic",
                 "Antes": 5548,
-                "Hoy": 1,
-                "Total": 5549,
-                "Diff": "75",
+                "Hoy": 2,
+                "Total": 5550,
+                "Diff": "74",
                 "Antece": "Allen Iverson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1050,11 +1050,11 @@
                 "Rank": 89,
                 "Nombre": "Duncan Robinson",
                 "Antes": 1248,
-                "Hoy": 4,
-                "Total": 1252,
-                "Diff": "1",
+                "Hoy": 5,
+                "Total": 1253,
+                "Diff": "",
                 "Antece": "Clifford Robinson",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1436,7 +1436,8 @@
         "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250.",
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
-        "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
+        "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
+        "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763867809
+    "cache_buster": 1763867841
 }
