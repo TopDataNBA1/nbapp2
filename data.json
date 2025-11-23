@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:45:53",
+    "ultima_actualizacion": "04:46:26",
     "tablas": {
         "pts": [
             {
@@ -417,9 +417,9 @@
                 "Rank": 76,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 4925,
-                "Hoy": 1,
-                "Total": 4926,
-                "Diff": "28",
+                "Hoy": 2,
+                "Total": 4927,
+                "Diff": "27",
                 "Antece": "Kevin Durant",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763869553
+    "cache_buster": 1763869586
 }
