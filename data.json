@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:41:15",
+    "ultima_actualizacion": "00:41:48",
     "tablas": {
         "pts": [
             {
@@ -340,9 +340,9 @@
                 "Rank": 234,
                 "Nombre": "Tyus Jones",
                 "Antes": 3048,
-                "Hoy": 0,
-                "Total": 3048,
-                "Diff": "7",
+                "Hoy": 1,
+                "Total": 3049,
+                "Diff": "6",
                 "Antece": "Blake Griffin",
                 "Nota": "",
                 "game_status": "playing"
@@ -996,5 +996,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763941275
+    "cache_buster": 1763941308
 }
