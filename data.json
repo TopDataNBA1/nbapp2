@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:13:32",
+    "ultima_actualizacion": "04:14:05",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 18,
                 "Nombre": "Russell Westbrook",
                 "Antes": 26424,
-                "Hoy": 0,
-                "Total": 26424,
-                "Diff": "72",
+                "Hoy": 2,
+                "Total": 26426,
+                "Diff": "70",
                 "Antece": "Tim Duncan",
                 "Nota": "",
                 "game_status": "playing"
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763867612
+    "cache_buster": 1763867645
 }
