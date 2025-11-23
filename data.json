@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "21:21:04",
+    "ultima_actualizacion": "21:21:39",
     "tablas": {
         "pts": [
             {
@@ -11,7 +11,7 @@
                 "Diff": "50",
                 "Antece": "Bob McAdoo",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 119,
@@ -22,7 +22,7 @@
                 "Diff": "42",
                 "Antece": "Joe Dumars",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 183,
@@ -33,7 +33,7 @@
                 "Diff": "5",
                 "Antece": "Jeff Green",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 191,
@@ -44,7 +44,7 @@
                 "Diff": "13",
                 "Antece": "Eddie Jones",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "trb": [
@@ -57,7 +57,7 @@
                 "Diff": "117",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 219,
@@ -68,7 +68,7 @@
                 "Diff": "9",
                 "Antece": "Dan Issel",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "ast": [
@@ -81,7 +81,7 @@
                 "Diff": "60",
                 "Antece": "Terry Porter",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 191,
@@ -92,7 +92,7 @@
                 "Diff": "14",
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "stl": [
@@ -105,7 +105,7 @@
                 "Diff": "2",
                 "Antece": "Nate McMillan",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 55,
@@ -116,7 +116,7 @@
                 "Diff": "5",
                 "Antece": "Reggie Miller",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 119,
@@ -127,7 +127,7 @@
                 "Diff": "4",
                 "Antece": "Fred Brown",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "blk": [
@@ -140,7 +140,7 @@
                 "Diff": "21",
                 "Antece": "Elmore Smith",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 175,
@@ -151,7 +151,7 @@
                 "Diff": "2",
                 "Antece": "Rich Kelley",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "fg3": [
@@ -164,7 +164,7 @@
                 "Diff": "46",
                 "Antece": "2400",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 14,
@@ -175,7 +175,7 @@
                 "Diff": "9",
                 "Antece": "Kevin Durant",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 17,
@@ -186,7 +186,7 @@
                 "Diff": "14",
                 "Antece": "2100",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 73,
@@ -197,7 +197,7 @@
                 "Diff": "3",
                 "Antece": "Evan Fournier",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 114,
@@ -208,7 +208,7 @@
                 "Diff": "1",
                 "Antece": "Jaylen Brown",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 132,
@@ -219,7 +219,7 @@
                 "Diff": "",
                 "Antece": "Latrell Sprewell",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 167,
@@ -230,7 +230,7 @@
                 "Diff": "1",
                 "Antece": "Danny Granger",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 179,
@@ -241,7 +241,7 @@
                 "Diff": "1",
                 "Antece": "Derrick White",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "g": [
@@ -254,7 +254,7 @@
                 "Diff": "4",
                 "Antece": "Scottie Pippen",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 231,
@@ -265,7 +265,7 @@
                 "Diff": "1",
                 "Antece": "Tom Van Arsdale",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 244,
@@ -276,10 +276,10 @@
                 "Diff": "1",
                 "Antece": "Larry Nance",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763929264
+    "cache_buster": 1763929299
 }
