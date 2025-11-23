@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:53:36",
+    "ultima_actualizacion": "00:54:10",
     "tablas": {
         "pts": [
             {
@@ -340,9 +340,9 @@
                 "Rank": 234,
                 "Nombre": "Tyus Jones",
                 "Antes": 3048,
-                "Hoy": 2,
-                "Total": 3050,
-                "Diff": "5",
+                "Hoy": 3,
+                "Total": 3051,
+                "Diff": "4",
                 "Antece": "Blake Griffin",
                 "Nota": "",
                 "game_status": "playing"
@@ -998,5 +998,5 @@
     "notificaciones": [
         "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786."
     ],
-    "cache_buster": 1763942016
+    "cache_buster": 1763942050
 }
