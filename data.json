@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:48:14",
+    "ultima_actualizacion": "19:48:48",
     "tablas": {
         "pts": [
             {
@@ -52,9 +52,9 @@
                 "Rank": 31,
                 "Nombre": "Andre Drummond",
                 "Antes": 11116,
-                "Hoy": 11,
-                "Total": 11127,
-                "Diff": "129",
+                "Hoy": 12,
+                "Total": 11128,
+                "Diff": "128",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
                 "game_status": "playing"
@@ -87,9 +87,9 @@
                 "Rank": 191,
                 "Nombre": "Paul George",
                 "Antes": 3375,
-                "Hoy": 1,
-                "Total": 3376,
-                "Diff": "18",
+                "Hoy": 2,
+                "Total": 3377,
+                "Diff": "17",
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763923694
+    "cache_buster": 1763923728
 }
