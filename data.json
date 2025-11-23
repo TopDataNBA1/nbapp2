@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:10:46",
+    "ultima_actualizacion": "00:11:20",
     "tablas": {
         "pts": [
             {
@@ -110,7 +110,7 @@
                 "Diff": "6",
                 "Antece": "Bill Laimbeer",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 211,
@@ -173,9 +173,9 @@
                 "Rank": 211,
                 "Nombre": "Mason Plumlee",
                 "Antes": 5778,
-                "Hoy": 0,
-                "Total": 5778,
-                "Diff": "13",
+                "Hoy": 1,
+                "Total": 5779,
+                "Diff": "12",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
                 "game_status": "playing"
@@ -301,7 +301,7 @@
                 "Diff": "7",
                 "Antece": "Blake Griffin",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "stl": [
@@ -615,7 +615,7 @@
                 "Diff": "",
                 "Antece": "Eddie Jones",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 73,
@@ -670,7 +670,7 @@
                 "Diff": "3",
                 "Antece": "Deron Williams",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 114,
@@ -714,7 +714,7 @@
                 "Diff": "4",
                 "Antece": "Mikal Bridges",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 167,
@@ -736,7 +736,7 @@
                 "Diff": "1",
                 "Antece": "Doug McDermott",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 179,
@@ -802,7 +802,7 @@
                 "Diff": "4",
                 "Antece": "John Stockton",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "g": [
@@ -886,5 +886,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763939446
+    "cache_buster": 1763939480
 }
