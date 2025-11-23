@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:15:56",
+    "ultima_actualizacion": "19:16:35",
     "tablas": {
         "pts": [
             {
@@ -214,9 +214,9 @@
                 "Rank": 133,
                 "Nombre": "Norman Powell",
                 "Antes": 1100,
-                "Hoy": 1,
-                "Total": 1101,
-                "Diff": "3",
+                "Hoy": 2,
+                "Total": 1102,
+                "Diff": "2",
                 "Antece": "Randy Foye",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763921756
+    "cache_buster": 1763921795
 }
