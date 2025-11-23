@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:48:41",
+    "ultima_actualizacion": "05:49:13",
     "tablas": {
         "pts": [
             {
@@ -1116,9 +1116,9 @@
                 "Rank": 137,
                 "Nombre": "Dennis Schroder",
                 "Antes": 1084,
-                "Hoy": 2,
-                "Total": 1086,
-                "Diff": "4",
+                "Hoy": 3,
+                "Total": 1087,
+                "Diff": "3",
                 "Antece": "Dana Barros",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,7 +1439,8 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253.",
         "Dennis Schroder (4 assists today) has passed Rory Sparrow and is now ranked 116th all-time in career assists with 4,193.",
-        "Dennis Schroder (2 three-pointers today) has passed Cuttino Mobley and is now ranked 137th all-time in career three-pointers with 1,086."
+        "Dennis Schroder (2 three-pointers today) has passed Cuttino Mobley and is now ranked 137th all-time in career three-pointers with 1,086.",
+        "Dennis Schroder (3 three-pointers today) has passed Rasheed Wallace and is now ranked 137th all-time in career three-pointers with 1,087."
     ],
-    "cache_buster": 1763873321
+    "cache_buster": 1763873353
 }
