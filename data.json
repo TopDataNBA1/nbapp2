@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "00:15:19",
+    "ultima_actualizacion": "00:15:53",
     "tablas": {
         "pts": [
             {
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Antes": 28113,
-                "Hoy": 3,
-                "Total": 28116,
-                "Diff": "173",
+                "Hoy": 5,
+                "Total": 28118,
+                "Diff": "171",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -886,5 +886,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763939719
+    "cache_buster": 1763939753
 }
