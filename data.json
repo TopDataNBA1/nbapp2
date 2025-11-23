@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:59:42",
+    "ultima_actualizacion": "03:00:15",
     "tablas": {
         "pts": [
             {
@@ -83,9 +83,9 @@
                 "Rank": 106,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 16958,
-                "Hoy": 8,
-                "Total": 16966,
-                "Diff": "34",
+                "Hoy": 11,
+                "Total": 16969,
+                "Diff": "31",
                 "Antece": "17000",
                 "Nota": "",
                 "game_status": "playing"
@@ -116,9 +116,9 @@
                 "Rank": 138,
                 "Nombre": "CJ McCollum",
                 "Antes": 15660,
-                "Hoy": 5,
-                "Total": 15665,
-                "Diff": "22",
+                "Hoy": 8,
+                "Total": 15668,
+                "Diff": "19",
                 "Antece": "Larry Nance",
                 "Nota": "",
                 "game_status": "playing"
@@ -709,9 +709,9 @@
                 "Rank": 18,
                 "Nombre": "CJ McCollum",
                 "Antes": 2027,
-                "Hoy": 1,
-                "Total": 2028,
-                "Diff": "58",
+                "Hoy": 2,
+                "Total": 2029,
+                "Diff": "57",
                 "Antece": "Eric Gordon",
                 "Nota": "",
                 "game_status": "playing"
@@ -973,9 +973,9 @@
                 "Rank": 203,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 928,
-                "Hoy": 0,
-                "Total": 928,
-                "Diff": "6",
+                "Hoy": 1,
+                "Total": 929,
+                "Diff": "5",
                 "Antece": "Chucky Atkins",
                 "Nota": "",
                 "game_status": "playing"
@@ -986,7 +986,7 @@
                 "Antes": 924,
                 "Hoy": 2,
                 "Total": 926,
-                "Diff": "2",
+                "Diff": "3",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763863182
+    "cache_buster": 1763863215
 }
