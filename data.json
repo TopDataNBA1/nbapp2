@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:20:37",
+    "ultima_actualizacion": "06:21:11",
     "tablas": {
         "pts": [
             {
@@ -127,9 +127,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16652,
-                "Hoy": 38,
-                "Total": 16690,
-                "Diff": "18",
+                "Hoy": 41,
+                "Total": 16693,
+                "Diff": "15",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1281,9 +1281,9 @@
                 "Rank": 241,
                 "Nombre": "Nikola Jokic",
                 "Antes": 844,
-                "Hoy": 2,
-                "Total": 846,
-                "Diff": "3",
+                "Hoy": 3,
+                "Total": 847,
+                "Diff": "2",
                 "Antece": "Sam Perkins",
                 "Nota": "",
                 "game_status": "playing"
@@ -1444,5 +1444,5 @@
         "Zach LaVine (15 points today) has passed Alvan Adams and Ron Harper and is now ranked 202nd all-time in career points with 13,911.",
         "Nikola Jokic (2 three-pointers today) has passed John Stockton and is now ranked 241st all-time in career three-pointers with 846."
     ],
-    "cache_buster": 1763875237
+    "cache_buster": 1763875271
 }
