@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:17:26",
+    "ultima_actualizacion": "02:17:59",
     "tablas": {
         "pts": [
             {
@@ -381,14 +381,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 233,
+                "Rank": 232,
                 "Nombre": "CJ McCollum",
                 "Antes": 3055,
-                "Hoy": 0,
-                "Total": 3055,
-                "Diff": "",
-                "Antece": "Blake Griffin",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 3056,
+                "Diff": "2",
+                "Antece": "Hakeem Olajuwon",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -398,7 +398,7 @@
                 "Hoy": 3,
                 "Total": 3048,
                 "Diff": "7",
-                "Antece": "CJ McCollum",
+                "Antece": "Blake Griffin",
                 "Nota": "",
                 "game_status": "finished"
             }
@@ -1126,5 +1126,5 @@
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926.",
         "Nikola Vucevic (4 points today) has passed Bob Cousy and is now ranked 106th all-time in career points with 16,962."
     ],
-    "cache_buster": 1763860646
+    "cache_buster": 1763860679
 }
