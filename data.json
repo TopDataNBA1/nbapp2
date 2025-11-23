@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:11:54",
+    "ultima_actualizacion": "04:12:26",
     "tablas": {
         "pts": [
             {
@@ -22,7 +22,7 @@
                 "Diff": "72",
                 "Antece": "Tim Duncan",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 25,
@@ -33,7 +33,7 @@
                 "Diff": "34",
                 "Antece": "Alex English",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 36,
@@ -132,7 +132,7 @@
                 "Diff": "50",
                 "Antece": "Klay Thompson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 136,
@@ -187,7 +187,7 @@
                 "Diff": "14",
                 "Antece": "Ron Harper",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 231,
@@ -233,7 +233,7 @@
                 "Diff": "42",
                 "Antece": "Shawn Kemp",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 62,
@@ -244,7 +244,7 @@
                 "Diff": "4",
                 "Antece": "Jonas Valanciunas",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 66,
@@ -272,12 +272,12 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8336,
-                "Hoy": 0,
-                "Total": 8336,
-                "Diff": "73",
+                "Hoy": 1,
+                "Total": 8337,
+                "Diff": "72",
                 "Antece": "P.J. Brown",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 103,
@@ -299,7 +299,7 @@
                 "Diff": "8",
                 "Antece": "Detlef Schrempf",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 133,
@@ -389,7 +389,7 @@
                 "Diff": "116",
                 "Antece": "Magic Johnson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 13,
@@ -411,7 +411,7 @@
                 "Diff": "76",
                 "Antece": "Allen Iverson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 76,
@@ -422,7 +422,7 @@
                 "Diff": "29",
                 "Antece": "Kevin Durant",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 81,
@@ -466,7 +466,7 @@
                 "Diff": "3",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 158,
@@ -510,7 +510,7 @@
                 "Diff": "9",
                 "Antece": "Vinnie Johnson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 224,
@@ -567,7 +567,7 @@
                 "Diff": "11",
                 "Antece": "Allen Iverson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 23,
@@ -600,7 +600,7 @@
                 "Diff": "4",
                 "Antece": "Dan Majerle",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 152,
@@ -655,7 +655,7 @@
                 "Diff": "",
                 "Antece": "J.R. Smith",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 198,
@@ -767,7 +767,7 @@
                 "Diff": "4",
                 "Antece": "Roy Hinson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 141,
@@ -912,7 +912,7 @@
                 "Diff": "20",
                 "Antece": "1900",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 26,
@@ -978,7 +978,7 @@
                 "Diff": "2",
                 "Antece": "Danny Green",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 49,
@@ -1022,7 +1022,7 @@
                 "Diff": "16",
                 "Antece": "Luka Doncic",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 78,
@@ -1088,7 +1088,7 @@
                 "Diff": "5",
                 "Antece": "Rudy Gay",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 126,
@@ -1121,7 +1121,7 @@
                 "Diff": "1",
                 "Antece": "Cuttino Mobley",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 148,
@@ -1138,11 +1138,11 @@
                 "Rank": 150,
                 "Nombre": "Gary Trent Jr.",
                 "Antes": 1052,
-                "Hoy": 1,
-                "Total": 1053,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 1054,
+                "Diff": "1",
                 "Antece": "Nick Anderson",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1209,7 +1209,7 @@
                 "Diff": "2",
                 "Antece": "Leandro Barbosa",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 190,
@@ -1231,7 +1231,7 @@
                 "Diff": "1",
                 "Antece": "Donte DiVincenzo",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 203,
@@ -1286,7 +1286,7 @@
                 "Diff": "1",
                 "Antece": "John Stockton",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 243,
@@ -1321,7 +1321,7 @@
                 "Diff": "1",
                 "Antece": "Tony Parker",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 48,
@@ -1332,7 +1332,7 @@
                 "Diff": "4",
                 "Antece": "Shaquille O'Neal",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 61,
@@ -1409,7 +1409,7 @@
                 "Diff": "1",
                 "Antece": "Alton Lister",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 228,
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763867514
+    "cache_buster": 1763867546
 }
