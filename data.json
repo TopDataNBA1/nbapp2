@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:16:16",
+    "ultima_actualizacion": "04:16:49",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 18,
                 "Nombre": "Russell Westbrook",
                 "Antes": 26424,
-                "Hoy": 2,
-                "Total": 26426,
-                "Diff": "70",
+                "Hoy": 4,
+                "Total": 26428,
+                "Diff": "68",
                 "Antece": "Tim Duncan",
                 "Nota": "",
                 "game_status": "playing"
@@ -138,9 +138,9 @@
                 "Rank": 136,
                 "Nombre": "Tobias Harris",
                 "Antes": 15685,
-                "Hoy": 15,
-                "Total": 15700,
-                "Diff": "8",
+                "Hoy": 16,
+                "Total": 15701,
+                "Diff": "7",
                 "Antece": "Richard Hamilton",
                 "Nota": "",
                 "game_status": "playing"
@@ -272,9 +272,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8336,
-                "Hoy": 1,
-                "Total": 8337,
-                "Diff": "72",
+                "Hoy": 2,
+                "Total": 8338,
+                "Diff": "71",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -406,9 +406,9 @@
                 "Rank": 54,
                 "Nombre": "Nikola Jokic",
                 "Antes": 5548,
-                "Hoy": 0,
-                "Total": 5548,
-                "Diff": "76",
+                "Hoy": 1,
+                "Total": 5549,
+                "Diff": "75",
                 "Antece": "Allen Iverson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763867776
+    "cache_buster": 1763867809
 }
