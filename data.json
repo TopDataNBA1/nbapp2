@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:10:12",
+    "ultima_actualizacion": "00:10:46",
     "tablas": {
         "pts": [
             {
@@ -178,7 +178,7 @@
                 "Diff": "13",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 219,
@@ -257,7 +257,7 @@
                 "Diff": "18",
                 "Antece": "Gail Goodrich",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 171,
@@ -426,7 +426,7 @@
                 "Diff": "3",
                 "Antece": "Chris Kaman",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 165,
@@ -481,7 +481,7 @@
                 "Diff": "2",
                 "Antece": "Nicolas Batum",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 201,
@@ -637,7 +637,7 @@
                 "Diff": "1",
                 "Antece": "Mookie Blaylock",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 93,
@@ -758,7 +758,7 @@
                 "Diff": "3",
                 "Antece": "Vladimir Radmanovic",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 204,
@@ -769,7 +769,7 @@
                 "Diff": "5",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 215,
@@ -886,5 +886,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763939412
+    "cache_buster": 1763939446
 }
