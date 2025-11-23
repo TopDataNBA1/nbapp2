@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:22:50",
+    "ultima_actualizacion": "06:23:23",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 25,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 25579,
-                "Hoy": 12,
-                "Total": 25591,
-                "Diff": "22",
+                "Hoy": 15,
+                "Total": 25594,
+                "Diff": "19",
                 "Antece": "Alex English",
                 "Nota": "",
                 "game_status": "playing"
@@ -1444,5 +1444,5 @@
         "Zach LaVine (15 points today) has passed Alvan Adams and Ron Harper and is now ranked 202nd all-time in career points with 13,911.",
         "Nikola Jokic (2 three-pointers today) has passed John Stockton and is now ranked 241st all-time in career three-pointers with 846."
     ],
-    "cache_buster": 1763875370
+    "cache_buster": 1763875403
 }
