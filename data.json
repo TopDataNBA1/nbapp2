@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:45:20",
+    "ultima_actualizacion": "04:45:53",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 25,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 25579,
-                "Hoy": 5,
-                "Total": 25584,
-                "Diff": "29",
+                "Hoy": 7,
+                "Total": 25586,
+                "Diff": "27",
                 "Antece": "Alex English",
                 "Nota": "",
                 "game_status": "playing"
@@ -458,14 +458,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 117,
+                "Rank": 116,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4189,
-                "Hoy": 2,
-                "Total": 4191,
-                "Diff": "1",
-                "Antece": "Rory Sparrow",
-                "Nota": "A tiro de 1",
+                "Hoy": 3,
+                "Total": 4192,
+                "Diff": "7",
+                "Antece": "Danny Ainge",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -907,9 +907,9 @@
                 "Rank": 25,
                 "Nombre": "Tim Hardaway Jr.",
                 "Antes": 1880,
-                "Hoy": 0,
-                "Total": 1880,
-                "Diff": "20",
+                "Hoy": 1,
+                "Total": 1881,
+                "Diff": "19",
                 "Antece": "1900",
                 "Nota": "",
                 "game_status": "playing"
@@ -920,7 +920,7 @@
                 "Antes": 1876,
                 "Hoy": 0,
                 "Total": 1876,
-                "Diff": "4",
+                "Diff": "5",
                 "Antece": "Tim Hardaway Jr.",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763869520
+    "cache_buster": 1763869553
 }
