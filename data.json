@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:34:46",
+    "ultima_actualizacion": "01:35:19",
     "tablas": {
         "pts": [
             {
@@ -25,6 +25,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 42,
+                "Nombre": "Giannis Antetokounmpo",
+                "Antes": 20943,
+                "Hoy": 0,
+                "Total": 20943,
+                "Diff": "57",
+                "Antece": "21000",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 91,
                 "Nombre": "Brook Lopez",
                 "Antes": 17613,
@@ -47,12 +58,45 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 107,
+                "Nombre": "Nikola Vucevic",
+                "Antes": 16958,
+                "Hoy": 0,
+                "Total": 16958,
+                "Diff": "2",
+                "Antece": "Bob Cousy",
+                "Nota": "A tiro de 2",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 137,
+                "Nombre": "Tobias Harris",
+                "Antes": 15685,
+                "Hoy": 0,
+                "Total": 15685,
+                "Diff": "2",
+                "Antece": "Larry Nance",
+                "Nota": "A tiro de 2",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 138,
+                "Nombre": "CJ McCollum",
+                "Antes": 15660,
+                "Hoy": 0,
+                "Total": 15660,
+                "Diff": "25",
+                "Antece": "Tobias Harris",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 156,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 15181,
-                "Hoy": 21,
-                "Total": 15202,
-                "Diff": "89",
+                "Hoy": 24,
+                "Total": 15205,
+                "Diff": "86",
                 "Antece": "John Drew",
                 "Nota": "",
                 "game_status": "playing"
@@ -67,6 +111,17 @@
                 "Antece": "Richard Jefferson",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 231,
+                "Nombre": "Khris Middleton",
+                "Antes": 13015,
+                "Hoy": 0,
+                "Total": 13015,
+                "Diff": "2",
+                "Antece": "Jeff Mullins",
+                "Nota": "A tiro de 2",
+                "game_status": "not_started"
             }
         ],
         "trb": [
@@ -80,6 +135,28 @@
                 "Antece": "Jack Sikma",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 41,
+                "Nombre": "Nikola Vucevic",
+                "Antes": 10312,
+                "Hoy": 0,
+                "Total": 10312,
+                "Diff": "58",
+                "Antece": "Otis Thorpe",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 66,
+                "Nombre": "Giannis Antetokounmpo",
+                "Antes": 8671,
+                "Hoy": 0,
+                "Total": 8671,
+                "Diff": "38",
+                "Antece": "Leroy Ellis",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 103,
@@ -113,6 +190,17 @@
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 192,
+                "Nombre": "Tobias Harris",
+                "Antes": 6005,
+                "Hoy": 0,
+                "Total": 6005,
+                "Diff": "42",
+                "Antece": "Andre Iguodala",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 194,
@@ -183,6 +271,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 100,
+                "Nombre": "Giannis Antetokounmpo",
+                "Antes": 4377,
+                "Hoy": 0,
+                "Total": 4377,
+                "Diff": "25",
+                "Antece": "Calvin Murphy",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 171,
                 "Nombre": "Nicolas Batum",
                 "Antes": 3559,
@@ -203,6 +302,28 @@
                 "Antece": "Steve Blake",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 224,
+                "Nombre": "Khris Middleton",
+                "Antes": 3096,
+                "Hoy": 0,
+                "Total": 3096,
+                "Diff": "15",
+                "Antece": "Foots Walker",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 233,
+                "Nombre": "CJ McCollum",
+                "Antes": 3055,
+                "Hoy": 0,
+                "Total": 3055,
+                "Diff": "",
+                "Antece": "Blake Griffin",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
             },
             {
                 "Rank": 234,
@@ -262,6 +383,28 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 198,
+                "Nombre": "Giannis Antetokounmpo",
+                "Antes": 973,
+                "Hoy": 0,
+                "Total": 973,
+                "Diff": "1",
+                "Antece": "Stacey Augmon",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 236,
+                "Nombre": "Khris Middleton",
+                "Antes": 912,
+                "Hoy": 0,
+                "Total": 912,
+                "Diff": "",
+                "Antece": "John Long",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 246,
                 "Nombre": "Bradley Beal",
                 "Antes": 885,
@@ -297,6 +440,28 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 45,
+                "Nombre": "Myles Turner",
+                "Antes": 1438,
+                "Hoy": 0,
+                "Total": 1438,
+                "Diff": "18",
+                "Antece": "Hot Rod Williams",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 92,
+                "Nombre": "Giannis Antetokounmpo",
+                "Antes": 1079,
+                "Hoy": 0,
+                "Total": 1079,
+                "Diff": "7",
+                "Antece": "Thurl Bailey",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 120,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 925,
@@ -306,6 +471,17 @@
                 "Antece": "Antoine Carr",
                 "Nota": "Mismo total",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 141,
+                "Nombre": "Nikola Vucevic",
+                "Antes": 851,
+                "Hoy": 0,
+                "Total": 851,
+                "Diff": "13",
+                "Antece": "Kenyon Martin",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 162,
@@ -387,6 +563,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 18,
+                "Nombre": "CJ McCollum",
+                "Antes": 2027,
+                "Hoy": 0,
+                "Total": 2027,
+                "Diff": "59",
+                "Antece": "Eric Gordon",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 27,
                 "Nombre": "Chris Paul",
                 "Antes": 1866,
@@ -431,6 +618,28 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 65,
+                "Nombre": "Khris Middleton",
+                "Antes": 1419,
+                "Hoy": 0,
+                "Total": 1419,
+                "Diff": "5",
+                "Antece": "Jordan Clarkson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 78,
+                "Nombre": "Tobias Harris",
+                "Antes": 1317,
+                "Hoy": 0,
+                "Total": 1317,
+                "Diff": "8",
+                "Antece": "Ryan Anderson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 84,
                 "Nombre": "Trae Young",
                 "Antes": 1282,
@@ -453,6 +662,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 94,
+                "Nombre": "Duncan Robinson",
+                "Antes": 1248,
+                "Hoy": 0,
+                "Total": 1248,
+                "Diff": "",
+                "Antece": "Derek Fisher",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 108,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 1201,
@@ -467,11 +687,11 @@
                 "Rank": 126,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 1143,
-                "Hoy": 1,
-                "Total": 1144,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 1145,
+                "Diff": "1",
                 "Antece": "Anthony Edwards",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -484,6 +704,39 @@
                 "Antece": "Norman Powell",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 148,
+                "Nombre": "Kyle Kuzma",
+                "Antes": 1058,
+                "Hoy": 0,
+                "Total": 1058,
+                "Diff": "1",
+                "Antece": "Allen Iverson",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 150,
+                "Nombre": "Gary Trent Jr.",
+                "Antes": 1052,
+                "Hoy": 0,
+                "Total": 1052,
+                "Diff": "3",
+                "Antece": "Nick Anderson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 153,
+                "Nombre": "Kevin Huerter",
+                "Antes": 1045,
+                "Hoy": 0,
+                "Total": 1045,
+                "Diff": "1",
+                "Antece": "Marvin Williams",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 160,
@@ -508,6 +761,28 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 169,
+                "Nombre": "Taurean Prince",
+                "Antes": 1000,
+                "Hoy": 0,
+                "Total": 1000,
+                "Diff": "2",
+                "Antece": "Danny Ainge",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 171,
+                "Nombre": "Coby White",
+                "Antes": 993,
+                "Hoy": 0,
+                "Total": 993,
+                "Diff": "3",
+                "Antece": "Rafer Alston",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 191,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 966,
@@ -519,6 +794,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 203,
+                "Nombre": "Nikola Vucevic",
+                "Antes": 928,
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "6",
+                "Antece": "Chucky Atkins",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 204,
                 "Nombre": "Luke Kennard",
                 "Antes": 924,
@@ -528,6 +814,17 @@
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 212,
+                "Nombre": "Gary Harris",
+                "Antes": 916,
+                "Hoy": 0,
+                "Total": 916,
+                "Diff": "2",
+                "Antece": "Dillon Brooks",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 218,
@@ -607,6 +904,28 @@
                 "Antece": "Zach Randolph",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 165,
+                "Nombre": "Nikola Vucevic",
+                "Antes": 987,
+                "Hoy": 0,
+                "Total": 987,
+                "Diff": "",
+                "Antece": "Erick Dampier",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 183,
+                "Nombre": "Tobias Harris",
+                "Antes": 976,
+                "Hoy": 0,
+                "Total": 976,
+                "Diff": "",
+                "Antece": "Randy Smith",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
             }
         ]
     },
@@ -618,5 +937,5 @@
         "Mitchell Robinson (2 blocks today) has passed Spencer Haywood and is now ranked 220th all-time in career blocks with 630.",
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321."
     ],
-    "cache_buster": 1763858086
+    "cache_buster": 1763858119
 }
