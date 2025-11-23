@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:50:12",
+    "ultima_actualizacion": "00:50:45",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 14879,
-                "Hoy": 6,
-                "Total": 14885,
-                "Diff": "19",
+                "Hoy": 9,
+                "Total": 14888,
+                "Diff": "16",
                 "Antece": "Richard Jefferson",
                 "Nota": "",
                 "game_status": "playing"
@@ -742,9 +742,9 @@
                 "Rank": 108,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 1201,
-                "Hoy": 0,
-                "Total": 1201,
-                "Diff": "4",
+                "Hoy": 1,
+                "Total": 1202,
+                "Diff": "3",
                 "Antece": "Jeff Green",
                 "Nota": "",
                 "game_status": "playing"
@@ -998,5 +998,5 @@
     "notificaciones": [
         "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786."
     ],
-    "cache_buster": 1763941812
+    "cache_buster": 1763941845
 }
