@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:51:56",
+    "ultima_actualizacion": "00:52:30",
     "tablas": {
         "pts": [
             {
@@ -217,9 +217,9 @@
                 "Rank": 236,
                 "Nombre": "Nicolas Batum",
                 "Antes": 5518,
-                "Hoy": 0,
-                "Total": 5518,
-                "Diff": "5",
+                "Hoy": 1,
+                "Total": 5519,
+                "Diff": "4",
                 "Antece": "Hassan Whiteside",
                 "Nota": "",
                 "game_status": "playing"
@@ -998,5 +998,5 @@
     "notificaciones": [
         "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786."
     ],
-    "cache_buster": 1763941916
+    "cache_buster": 1763941950
 }
