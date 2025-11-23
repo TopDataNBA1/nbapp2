@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:58:03",
+    "ultima_actualizacion": "02:58:36",
     "tablas": {
         "pts": [
             {
@@ -1104,13 +1104,13 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 232,
+                "Rank": 228,
                 "Nombre": "Kentavious Caldwell-Pope",
                 "Antes": 928,
-                "Hoy": 0,
-                "Total": 928,
+                "Hoy": 1,
+                "Total": 929,
                 "Diff": "",
-                "Antece": "John Lucas",
+                "Antece": "Armen Gilliam",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             }
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763863083
+    "cache_buster": 1763863116
 }
