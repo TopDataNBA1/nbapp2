@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:55:18",
+    "ultima_actualizacion": "02:55:51",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 112,
                 "Nombre": "Klay Thompson",
                 "Antes": 16686,
-                "Hoy": 3,
-                "Total": 16689,
-                "Diff": "23",
+                "Hoy": 6,
+                "Total": 16692,
+                "Diff": "20",
                 "Antece": "Latrell Sprewell",
                 "Nota": "",
                 "game_status": "playing"
@@ -698,9 +698,9 @@
                 "Rank": 5,
                 "Nombre": "Klay Thompson",
                 "Antes": 2733,
-                "Hoy": 1,
-                "Total": 2734,
-                "Diff": "66",
+                "Hoy": 2,
+                "Total": 2735,
+                "Diff": "65",
                 "Antece": "2800",
                 "Nota": "",
                 "game_status": "playing"
@@ -1128,5 +1128,5 @@
         "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250.",
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968."
     ],
-    "cache_buster": 1763862918
+    "cache_buster": 1763862951
 }
