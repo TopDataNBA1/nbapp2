@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:11:23",
+    "ultima_actualizacion": "02:11:56",
     "tablas": {
         "pts": [
             {
@@ -838,13 +838,13 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 94,
+                "Rank": 93,
                 "Nombre": "Duncan Robinson",
                 "Antes": 1248,
-                "Hoy": 0,
-                "Total": 1248,
+                "Hoy": 1,
+                "Total": 1249,
                 "Diff": "",
-                "Antece": "Derek Fisher",
+                "Antece": "Bogdan Bogdanovic",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             },
@@ -1125,5 +1125,5 @@
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926."
     ],
-    "cache_buster": 1763860283
+    "cache_buster": 1763860316
 }
