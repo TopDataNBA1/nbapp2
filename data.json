@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:22:16",
+    "ultima_actualizacion": "04:22:49",
     "tablas": {
         "pts": [
             {
@@ -110,7 +110,7 @@
                 "Diff": "14",
                 "Antece": "17000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 112,
@@ -154,7 +154,7 @@
                 "Diff": "9",
                 "Antece": "Larry Nance",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 156,
@@ -198,7 +198,7 @@
                 "Diff": "2",
                 "Antece": "Jeff Mullins",
                 "Nota": "A tiro de 2",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "trb": [
@@ -222,7 +222,7 @@
                 "Diff": "46",
                 "Antece": "Otis Thorpe",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 61,
@@ -521,7 +521,7 @@
                 "Diff": "15",
                 "Antece": "Foots Walker",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 231,
@@ -532,7 +532,7 @@
                 "Diff": "2",
                 "Antece": "Dick Van Arsdale",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 234,
@@ -677,7 +677,7 @@
                 "Diff": "",
                 "Antece": "John Long",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 246,
@@ -778,7 +778,7 @@
                 "Diff": "13",
                 "Antece": "Kenyon Martin",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 157,
@@ -901,7 +901,7 @@
                 "Diff": "56",
                 "Antece": "Eric Gordon",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 25,
@@ -1011,7 +1011,7 @@
                 "Diff": "5",
                 "Antece": "Jordan Clarkson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 67,
@@ -1154,7 +1154,7 @@
                 "Diff": "3",
                 "Antece": "Channing Frye",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 160,
@@ -1198,7 +1198,7 @@
                 "Diff": "4",
                 "Antece": "Taurean Prince",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 177,
@@ -1242,7 +1242,7 @@
                 "Diff": "3",
                 "Antece": "Chucky Atkins",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 204,
@@ -1387,7 +1387,7 @@
                 "Diff": "",
                 "Antece": "Alvan Adams",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 180,
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763868136
+    "cache_buster": 1763868169
 }
