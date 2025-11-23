@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:11:49",
+    "ultima_actualizacion": "06:12:22",
     "tablas": {
         "pts": [
             {
@@ -272,9 +272,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8336,
-                "Hoy": 12,
-                "Total": 8348,
-                "Diff": "61",
+                "Hoy": 13,
+                "Total": 8349,
+                "Diff": "60",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -1443,5 +1443,5 @@
         "Dennis Schroder (3 three-pointers today) has passed Rasheed Wallace and is now ranked 137th all-time in career three-pointers with 1,087.",
         "Zach LaVine (15 points today) has passed Alvan Adams and Ron Harper and is now ranked 202nd all-time in career points with 13,911."
     ],
-    "cache_buster": 1763874709
+    "cache_buster": 1763874742
 }
