@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:41:03",
+    "ultima_actualizacion": "02:41:36",
     "tablas": {
         "pts": [
             {
@@ -44,7 +44,7 @@
                 "Diff": "99",
                 "Antece": "Gail Goodrich",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 76,
@@ -55,7 +55,7 @@
                 "Diff": "5",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 91,
@@ -99,7 +99,7 @@
                 "Diff": "26",
                 "Antece": "Latrell Sprewell",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 137,
@@ -200,7 +200,7 @@
                 "Diff": "138",
                 "Antece": "Dale Davis",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 103,
@@ -334,7 +334,7 @@
                 "Diff": "13",
                 "Antece": "Giannis Antetokounmp",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 158,
@@ -345,7 +345,7 @@
                 "Diff": "18",
                 "Antece": "Boris Diaw",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 171,
@@ -446,7 +446,7 @@
                 "Diff": "1",
                 "Antece": "Joe Johnson",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 165,
@@ -468,7 +468,7 @@
                 "Diff": "2",
                 "Antece": "Nicolas Batum",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 175,
@@ -479,7 +479,7 @@
                 "Diff": "1",
                 "Antece": "Corey Brewer",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 198,
@@ -536,7 +536,7 @@
                 "Diff": "7",
                 "Antece": "Elton Brand",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 37,
@@ -602,7 +602,7 @@
                 "Diff": "2",
                 "Antece": "Vin Baker",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 162,
@@ -668,7 +668,7 @@
                 "Diff": "2",
                 "Antece": "Jamaal Magloire",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 237,
@@ -703,7 +703,7 @@
                 "Diff": "67",
                 "Antece": "2800",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 18,
@@ -725,7 +725,7 @@
                 "Diff": "4",
                 "Antece": "Tim Hardaway Jr.",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 27,
@@ -769,7 +769,7 @@
                 "Diff": "3",
                 "Antece": "1600",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 49,
@@ -780,7 +780,7 @@
                 "Diff": "12",
                 "Antece": "Glen Rice",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 64,
@@ -1112,7 +1112,7 @@
                 "Diff": "",
                 "Antece": "John Lucas",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ]
     },
@@ -1128,5 +1128,5 @@
         "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250.",
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968."
     ],
-    "cache_buster": 1763862063
+    "cache_buster": 1763862096
 }
