@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:07:53",
+    "ultima_actualizacion": "05:08:26",
     "tablas": {
         "pts": [
             {
@@ -127,9 +127,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16652,
-                "Hoy": 10,
-                "Total": 16662,
-                "Diff": "46",
+                "Hoy": 12,
+                "Total": 16664,
+                "Diff": "44",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -182,11 +182,11 @@
                 "Rank": 204,
                 "Nombre": "Zach LaVine",
                 "Antes": 13896,
-                "Hoy": 11,
-                "Total": 13907,
-                "Diff": "3",
+                "Hoy": 13,
+                "Total": 13909,
+                "Diff": "1",
                 "Antece": "Ron Harper",
-                "Nota": "A tiro de 3",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1440,5 +1440,5 @@
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253.",
         "Dennis Schroder (4 assists today) has passed Rory Sparrow and is now ranked 116th all-time in career assists with 4,193."
     ],
-    "cache_buster": 1763870873
+    "cache_buster": 1763870906
 }
