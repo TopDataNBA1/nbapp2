@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:01:30",
+    "ultima_actualizacion": "04:02:03",
     "tablas": {
         "pts": [
             {
@@ -149,9 +149,9 @@
                 "Rank": 138,
                 "Nombre": "CJ McCollum",
                 "Antes": 15660,
-                "Hoy": 13,
-                "Total": 15673,
-                "Diff": "14",
+                "Hoy": 15,
+                "Total": 15675,
+                "Diff": "12",
                 "Antece": "Larry Nance",
                 "Nota": "",
                 "game_status": "playing"
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763866890
+    "cache_buster": 1763866923
 }
