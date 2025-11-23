@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:48:32",
+    "ultima_actualizacion": "00:49:05",
     "tablas": {
         "pts": [
             {
@@ -340,9 +340,9 @@
                 "Rank": 234,
                 "Nombre": "Tyus Jones",
                 "Antes": 3048,
-                "Hoy": 1,
-                "Total": 3049,
-                "Diff": "6",
+                "Hoy": 2,
+                "Total": 3050,
+                "Diff": "5",
                 "Antece": "Blake Griffin",
                 "Nota": "",
                 "game_status": "playing"
@@ -896,9 +896,9 @@
                 "Rank": 243,
                 "Nombre": "Desmond Bane",
                 "Antes": 841,
-                "Hoy": 0,
-                "Total": 841,
-                "Diff": "4",
+                "Hoy": 1,
+                "Total": 842,
+                "Diff": "3",
                 "Antece": "John Stockton",
                 "Nota": "",
                 "game_status": "playing"
@@ -996,5 +996,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763941712
+    "cache_buster": 1763941745
 }
