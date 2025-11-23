@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:17:21",
+    "ultima_actualizacion": "04:17:54",
     "tablas": {
         "pts": [
             {
@@ -127,9 +127,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16652,
-                "Hoy": 0,
-                "Total": 16652,
-                "Diff": "50",
+                "Hoy": 1,
+                "Total": 16653,
+                "Diff": "49",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763867841
+    "cache_buster": 1763867874
 }
