@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:41:29",
+    "ultima_actualizacion": "04:42:02",
     "tablas": {
         "pts": [
             {
@@ -1404,11 +1404,11 @@
                 "Rank": 210,
                 "Nombre": "Jonas Valanciunas",
                 "Antes": 952,
-                "Hoy": 0,
-                "Total": 952,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 953,
+                "Diff": "",
                 "Antece": "Alton Lister",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763869289
+    "cache_buster": 1763869322
 }
