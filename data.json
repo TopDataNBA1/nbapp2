@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "19:14:12",
+    "ultima_actualizacion": "19:14:47",
     "tablas": {
         "pts": [
             {
                 "Rank": 72,
                 "Nombre": "Paul George",
                 "Antes": 18727,
-                "Hoy": 0,
-                "Total": 18727,
-                "Diff": "60",
+                "Hoy": 1,
+                "Total": 18728,
+                "Diff": "59",
                 "Antece": "Bob McAdoo",
                 "Nota": "",
                 "game_status": "playing"
@@ -63,9 +63,9 @@
                 "Rank": 219,
                 "Nombre": "Paul George",
                 "Antes": 5696,
-                "Hoy": 0,
-                "Total": 5696,
-                "Diff": "11",
+                "Hoy": 1,
+                "Total": 5697,
+                "Diff": "10",
                 "Antece": "Dan Issel",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763921652
+    "cache_buster": 1763921687
 }
