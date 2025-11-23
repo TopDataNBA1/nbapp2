@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:00:15",
+    "ultima_actualizacion": "03:00:48",
     "tablas": {
         "pts": [
             {
@@ -885,11 +885,11 @@
                 "Rank": 148,
                 "Nombre": "Kyle Kuzma",
                 "Antes": 1058,
-                "Hoy": 0,
-                "Total": 1058,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 1059,
+                "Diff": "",
                 "Antece": "Allen Iverson",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763863215
+    "cache_buster": 1763863248
 }
