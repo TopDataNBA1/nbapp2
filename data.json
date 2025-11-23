@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:43:08",
+    "ultima_actualizacion": "04:43:41",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 25,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 25579,
-                "Hoy": 2,
-                "Total": 25581,
-                "Diff": "32",
+                "Hoy": 5,
+                "Total": 25584,
+                "Diff": "29",
                 "Antece": "Alex English",
                 "Nota": "",
                 "game_status": "playing"
@@ -461,11 +461,11 @@
                 "Rank": 117,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4189,
-                "Hoy": 1,
-                "Total": 4190,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 4191,
+                "Diff": "1",
                 "Antece": "Rory Sparrow",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763869388
+    "cache_buster": 1763869421
 }
