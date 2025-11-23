@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:46:25",
+    "ultima_actualizacion": "19:47:04",
     "tablas": {
         "pts": [
             {
@@ -63,9 +63,9 @@
                 "Rank": 219,
                 "Nombre": "Paul George",
                 "Antes": 5696,
-                "Hoy": 1,
-                "Total": 5697,
-                "Diff": "10",
+                "Hoy": 2,
+                "Total": 5698,
+                "Diff": "9",
                 "Antece": "Dan Issel",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763923585
+    "cache_buster": 1763923624
 }
