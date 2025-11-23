@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:12:26",
+    "ultima_actualizacion": "04:12:59",
     "tablas": {
         "pts": [
             {
@@ -384,9 +384,9 @@
                 "Rank": 8,
                 "Nombre": "Russell Westbrook",
                 "Antes": 10025,
-                "Hoy": 0,
-                "Total": 10025,
-                "Diff": "116",
+                "Hoy": 1,
+                "Total": 10026,
+                "Diff": "115",
                 "Antece": "Magic Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1313,14 +1313,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 37,
+                "Rank": 36,
                 "Nombre": "Russell Westbrook",
                 "Antes": 1253,
-                "Hoy": 0,
-                "Total": 1253,
-                "Diff": "1",
-                "Antece": "Tony Parker",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 1254,
+                "Diff": "",
+                "Antece": "Paul Silas",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763867546
+    "cache_buster": 1763867579
 }
