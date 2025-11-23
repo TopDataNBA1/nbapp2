@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:03:00",
+    "ultima_actualizacion": "06:03:33",
     "tablas": {
         "pts": [
             {
@@ -127,9 +127,9 @@
                 "Rank": 113,
                 "Nombre": "Nikola Jokic",
                 "Antes": 16652,
-                "Hoy": 24,
-                "Total": 16676,
-                "Diff": "32",
+                "Hoy": 27,
+                "Total": 16679,
+                "Diff": "29",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1281,11 +1281,11 @@
                 "Rank": 242,
                 "Nombre": "Nikola Jokic",
                 "Antes": 844,
-                "Hoy": 0,
-                "Total": 844,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 845,
+                "Diff": "",
                 "Antece": "John Stockton",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1294,7 +1294,7 @@
                 "Antes": 838,
                 "Hoy": 3,
                 "Total": 841,
-                "Diff": "3",
+                "Diff": "4",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "finished"
@@ -1442,5 +1442,5 @@
         "Dennis Schroder (2 three-pointers today) has passed Cuttino Mobley and is now ranked 137th all-time in career three-pointers with 1,086.",
         "Dennis Schroder (3 three-pointers today) has passed Rasheed Wallace and is now ranked 137th all-time in career three-pointers with 1,087."
     ],
-    "cache_buster": 1763874180
+    "cache_buster": 1763874213
 }
