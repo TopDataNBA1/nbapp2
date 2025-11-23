@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:46:26",
+    "ultima_actualizacion": "04:46:59",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 112,
                 "Nombre": "Klay Thompson",
                 "Antes": 16686,
-                "Hoy": 19,
-                "Total": 16705,
-                "Diff": "7",
+                "Hoy": 22,
+                "Total": 16708,
+                "Diff": "4",
                 "Antece": "Latrell Sprewell",
                 "Nota": "",
                 "game_status": "playing"
@@ -129,7 +129,7 @@
                 "Antes": 16652,
                 "Hoy": 4,
                 "Total": 16656,
-                "Diff": "49",
+                "Diff": "52",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -885,9 +885,9 @@
                 "Rank": 5,
                 "Nombre": "Klay Thompson",
                 "Antes": 2733,
-                "Hoy": 5,
-                "Total": 2738,
-                "Diff": "62",
+                "Hoy": 6,
+                "Total": 2739,
+                "Diff": "61",
                 "Antece": "2800",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763869586
+    "cache_buster": 1763869619
 }
