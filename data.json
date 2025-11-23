@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:56:57",
+    "ultima_actualizacion": "00:57:30",
     "tablas": {
         "pts": [
             {
@@ -797,11 +797,11 @@
                 "Rank": 164,
                 "Nombre": "Anfernee Simons",
                 "Antes": 1009,
-                "Hoy": 2,
-                "Total": 1011,
-                "Diff": "2",
+                "Hoy": 3,
+                "Total": 1012,
+                "Diff": "1",
                 "Antece": "Mikal Bridges",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -998,5 +998,5 @@
     "notificaciones": [
         "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786."
     ],
-    "cache_buster": 1763942217
+    "cache_buster": 1763942250
 }
