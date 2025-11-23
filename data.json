@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:33:54",
+    "ultima_actualizacion": "02:34:27",
     "tablas": {
         "pts": [
             {
@@ -827,7 +827,18 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 92,
+                "Rank": 91,
+                "Nombre": "Duncan Robinson",
+                "Antes": 1248,
+                "Hoy": 2,
+                "Total": 1250,
+                "Diff": "",
+                "Antece": "C.J. Miles",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 93,
                 "Nombre": "Bogdan Bogdanovic",
                 "Antes": 1249,
                 "Hoy": 0,
@@ -836,17 +847,6 @@
                 "Antece": "Shane Battier",
                 "Nota": "A tiro de 1",
                 "game_status": "finished"
-            },
-            {
-                "Rank": 93,
-                "Nombre": "Duncan Robinson",
-                "Antes": 1248,
-                "Hoy": 1,
-                "Total": 1249,
-                "Diff": "",
-                "Antece": "Bogdan Bogdanovic",
-                "Nota": "Mismo total",
-                "game_status": "playing"
             },
             {
                 "Rank": 108,
@@ -1124,7 +1124,8 @@
         "Mitchell Robinson (2 blocks today) has passed Spencer Haywood and is now ranked 220th all-time in career blocks with 630.",
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926.",
-        "Nikola Vucevic (4 points today) has passed Bob Cousy and is now ranked 106th all-time in career points with 16,962."
+        "Nikola Vucevic (4 points today) has passed Bob Cousy and is now ranked 106th all-time in career points with 16,962.",
+        "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250."
     ],
-    "cache_buster": 1763861634
+    "cache_buster": 1763861667
 }
