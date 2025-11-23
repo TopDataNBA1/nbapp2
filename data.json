@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:24:52",
+    "ultima_actualizacion": "03:25:25",
     "tablas": {
         "pts": [
             {
@@ -239,9 +239,9 @@
                 "Rank": 192,
                 "Nombre": "Tobias Harris",
                 "Antes": 6005,
-                "Hoy": 2,
-                "Total": 6007,
-                "Diff": "40",
+                "Hoy": 3,
+                "Total": 6008,
+                "Diff": "39",
                 "Antece": "Andre Iguodala",
                 "Nota": "",
                 "game_status": "playing"
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763864692
+    "cache_buster": 1763864725
 }
