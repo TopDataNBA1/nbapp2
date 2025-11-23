@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:13:37",
+    "ultima_actualizacion": "00:14:11",
     "tablas": {
         "pts": [
             {
@@ -72,9 +72,9 @@
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 14879,
-                "Hoy": 0,
-                "Total": 14879,
-                "Diff": "25",
+                "Hoy": 2,
+                "Total": 14881,
+                "Diff": "23",
                 "Antece": "Richard Jefferson",
                 "Nota": "",
                 "game_status": "playing"
@@ -116,9 +116,9 @@
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13775,
-                "Hoy": 0,
-                "Total": 13775,
-                "Diff": "9",
+                "Hoy": 3,
+                "Total": 13778,
+                "Diff": "6",
                 "Antece": "Jayson Tatum",
                 "Nota": "",
                 "game_status": "playing"
@@ -230,9 +230,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Antes": 8444,
-                "Hoy": 0,
-                "Total": 8444,
-                "Diff": "80",
+                "Hoy": 1,
+                "Total": 8445,
+                "Diff": "79",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -599,9 +599,9 @@
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1677,
-                "Hoy": 0,
-                "Total": 1677,
-                "Diff": "7",
+                "Hoy": 1,
+                "Total": 1678,
+                "Diff": "6",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "playing"
@@ -886,5 +886,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763939617
+    "cache_buster": 1763939651
 }
