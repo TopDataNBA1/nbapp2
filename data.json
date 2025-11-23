@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:37:30",
+    "ultima_actualizacion": "03:38:02",
     "tablas": {
         "pts": [
             {
@@ -1047,13 +1047,13 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 90,
+                "Rank": 89,
                 "Nombre": "Duncan Robinson",
                 "Antes": 1248,
-                "Hoy": 3,
-                "Total": 1251,
+                "Hoy": 4,
+                "Total": 1252,
                 "Diff": "1",
-                "Antece": "Stephen Jackson",
+                "Antece": "Clifford Robinson",
                 "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763865450
+    "cache_buster": 1763865482
 }
