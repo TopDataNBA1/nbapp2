@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:59:09",
+    "ultima_actualizacion": "02:59:42",
     "tablas": {
         "pts": [
             {
@@ -553,9 +553,9 @@
                 "Rank": 45,
                 "Nombre": "Myles Turner",
                 "Antes": 1438,
-                "Hoy": 1,
-                "Total": 1439,
-                "Diff": "17",
+                "Hoy": 2,
+                "Total": 1440,
+                "Diff": "16",
                 "Antece": "Hot Rod Williams",
                 "Nota": "",
                 "game_status": "playing"
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763863149
+    "cache_buster": 1763863182
 }
