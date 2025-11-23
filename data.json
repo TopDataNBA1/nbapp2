@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:12:59",
+    "ultima_actualizacion": "04:13:32",
     "tablas": {
         "pts": [
             {
@@ -984,9 +984,9 @@
                 "Rank": 49,
                 "Nombre": "Kentavious Caldwell-Pope",
                 "Antes": 1547,
-                "Hoy": 1,
-                "Total": 1548,
-                "Diff": "11",
+                "Hoy": 2,
+                "Total": 1549,
+                "Diff": "10",
                 "Antece": "Glen Rice",
                 "Nota": "",
                 "game_status": "playing"
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763867579
+    "cache_buster": 1763867612
 }
