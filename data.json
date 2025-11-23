@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:47:38",
+    "ultima_actualizacion": "02:48:11",
     "tablas": {
         "pts": [
             {
@@ -553,9 +553,9 @@
                 "Rank": 45,
                 "Nombre": "Myles Turner",
                 "Antes": 1438,
-                "Hoy": 0,
-                "Total": 1438,
-                "Diff": "18",
+                "Hoy": 1,
+                "Total": 1439,
+                "Diff": "17",
                 "Antece": "Hot Rod Williams",
                 "Nota": "",
                 "game_status": "playing"
@@ -1128,5 +1128,5 @@
         "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250.",
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968."
     ],
-    "cache_buster": 1763862458
+    "cache_buster": 1763862491
 }
