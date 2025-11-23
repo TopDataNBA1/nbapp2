@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:34:43",
+    "ultima_actualizacion": "23:35:17",
     "tablas": {
         "pts": [
             {
@@ -102,6 +102,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 210,
+                "Nombre": "Jayson Tatum",
+                "Antes": 13784,
+                "Hoy": 0,
+                "Total": 13784,
+                "Diff": "6",
+                "Antece": "Bill Laimbeer",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 211,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13775,
@@ -155,6 +166,17 @@
                 "Total": 6000,
                 "Diff": "4",
                 "Antece": "James Edwards",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 211,
+                "Nombre": "Mason Plumlee",
+                "Antes": 5778,
+                "Hoy": 0,
+                "Total": 5778,
+                "Diff": "13",
+                "Antece": "Udonis Haslem",
                 "Nota": "",
                 "game_status": "not_started"
             },
@@ -227,6 +249,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 81,
+                "Nombre": "Trae Young",
+                "Antes": 4787,
+                "Hoy": 0,
+                "Total": 4787,
+                "Diff": "18",
+                "Antece": "Gail Goodrich",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 171,
                 "Nombre": "Nicolas Batum",
                 "Antes": 3559,
@@ -258,6 +291,17 @@
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 234,
+                "Nombre": "Tyus Jones",
+                "Antes": 3048,
+                "Hoy": 0,
+                "Total": 3048,
+                "Diff": "7",
+                "Antece": "Blake Griffin",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "stl": [
@@ -374,6 +418,28 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 119,
+                "Nombre": "Kristaps Porzingis",
+                "Antes": 928,
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "3",
+                "Antece": "Chris Kaman",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 165,
+                "Nombre": "Jakob Poeltl",
+                "Antes": 764,
+                "Hoy": 0,
+                "Total": 764,
+                "Diff": "3",
+                "Antece": "Duane Causwell",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 175,
                 "Nombre": "Joel Embiid",
                 "Antes": 747,
@@ -407,6 +473,17 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 189,
+                "Nombre": "Mason Plumlee",
+                "Antes": 703,
+                "Hoy": 0,
+                "Total": 703,
+                "Diff": "2",
+                "Antece": "Nicolas Batum",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 201,
                 "Nombre": "James Harden",
                 "Antes": 662,
@@ -426,6 +503,17 @@
                 "Diff": "",
                 "Antece": "Greg Anderson",
                 "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 250,
+                "Nombre": "Nic Claxton",
+                "Antes": 554,
+                "Hoy": 0,
+                "Total": 554,
+                "Diff": "5",
+                "Antece": "Lonnie Shelton",
+                "Nota": "",
                 "game_status": "not_started"
             }
         ],
@@ -519,6 +607,17 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 51,
+                "Nombre": "Jayson Tatum",
+                "Antes": 1546,
+                "Hoy": 0,
+                "Total": 1546,
+                "Diff": "",
+                "Antece": "Eddie Jones",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 73,
                 "Nombre": "Terry Rozier",
                 "Antes": 1356,
@@ -528,6 +627,17 @@
                 "Antece": "Evan Fournier",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 84,
+                "Nombre": "Trae Young",
+                "Antes": 1282,
+                "Hoy": 0,
+                "Total": 1282,
+                "Diff": "1",
+                "Antece": "Mookie Blaylock",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 93,
@@ -548,6 +658,17 @@
                 "Total": 1201,
                 "Diff": "4",
                 "Antece": "Jeff Green",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 113,
+                "Nombre": "Jaylen Brown",
+                "Antes": 1175,
+                "Hoy": 0,
+                "Total": 1175,
+                "Diff": "3",
+                "Antece": "Deron Williams",
                 "Nota": "",
                 "game_status": "not_started"
             },
@@ -585,6 +706,17 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 164,
+                "Nombre": "Anfernee Simons",
+                "Antes": 1009,
+                "Hoy": 0,
+                "Total": 1009,
+                "Diff": "4",
+                "Antece": "Mikal Bridges",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 167,
                 "Nombre": "Kelly Oubre Jr.",
                 "Antes": 1005,
@@ -594,6 +726,17 @@
                 "Antece": "Danny Granger",
                 "Nota": "A tiro de 1",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 178,
+                "Nombre": "Derrick White",
+                "Antes": 985,
+                "Hoy": 0,
+                "Total": 985,
+                "Diff": "1",
+                "Antece": "Doug McDermott",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 179,
@@ -607,6 +750,28 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 190,
+                "Nombre": "Kristaps Porzingis",
+                "Antes": 968,
+                "Hoy": 0,
+                "Total": 968,
+                "Diff": "3",
+                "Antece": "Vladimir Radmanovic",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 204,
+                "Nombre": "Luke Kennard",
+                "Antes": 926,
+                "Hoy": 0,
+                "Total": 926,
+                "Diff": "5",
+                "Antece": "Nikola Vucevic",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 215,
                 "Nombre": "Darius Garland",
                 "Antes": 907,
@@ -614,6 +779,28 @@
                 "Total": 907,
                 "Diff": "4",
                 "Antece": "Rasual Butler",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 220,
+                "Nombre": "Michael Porter Jr.",
+                "Antes": 888,
+                "Hoy": 0,
+                "Total": 888,
+                "Diff": "5",
+                "Antece": "Will Barton",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 243,
+                "Nombre": "Desmond Bane",
+                "Antes": 841,
+                "Hoy": 0,
+                "Total": 841,
+                "Diff": "4",
+                "Antece": "John Stockton",
                 "Nota": "",
                 "game_status": "not_started"
             }
@@ -699,5 +886,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763937283
+    "cache_buster": 1763937317
 }
