@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:13:22",
+    "ultima_actualizacion": "03:13:55",
     "tablas": {
         "pts": [
             {
@@ -94,9 +94,9 @@
                 "Rank": 112,
                 "Nombre": "Klay Thompson",
                 "Antes": 16686,
-                "Hoy": 9,
-                "Total": 16695,
-                "Diff": "17",
+                "Hoy": 11,
+                "Total": 16697,
+                "Diff": "15",
                 "Antece": "Latrell Sprewell",
                 "Nota": "",
                 "game_status": "playing"
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763864002
+    "cache_buster": 1763864035
 }
