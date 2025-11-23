@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:37:53",
+    "ultima_actualizacion": "00:38:27",
     "tablas": {
         "pts": [
             {
@@ -195,9 +195,9 @@
                 "Rank": 211,
                 "Nombre": "Mason Plumlee",
                 "Antes": 5778,
-                "Hoy": 2,
-                "Total": 5780,
-                "Diff": "11",
+                "Hoy": 3,
+                "Total": 5781,
+                "Diff": "10",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
                 "game_status": "playing"
@@ -996,5 +996,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763941073
+    "cache_buster": 1763941107
 }
