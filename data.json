@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:03:08",
+    "ultima_actualizacion": "04:03:41",
     "tablas": {
         "pts": [
             {
@@ -1138,9 +1138,9 @@
                 "Rank": 150,
                 "Nombre": "Gary Trent Jr.",
                 "Antes": 1052,
-                "Hoy": 0,
-                "Total": 1052,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 1053,
+                "Diff": "2",
                 "Antece": "Nick Anderson",
                 "Nota": "",
                 "game_status": "playing"
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763866988
+    "cache_buster": 1763867021
 }
