@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:10:50",
+    "ultima_actualizacion": "02:11:23",
     "tablas": {
         "pts": [
             {
@@ -33,7 +33,7 @@
                 "Diff": "57",
                 "Antece": "21000",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 64,
@@ -110,7 +110,7 @@
                 "Diff": "2",
                 "Antece": "Larry Nance",
                 "Nota": "A tiro de 2",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 138,
@@ -189,7 +189,7 @@
                 "Diff": "38",
                 "Antece": "Leroy Ellis",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 70,
@@ -244,7 +244,7 @@
                 "Diff": "42",
                 "Antece": "Andre Iguodala",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 194,
@@ -323,7 +323,7 @@
                 "Diff": "25",
                 "Antece": "Calvin Murphy",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 101,
@@ -490,7 +490,7 @@
                 "Diff": "1",
                 "Antece": "Stacey Augmon",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 236,
@@ -558,7 +558,7 @@
                 "Diff": "18",
                 "Antece": "Hot Rod Williams",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 92,
@@ -569,7 +569,7 @@
                 "Diff": "7",
                 "Antece": "Thurl Bailey",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 119,
@@ -813,7 +813,7 @@
                 "Diff": "8",
                 "Antece": "Ryan Anderson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 84,
@@ -846,7 +846,7 @@
                 "Diff": "",
                 "Antece": "Derek Fisher",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 108,
@@ -890,7 +890,7 @@
                 "Diff": "1",
                 "Antece": "Allen Iverson",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 150,
@@ -901,7 +901,7 @@
                 "Diff": "3",
                 "Antece": "Nick Anderson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 153,
@@ -945,7 +945,7 @@
                 "Diff": "2",
                 "Antece": "Danny Ainge",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 171,
@@ -1000,7 +1000,7 @@
                 "Diff": "2",
                 "Antece": "Dillon Brooks",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 218,
@@ -1082,13 +1082,13 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 165,
+                "Rank": 162,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 987,
-                "Hoy": 0,
-                "Total": 987,
+                "Hoy": 1,
+                "Total": 988,
                 "Diff": "",
-                "Antece": "Erick Dampier",
+                "Antece": "Alvan Adams",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             },
@@ -1101,7 +1101,7 @@
                 "Diff": "",
                 "Antece": "Randy Smith",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 232,
@@ -1125,5 +1125,5 @@
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926."
     ],
-    "cache_buster": 1763860250
+    "cache_buster": 1763860283
 }
