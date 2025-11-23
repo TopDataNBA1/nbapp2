@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:39:00",
+    "ultima_actualizacion": "00:39:34",
     "tablas": {
         "pts": [
             {
@@ -797,9 +797,9 @@
                 "Rank": 164,
                 "Nombre": "Anfernee Simons",
                 "Antes": 1009,
-                "Hoy": 1,
-                "Total": 1010,
-                "Diff": "3",
+                "Hoy": 2,
+                "Total": 1011,
+                "Diff": "2",
                 "Antece": "Mikal Bridges",
                 "Nota": "",
                 "game_status": "playing"
@@ -996,5 +996,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763941140
+    "cache_buster": 1763941174
 }
