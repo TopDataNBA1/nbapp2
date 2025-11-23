@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:30:22",
+    "ultima_actualizacion": "03:30:55",
     "tablas": {
         "pts": [
             {
@@ -827,14 +827,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 91,
+                "Rank": 90,
                 "Nombre": "Duncan Robinson",
                 "Antes": 1248,
-                "Hoy": 2,
-                "Total": 1250,
-                "Diff": "",
-                "Antece": "C.J. Miles",
-                "Nota": "Mismo total",
+                "Hoy": 3,
+                "Total": 1251,
+                "Diff": "1",
+                "Antece": "Stephen Jackson",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1127,7 +1127,8 @@
         "Nikola Vucevic (4 points today) has passed Bob Cousy and is now ranked 106th all-time in career points with 16,962.",
         "Duncan Robinson (2 three-pointers today) has passed Bogdan Bogdanovic and is now ranked 91st all-time in career three-pointers with 1,250.",
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
-        "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
+        "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
+        "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763865022
+    "cache_buster": 1763865055
 }
