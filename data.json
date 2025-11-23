@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:34:21",
+    "ultima_actualizacion": "04:34:54",
     "tablas": {
         "pts": [
             {
@@ -461,9 +461,9 @@
                 "Rank": 117,
                 "Nombre": "Dennis Schroder",
                 "Antes": 4189,
-                "Hoy": 0,
-                "Total": 4189,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 4190,
+                "Diff": "2",
                 "Antece": "Rory Sparrow",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763868861
+    "cache_buster": 1763868894
 }
