@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "00:35:05",
+    "ultima_actualizacion": "00:35:39",
     "tablas": {
         "pts": [
             {
@@ -103,9 +103,9 @@
             },
             {
                 "Rank": 210,
-                "Nombre": "Jayson Tatum",
-                "Antes": 13784,
-                "Hoy": 0,
+                "Nombre": "Donovan Mitchell",
+                "Antes": 13775,
+                "Hoy": 9,
                 "Total": 13784,
                 "Diff": "6",
                 "Antece": "Bill Laimbeer",
@@ -114,13 +114,13 @@
             },
             {
                 "Rank": 211,
-                "Nombre": "Donovan Mitchell",
-                "Antes": 13775,
-                "Hoy": 7,
-                "Total": 13782,
-                "Diff": "2",
-                "Antece": "Jayson Tatum",
-                "Nota": "A tiro de 2",
+                "Nombre": "Jayson Tatum",
+                "Antes": 13784,
+                "Hoy": 0,
+                "Total": 13784,
+                "Diff": "",
+                "Antece": "Donovan Mitchell",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             }
         ],
@@ -886,5 +886,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763940905
+    "cache_buster": 1763940939
 }
