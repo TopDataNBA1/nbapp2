@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:24:19",
+    "ultima_actualizacion": "03:24:52",
     "tablas": {
         "pts": [
             {
@@ -83,9 +83,9 @@
                 "Rank": 106,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 16958,
-                "Hoy": 16,
-                "Total": 16974,
-                "Diff": "26",
+                "Hoy": 18,
+                "Total": 16976,
+                "Diff": "24",
                 "Antece": "17000",
                 "Nota": "",
                 "game_status": "playing"
@@ -948,14 +948,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 171,
+                "Rank": 170,
                 "Nombre": "Coby White",
                 "Antes": 993,
-                "Hoy": 2,
-                "Total": 995,
-                "Diff": "1",
-                "Antece": "Rafer Alston",
-                "Nota": "A tiro de 1",
+                "Hoy": 3,
+                "Total": 996,
+                "Diff": "4",
+                "Antece": "Taurean Prince",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1129,5 +1129,5 @@
         "Kristaps Porzingis (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 190th all-time in career three-pointers with 968.",
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689."
     ],
-    "cache_buster": 1763864659
+    "cache_buster": 1763864692
 }
