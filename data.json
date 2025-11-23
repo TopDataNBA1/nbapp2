@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:19:33",
+    "ultima_actualizacion": "04:20:05",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 112,
                 "Nombre": "Klay Thompson",
                 "Antes": 16686,
-                "Hoy": 16,
-                "Total": 16702,
-                "Diff": "10",
+                "Hoy": 19,
+                "Total": 16705,
+                "Diff": "7",
                 "Antece": "Latrell Sprewell",
                 "Nota": "",
                 "game_status": "playing"
@@ -129,7 +129,7 @@
                 "Antes": 16652,
                 "Hoy": 2,
                 "Total": 16654,
-                "Diff": "48",
+                "Diff": "51",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "playing"
@@ -417,9 +417,9 @@
                 "Rank": 76,
                 "Nombre": "DeMar DeRozan",
                 "Antes": 4925,
-                "Hoy": 0,
-                "Total": 4925,
-                "Diff": "29",
+                "Hoy": 1,
+                "Total": 4926,
+                "Diff": "28",
                 "Antece": "Kevin Durant",
                 "Nota": "",
                 "game_status": "playing"
@@ -885,9 +885,9 @@
                 "Rank": 5,
                 "Nombre": "Klay Thompson",
                 "Antes": 2733,
-                "Hoy": 4,
-                "Total": 2737,
-                "Diff": "63",
+                "Hoy": 5,
+                "Total": 2738,
+                "Diff": "62",
                 "Antece": "2800",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763867973
+    "cache_buster": 1763868005
 }
