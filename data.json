@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "19:15:22",
+    "ultima_actualizacion": "19:15:56",
     "tablas": {
         "pts": [
             {
@@ -135,9 +135,9 @@
                 "Rank": 69,
                 "Nombre": "Andre Drummond",
                 "Antes": 1160,
-                "Hoy": 0,
-                "Total": 1160,
-                "Diff": "23",
+                "Hoy": 1,
+                "Total": 1161,
+                "Diff": "22",
                 "Antece": "Elmore Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -281,5 +281,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1763921722
+    "cache_buster": 1763921756
 }
