@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:10:48",
+    "ultima_actualizacion": "04:11:21",
     "tablas": {
         "pts": [
             {
@@ -105,9 +105,9 @@
                 "Rank": 106,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 16958,
-                "Hoy": 25,
-                "Total": 16983,
-                "Diff": "17",
+                "Hoy": 28,
+                "Total": 16986,
+                "Diff": "14",
                 "Antece": "17000",
                 "Nota": "",
                 "game_status": "playing"
@@ -116,9 +116,9 @@
                 "Rank": 112,
                 "Nombre": "Klay Thompson",
                 "Antes": 16686,
-                "Hoy": 14,
-                "Total": 16700,
-                "Diff": "12",
+                "Hoy": 16,
+                "Total": 16702,
+                "Diff": "10",
                 "Antece": "Latrell Sprewell",
                 "Nota": "",
                 "game_status": "playing"
@@ -129,7 +129,7 @@
                 "Antes": 16652,
                 "Hoy": 0,
                 "Total": 16652,
-                "Diff": "48",
+                "Diff": "50",
                 "Antece": "Klay Thompson",
                 "Nota": "",
                 "game_status": "not_started"
@@ -1237,9 +1237,9 @@
                 "Rank": 203,
                 "Nombre": "Nikola Vucevic",
                 "Antes": 928,
-                "Hoy": 2,
-                "Total": 930,
-                "Diff": "4",
+                "Hoy": 3,
+                "Total": 931,
+                "Diff": "3",
                 "Antece": "Chucky Atkins",
                 "Nota": "",
                 "game_status": "playing"
@@ -1250,7 +1250,7 @@
                 "Antes": 924,
                 "Hoy": 2,
                 "Total": 926,
-                "Diff": "4",
+                "Diff": "5",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "finished"
@@ -1438,5 +1438,5 @@
         "Tobias Harris (4 points today) has passed Larry Nance and is now ranked 136th all-time in career points with 15,689.",
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251."
     ],
-    "cache_buster": 1763867448
+    "cache_buster": 1763867481
 }
