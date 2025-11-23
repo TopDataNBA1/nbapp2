@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:11:56",
+    "ultima_actualizacion": "02:12:29",
     "tablas": {
         "pts": [
             {
@@ -951,9 +951,9 @@
                 "Rank": 171,
                 "Nombre": "Coby White",
                 "Antes": 993,
-                "Hoy": 0,
-                "Total": 993,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 994,
+                "Diff": "2",
                 "Antece": "Rafer Alston",
                 "Nota": "",
                 "game_status": "playing"
@@ -1125,5 +1125,5 @@
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321.",
         "Luke Kennard (2 three-pointers today) has passed Raymond Felton and is now ranked 204th all-time in career three-pointers with 926."
     ],
-    "cache_buster": 1763860316
+    "cache_buster": 1763860349
 }
