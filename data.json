@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:26:23",
+    "ultima_actualizacion": "01:26:57",
     "tablas": {
         "pts": [
             {
@@ -519,14 +519,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 205,
+                "Rank": 204,
                 "Nombre": "Luke Kennard",
                 "Antes": 924,
-                "Hoy": 0,
-                "Total": 924,
-                "Diff": "1",
-                "Antece": "Raymond Felton",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 925,
+                "Diff": "3",
+                "Antece": "Nikola Vucevic",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -618,5 +618,5 @@
         "Mitchell Robinson (2 blocks today) has passed Spencer Haywood and is now ranked 220th all-time in career blocks with 630.",
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321."
     ],
-    "cache_buster": 1763857583
+    "cache_buster": 1763857617
 }
