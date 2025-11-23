@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:38:12",
+    "ultima_actualizacion": "05:38:45",
     "tablas": {
         "pts": [
             {
@@ -272,9 +272,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8336,
-                "Hoy": 8,
-                "Total": 8344,
-                "Diff": "65",
+                "Hoy": 9,
+                "Total": 8345,
+                "Diff": "64",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -1440,5 +1440,5 @@
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253.",
         "Dennis Schroder (4 assists today) has passed Rory Sparrow and is now ranked 116th all-time in career assists with 4,193."
     ],
-    "cache_buster": 1763872692
+    "cache_buster": 1763872725
 }
