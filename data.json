@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:33:39",
+    "ultima_actualizacion": "01:34:13",
     "tablas": {
         "pts": [
             {
@@ -50,9 +50,9 @@
                 "Rank": 156,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 15181,
-                "Hoy": 19,
-                "Total": 15200,
-                "Diff": "91",
+                "Hoy": 21,
+                "Total": 15202,
+                "Diff": "89",
                 "Antece": "John Drew",
                 "Nota": "",
                 "game_status": "playing"
@@ -618,5 +618,5 @@
         "Mitchell Robinson (2 blocks today) has passed Spencer Haywood and is now ranked 220th all-time in career blocks with 630.",
         "Karl-Anthony Towns (6 rebounds today) has passed David Lee and is now ranked 103rd all-time in career rebounds with 7,321."
     ],
-    "cache_buster": 1763858019
+    "cache_buster": 1763858053
 }
