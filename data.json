@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:00:43",
+    "ultima_actualizacion": "05:01:16",
     "tablas": {
         "pts": [
             {
@@ -182,9 +182,9 @@
                 "Rank": 204,
                 "Nombre": "Zach LaVine",
                 "Antes": 13896,
-                "Hoy": 5,
-                "Total": 13901,
-                "Diff": "9",
+                "Hoy": 7,
+                "Total": 13903,
+                "Diff": "7",
                 "Antece": "Ron Harper",
                 "Nota": "",
                 "game_status": "playing"
@@ -1439,5 +1439,5 @@
         "Duncan Robinson (3 three-pointers today) has passed C.J. Miles and Shane Battier and is now ranked 90th all-time in career three-pointers with 1,251.",
         "Duncan Robinson (5 three-pointers today) has passed Stephen Jackson and is now ranked 89th all-time in career three-pointers with 1,253."
     ],
-    "cache_buster": 1763870443
+    "cache_buster": 1763870476
 }
