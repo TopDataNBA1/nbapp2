@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:20:03",
+    "ultima_actualizacion": "02:20:36",
     "tablas": {
         "pts": [
             {
@@ -193,9 +193,9 @@
                 "Rank": 224,
                 "Nombre": "Luka Doncic",
                 "Antes": 13259,
-                "Hoy": 3,
-                "Total": 13262,
-                "Diff": "47",
+                "Hoy": 5,
+                "Total": 13264,
+                "Diff": "45",
                 "Antece": "Jermaine O'Neal",
                 "Nota": "",
                 "game_status": "playing"
@@ -1364,5 +1364,5 @@
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
     ],
-    "cache_buster": 1763947203
+    "cache_buster": 1763947236
 }
