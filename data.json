@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:30:23",
+    "ultima_actualizacion": "01:30:57",
     "tablas": {
         "pts": [
             {
@@ -819,11 +819,11 @@
                 "Rank": 177,
                 "Nombre": "Derrick White",
                 "Antes": 985,
-                "Hoy": 1,
-                "Total": 986,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 987,
+                "Diff": "1",
                 "Antece": "Leandro Barbosa",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -996,7 +996,8 @@
         ]
     },
     "notificaciones": [
-        "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793."
+        "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793.",
+        "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987."
     ],
-    "cache_buster": 1763944223
+    "cache_buster": 1763944257
 }
