@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "03:44:29",
+    "ultima_actualizacion": "03:45:02",
     "tablas": {
         "pts": [
             {
                 "Rank": 1,
                 "Nombre": "LeBron James",
                 "Antes": 42195,
-                "Hoy": 10,
-                "Total": 42205,
-                "Diff": "795",
+                "Hoy": 12,
+                "Total": 42207,
+                "Diff": "793",
                 "Antece": "43000",
                 "Nota": "",
                 "game_status": "playing"
@@ -406,9 +406,9 @@
                 "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Antes": 3799,
-                "Hoy": 6,
-                "Total": 3805,
-                "Diff": "17",
+                "Hoy": 7,
+                "Total": 3806,
+                "Diff": "16",
                 "Antece": "Wes Unseld",
                 "Nota": "",
                 "game_status": "playing"
@@ -1368,5 +1368,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979.",
         "Dillon Brooks (3 three-pointers today) has passed Dorian Finney-Smith, George McCloud and Jose Calderon and is now ranked 208th all-time in career three-pointers with 921."
     ],
-    "cache_buster": 1763952269
+    "cache_buster": 1763952302
 }
