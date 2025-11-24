@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:28:59",
+    "ultima_actualizacion": "02:29:33",
     "tablas": {
         "pts": [
             {
@@ -472,11 +472,11 @@
                 "Rank": 234,
                 "Nombre": "Tyus Jones",
                 "Antes": 3048,
-                "Hoy": 5,
-                "Total": 3053,
-                "Diff": "2",
+                "Hoy": 6,
+                "Total": 3054,
+                "Diff": "1",
                 "Antece": "Blake Griffin",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             }
         ],
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763947739
+    "cache_buster": 1763947773
 }
