@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:10:37",
+    "ultima_actualizacion": "02:11:11",
     "tablas": {
         "pts": [
             {
@@ -88,7 +88,7 @@
                 "Diff": "75",
                 "Antece": "Bob Cousy",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 114,
@@ -165,7 +165,7 @@
                 "Diff": "15",
                 "Antece": "Fred Brown",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 208,
@@ -422,7 +422,7 @@
                 "Diff": "15",
                 "Antece": "Elgin Baylor",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 171,
@@ -466,7 +466,7 @@
                 "Diff": "5",
                 "Antece": "Bimbo Coles",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 234,
@@ -646,7 +646,7 @@
                 "Diff": "1",
                 "Antece": "Antonio McDyess",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 119,
@@ -923,7 +923,7 @@
                 "Diff": "18",
                 "Antece": "Manu Ginobili",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 61,
@@ -934,7 +934,7 @@
                 "Diff": "2",
                 "Antece": "Danilo Gallinari",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 66,
@@ -1110,7 +1110,7 @@
                 "Diff": "",
                 "Antece": "Al Harrington",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 187,
@@ -1154,7 +1154,7 @@
                 "Diff": "",
                 "Antece": "Darrell Armstrong",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 211,
@@ -1165,7 +1165,7 @@
                 "Diff": "2",
                 "Antece": "Jose Calderon",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 215,
@@ -1187,7 +1187,7 @@
                 "Diff": "1",
                 "Antece": "Darius Garland",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 220,
@@ -1231,7 +1231,7 @@
                 "Diff": "10",
                 "Antece": "Desmond Bane",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "g": [
@@ -1321,7 +1321,7 @@
                 "Diff": "1",
                 "Antece": "Ron Harper",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 199,
@@ -1363,5 +1363,5 @@
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805."
     ],
-    "cache_buster": 1763946637
+    "cache_buster": 1763946671
 }
