@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:14:28",
+    "ultima_actualizacion": "01:15:59",
     "tablas": {
         "pts": [
             {
@@ -21,17 +21,6 @@
                 "Total": 23039,
                 "Diff": "110",
                 "Antece": "Elgin Baylor",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 37,
-                "Nombre": "Damian Lillard",
-                "Antes": 22598,
-                "Hoy": 0,
-                "Total": 22598,
-                "Diff": "402",
-                "Antece": "23000",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -65,17 +54,6 @@
                 "Total": 17306,
                 "Diff": "29",
                 "Antece": "Kevin McHale",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 114,
-                "Nombre": "Jrue Holiday",
-                "Antes": 16622,
-                "Hoy": 0,
-                "Total": 16622,
-                "Diff": "74",
-                "Antece": "Nikola Jokic",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -271,28 +249,6 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 30,
-                "Nombre": "Jrue Holiday",
-                "Antes": 6539,
-                "Hoy": 0,
-                "Total": 6539,
-                "Diff": "38",
-                "Antece": "Derek Harper",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 41,
-                "Nombre": "Damian Lillard",
-                "Antes": 6069,
-                "Hoy": 0,
-                "Total": 6069,
-                "Diff": "45",
-                "Antece": "John Havlicek",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 81,
                 "Nombre": "Trae Young",
                 "Antes": 4787,
@@ -394,17 +350,6 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 56,
-                "Nombre": "Jrue Holiday",
-                "Antes": 1492,
-                "Hoy": 0,
-                "Total": 1492,
-                "Diff": "8",
-                "Antece": "Kyle Lowry",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 83,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 1270,
@@ -495,17 +440,6 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 168,
-                "Nombre": "Jerami Grant",
-                "Antes": 754,
-                "Hoy": 0,
-                "Total": 754,
-                "Diff": "1",
-                "Antece": "Larry Bird",
-                "Nota": "A tiro de 1",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 175,
                 "Nombre": "Joel Embiid",
                 "Antes": 747,
@@ -575,9 +509,9 @@
                 "Rank": 250,
                 "Nombre": "Nic Claxton",
                 "Antes": 554,
-                "Hoy": 1,
-                "Total": 555,
-                "Diff": "4",
+                "Hoy": 2,
+                "Total": 556,
+                "Diff": "3",
                 "Antece": "Lonnie Shelton",
                 "Nota": "",
                 "game_status": "playing"
@@ -592,17 +526,6 @@
                 "Total": 3237,
                 "Diff": "63",
                 "Antece": "3300",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 4,
-                "Nombre": "Damian Lillard",
-                "Antes": 2804,
-                "Hoy": 0,
-                "Total": 2804,
-                "Diff": "96",
-                "Antece": "2900",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -680,17 +603,6 @@
                 "Total": 1679,
                 "Diff": "5",
                 "Antece": "Kevin Love",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 42,
-                "Nombre": "Jrue Holiday",
-                "Antes": 1605,
-                "Hoy": 0,
-                "Total": 1605,
-                "Diff": "3",
-                "Antece": "Jason Richardson",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -838,17 +750,6 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 187,
-                "Nombre": "Jerami Grant",
-                "Antes": 973,
-                "Hoy": 1,
-                "Total": 974,
-                "Diff": "1",
-                "Antece": "Alec Burks",
-                "Nota": "A tiro de 1",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 190,
                 "Nombre": "Kristaps Porzingis",
                 "Antes": 968,
@@ -961,17 +862,6 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 122,
-                "Nombre": "Jrue Holiday",
-                "Antes": 1049,
-                "Hoy": 0,
-                "Total": 1049,
-                "Diff": "2",
-                "Antece": "Shawn Kemp",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 231,
                 "Nombre": "Eric Gordon",
                 "Antes": 928,
@@ -999,5 +889,5 @@
         "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786.",
         "Donovan Mitchell (16 points today) has passed Bill Laimbeer and is now ranked 209th all-time in career points with 13,791."
     ],
-    "cache_buster": 1763943268
+    "cache_buster": 1763943359
 }
