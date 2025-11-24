@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:28:10",
+    "ultima_actualizacion": "03:28:44",
     "tablas": {
         "pts": [
             {
@@ -1160,9 +1160,9 @@
                 "Rank": 208,
                 "Nombre": "Dillon Brooks",
                 "Antes": 918,
-                "Hoy": 2,
-                "Total": 920,
-                "Diff": "3",
+                "Hoy": 3,
+                "Total": 921,
+                "Diff": "2",
                 "Antece": "Kelly Olynyk",
                 "Nota": "",
                 "game_status": "playing"
@@ -1365,7 +1365,8 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367.",
         "Luka Doncic (6 assists today) has passed Derek Fisher and is now ranked 146th all-time in career assists with 3,805.",
-        "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979."
+        "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979.",
+        "Dillon Brooks (3 three-pointers today) has passed Dorian Finney-Smith, George McCloud and Jose Calderon and is now ranked 208th all-time in career three-pointers with 921."
     ],
-    "cache_buster": 1763951290
+    "cache_buster": 1763951324
 }
