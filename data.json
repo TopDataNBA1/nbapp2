@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:05:36",
+    "ultima_actualizacion": "02:06:09",
     "tablas": {
         "pts": [
             {
@@ -329,9 +329,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12540,
-                "Hoy": 1,
-                "Total": 12541,
-                "Diff": "459",
+                "Hoy": 2,
+                "Total": 12542,
+                "Diff": "458",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1193,11 +1193,11 @@
                 "Rank": 220,
                 "Nombre": "Michael Porter Jr.",
                 "Antes": 888,
-                "Hoy": 3,
-                "Total": 891,
-                "Diff": "2",
+                "Hoy": 4,
+                "Total": 892,
+                "Diff": "1",
                 "Antece": "Will Barton",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1363,5 +1363,5 @@
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805."
     ],
-    "cache_buster": 1763946336
+    "cache_buster": 1763946369
 }
