@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:33:47",
+    "ultima_actualizacion": "03:34:21",
     "tablas": {
         "pts": [
             {
@@ -83,9 +83,9 @@
                 "Rank": 108,
                 "Nombre": "Devin Booker",
                 "Antes": 16885,
-                "Hoy": 10,
-                "Total": 16895,
-                "Diff": "65",
+                "Hoy": 11,
+                "Total": 16896,
+                "Diff": "64",
                 "Antece": "Bob Cousy",
                 "Nota": "",
                 "game_status": "playing"
@@ -1368,5 +1368,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979.",
         "Dillon Brooks (3 three-pointers today) has passed Dorian Finney-Smith, George McCloud and Jose Calderon and is now ranked 208th all-time in career three-pointers with 921."
     ],
-    "cache_buster": 1763951627
+    "cache_buster": 1763951661
 }
