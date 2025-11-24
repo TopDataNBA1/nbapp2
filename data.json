@@ -1,6 +1,1002 @@
 {
-    "ultima_actualizacion": "01:24:38",
-    "tablas": {},
-    "notificaciones": [],
-    "cache_buster": 1763943878
+    "ultima_actualizacion": "01:24:44",
+    "tablas": {
+        "pts": [
+            {
+                "Rank": 11,
+                "Nombre": "James Harden",
+                "Antes": 28113,
+                "Hoy": 12,
+                "Total": 28125,
+                "Diff": "164",
+                "Antece": "Carmelo Anthony",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 36,
+                "Nombre": "Chris Paul",
+                "Antes": 23039,
+                "Hoy": 0,
+                "Total": 23039,
+                "Diff": "110",
+                "Antece": "Elgin Baylor",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 37,
+                "Nombre": "Damian Lillard",
+                "Antes": 22598,
+                "Hoy": 0,
+                "Total": 22598,
+                "Diff": "402",
+                "Antece": "23000",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 72,
+                "Nombre": "Paul George",
+                "Antes": 18727,
+                "Hoy": 10,
+                "Total": 18737,
+                "Diff": "50",
+                "Antece": "Bob McAdoo",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 91,
+                "Nombre": "Brook Lopez",
+                "Antes": 17624,
+                "Hoy": 0,
+                "Total": 17624,
+                "Diff": "18",
+                "Antece": "Rudy Gay",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 98,
+                "Nombre": "Bradley Beal",
+                "Antes": 17306,
+                "Hoy": 0,
+                "Total": 17306,
+                "Diff": "29",
+                "Antece": "Kevin McHale",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 114,
+                "Nombre": "Jrue Holiday",
+                "Antes": 16622,
+                "Hoy": 0,
+                "Total": 16622,
+                "Diff": "74",
+                "Antece": "Nikola Jokic",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 119,
+                "Nombre": "Kyle Lowry",
+                "Antes": 16359,
+                "Hoy": 0,
+                "Total": 16359,
+                "Diff": "42",
+                "Antece": "Joe Dumars",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 162,
+                "Nombre": "Kawhi Leonard",
+                "Antes": 14879,
+                "Hoy": 12,
+                "Total": 14891,
+                "Diff": "13",
+                "Antece": "Richard Jefferson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 183,
+                "Nombre": "Andrew Wiggins",
+                "Antes": 14420,
+                "Hoy": 0,
+                "Total": 14420,
+                "Diff": "5",
+                "Antece": "Jeff Green",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Eric Gordon",
+                "Antes": 14142,
+                "Hoy": 0,
+                "Total": 14142,
+                "Diff": "13",
+                "Antece": "Eddie Jones",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 209,
+                "Nombre": "Donovan Mitchell",
+                "Antes": 13775,
+                "Hoy": 18,
+                "Total": 13793,
+                "Diff": "11",
+                "Antece": "Deron Williams",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 211,
+                "Nombre": "Jayson Tatum",
+                "Antes": 13784,
+                "Hoy": 0,
+                "Total": 13784,
+                "Diff": "6",
+                "Antece": "Bill Laimbeer",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "trb": [
+            {
+                "Rank": 31,
+                "Nombre": "Andre Drummond",
+                "Antes": 11116,
+                "Hoy": 24,
+                "Total": 11140,
+                "Diff": "116",
+                "Antece": "Dolph Schayes",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 133,
+                "Nombre": "Brook Lopez",
+                "Antes": 6769,
+                "Hoy": 0,
+                "Total": 6769,
+                "Diff": "77",
+                "Antece": "Clarence Weatherspoo",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 155,
+                "Nombre": "James Harden",
+                "Antes": 6563,
+                "Hoy": 1,
+                "Total": 6564,
+                "Diff": "11",
+                "Antece": "Joe Smith",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 194,
+                "Nombre": "Chris Paul",
+                "Antes": 6000,
+                "Hoy": 1,
+                "Total": 6001,
+                "Diff": "3",
+                "Antece": "James Edwards",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 211,
+                "Nombre": "Mason Plumlee",
+                "Antes": 5778,
+                "Hoy": 6,
+                "Total": 5784,
+                "Diff": "7",
+                "Antece": "Udonis Haslem",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 219,
+                "Nombre": "Paul George",
+                "Antes": 5696,
+                "Hoy": 2,
+                "Total": 5698,
+                "Diff": "9",
+                "Antece": "Dan Issel",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 236,
+                "Nombre": "Nicolas Batum",
+                "Antes": 5518,
+                "Hoy": 2,
+                "Total": 5520,
+                "Diff": "3",
+                "Antece": "Hassan Whiteside",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 248,
+                "Nombre": "Jarrett Allen",
+                "Antes": 5345,
+                "Hoy": 0,
+                "Total": 5345,
+                "Diff": "2",
+                "Antece": "Mark West",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "ast": [
+            {
+                "Rank": 2,
+                "Nombre": "Chris Paul",
+                "Antes": 12540,
+                "Hoy": 1,
+                "Total": 12541,
+                "Diff": "459",
+                "Antece": "13000",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 13,
+                "Nombre": "James Harden",
+                "Antes": 8444,
+                "Hoy": 4,
+                "Total": 8448,
+                "Diff": "76",
+                "Antece": "Andre Miller",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 19,
+                "Nombre": "Kyle Lowry",
+                "Antes": 7100,
+                "Hoy": 0,
+                "Total": 7100,
+                "Diff": "60",
+                "Antece": "Terry Porter",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 30,
+                "Nombre": "Jrue Holiday",
+                "Antes": 6539,
+                "Hoy": 0,
+                "Total": 6539,
+                "Diff": "38",
+                "Antece": "Derek Harper",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 41,
+                "Nombre": "Damian Lillard",
+                "Antes": 6069,
+                "Hoy": 0,
+                "Total": 6069,
+                "Diff": "45",
+                "Antece": "John Havlicek",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 81,
+                "Nombre": "Trae Young",
+                "Antes": 4787,
+                "Hoy": 0,
+                "Total": 4787,
+                "Diff": "18",
+                "Antece": "Gail Goodrich",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 171,
+                "Nombre": "Nicolas Batum",
+                "Antes": 3559,
+                "Hoy": 1,
+                "Total": 3560,
+                "Diff": "3",
+                "Antece": "T.J. McConnell",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 186,
+                "Nombre": "Bradley Beal",
+                "Antes": 3442,
+                "Hoy": 0,
+                "Total": 3442,
+                "Diff": "4",
+                "Antece": "Steve Blake",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Paul George",
+                "Antes": 3375,
+                "Hoy": 5,
+                "Total": 3380,
+                "Diff": "14",
+                "Antece": "Darrell Armstrong",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 234,
+                "Nombre": "Tyus Jones",
+                "Antes": 3048,
+                "Hoy": 3,
+                "Total": 3051,
+                "Diff": "4",
+                "Antece": "Blake Griffin",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "stl": [
+            {
+                "Rank": 2,
+                "Nombre": "Chris Paul",
+                "Antes": 2727,
+                "Hoy": 0,
+                "Total": 2727,
+                "Diff": "73",
+                "Antece": "2800",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 23,
+                "Nombre": "James Harden",
+                "Antes": 1730,
+                "Hoy": 1,
+                "Total": 1731,
+                "Diff": "21",
+                "Antece": "Paul Pierce",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 46,
+                "Nombre": "Paul George",
+                "Antes": 1541,
+                "Hoy": 1,
+                "Total": 1542,
+                "Diff": "2",
+                "Antece": "Nate McMillan",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 55,
+                "Nombre": "Kyle Lowry",
+                "Antes": 1500,
+                "Hoy": 0,
+                "Total": 1500,
+                "Diff": "5",
+                "Antece": "Reggie Miller",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 56,
+                "Nombre": "Jrue Holiday",
+                "Antes": 1492,
+                "Hoy": 0,
+                "Total": 1492,
+                "Diff": "8",
+                "Antece": "Kyle Lowry",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 83,
+                "Nombre": "Kawhi Leonard",
+                "Antes": 1270,
+                "Hoy": 0,
+                "Total": 1270,
+                "Diff": "3",
+                "Antece": "John Lucas",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 119,
+                "Nombre": "Andre Drummond",
+                "Antes": 1145,
+                "Hoy": 0,
+                "Total": 1145,
+                "Diff": "4",
+                "Antece": "Fred Brown",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 165,
+                "Nombre": "Nicolas Batum",
+                "Antes": 1043,
+                "Hoy": 0,
+                "Total": 1043,
+                "Diff": "1",
+                "Antece": "Darwin Cook",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 246,
+                "Nombre": "Bradley Beal",
+                "Antes": 885,
+                "Hoy": 0,
+                "Total": 885,
+                "Diff": "2",
+                "Antece": "Greg Anthony",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "blk": [
+            {
+                "Rank": 18,
+                "Nombre": "Brook Lopez",
+                "Antes": 2074,
+                "Hoy": 0,
+                "Total": 2074,
+                "Diff": "8",
+                "Antece": "George Johnson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 69,
+                "Nombre": "Andre Drummond",
+                "Antes": 1160,
+                "Hoy": 2,
+                "Total": 1162,
+                "Diff": "21",
+                "Antece": "Elmore Smith",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 119,
+                "Nombre": "Kristaps Porzingis",
+                "Antes": 928,
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "3",
+                "Antece": "Chris Kaman",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 165,
+                "Nombre": "Jakob Poeltl",
+                "Antes": 764,
+                "Hoy": 0,
+                "Total": 764,
+                "Diff": "3",
+                "Antece": "Duane Causwell",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 168,
+                "Nombre": "Jerami Grant",
+                "Antes": 754,
+                "Hoy": 0,
+                "Total": 754,
+                "Diff": "1",
+                "Antece": "Larry Bird",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 175,
+                "Nombre": "Joel Embiid",
+                "Antes": 747,
+                "Hoy": 0,
+                "Total": 747,
+                "Diff": "2",
+                "Antece": "Rich Kelley",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 184,
+                "Nombre": "Jarrett Allen",
+                "Antes": 715,
+                "Hoy": 0,
+                "Total": 715,
+                "Diff": "2",
+                "Antece": "Clemon Johnson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 188,
+                "Nombre": "Nicolas Batum",
+                "Antes": 705,
+                "Hoy": 0,
+                "Total": 705,
+                "Diff": "1",
+                "Antece": "Billy Paultz",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 189,
+                "Nombre": "Mason Plumlee",
+                "Antes": 703,
+                "Hoy": 0,
+                "Total": 703,
+                "Diff": "2",
+                "Antece": "Nicolas Batum",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 201,
+                "Nombre": "James Harden",
+                "Antes": 662,
+                "Hoy": 0,
+                "Total": 662,
+                "Diff": "6",
+                "Antece": "Bill Cartwright",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 237,
+                "Nombre": "Ivica Zubac",
+                "Antes": 590,
+                "Hoy": 0,
+                "Total": 590,
+                "Diff": "",
+                "Antece": "Greg Anderson",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 250,
+                "Nombre": "Nic Claxton",
+                "Antes": 554,
+                "Hoy": 2,
+                "Total": 556,
+                "Diff": "3",
+                "Antece": "Lonnie Shelton",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "fg3": [
+            {
+                "Rank": 2,
+                "Nombre": "James Harden",
+                "Antes": 3237,
+                "Hoy": 0,
+                "Total": 3237,
+                "Diff": "63",
+                "Antece": "3300",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 4,
+                "Nombre": "Damian Lillard",
+                "Antes": 2804,
+                "Hoy": 0,
+                "Total": 2804,
+                "Diff": "96",
+                "Antece": "2900",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 9,
+                "Nombre": "Paul George",
+                "Antes": 2354,
+                "Hoy": 0,
+                "Total": 2354,
+                "Diff": "46",
+                "Antece": "2400",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 14,
+                "Nombre": "Kyle Lowry",
+                "Antes": 2206,
+                "Hoy": 0,
+                "Total": 2206,
+                "Diff": "9",
+                "Antece": "Kevin Durant",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 17,
+                "Nombre": "Eric Gordon",
+                "Antes": 2086,
+                "Hoy": 0,
+                "Total": 2086,
+                "Diff": "14",
+                "Antece": "2100",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 27,
+                "Nombre": "Chris Paul",
+                "Antes": 1867,
+                "Hoy": 0,
+                "Total": 1867,
+                "Diff": "9",
+                "Antece": "Kyrie Irving",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 32,
+                "Nombre": "Nicolas Batum",
+                "Antes": 1771,
+                "Hoy": 1,
+                "Total": 1772,
+                "Diff": "15",
+                "Antece": "Rashard Lewis",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 35,
+                "Nombre": "Bradley Beal",
+                "Antes": 1724,
+                "Hoy": 0,
+                "Total": 1724,
+                "Diff": "7",
+                "Antece": "Carmelo Anthony",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 39,
+                "Nombre": "Donovan Mitchell",
+                "Antes": 1677,
+                "Hoy": 2,
+                "Total": 1679,
+                "Diff": "5",
+                "Antece": "Kevin Love",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 42,
+                "Nombre": "Jrue Holiday",
+                "Antes": 1605,
+                "Hoy": 0,
+                "Total": 1605,
+                "Diff": "3",
+                "Antece": "Jason Richardson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 51,
+                "Nombre": "Jayson Tatum",
+                "Antes": 1546,
+                "Hoy": 0,
+                "Total": 1546,
+                "Diff": "",
+                "Antece": "Eddie Jones",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 73,
+                "Nombre": "Terry Rozier",
+                "Antes": 1356,
+                "Hoy": 0,
+                "Total": 1356,
+                "Diff": "3",
+                "Antece": "Evan Fournier",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 84,
+                "Nombre": "Trae Young",
+                "Antes": 1282,
+                "Hoy": 0,
+                "Total": 1282,
+                "Diff": "1",
+                "Antece": "Mookie Blaylock",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 93,
+                "Nombre": "Bogdan Bogdanovic",
+                "Antes": 1249,
+                "Hoy": 0,
+                "Total": 1249,
+                "Diff": "1",
+                "Antece": "Shane Battier",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 108,
+                "Nombre": "Kawhi Leonard",
+                "Antes": 1201,
+                "Hoy": 1,
+                "Total": 1202,
+                "Diff": "3",
+                "Antece": "Jeff Green",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 113,
+                "Nombre": "Jaylen Brown",
+                "Antes": 1175,
+                "Hoy": 0,
+                "Total": 1175,
+                "Diff": "3",
+                "Antece": "Deron Williams",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 114,
+                "Nombre": "Andrew Wiggins",
+                "Antes": 1174,
+                "Hoy": 0,
+                "Total": 1174,
+                "Diff": "1",
+                "Antece": "Jaylen Brown",
+                "Nota": "A tiro de 1",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 132,
+                "Nombre": "Norman Powell",
+                "Antes": 1100,
+                "Hoy": 4,
+                "Total": 1104,
+                "Diff": "",
+                "Antece": "Latrell Sprewell",
+                "Nota": "Mismo total",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 134,
+                "Nombre": "Brook Lopez",
+                "Antes": 1098,
+                "Hoy": 0,
+                "Total": 1098,
+                "Diff": "2",
+                "Antece": "1100",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 164,
+                "Nombre": "Anfernee Simons",
+                "Antes": 1009,
+                "Hoy": 3,
+                "Total": 1012,
+                "Diff": "1",
+                "Antece": "Mikal Bridges",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 167,
+                "Nombre": "Kelly Oubre Jr.",
+                "Antes": 1005,
+                "Hoy": 0,
+                "Total": 1005,
+                "Diff": "1",
+                "Antece": "Danny Granger",
+                "Nota": "A tiro de 1",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 177,
+                "Nombre": "Derrick White",
+                "Antes": 985,
+                "Hoy": 1,
+                "Total": 986,
+                "Diff": "2",
+                "Antece": "Leandro Barbosa",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 179,
+                "Nombre": "Tyler Herro",
+                "Antes": 984,
+                "Hoy": 0,
+                "Total": 984,
+                "Diff": "2",
+                "Antece": "Doug McDermott",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 187,
+                "Nombre": "Jerami Grant",
+                "Antes": 973,
+                "Hoy": 1,
+                "Total": 974,
+                "Diff": "1",
+                "Antece": "Alec Burks",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 190,
+                "Nombre": "Kristaps Porzingis",
+                "Antes": 968,
+                "Hoy": 0,
+                "Total": 968,
+                "Diff": "3",
+                "Antece": "Vladimir Radmanovic",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 204,
+                "Nombre": "Luke Kennard",
+                "Antes": 926,
+                "Hoy": 0,
+                "Total": 926,
+                "Diff": "5",
+                "Antece": "Nikola Vucevic",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 215,
+                "Nombre": "Darius Garland",
+                "Antes": 907,
+                "Hoy": 0,
+                "Total": 907,
+                "Diff": "4",
+                "Antece": "Rasual Butler",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 220,
+                "Nombre": "Michael Porter Jr.",
+                "Antes": 888,
+                "Hoy": 3,
+                "Total": 891,
+                "Diff": "2",
+                "Antece": "Will Barton",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 243,
+                "Nombre": "Desmond Bane",
+                "Antes": 841,
+                "Hoy": 1,
+                "Total": 842,
+                "Diff": "3",
+                "Antece": "John Stockton",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "g": [
+            {
+                "Rank": 15,
+                "Nombre": "Chris Paul",
+                "Antes": 1365,
+                "Hoy": 1,
+                "Total": 1366,
+                "Diff": "14",
+                "Antece": "Clifford Robinson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 58,
+                "Nombre": "Kyle Lowry",
+                "Antes": 1174,
+                "Hoy": 0,
+                "Total": 1174,
+                "Diff": "4",
+                "Antece": "Scottie Pippen",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 61,
+                "Nombre": "James Harden",
+                "Antes": 1166,
+                "Hoy": 1,
+                "Total": 1167,
+                "Diff": "1",
+                "Antece": "James Edwards",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 69,
+                "Nombre": "Nicolas Batum",
+                "Antes": 1147,
+                "Hoy": 1,
+                "Total": 1148,
+                "Diff": "2",
+                "Antece": "Al Horford",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 77,
+                "Nombre": "Brook Lopez",
+                "Antes": 1121,
+                "Hoy": 0,
+                "Total": 1121,
+                "Diff": "1",
+                "Antece": "Hal Greer",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 122,
+                "Nombre": "Jrue Holiday",
+                "Antes": 1049,
+                "Hoy": 0,
+                "Total": 1049,
+                "Diff": "2",
+                "Antece": "Shawn Kemp",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 231,
+                "Nombre": "Eric Gordon",
+                "Antes": 928,
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "1",
+                "Antece": "Tom Van Arsdale",
+                "Nota": "A tiro de 1",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 244,
+                "Nombre": "Andre Drummond",
+                "Antes": 918,
+                "Hoy": 1,
+                "Total": 919,
+                "Diff": "1",
+                "Antece": "Larry Nance",
+                "Nota": "A tiro de 1",
+                "game_status": "finished"
+            }
+        ]
+    },
+    "notificaciones": [
+        "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793."
+    ],
+    "cache_buster": 1763943884
 }
