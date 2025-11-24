@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:11:44",
+    "ultima_actualizacion": "02:12:17",
     "tablas": {
         "pts": [
             {
@@ -11,7 +11,7 @@
                 "Diff": "805",
                 "Antece": "43000",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 11,
@@ -121,7 +121,7 @@
                 "Diff": "63",
                 "Antece": "Bob Dandridge",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 162,
@@ -198,7 +198,7 @@
                 "Diff": "50",
                 "Antece": "Jermaine O'Neal",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             }
         ],
         "trb": [
@@ -211,7 +211,7 @@
                 "Diff": "167",
                 "Antece": "Kevin Willis",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 31,
@@ -233,7 +233,7 @@
                 "Diff": "86",
                 "Antece": "Dave DeBusschere",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 133,
@@ -310,7 +310,7 @@
                 "Diff": "3",
                 "Antece": "Jerry West",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 248,
@@ -345,7 +345,7 @@
                 "Diff": "404",
                 "Antece": "12000",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 13,
@@ -411,7 +411,7 @@
                 "Diff": "5",
                 "Antece": "Derek Fisher",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 164,
@@ -501,7 +501,7 @@
                 "Diff": "54",
                 "Antece": "2400",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 23,
@@ -589,7 +589,7 @@
                 "Diff": "4",
                 "Antece": "Stephon Marbury",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 246,
@@ -635,7 +635,7 @@
                 "Diff": "10",
                 "Antece": "Sam Lacey",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 84,
@@ -745,7 +745,7 @@
                 "Diff": "2",
                 "Antece": "James Johnson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 237,
@@ -802,7 +802,7 @@
                 "Diff": "39",
                 "Antece": "2600",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 9,
@@ -879,7 +879,7 @@
                 "Diff": "1",
                 "Antece": "Steve Nash",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 39,
@@ -945,7 +945,7 @@
                 "Diff": "3",
                 "Antece": "Khris Middleton",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 73,
@@ -1000,15 +1000,15 @@
                 "Diff": "4",
                 "Antece": "1200",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 113,
                 "Nombre": "Jaylen Brown",
                 "Antes": 1175,
-                "Hoy": 0,
-                "Total": 1175,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 1176,
+                "Diff": "2",
                 "Antece": "Deron Williams",
                 "Nota": "",
                 "game_status": "playing"
@@ -1019,9 +1019,9 @@
                 "Antes": 1174,
                 "Hoy": 0,
                 "Total": 1174,
-                "Diff": "1",
+                "Diff": "2",
                 "Antece": "Jaylen Brown",
-                "Nota": "A tiro de 1",
+                "Nota": "",
                 "game_status": "finished"
             },
             {
@@ -1055,7 +1055,7 @@
                 "Diff": "11",
                 "Antece": "Joe Harris",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 163,
@@ -1113,14 +1113,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 187,
+                "Rank": 184,
                 "Nombre": "Jerami Grant",
                 "Antes": 973,
-                "Hoy": 2,
-                "Total": 975,
-                "Diff": "",
-                "Antece": "Alec Burks",
-                "Nota": "Mismo total",
+                "Hoy": 3,
+                "Total": 976,
+                "Diff": "1",
+                "Antece": "Royce O'Neale",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1209,7 +1209,7 @@
                 "Diff": "",
                 "Antece": "Ersan Ilyasova",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 243,
@@ -1244,7 +1244,7 @@
                 "Diff": "37",
                 "Antece": "1600",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 15,
@@ -1332,7 +1332,7 @@
                 "Diff": "",
                 "Antece": "Brad Davis",
                 "Nota": "Mismo total",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 231,
@@ -1361,7 +1361,8 @@
     "notificaciones": [
         "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793.",
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
-        "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805."
+        "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
+        "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
     ],
-    "cache_buster": 1763946704
+    "cache_buster": 1763946737
 }
