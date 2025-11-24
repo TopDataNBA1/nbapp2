@@ -1,7 +1,18 @@
 {
-    "ultima_actualizacion": "01:32:39",
+    "ultima_actualizacion": "01:33:12",
     "tablas": {
         "pts": [
+            {
+                "Rank": 1,
+                "Nombre": "LeBron James",
+                "Antes": 42195,
+                "Hoy": 0,
+                "Total": 42195,
+                "Diff": "805",
+                "Antece": "43000",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 11,
                 "Nombre": "James Harden",
@@ -102,6 +113,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 149,
+                "Nombre": "Kevin Love",
+                "Antes": 15467,
+                "Hoy": 0,
+                "Total": 15467,
+                "Diff": "63",
+                "Antece": "Bob Dandridge",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 14879,
@@ -149,9 +171,9 @@
                 "Rank": 209,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13775,
-                "Hoy": 18,
-                "Total": 13793,
-                "Diff": "11",
+                "Hoy": 21,
+                "Total": 13796,
+                "Diff": "8",
                 "Antece": "Deron Williams",
                 "Nota": "",
                 "game_status": "playing"
@@ -166,9 +188,31 @@
                 "Antece": "Bill Laimbeer",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 224,
+                "Nombre": "Luka Doncic",
+                "Antes": 13259,
+                "Hoy": 0,
+                "Total": 13259,
+                "Diff": "50",
+                "Antece": "Jermaine O'Neal",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "trb": [
+            {
+                "Rank": 25,
+                "Nombre": "LeBron James",
+                "Antes": 11734,
+                "Hoy": 0,
+                "Total": 11734,
+                "Diff": "167",
+                "Antece": "Kevin Willis",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 31,
                 "Nombre": "Andre Drummond",
@@ -179,6 +223,17 @@
                 "Antece": "Dolph Schayes",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 49,
+                "Nombre": "Kevin Love",
+                "Antes": 9532,
+                "Hoy": 0,
+                "Total": 9532,
+                "Diff": "86",
+                "Antece": "Dave DeBusschere",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 133,
@@ -247,6 +302,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 245,
+                "Nombre": "Jusuf Nurkic",
+                "Antes": 5363,
+                "Hoy": 0,
+                "Total": 5363,
+                "Diff": "3",
+                "Antece": "Jerry West",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 248,
                 "Nombre": "Jarrett Allen",
                 "Antes": 5345,
@@ -269,6 +335,17 @@
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 4,
+                "Nombre": "LeBron James",
+                "Antes": 11596,
+                "Hoy": 0,
+                "Total": 11596,
+                "Diff": "404",
+                "Antece": "12000",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 13,
@@ -324,6 +401,17 @@
                 "Antece": "Gail Goodrich",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 147,
+                "Nombre": "Luka Doncic",
+                "Antes": 3799,
+                "Hoy": 0,
+                "Total": 3799,
+                "Diff": "5",
+                "Antece": "Derek Fisher",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 164,
@@ -405,6 +493,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 6,
+                "Nombre": "LeBron James",
+                "Antes": 2346,
+                "Hoy": 0,
+                "Total": 2346,
+                "Diff": "54",
+                "Antece": "2400",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 23,
                 "Nombre": "James Harden",
                 "Antes": 1730,
@@ -482,6 +581,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 178,
+                "Nombre": "Marcus Smart",
+                "Antes": 1018,
+                "Hoy": 0,
+                "Total": 1018,
+                "Diff": "4",
+                "Antece": "Stephon Marbury",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 246,
                 "Nombre": "Bradley Beal",
                 "Antes": 885,
@@ -515,6 +625,17 @@
                 "Antece": "Elmore Smith",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 71,
+                "Nombre": "LeBron James",
+                "Antes": 1150,
+                "Hoy": 0,
+                "Total": 1150,
+                "Diff": "10",
+                "Antece": "Sam Lacey",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 84,
@@ -616,6 +737,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 204,
+                "Nombre": "Jusuf Nurkic",
+                "Antes": 653,
+                "Hoy": 0,
+                "Total": 653,
+                "Diff": "2",
+                "Antece": "James Johnson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 237,
                 "Nombre": "Ivica Zubac",
                 "Antes": 590,
@@ -660,6 +792,17 @@
                 "Antece": "2900",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 6,
+                "Nombre": "LeBron James",
+                "Antes": 2561,
+                "Hoy": 0,
+                "Total": 2561,
+                "Diff": "39",
+                "Antece": "2600",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 9,
@@ -728,12 +871,23 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 38,
+                "Nombre": "Kevin Love",
+                "Antes": 1684,
+                "Hoy": 0,
+                "Total": 1684,
+                "Diff": "1",
+                "Antece": "Steve Nash",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1677,
-                "Hoy": 2,
-                "Total": 1679,
-                "Diff": "5",
+                "Hoy": 3,
+                "Total": 1680,
+                "Diff": "4",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "playing"
@@ -783,6 +937,17 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 66,
+                "Nombre": "Luka Doncic",
+                "Antes": 1416,
+                "Hoy": 0,
+                "Total": 1416,
+                "Diff": "3",
+                "Antece": "Khris Middleton",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 73,
                 "Nombre": "Terry Rozier",
                 "Antes": 1356,
@@ -827,6 +992,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 109,
+                "Nombre": "Lauri Markkanen",
+                "Antes": 1196,
+                "Hoy": 0,
+                "Total": 1196,
+                "Diff": "4",
+                "Antece": "1200",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 113,
                 "Nombre": "Jaylen Brown",
                 "Antes": 1175,
@@ -869,6 +1045,17 @@
                 "Antece": "1100",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 162,
+                "Nombre": "Marcus Smart",
+                "Antes": 1015,
+                "Hoy": 0,
+                "Total": 1015,
+                "Diff": "11",
+                "Antece": "Joe Harris",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 164,
@@ -1014,6 +1201,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 223,
+                "Nombre": "Georges Niang",
+                "Antes": 883,
+                "Hoy": 0,
+                "Total": 883,
+                "Diff": "",
+                "Antece": "Ersan Ilyasova",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 243,
                 "Nombre": "Desmond Bane",
                 "Antes": 841,
@@ -1037,6 +1235,17 @@
             }
         ],
         "g": [
+            {
+                "Rank": 2,
+                "Nombre": "LeBron James",
+                "Antes": 1563,
+                "Hoy": 0,
+                "Total": 1563,
+                "Diff": "37",
+                "Antece": "1600",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 15,
                 "Nombre": "Chris Paul",
@@ -1115,6 +1324,17 @@
                 "game_status": "not_started"
             },
             {
+                "Rank": 199,
+                "Nombre": "Kevin Love",
+                "Antes": 961,
+                "Hoy": 0,
+                "Total": 961,
+                "Diff": "",
+                "Antece": "Brad Davis",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 231,
                 "Nombre": "Eric Gordon",
                 "Antes": 928,
@@ -1142,5 +1362,5 @@
         "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793.",
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987."
     ],
-    "cache_buster": 1763944359
+    "cache_buster": 1763944392
 }
