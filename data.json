@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:24:00",
+    "ultima_actualizacion": "02:24:33",
     "tablas": {
         "pts": [
             {
@@ -160,9 +160,9 @@
                 "Rank": 198,
                 "Nombre": "Harrison Barnes",
                 "Antes": 14003,
-                "Hoy": 3,
-                "Total": 14006,
-                "Diff": "12",
+                "Hoy": 5,
+                "Total": 14008,
+                "Diff": "10",
                 "Antece": "Fred Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -1324,14 +1324,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 199,
+                "Rank": 198,
                 "Nombre": "Kevin Love",
                 "Antes": 961,
-                "Hoy": 0,
-                "Total": 961,
-                "Diff": "",
-                "Antece": "Brad Davis",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 962,
+                "Diff": "1",
+                "Antece": "Fred Brown",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1364,5 +1364,5 @@
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
     ],
-    "cache_buster": 1763947440
+    "cache_buster": 1763947473
 }
