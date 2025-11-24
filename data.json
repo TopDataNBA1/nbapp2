@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:12:17",
+    "ultima_actualizacion": "02:12:51",
     "tablas": {
         "pts": [
             {
@@ -127,9 +127,9 @@
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 14879,
-                "Hoy": 17,
-                "Total": 14896,
-                "Diff": "8",
+                "Hoy": 20,
+                "Total": 14899,
+                "Diff": "5",
                 "Antece": "Richard Jefferson",
                 "Nota": "",
                 "game_status": "playing"
@@ -329,9 +329,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Antes": 12540,
-                "Hoy": 2,
-                "Total": 12542,
-                "Diff": "458",
+                "Hoy": 3,
+                "Total": 12543,
+                "Diff": "457",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -496,9 +496,9 @@
                 "Rank": 6,
                 "Nombre": "LeBron James",
                 "Antes": 2346,
-                "Hoy": 0,
-                "Total": 2346,
-                "Diff": "54",
+                "Hoy": 1,
+                "Total": 2347,
+                "Diff": "53",
                 "Antece": "2400",
                 "Nota": "",
                 "game_status": "playing"
@@ -984,11 +984,11 @@
                 "Rank": 108,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 1201,
-                "Hoy": 2,
-                "Total": 1203,
-                "Diff": "2",
+                "Hoy": 3,
+                "Total": 1204,
+                "Diff": "1",
                 "Antece": "Jeff Green",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1006,11 +1006,11 @@
                 "Rank": 113,
                 "Nombre": "Jaylen Brown",
                 "Antes": 1175,
-                "Hoy": 1,
-                "Total": 1176,
-                "Diff": "2",
+                "Hoy": 2,
+                "Total": 1177,
+                "Diff": "1",
                 "Antece": "Deron Williams",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1019,7 +1019,7 @@
                 "Antes": 1174,
                 "Hoy": 0,
                 "Total": 1174,
-                "Diff": "2",
+                "Diff": "3",
                 "Antece": "Jaylen Brown",
                 "Nota": "",
                 "game_status": "finished"
@@ -1364,5 +1364,5 @@
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
     ],
-    "cache_buster": 1763946737
+    "cache_buster": 1763946771
 }
