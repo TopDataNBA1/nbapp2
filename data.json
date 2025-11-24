@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:02:43",
+    "ultima_actualizacion": "03:03:17",
     "tablas": {
         "pts": [
             {
@@ -206,9 +206,9 @@
                 "Rank": 25,
                 "Nombre": "LeBron James",
                 "Antes": 11734,
-                "Hoy": 3,
-                "Total": 11737,
-                "Diff": "164",
+                "Hoy": 4,
+                "Total": 11738,
+                "Diff": "163",
                 "Antece": "Kevin Willis",
                 "Nota": "",
                 "game_status": "playing"
@@ -340,9 +340,9 @@
                 "Rank": 4,
                 "Nombre": "LeBron James",
                 "Antes": 11596,
-                "Hoy": 5,
-                "Total": 11601,
-                "Diff": "399",
+                "Hoy": 6,
+                "Total": 11602,
+                "Diff": "398",
                 "Antece": "12000",
                 "Nota": "",
                 "game_status": "playing"
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763949763
+    "cache_buster": 1763949797
 }
