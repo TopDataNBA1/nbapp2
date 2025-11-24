@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "01:05:17",
+    "ultima_actualizacion": "01:05:50",
     "tablas": {
         "pts": [
             {
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Antes": 28113,
-                "Hoy": 10,
-                "Total": 28123,
-                "Diff": "166",
+                "Hoy": 12,
+                "Total": 28125,
+                "Diff": "164",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -575,9 +575,9 @@
                 "Rank": 250,
                 "Nombre": "Nic Claxton",
                 "Antes": 554,
-                "Hoy": 0,
-                "Total": 554,
-                "Diff": "5",
+                "Hoy": 1,
+                "Total": 555,
+                "Diff": "4",
                 "Antece": "Lonnie Shelton",
                 "Nota": "",
                 "game_status": "playing"
@@ -999,5 +999,5 @@
         "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786.",
         "Donovan Mitchell (16 points today) has passed Bill Laimbeer and is now ranked 209th all-time in career points with 13,791."
     ],
-    "cache_buster": 1763942717
+    "cache_buster": 1763942750
 }
