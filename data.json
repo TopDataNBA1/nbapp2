@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:26:13",
+    "ultima_actualizacion": "02:26:46",
     "tablas": {
         "pts": [
             {
@@ -302,14 +302,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 245,
+                "Rank": 244,
                 "Nombre": "Jusuf Nurkic",
                 "Antes": 5363,
-                "Hoy": 3,
-                "Total": 5366,
-                "Diff": "",
-                "Antece": "Jerry West",
-                "Nota": "Mismo total",
+                "Hoy": 4,
+                "Total": 5367,
+                "Diff": "37",
+                "Antece": "Joe Barry Carroll",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1362,7 +1362,8 @@
         "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793.",
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
-        "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
+        "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
+        "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763947573
+    "cache_buster": 1763947606
 }
