@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:54:19",
+    "ultima_actualizacion": "02:54:53",
     "tablas": {
         "pts": [
             {
@@ -417,9 +417,9 @@
                 "Rank": 164,
                 "Nombre": "Devin Booker",
                 "Antes": 3635,
-                "Hoy": 0,
-                "Total": 3635,
-                "Diff": "15",
+                "Hoy": 2,
+                "Total": 3637,
+                "Diff": "13",
                 "Antece": "Elgin Baylor",
                 "Nota": "",
                 "game_status": "playing"
@@ -1160,11 +1160,11 @@
                 "Rank": 211,
                 "Nombre": "Dillon Brooks",
                 "Antes": 918,
-                "Hoy": 0,
-                "Total": 918,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 919,
+                "Diff": "1",
                 "Antece": "Jose Calderon",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763949259
+    "cache_buster": 1763949293
 }
