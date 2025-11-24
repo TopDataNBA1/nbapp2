@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:27:00",
+    "ultima_actualizacion": "01:27:34",
     "tablas": {
         "pts": [
             {
@@ -195,9 +195,9 @@
                 "Rank": 211,
                 "Nombre": "Mason Plumlee",
                 "Antes": 5778,
-                "Hoy": 6,
-                "Total": 5784,
-                "Diff": "7",
+                "Hoy": 7,
+                "Total": 5785,
+                "Diff": "6",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
                 "game_status": "playing"
@@ -998,5 +998,5 @@
     "notificaciones": [
         "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793."
     ],
-    "cache_buster": 1763944020
+    "cache_buster": 1763944054
 }
