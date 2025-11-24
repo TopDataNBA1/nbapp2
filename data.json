@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:57:31",
+    "ultima_actualizacion": "03:58:04",
     "tablas": {
         "pts": [
             {
@@ -160,9 +160,9 @@
                 "Rank": 198,
                 "Nombre": "Harrison Barnes",
                 "Antes": 14003,
-                "Hoy": 7,
-                "Total": 14010,
-                "Diff": "8",
+                "Hoy": 9,
+                "Total": 14012,
+                "Diff": "6",
                 "Antece": "Fred Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -1368,5 +1368,5 @@
         "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979.",
         "Dillon Brooks (3 three-pointers today) has passed Dorian Finney-Smith, George McCloud and Jose Calderon and is now ranked 208th all-time in career three-pointers with 921."
     ],
-    "cache_buster": 1763953051
+    "cache_buster": 1763953084
 }
