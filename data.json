@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:51:06",
+    "ultima_actualizacion": "01:51:40",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Antes": 28113,
-                "Hoy": 18,
-                "Total": 28131,
-                "Diff": "158",
+                "Hoy": 19,
+                "Total": 28132,
+                "Diff": "157",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -1058,14 +1058,14 @@
                 "game_status": "not_started"
             },
             {
-                "Rank": 164,
+                "Rank": 163,
                 "Nombre": "Anfernee Simons",
                 "Antes": 1009,
-                "Hoy": 3,
-                "Total": 1012,
-                "Diff": "1",
-                "Antece": "Mikal Bridges",
-                "Nota": "A tiro de 1",
+                "Hoy": 4,
+                "Total": 1013,
+                "Diff": "2",
+                "Antece": "Marcus Smart",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1362,5 +1362,5 @@
         "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793.",
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987."
     ],
-    "cache_buster": 1763945466
+    "cache_buster": 1763945500
 }
