@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:30:40",
+    "ultima_actualizacion": "02:31:14",
     "tablas": {
         "pts": [
             {
@@ -187,15 +187,15 @@
                 "Diff": "6",
                 "Antece": "Bill Laimbeer",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 224,
                 "Nombre": "Luka Doncic",
                 "Antes": 13259,
-                "Hoy": 9,
-                "Total": 13268,
-                "Diff": "41",
+                "Hoy": 10,
+                "Total": 13269,
+                "Diff": "40",
                 "Antece": "Jermaine O'Neal",
                 "Nota": "",
                 "game_status": "playing"
@@ -477,7 +477,7 @@
                 "Diff": "1",
                 "Antece": "Blake Griffin",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "stl": [
@@ -912,7 +912,7 @@
                 "Diff": "",
                 "Antece": "Eddie Jones",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 58,
@@ -1011,7 +1011,7 @@
                 "Diff": "1",
                 "Antece": "Deron Williams",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 114,
@@ -1066,7 +1066,7 @@
                 "Diff": "3",
                 "Antece": "Marcus Smart",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 167,
@@ -1088,7 +1088,7 @@
                 "Diff": "1",
                 "Antece": "Leandro Barbosa",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 179,
@@ -1220,7 +1220,7 @@
                 "Diff": "3",
                 "Antece": "John Stockton",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 244,
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763947840
+    "cache_buster": 1763947874
 }
