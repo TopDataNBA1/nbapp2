@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:25:21",
+    "ultima_actualizacion": "03:25:55",
     "tablas": {
         "pts": [
             {
@@ -1226,9 +1226,9 @@
                 "Rank": 244,
                 "Nombre": "De'Aaron Fox",
                 "Antes": 832,
-                "Hoy": 1,
-                "Total": 833,
-                "Diff": "9",
+                "Hoy": 2,
+                "Total": 834,
+                "Diff": "8",
                 "Antece": "Desmond Bane",
                 "Nota": "",
                 "game_status": "playing"
@@ -1366,5 +1366,5 @@
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367.",
         "Luka Doncic (6 assists today) has passed Derek Fisher and is now ranked 146th all-time in career assists with 3,805."
     ],
-    "cache_buster": 1763951121
+    "cache_buster": 1763951155
 }
