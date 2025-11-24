@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:27:03",
+    "ultima_actualizacion": "03:27:36",
     "tablas": {
         "pts": [
             {
@@ -1157,14 +1157,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 211,
+                "Rank": 208,
                 "Nombre": "Dillon Brooks",
                 "Antes": 918,
-                "Hoy": 1,
-                "Total": 919,
-                "Diff": "1",
-                "Antece": "Jose Calderon",
-                "Nota": "A tiro de 1",
+                "Hoy": 2,
+                "Total": 920,
+                "Diff": "3",
+                "Antece": "Kelly Olynyk",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1367,5 +1367,5 @@
         "Luka Doncic (6 assists today) has passed Derek Fisher and is now ranked 146th all-time in career assists with 3,805.",
         "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979."
     ],
-    "cache_buster": 1763951223
+    "cache_buster": 1763951256
 }
