@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:27:53",
+    "ultima_actualizacion": "02:28:26",
     "tablas": {
         "pts": [
             {
@@ -277,7 +277,7 @@
                 "Diff": "5",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 219,
@@ -400,7 +400,7 @@
                 "Diff": "18",
                 "Antece": "Gail Goodrich",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 147,
@@ -657,7 +657,7 @@
                 "Diff": "3",
                 "Antece": "Chris Kaman",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 165,
@@ -723,7 +723,7 @@
                 "Diff": "2",
                 "Antece": "Nicolas Batum",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 201,
@@ -967,7 +967,7 @@
                 "Diff": "1",
                 "Antece": "Mookie Blaylock",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 93,
@@ -1132,7 +1132,7 @@
                 "Diff": "3",
                 "Antece": "Vladimir Radmanovic",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 204,
@@ -1143,7 +1143,7 @@
                 "Diff": "5",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 207,
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763947673
+    "cache_buster": 1763947706
 }
