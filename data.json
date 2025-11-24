@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:57:47",
+    "ultima_actualizacion": "01:58:21",
     "tablas": {
         "pts": [
             {
@@ -171,9 +171,9 @@
                 "Rank": 208,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13775,
-                "Hoy": 30,
-                "Total": 13805,
-                "Diff": "53",
+                "Hoy": 33,
+                "Total": 13808,
+                "Diff": "50",
                 "Antece": "Chuck Person",
                 "Nota": "",
                 "game_status": "playing"
@@ -885,9 +885,9 @@
                 "Rank": 39,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 1677,
-                "Hoy": 4,
-                "Total": 1681,
-                "Diff": "3",
+                "Hoy": 5,
+                "Total": 1682,
+                "Diff": "2",
                 "Antece": "Kevin Love",
                 "Nota": "",
                 "game_status": "playing"
@@ -1363,5 +1363,5 @@
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805."
     ],
-    "cache_buster": 1763945867
+    "cache_buster": 1763945901
 }
