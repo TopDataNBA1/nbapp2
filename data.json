@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:58:21",
+    "ultima_actualizacion": "01:58:54",
     "tablas": {
         "pts": [
             {
@@ -472,9 +472,9 @@
                 "Rank": 234,
                 "Nombre": "Tyus Jones",
                 "Antes": 3048,
-                "Hoy": 3,
-                "Total": 3051,
-                "Diff": "4",
+                "Hoy": 4,
+                "Total": 3052,
+                "Diff": "3",
                 "Antece": "Blake Griffin",
                 "Nota": "",
                 "game_status": "playing"
@@ -1363,5 +1363,5 @@
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805."
     ],
-    "cache_buster": 1763945901
+    "cache_buster": 1763945934
 }
