@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:24:09",
+    "ultima_actualizacion": "03:24:48",
     "tablas": {
         "pts": [
             {
@@ -44,7 +44,7 @@
                 "Diff": "402",
                 "Antece": "23000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 72,
@@ -99,7 +99,7 @@
                 "Diff": "74",
                 "Antece": "Nikola Jokic",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 119,
@@ -193,9 +193,9 @@
                 "Rank": 224,
                 "Nombre": "Luka Doncic",
                 "Antes": 13259,
-                "Hoy": 15,
-                "Total": 13274,
-                "Diff": "35",
+                "Hoy": 17,
+                "Total": 13276,
+                "Diff": "33",
                 "Antece": "Jermaine O'Neal",
                 "Nota": "",
                 "game_status": "playing"
@@ -305,9 +305,9 @@
                 "Rank": 244,
                 "Nombre": "Jusuf Nurkic",
                 "Antes": 5363,
-                "Hoy": 7,
-                "Total": 5370,
-                "Diff": "34",
+                "Hoy": 8,
+                "Total": 5371,
+                "Diff": "33",
                 "Antece": "Joe Barry Carroll",
                 "Nota": "",
                 "game_status": "playing"
@@ -340,9 +340,9 @@
                 "Rank": 4,
                 "Nombre": "LeBron James",
                 "Antes": 11596,
-                "Hoy": 6,
-                "Total": 11602,
-                "Diff": "398",
+                "Hoy": 7,
+                "Total": 11603,
+                "Diff": "397",
                 "Antece": "12000",
                 "Nota": "",
                 "game_status": "playing"
@@ -378,7 +378,7 @@
                 "Diff": "38",
                 "Antece": "Derek Harper",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 41,
@@ -389,7 +389,7 @@
                 "Diff": "45",
                 "Antece": "John Havlicek",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 81,
@@ -403,14 +403,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 147,
+                "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Antes": 3799,
-                "Hoy": 5,
-                "Total": 3804,
-                "Diff": "",
-                "Antece": "Derek Fisher",
-                "Nota": "Mismo total",
+                "Hoy": 6,
+                "Total": 3805,
+                "Diff": "17",
+                "Antece": "Wes Unseld",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -545,7 +545,7 @@
                 "Diff": "8",
                 "Antece": "Kyle Lowry",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 83,
@@ -679,7 +679,7 @@
                 "Diff": "1",
                 "Antece": "Larry Bird",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 175,
@@ -791,7 +791,7 @@
                 "Diff": "96",
                 "Antece": "2900",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 6,
@@ -901,7 +901,7 @@
                 "Diff": "3",
                 "Antece": "Jason Richardson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 51,
@@ -1121,7 +1121,7 @@
                 "Diff": "1",
                 "Antece": "Al Harrington",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 190,
@@ -1310,7 +1310,7 @@
                 "Diff": "2",
                 "Antece": "Shawn Kemp",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 144,
@@ -1363,7 +1363,8 @@
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
-        "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
+        "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367.",
+        "Luka Doncic (6 assists today) has passed Derek Fisher and is now ranked 146th all-time in career assists with 3,805."
     ],
-    "cache_buster": 1763951049
+    "cache_buster": 1763951088
 }
