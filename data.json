@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:32:05",
+    "ultima_actualizacion": "01:32:39",
     "tablas": {
         "pts": [
             {
@@ -69,6 +69,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 108,
+                "Nombre": "Devin Booker",
+                "Antes": 16885,
+                "Hoy": 0,
+                "Total": 16885,
+                "Diff": "75",
+                "Antece": "Bob Cousy",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 114,
                 "Nombre": "Jrue Holiday",
                 "Antes": 16622,
@@ -94,9 +105,9 @@
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 14879,
-                "Hoy": 12,
-                "Total": 14891,
-                "Diff": "13",
+                "Hoy": 15,
+                "Total": 14894,
+                "Diff": "10",
                 "Antece": "Richard Jefferson",
                 "Nota": "",
                 "game_status": "playing"
@@ -122,6 +133,17 @@
                 "Antece": "Eddie Jones",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 198,
+                "Nombre": "Harrison Barnes",
+                "Antes": 14003,
+                "Hoy": 0,
+                "Total": 14003,
+                "Diff": "15",
+                "Antece": "Fred Brown",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 209,
@@ -304,6 +326,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 164,
+                "Nombre": "Devin Booker",
+                "Antes": 3635,
+                "Hoy": 0,
+                "Total": 3635,
+                "Diff": "15",
+                "Antece": "Elgin Baylor",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 171,
                 "Nombre": "Nicolas Batum",
                 "Antes": 3559,
@@ -335,6 +368,17 @@
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 199,
+                "Nombre": "De'Aaron Fox",
+                "Antes": 3308,
+                "Hoy": 0,
+                "Total": 3308,
+                "Diff": "5",
+                "Antece": "Bimbo Coles",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 234,
@@ -471,6 +515,17 @@
                 "Antece": "Elmore Smith",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 84,
+                "Nombre": "Bismack Biyombo",
+                "Antes": 1101,
+                "Hoy": 0,
+                "Total": 1101,
+                "Diff": "1",
+                "Antece": "Antonio McDyess",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 119,
@@ -706,6 +761,28 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 58,
+                "Nombre": "Harrison Barnes",
+                "Antes": 1477,
+                "Hoy": 0,
+                "Total": 1477,
+                "Diff": "18",
+                "Antece": "Manu Ginobili",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 61,
+                "Nombre": "Devin Booker",
+                "Antes": 1454,
+                "Hoy": 0,
+                "Total": 1454,
+                "Diff": "2",
+                "Antece": "Danilo Gallinari",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 73,
                 "Nombre": "Terry Rozier",
                 "Antes": 1356,
@@ -742,9 +819,9 @@
                 "Rank": 108,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 1201,
-                "Hoy": 1,
-                "Total": 1202,
-                "Diff": "3",
+                "Hoy": 2,
+                "Total": 1203,
+                "Diff": "2",
                 "Antece": "Jeff Green",
                 "Nota": "",
                 "game_status": "playing"
@@ -838,6 +915,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 183,
+                "Nombre": "Royce O'Neale",
+                "Antes": 977,
+                "Hoy": 0,
+                "Total": 977,
+                "Diff": "",
+                "Antece": "Al Harrington",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 187,
                 "Nombre": "Jerami Grant",
                 "Antes": 973,
@@ -871,6 +959,28 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 207,
+                "Nombre": "Kelly Olynyk",
+                "Antes": 923,
+                "Hoy": 0,
+                "Total": 923,
+                "Diff": "",
+                "Antece": "Darrell Armstrong",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 211,
+                "Nombre": "Dillon Brooks",
+                "Antes": 918,
+                "Hoy": 0,
+                "Total": 918,
+                "Diff": "2",
+                "Antece": "Jose Calderon",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 215,
                 "Nombre": "Darius Garland",
                 "Antes": 907,
@@ -880,6 +990,17 @@
                 "Antece": "Rasual Butler",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 216,
+                "Nombre": "Grayson Allen",
+                "Antes": 906,
+                "Hoy": 0,
+                "Total": 906,
+                "Diff": "1",
+                "Antece": "Darius Garland",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 220,
@@ -902,6 +1023,17 @@
                 "Antece": "John Stockton",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 244,
+                "Nombre": "De'Aaron Fox",
+                "Antes": 832,
+                "Hoy": 0,
+                "Total": 832,
+                "Diff": "10",
+                "Antece": "Desmond Bane",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "g": [
@@ -972,6 +1104,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 145,
+                "Nombre": "Harrison Barnes",
+                "Antes": 1008,
+                "Hoy": 0,
+                "Total": 1008,
+                "Diff": "1",
+                "Antece": "Ron Harper",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 231,
                 "Nombre": "Eric Gordon",
                 "Antes": 928,
@@ -999,5 +1142,5 @@
         "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793.",
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987."
     ],
-    "cache_buster": 1763944325
+    "cache_buster": 1763944359
 }
