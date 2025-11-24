@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "02:49:13",
+    "ultima_actualizacion": "02:49:47",
     "tablas": {
         "pts": [
             {
                 "Rank": 1,
                 "Nombre": "LeBron James",
                 "Antes": 42195,
-                "Hoy": 2,
-                "Total": 42197,
-                "Diff": "803",
+                "Hoy": 4,
+                "Total": 42199,
+                "Diff": "801",
                 "Antece": "43000",
                 "Nota": "",
                 "game_status": "playing"
@@ -305,9 +305,9 @@
                 "Rank": 244,
                 "Nombre": "Jusuf Nurkic",
                 "Antes": 5363,
-                "Hoy": 5,
-                "Total": 5368,
-                "Diff": "36",
+                "Hoy": 6,
+                "Total": 5369,
+                "Diff": "35",
                 "Antece": "Joe Barry Carroll",
                 "Nota": "",
                 "game_status": "playing"
@@ -406,9 +406,9 @@
                 "Rank": 147,
                 "Nombre": "Luka Doncic",
                 "Antes": 3799,
-                "Hoy": 1,
-                "Total": 3800,
-                "Diff": "4",
+                "Hoy": 2,
+                "Total": 3801,
+                "Diff": "3",
                 "Antece": "Derek Fisher",
                 "Nota": "",
                 "game_status": "playing"
@@ -1102,14 +1102,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 183,
+                "Rank": 181,
                 "Nombre": "Royce O'Neale",
                 "Antes": 977,
-                "Hoy": 0,
-                "Total": 977,
-                "Diff": "",
-                "Antece": "Al Harrington",
-                "Nota": "Mismo total",
+                "Hoy": 1,
+                "Total": 978,
+                "Diff": "4",
+                "Antece": "Matt Barnes",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1119,7 +1119,7 @@
                 "Hoy": 3,
                 "Total": 976,
                 "Diff": "1",
-                "Antece": "Royce O'Neale",
+                "Antece": "Al Harrington",
                 "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763948953
+    "cache_buster": 1763948987
 }
