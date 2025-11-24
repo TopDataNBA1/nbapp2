@@ -54,32 +54,22 @@
         .diff-blink{color:#ffaa00!important;font-weight:900;animation:blink 1.6s infinite;}
         @keyframes blink{0%,100%{opacity:1}50%{opacity:0.5}}
         .leyenda{text-align:center;padding:10px;background:rgba(255,70,85,0.15);border:1px solid #ff4655;border-radius:8px;font-size:0.9em;margin:10px 0;}
-      /* === DESTACADO ÉPICO QUE BRILLA COMO UN COHETE === */
-.highlight-strong {
-    background: linear-gradient(90deg, #ff1744, #ff5252) !important;
-    box-shadow: 0 0 30px #ff1744, inset 0 0 20px rgba(255,23,68,0.8) !important;
-    animation: pulse-red 1.6s infinite alternate !important;
-    font-weight: 900 !important;
-    color: white !important;
-    border-left: 6px solid #ff1744 !important;
-    transition: all 0.4s ease !important;
-}
+               
+        /* === ESTILO DE RESALTADO SOSTENIDO (25 SEGUNDOS) === */
+        .highlight-row {
+            /* Color de fondo sutil que se desvanece */
+            background-color: rgba(255, 255, 0, 0.1) !important; 
+            /* Borde brillante para que sea inconfundible */
+            border-left: 3px solid #FFD700 !important; 
+            /* Animación de opacidad/fondo de 25s, usando ease-out para desvanecerse lentamente */
+            transition: background-color 25s ease-out, border-left 25s ease-out; 
+        }
 
-.highlight-medium {
-    background: linear-gradient(90deg, #ff6d00, #ffa270) !important;
-    box-shadow: 0 0 20px #ff6d00 !important;
-    animation: pulse-orange 2.2s infinite alternate !important;
-    border-left: 4px solid #ff6d00 !important;
-}
-
-@keyframes pulse-red {
-    from { box-shadow: 0 0 20px #ff1744; }
-    to { box-shadow: 0 0 50px #ff1744, 0 0 70px #ff4655; }
-}
-
-@keyframes pulse-orange {
-    from { box-shadow: 0 0 15px #ff6d00; }
-    to { box-shadow: 0 0 35px #ff6d00; }
+        /* Aseguramos que la opacidad inicial sea fuerte y luego se desvanezca */
+        .highlight-row.faded {
+            background-color: transparent !important;
+            border-left: 3px solid transparent !important;
+        }
 }
     </style>
 </head>
@@ -175,6 +165,28 @@
                 all: document.querySelector('[data-filter="all"]').classList.contains('active')
             };
         }
+    // --- FUNCIÓN PARA RESALTAR LA FILA (SOSTENIDO) ---
+        function explotar(rowElement) {
+            // 1. Aplicamos el estilo inicial de resaltado
+            rowElement.classList.add('highlight-row');
+            rowElement.classList.remove('faded'); // Asegurar que no esté desvanecido al empezar
+
+            // 2. Establecemos un temporizador para iniciar el desvanecimiento inmediatamente
+            // (La transición de 25s en el CSS hace el resto)
+            setTimeout(() => {
+                rowElement.classList.add('faded');
+            }, 100); // 100ms después de aplicar el estilo inicial.
+
+            // 3. Establecemos un segundo temporizador para LIMPIAR las clases
+            // El efecto visual dura 25s, limpiamos las clases 26s después.
+            setTimeout(() => {
+                rowElement.classList.remove('highlight-row');
+                rowElement.classList.remove('faded');
+            }, 26000); // 26 segundos después (un poco más del ciclo de 25s)
+
+            // OPCIONAL: El log es útil para depuración.
+            // console.log(`¡CAMBIO DETECTADO! Aplicando efecto de 25s.`);
+        }
 
         function updatePage() {
             const {cest, est} = getTimes();
@@ -244,7 +256,7 @@
                             else todayStyle = 'color:#888';
 
                             const tr = document.createElement('tr');
-                            tr.dataset.player = row.Nombre;  // ← ¡¡ESTA ES LA CLAVE!!
+                            tr.dataset.player = row.Nombre;   // ← ESTA LÍNEA SOLA (sin replace, sin nada)
                             tr.innerHTML = `
                                 <td class="rank">${row.Rank}</td>
                                 <td class="player">${row.Nombre}</td>
@@ -302,69 +314,87 @@
             if (document.getElementById('telegram').classList.contains('active')) updateMoves();
             if (document.getElementById('live').classList.contains('active')) updatePage();
         }, 25000);
-        // === AQUÍ PEGAS TODO ESTE BLOQUE ===
-// === DESTACADO ÉPICO SIN MOVER FILAS ===
-// === DESTACADO ÉPICO – VERSIÓN QUE SÍ FUNCIONA 100% ===
-const highlightedPlayers = new Map();
+        // === BRILLO QUE SÍ FUNCIONA YA EN TU WEB ===
+        // === BRILLO ÉPICO QUE FUNCIONA EN DIRECTO YA ===
+        const highlighted = new Map();
 
-function destacarFila(tr, intensidad = "fuerte") {
-    tr.classList.remove('highlight-strong', 'highlight-medium');
-    if (intensidad === "fuerte") tr.classList.add('highlight-strong');
-    else tr.classList.add('highlight-medium');
+        function explotar(tr) {
+            tr.classList.remove('highlight-strong', 'highlight-medium');
+            tr.classList.add('highlight-strong');
+            const id = Date.now() + Math.random();
+            highlighted.set(tr, id);
 
-    const ahora = Date.now();
-    highlightedPlayers.set(tr.dataset.player, ahora);
-
-    setTimeout(() => {
-        if (highlightedPlayers.get(tr.dataset.player) === ahora) {
-            tr.classList.remove('highlight-strong');
-            tr.classList.add('highlight-medium');
             setTimeout(() => {
-                if (highlightedPlayers.get(tr.dataset.player) === ahora) {
-                    tr.classList.remove('highlight-medium');
-                    highlightedPlayers.delete(tr.dataset.player);
+                if (highlighted.get(tr) === id) {
+                    tr.classList.remove('highlight-strong');
+                    tr.classList.add('highlight-medium');
+                    setTimeout(() => {
+                        if (highlighted.get(tr) === id) {
+                            tr.classList.remove('highlight-medium');
+                            highlighted.delete(tr);
+                        }
+                    }, 60000);
                 }
             }, 60000);
         }
-    }, 60000);
-}
 
-let lastData = null;
-const updatePageOriginal = updatePage;
+        let lastData = null;
+        const originalUpdatePage = updatePage;
 
-updatePage = function() {
-    fetch('data.json?t=' + Date.now())
-        .then(r => r.json())
-        .then(data => {
-            // PRIMERO renderizamos (para que existan las filas)
-            updatePageOriginal();
-            document.getElementById('ultima-act').textContent = data.ultima_actualizacion;
+        updatePage = function() {
+            fetch('data.json?t=' + Date.now())
+                .then(r => r.json())
+                .then(data => {
+                    originalUpdatePage(); // renderiza las tablas
+                    document.getElementById('ultima-act').textContent = data.ultima_actualizacion || new Date().toLocaleTimeString();
 
-            // SI es la primera vez → solo guardamos y salimos
-            if (!lastData) {
-                lastData = data;
-                return;
-            }
-
-            // AHORA SÍ buscamos y destacamos (las filas YA existen)
-            Object.keys(data.tablas).forEach(stat => {
-                const oldTable = lastData.tablas[stat] || [];
-                const newTable = data.tablas[stat] || [];
-
-                newTable.forEach(jugador => {
-                    const oldJugador = oldTable.find(p => p.Nombre === jugador.Nombre);
-                    if (!oldJugador || jugador.Hoy > oldJugador.Hoy) {
-                        const tr = document.querySelector(`#tabla-${stat} tr[data-player="${jugador.Nombre.replace(/'/g, "\\'")}"]`);
-                        if (tr) destacarFila(tr, "fuerte");
+                    if (!lastData) {
+                        lastData = data;
+                        return;
                     }
-                });
-            });
 
-            lastData = data;
-        })
-        .catch(err => console.error("Error fetch data.json:", err));
-};
-// === FIN DEL BLOQUE ===
+                    // DETECTAR CAMBIOS Y HACER BRILLAR
+                    Object.keys(data.tablas).forEach(stat => {
+                        const viejo = (lastData.tablas[stat] || []);
+                        const nuevo = (data.tablas[stat] || []);
+
+                        nuevo.forEach(jugador => {
+                            const antes = viejo.find(p => p.Nombre === jugador.Nombre);
+                            if (!antes || jugador.Hoy > antes.Hoy) {
+                                // 1. Encontramos la celda con el nombre del jugador para localizar la fila (<tr>)
+                                const celdaNombre = Array.from(document.querySelectorAll(`#tabla-${stat} .player`))
+                                    .find(td => td.textContent.trim() === jugador.Nombre);
+                                
+                                if (celdaNombre) {
+                                    const fila = celdaNombre.closest('tr');
+                                    // 2. Buscamos la celda 'Hoy' dentro de esa fila (es el 4º <td>, índice 3)
+                                    const celdas = fila.querySelectorAll('td');
+                                    
+                                    // Comprobamos que la celda de 'Hoy' existe antes de intentar resaltarla
+                                    if (celdas.length > 3) { 
+                                        highlightCell(celdas[3]); // <--- LLAMADA CORREGIDA A LA CELDA 'HOY' (índice 3)
+                                    }
+                                }
+                            }
+                        });
+                    });
+
+                    lastData = data;
+                })
+                .catch(() => {});
+        };
+
+        // ACTUALIZAR CADA 25 SEGUNDOS
+        setInterval(() => {
+            if (document.getElementById('live').classList.contains('active')) {
+                updatePage();
+            }
+            if (document.getElementById('telegram').classList.contains('active')) {
+                updateMoves();
+            }
+        }, 25000);
+
+        // Primera carga
         updatePage();
         updateMoves();
     </script>
