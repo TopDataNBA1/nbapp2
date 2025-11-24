@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:31:14",
+    "ultima_actualizacion": "02:31:47",
     "tablas": {
         "pts": [
             {
@@ -228,9 +228,9 @@
                 "Rank": 49,
                 "Nombre": "Kevin Love",
                 "Antes": 9532,
-                "Hoy": 0,
-                "Total": 9532,
-                "Diff": "86",
+                "Hoy": 1,
+                "Total": 9533,
+                "Diff": "85",
                 "Antece": "Dave DeBusschere",
                 "Nota": "",
                 "game_status": "playing"
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763947874
+    "cache_buster": 1763947907
 }
