@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:26:19",
+    "ultima_actualizacion": "04:26:52",
     "tablas": {
         "pts": [
             {
@@ -88,7 +88,7 @@
                 "Diff": "51",
                 "Antece": "Bob Cousy",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 114,
@@ -165,7 +165,7 @@
                 "Diff": "4",
                 "Antece": "Fred Brown",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 208,
@@ -422,7 +422,7 @@
                 "Diff": "8",
                 "Antece": "Elgin Baylor",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 171,
@@ -466,7 +466,7 @@
                 "Diff": "2",
                 "Antece": "Bimbo Coles",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 234,
@@ -646,7 +646,7 @@
                 "Diff": "1",
                 "Antece": "Antonio McDyess",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 119,
@@ -923,7 +923,7 @@
                 "Diff": "18",
                 "Antece": "Manu Ginobili",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 61,
@@ -934,7 +934,7 @@
                 "Diff": "",
                 "Antece": "Danilo Gallinari",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 66,
@@ -1110,7 +1110,7 @@
                 "Diff": "2",
                 "Antece": "Matt Barnes",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 184,
@@ -1154,7 +1154,7 @@
                 "Diff": "",
                 "Antece": "Darrell Armstrong",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 208,
@@ -1165,7 +1165,7 @@
                 "Diff": "1",
                 "Antece": "Kelly Olynyk",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 215,
@@ -1187,7 +1187,7 @@
                 "Diff": "1",
                 "Antece": "Darius Garland",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 220,
@@ -1231,7 +1231,7 @@
                 "Diff": "8",
                 "Antece": "Desmond Bane",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "g": [
@@ -1321,7 +1321,7 @@
                 "Diff": "2",
                 "Antece": "Jermaine O'Neal",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 198,
@@ -1369,5 +1369,5 @@
         "Dillon Brooks (3 three-pointers today) has passed Dorian Finney-Smith, George McCloud and Jose Calderon and is now ranked 208th all-time in career three-pointers with 921.",
         "Devin Booker (3 three-pointers today) has passed Danilo Gallinari and is now ranked 59th all-time in career three-pointers with 1,457."
     ],
-    "cache_buster": 1763954779
+    "cache_buster": 1763954812
 }
