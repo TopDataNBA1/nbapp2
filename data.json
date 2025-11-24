@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:04:44",
+    "ultima_actualizacion": "01:05:17",
     "tablas": {
         "pts": [
             {
@@ -124,14 +124,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 210,
+                "Rank": 209,
                 "Nombre": "Donovan Mitchell",
                 "Antes": 13775,
-                "Hoy": 14,
-                "Total": 13789,
-                "Diff": "1",
-                "Antece": "Bill Laimbeer",
-                "Nota": "A tiro de 1",
+                "Hoy": 16,
+                "Total": 13791,
+                "Diff": "13",
+                "Antece": "Deron Williams",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -140,8 +140,8 @@
                 "Antes": 13784,
                 "Hoy": 0,
                 "Total": 13784,
-                "Diff": "5",
-                "Antece": "Donovan Mitchell",
+                "Diff": "6",
+                "Antece": "Bill Laimbeer",
                 "Nota": "",
                 "game_status": "playing"
             }
@@ -996,7 +996,8 @@
         ]
     },
     "notificaciones": [
-        "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786."
+        "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786.",
+        "Donovan Mitchell (16 points today) has passed Bill Laimbeer and is now ranked 209th all-time in career points with 13,791."
     ],
-    "cache_buster": 1763942684
+    "cache_buster": 1763942717
 }
