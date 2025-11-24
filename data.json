@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:13:57",
+    "ultima_actualizacion": "02:14:31",
     "tablas": {
         "pts": [
             {
@@ -160,9 +160,9 @@
                 "Rank": 198,
                 "Nombre": "Harrison Barnes",
                 "Antes": 14003,
-                "Hoy": 0,
-                "Total": 14003,
-                "Diff": "15",
+                "Hoy": 2,
+                "Total": 14005,
+                "Diff": "13",
                 "Antece": "Fred Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -1364,5 +1364,5 @@
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976."
     ],
-    "cache_buster": 1763946837
+    "cache_buster": 1763946871
 }
