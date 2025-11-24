@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "04:11:35",
+    "ultima_actualizacion": "04:12:09",
     "tablas": {
         "pts": [
             {
                 "Rank": 1,
                 "Nombre": "LeBron James",
                 "Antes": 42195,
-                "Hoy": 15,
-                "Total": 42210,
-                "Diff": "790",
+                "Hoy": 17,
+                "Total": 42212,
+                "Diff": "788",
                 "Antece": "43000",
                 "Nota": "",
                 "game_status": "playing"
@@ -83,9 +83,9 @@
                 "Rank": 108,
                 "Nombre": "Devin Booker",
                 "Antes": 16885,
-                "Hoy": 21,
-                "Total": 16906,
-                "Diff": "54",
+                "Hoy": 24,
+                "Total": 16909,
+                "Diff": "51",
                 "Antece": "Bob Cousy",
                 "Nota": "",
                 "game_status": "playing"
@@ -926,14 +926,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 61,
+                "Rank": 59,
                 "Nombre": "Devin Booker",
                 "Antes": 1454,
-                "Hoy": 2,
-                "Total": 1456,
-                "Diff": "",
-                "Antece": "Danilo Gallinari",
-                "Nota": "Mismo total",
+                "Hoy": 3,
+                "Total": 1457,
+                "Diff": "20",
+                "Antece": "Harrison Barnes",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -1366,7 +1366,8 @@
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367.",
         "Luka Doncic (6 assists today) has passed Derek Fisher and is now ranked 146th all-time in career assists with 3,805.",
         "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979.",
-        "Dillon Brooks (3 three-pointers today) has passed Dorian Finney-Smith, George McCloud and Jose Calderon and is now ranked 208th all-time in career three-pointers with 921."
+        "Dillon Brooks (3 three-pointers today) has passed Dorian Finney-Smith, George McCloud and Jose Calderon and is now ranked 208th all-time in career three-pointers with 921.",
+        "Devin Booker (3 three-pointers today) has passed Danilo Gallinari and is now ranked 59th all-time in career three-pointers with 1,457."
     ],
-    "cache_buster": 1763953895
+    "cache_buster": 1763953929
 }
