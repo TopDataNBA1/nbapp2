@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:04:29",
+    "ultima_actualizacion": "02:05:02",
     "tablas": {
         "pts": [
             {
@@ -551,11 +551,11 @@
                 "Rank": 83,
                 "Nombre": "Kawhi Leonard",
                 "Antes": 1270,
-                "Hoy": 2,
-                "Total": 1272,
-                "Diff": "1",
+                "Hoy": 3,
+                "Total": 1273,
+                "Diff": "",
                 "Antece": "John Lucas",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1363,5 +1363,5 @@
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987.",
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805."
     ],
-    "cache_buster": 1763946269
+    "cache_buster": 1763946302
 }
