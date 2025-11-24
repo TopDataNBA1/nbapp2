@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:11:53",
+    "ultima_actualizacion": "01:12:26",
     "tablas": {
         "pts": [
             {
@@ -816,14 +816,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 178,
+                "Rank": 177,
                 "Nombre": "Derrick White",
                 "Antes": 985,
-                "Hoy": 0,
-                "Total": 985,
-                "Diff": "1",
-                "Antece": "Doug McDermott",
-                "Nota": "A tiro de 1",
+                "Hoy": 1,
+                "Total": 986,
+                "Diff": "2",
+                "Antece": "Leandro Barbosa",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -832,20 +832,20 @@
                 "Antes": 984,
                 "Hoy": 0,
                 "Total": 984,
-                "Diff": "1",
-                "Antece": "Derrick White",
-                "Nota": "A tiro de 1",
+                "Diff": "2",
+                "Antece": "Doug McDermott",
+                "Nota": "",
                 "game_status": "finished"
             },
             {
                 "Rank": 187,
                 "Nombre": "Jerami Grant",
                 "Antes": 973,
-                "Hoy": 0,
-                "Total": 973,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 974,
+                "Diff": "1",
                 "Antece": "Alec Burks",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -999,5 +999,5 @@
         "Donovan Mitchell (11 points today) has passed Jayson Tatum and is now ranked 210th all-time in career points with 13,786.",
         "Donovan Mitchell (16 points today) has passed Bill Laimbeer and is now ranked 209th all-time in career points with 13,791."
     ],
-    "cache_buster": 1763943113
+    "cache_buster": 1763943146
 }
