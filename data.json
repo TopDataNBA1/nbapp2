@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:03:50",
+    "ultima_actualizacion": "03:04:24",
     "tablas": {
         "pts": [
             {
@@ -406,11 +406,11 @@
                 "Rank": 147,
                 "Nombre": "Luka Doncic",
                 "Antes": 3799,
-                "Hoy": 4,
-                "Total": 3803,
-                "Diff": "1",
+                "Hoy": 5,
+                "Total": 3804,
+                "Diff": "",
                 "Antece": "Derek Fisher",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -1365,5 +1365,5 @@
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367."
     ],
-    "cache_buster": 1763949830
+    "cache_buster": 1763949864
 }
