@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:43:50",
+    "ultima_actualizacion": "01:44:24",
     "tablas": {
         "pts": [
             {
@@ -852,9 +852,9 @@
                 "Rank": 32,
                 "Nombre": "Nicolas Batum",
                 "Antes": 1771,
-                "Hoy": 1,
-                "Total": 1772,
-                "Diff": "15",
+                "Hoy": 2,
+                "Total": 1773,
+                "Diff": "14",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
                 "game_status": "playing"
@@ -1362,5 +1362,5 @@
         "Donovan Mitchell (18 points today) has passed Bill Laimbeer and Jayson Tatum and is now ranked 209th all-time in career points with 13,793.",
         "Derrick White (2 three-pointers today) has passed Doug McDermott and is now ranked 177th all-time in career three-pointers with 987."
     ],
-    "cache_buster": 1763945030
+    "cache_buster": 1763945064
 }
