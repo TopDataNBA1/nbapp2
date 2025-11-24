@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:26:29",
+    "ultima_actualizacion": "03:27:03",
     "tablas": {
         "pts": [
             {
@@ -1105,9 +1105,9 @@
                 "Rank": 181,
                 "Nombre": "Royce O'Neale",
                 "Antes": 977,
-                "Hoy": 1,
-                "Total": 978,
-                "Diff": "4",
+                "Hoy": 2,
+                "Total": 979,
+                "Diff": "3",
                 "Antece": "Matt Barnes",
                 "Nota": "",
                 "game_status": "playing"
@@ -1364,7 +1364,8 @@
         "Donovan Mitchell (30 points today) has passed Deron Williams and is now ranked 208th all-time in career points with 13,805.",
         "Jerami Grant (3 three-pointers today) has passed Alec Burks and is now ranked 184th all-time in career three-pointers with 976.",
         "Jusuf Nurkic (4 rebounds today) has passed Jerry West and is now ranked 244th all-time in career rebounds with 5,367.",
-        "Luka Doncic (6 assists today) has passed Derek Fisher and is now ranked 146th all-time in career assists with 3,805."
+        "Luka Doncic (6 assists today) has passed Derek Fisher and is now ranked 146th all-time in career assists with 3,805.",
+        "Royce O'Neale (2 three-pointers today) has passed Scottie Pippen and is now ranked 181st all-time in career three-pointers with 979."
     ],
-    "cache_buster": 1763951189
+    "cache_buster": 1763951223
 }
