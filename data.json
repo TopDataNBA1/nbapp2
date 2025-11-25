@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:27:47",
+  "ultima_actualizacion": "02:28:20",
   "tablas": {
     "pts": [
       {
@@ -105,9 +105,9 @@
         "Rank": 156,
         "Nombre": "Karl-Anthony Towns",
         "Antes": 15205,
-        "Hoy": 11,
-        "Total": 15216,
-        "Diff": "75",
+        "Hoy": 12,
+        "Total": 15217,
+        "Diff": "74",
         "Antece": "John Drew",
         "Nota": "",
         "game_status": "playing"
@@ -195,9 +195,9 @@
         "Rank": 73,
         "Nombre": "Nikola Jokic",
         "Antes": 8349,
-        "Hoy": 3,
-        "Total": 8352,
-        "Diff": "57",
+        "Hoy": 4,
+        "Total": 8353,
+        "Diff": "56",
         "Antece": "P.J. Brown",
         "Nota": "",
         "game_status": "playing"
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764034067
+  "cache_buster": 1764034100
 }
