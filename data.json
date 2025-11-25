@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:21:30",
+  "ultima_actualizacion": "03:22:03",
   "tablas": {
     "pts": [
       {
@@ -329,9 +329,9 @@
         "Rank": 54,
         "Nombre": "Nikola Jokic",
         "Antes": 5555,
-        "Hoy": 7,
-        "Total": 5562,
-        "Diff": "62",
+        "Hoy": 8,
+        "Total": 5563,
+        "Diff": "61",
         "Antece": "Allen Iverson",
         "Nota": "",
         "game_status": "playing"
@@ -1238,5 +1238,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764037290
+  "cache_buster": 1764037323
 }
