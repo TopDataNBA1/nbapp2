@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:27:13",
+  "ultima_actualizacion": "02:27:47",
   "tablas": {
     "pts": [
       {
@@ -72,9 +72,9 @@
         "Rank": 113,
         "Nombre": "Nikola Jokic",
         "Antes": 16696,
-        "Hoy": 5,
-        "Total": 16701,
-        "Diff": "11",
+        "Hoy": 6,
+        "Total": 16702,
+        "Diff": "10",
         "Antece": "Latrell Sprewell",
         "Nota": "",
         "game_status": "playing"
@@ -85,7 +85,7 @@
         "Antes": 16622,
         "Hoy": 0,
         "Total": 16622,
-        "Diff": "79",
+        "Diff": "80",
         "Antece": "Nikola Jokic",
         "Nota": "",
         "game_status": "playing"
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764034033
+  "cache_buster": 1764034067
 }
