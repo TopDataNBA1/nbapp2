@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "01:42:11",
+  "ultima_actualizacion": "01:42:45",
   "tablas": {
     "pts": [
       {
@@ -110,7 +110,7 @@
         "Diff": "86",
         "Antece": "John Drew",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 183,
@@ -211,7 +211,7 @@
         "Diff": "5",
         "Antece": "Kurt Thomas",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 192,
@@ -304,14 +304,14 @@
         "game_status": "playing"
       },
       {
-        "Rank": 169,
+        "Rank": 170,
         "Nombre": "T.J. McConnell",
         "Antes": 3563,
-        "Hoy": 1,
-        "Total": 3564,
-        "Diff": "27",
-        "Antece": "Paul Westphal",
-        "Nota": "",
+        "Hoy": 0,
+        "Total": 3563,
+        "Diff": "",
+        "Antece": "Pete Maravich",
+        "Nota": "Mismo total",
         "game_status": "playing"
       },
       {
@@ -481,7 +481,7 @@
         "Diff": "6",
         "Antece": "Charles Smith",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 165,
@@ -525,7 +525,7 @@
         "Diff": "",
         "Antece": "DeSagana Diop",
         "Nota": "Mismo total",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 229,
@@ -547,7 +547,7 @@
         "Diff": "3",
         "Antece": "Lonnie Shelton",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       }
     ],
     "fg3": [
@@ -648,7 +648,7 @@
         "Diff": "29",
         "Antece": "Malik Beasley",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 73,
@@ -714,7 +714,7 @@
         "Diff": "1",
         "Antece": "Anthony Edwards",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 133,
@@ -780,7 +780,7 @@
         "Diff": "2",
         "Antece": "Marcus Smart",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 169,
@@ -868,7 +868,7 @@
         "Diff": "6",
         "Antece": "900",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 220,
@@ -879,7 +879,7 @@
         "Diff": "5",
         "Antece": "Will Barton",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 236,
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764031331
+  "cache_buster": 1764031365
 }
