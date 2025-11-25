@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:17:06",
+  "ultima_actualizacion": "02:17:40",
   "tablas": {
     "pts": [
       {
@@ -72,9 +72,9 @@
         "Rank": 113,
         "Nombre": "Nikola Jokic",
         "Antes": 16696,
-        "Hoy": 2,
-        "Total": 16698,
-        "Diff": "14",
+        "Hoy": 3,
+        "Total": 16699,
+        "Diff": "13",
         "Antece": "Latrell Sprewell",
         "Nota": "",
         "game_status": "playing"
@@ -85,7 +85,7 @@
         "Antes": 16622,
         "Hoy": 0,
         "Total": 16622,
-        "Diff": "76",
+        "Diff": "77",
         "Antece": "Nikola Jokic",
         "Nota": "",
         "game_status": "playing"
@@ -195,9 +195,9 @@
         "Rank": 73,
         "Nombre": "Nikola Jokic",
         "Antes": 8349,
-        "Hoy": 1,
-        "Total": 8350,
-        "Diff": "59",
+        "Hoy": 2,
+        "Total": 8351,
+        "Diff": "58",
         "Antece": "P.J. Brown",
         "Nota": "",
         "game_status": "playing"
@@ -819,11 +819,11 @@
         "Rank": 187,
         "Nombre": "Jerami Grant",
         "Antes": 973,
-        "Hoy": 1,
-        "Total": 974,
-        "Diff": "1",
+        "Hoy": 2,
+        "Total": 975,
+        "Diff": "",
         "Antece": "Alec Burks",
-        "Nota": "A tiro de 1",
+        "Nota": "Mismo total",
         "game_status": "playing"
       },
       {
@@ -896,11 +896,11 @@
         "Rank": 241,
         "Nombre": "Nikola Jokic",
         "Antes": 847,
-        "Hoy": 0,
-        "Total": 847,
-        "Diff": "2",
+        "Hoy": 1,
+        "Total": 848,
+        "Diff": "1",
         "Antece": "Sam Perkins",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       }
     ],
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764033426
+  "cache_buster": 1764033460
 }
