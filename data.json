@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:11:57",
+  "ultima_actualizacion": "03:12:31",
   "tablas": {
     "pts": [
       {
@@ -160,9 +160,9 @@
         "Rank": 208,
         "Nombre": "Donovan Mitchell",
         "Antes": 13812,
-        "Hoy": 11,
-        "Total": 13823,
-        "Diff": "35",
+        "Hoy": 14,
+        "Total": 13826,
+        "Diff": "32",
         "Antece": "Chuck Person",
         "Nota": "",
         "game_status": "playing"
@@ -764,9 +764,9 @@
         "Rank": 39,
         "Nombre": "Donovan Mitchell",
         "Antes": 1677,
-        "Hoy": 1,
-        "Total": 1678,
-        "Diff": "6",
+        "Hoy": 2,
+        "Total": 1679,
+        "Diff": "5",
         "Antece": "Kevin Love",
         "Nota": "",
         "game_status": "playing"
@@ -1244,5 +1244,5 @@
     "Jamal Murray passes Rudy Gay in all-time three-pointers (1,187 - 3 today)",
     "Jerami Grant passes Alec Burks in all-time three-pointers (976 - 3 today)"
   ],
-  "cache_buster": 1764036717
+  "cache_buster": 1764036751
 }
