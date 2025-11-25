@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:23:17",
+  "ultima_actualizacion": "02:23:51",
   "tablas": {
     "pts": [
       {
@@ -687,11 +687,11 @@
         "Rank": 111,
         "Nombre": "Jamal Murray",
         "Antes": 1184,
-        "Hoy": 0,
-        "Total": 1184,
-        "Diff": "2",
+        "Hoy": 1,
+        "Total": 1185,
+        "Diff": "1",
         "Antece": "Rudy Gay",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       },
       {
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764033797
+  "cache_buster": 1764033831
 }
