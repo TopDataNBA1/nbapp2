@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:21:36",
+  "ultima_actualizacion": "02:22:10",
   "tablas": {
     "pts": [
       {
@@ -632,9 +632,9 @@
         "Rank": 49,
         "Nombre": "Kentavious Caldwell-Pope",
         "Antes": 1549,
-        "Hoy": 0,
-        "Total": 1549,
-        "Diff": "10",
+        "Hoy": 1,
+        "Total": 1550,
+        "Diff": "9",
         "Antece": "Glen Rice",
         "Nota": "",
         "game_status": "playing"
@@ -961,18 +961,18 @@
         "game_status": "playing"
       },
       {
-        "Rank": 228,
+        "Rank": 226,
         "Nombre": "Kentavious Caldwell-Pope",
         "Antes": 929,
-        "Hoy": 0,
-        "Total": 929,
-        "Diff": "",
-        "Antece": "Armen Gilliam",
-        "Nota": "Mismo total",
+        "Hoy": 1,
+        "Total": 930,
+        "Diff": "2",
+        "Antece": "Jerry West",
+        "Nota": "",
         "game_status": "playing"
       }
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764033696
+  "cache_buster": 1764033730
 }
