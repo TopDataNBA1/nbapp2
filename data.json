@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:13:59",
+  "ultima_actualizacion": "03:14:32",
   "tablas": {
     "pts": [
       {
@@ -973,11 +973,11 @@
         "Rank": 163,
         "Nombre": "Mikal Bridges",
         "Antes": 1013,
-        "Hoy": 1,
-        "Total": 1014,
-        "Diff": "1",
+        "Hoy": 2,
+        "Total": 1015,
+        "Diff": "",
         "Antece": "Marcus Smart",
-        "Nota": "A tiro de 1",
+        "Nota": "Mismo total",
         "game_status": "playing"
       },
       {
@@ -1238,5 +1238,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764036839
+  "cache_buster": 1764036872
 }
