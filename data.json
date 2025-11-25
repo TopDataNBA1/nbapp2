@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:22:03",
+  "ultima_actualizacion": "03:22:36",
   "tablas": {
     "pts": [
       {
@@ -597,8 +597,8 @@
         "Rank": 157,
         "Nombre": "Jaren Jackson Jr.",
         "Antes": 796,
-        "Hoy": 0,
-        "Total": 796,
+        "Hoy": 1,
+        "Total": 797,
         "Diff": "",
         "Antece": "",
         "Nota": "",
@@ -1238,5 +1238,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764037323
+  "cache_buster": 1764037356
 }
