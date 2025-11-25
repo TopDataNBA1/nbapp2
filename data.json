@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:26:29",
+  "ultima_actualizacion": "03:27:02",
   "tablas": {
     "pts": [
       {
@@ -228,8 +228,8 @@
         "Rank": 73,
         "Nombre": "Nikola Jokic",
         "Antes": 8349,
-        "Hoy": 5,
-        "Total": 8354,
+        "Hoy": 6,
+        "Total": 8355,
         "Diff": "",
         "Antece": "",
         "Nota": "",
@@ -1238,5 +1238,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764037589
+  "cache_buster": 1764037622
 }
