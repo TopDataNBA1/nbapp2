@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:22:44",
+  "ultima_actualizacion": "02:23:17",
   "tablas": {
     "pts": [
       {
@@ -206,11 +206,11 @@
         "Rank": 103,
         "Nombre": "Karl-Anthony Towns",
         "Antes": 7323,
-        "Hoy": 3,
-        "Total": 7326,
-        "Diff": "2",
+        "Hoy": 4,
+        "Total": 7327,
+        "Diff": "1",
         "Antece": "Kurt Thomas",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       },
       {
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764033764
+  "cache_buster": 1764033797
 }
