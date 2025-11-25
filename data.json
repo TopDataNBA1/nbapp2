@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "01:36:31",
+  "ultima_actualizacion": "01:37:05",
   "tablas": {
     "pts": [
       {
@@ -127,9 +127,9 @@
         "Rank": 208,
         "Nombre": "Donovan Mitchell",
         "Antes": 13812,
-        "Hoy": 3,
-        "Total": 13815,
-        "Diff": "43",
+        "Hoy": 5,
+        "Total": 13817,
+        "Diff": "41",
         "Antece": "Chuck Person",
         "Nota": "",
         "game_status": "playing"
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764030991
+  "cache_buster": 1764031025
 }
