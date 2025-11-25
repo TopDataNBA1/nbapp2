@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "01:32:30",
+  "ultima_actualizacion": "01:33:05",
   "tablas": {
     "pts": [
       {
@@ -150,14 +150,14 @@
         "game_status": "not_started"
       },
       {
-        "Rank": 170,
+        "Rank": 169,
         "Nombre": "T.J. McConnell",
         "Antes": 3563,
-        "Hoy": 0,
-        "Total": 3563,
-        "Diff": "",
-        "Antece": "Pete Maravich",
-        "Nota": "Mismo total",
+        "Hoy": 1,
+        "Total": 3564,
+        "Diff": "27",
+        "Antece": "Paul Westphal",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -479,5 +479,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764030750
+  "cache_buster": 1764030785
 }
