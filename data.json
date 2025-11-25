@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:25:55",
+  "ultima_actualizacion": "03:26:29",
   "tablas": {
     "pts": [
       {
@@ -165,7 +165,7 @@
         "Diff": "",
         "Antece": "",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       }
     ],
     "trb": [
@@ -299,7 +299,7 @@
         "Diff": "",
         "Antece": "",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       }
     ],
     "ast": [
@@ -329,9 +329,9 @@
         "Rank": 54,
         "Nombre": "Nikola Jokic",
         "Antes": 5555,
-        "Hoy": 8,
-        "Total": 5563,
-        "Diff": "61",
+        "Hoy": 9,
+        "Total": 5564,
+        "Diff": "60",
         "Antece": "Allen Iverson",
         "Nota": "",
         "game_status": "playing"
@@ -624,7 +624,7 @@
         "Diff": "",
         "Antece": "",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 168,
@@ -646,7 +646,7 @@
         "Diff": "",
         "Antece": "",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 186,
@@ -769,7 +769,7 @@
         "Diff": "",
         "Antece": "",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 42,
@@ -1088,7 +1088,7 @@
         "Diff": "",
         "Antece": "",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 216,
@@ -1238,5 +1238,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764037555
+  "cache_buster": 1764037589
 }
