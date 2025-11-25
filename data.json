@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:15:59",
+  "ultima_actualizacion": "02:16:32",
   "tablas": {
     "pts": [
       {
@@ -105,9 +105,9 @@
         "Rank": 156,
         "Nombre": "Karl-Anthony Towns",
         "Antes": 15205,
-        "Hoy": 4,
-        "Total": 15209,
-        "Diff": "82",
+        "Hoy": 6,
+        "Total": 15211,
+        "Diff": "80",
         "Antece": "John Drew",
         "Nota": "",
         "game_status": "playing"
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764033359
+  "cache_buster": 1764033392
 }
