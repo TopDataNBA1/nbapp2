@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "01:41:03",
+  "ultima_actualizacion": "01:41:37",
   "tablas": {
     "pts": [
       {
@@ -33,7 +33,7 @@
         "Diff": "99",
         "Antece": "Gail Goodrich",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 76,
@@ -44,7 +44,7 @@
         "Diff": "5",
         "Antece": "Dolph Schayes",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 106,
@@ -66,7 +66,7 @@
         "Diff": "4",
         "Antece": "Latrell Sprewell",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 113,
@@ -121,7 +121,7 @@
         "Diff": "5",
         "Antece": "Jeff Green",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 208,
@@ -189,7 +189,7 @@
         "Diff": "138",
         "Antece": "Dale Davis",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 73,
@@ -290,7 +290,7 @@
         "Diff": "13",
         "Antece": "Giannis Antetokounmp",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 158,
@@ -301,7 +301,7 @@
         "Diff": "18",
         "Antece": "Boris Diaw",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 169,
@@ -358,7 +358,7 @@
         "Diff": "2",
         "Antece": "Nicolas Batum",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 175,
@@ -369,7 +369,7 @@
         "Diff": "1",
         "Antece": "Corey Brewer",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 196,
@@ -404,7 +404,7 @@
         "Diff": "7",
         "Antece": "Elton Brand",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 37,
@@ -536,7 +536,7 @@
         "Diff": "4",
         "Antece": "Armen Gilliam",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 250,
@@ -571,7 +571,7 @@
         "Diff": "61",
         "Antece": "2800",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 25,
@@ -593,7 +593,7 @@
         "Diff": "5",
         "Antece": "Tim Hardaway Jr.",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 39,
@@ -626,7 +626,7 @@
         "Diff": "3",
         "Antece": "1600",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 49,
@@ -659,7 +659,7 @@
         "Diff": "3",
         "Antece": "Evan Fournier",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 78,
@@ -703,7 +703,7 @@
         "Diff": "1",
         "Antece": "Jaylen Brown",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 126,
@@ -725,7 +725,7 @@
         "Diff": "4",
         "Antece": "Randy Foye",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 148,
@@ -813,7 +813,7 @@
         "Diff": "1",
         "Antece": "Derrick White",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 187,
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764031263
+  "cache_buster": 1764031297
 }
