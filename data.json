@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:19:21",
+  "ultima_actualizacion": "02:19:55",
   "tablas": {
     "pts": [
       {
@@ -421,9 +421,9 @@
         "Rank": 45,
         "Nombre": "Myles Turner",
         "Antes": 1440,
-        "Hoy": 0,
-        "Total": 1440,
-        "Diff": "16",
+        "Hoy": 1,
+        "Total": 1441,
+        "Diff": "15",
         "Antece": "Hot Rod Williams",
         "Nota": "",
         "game_status": "playing"
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764033561
+  "cache_buster": 1764033595
 }
