@@ -1,7 +1,29 @@
 {
-  "ultima_actualizacion": "01:35:57",
+  "ultima_actualizacion": "01:36:31",
   "tablas": {
     "pts": [
+      {
+        "Rank": 37,
+        "Nombre": "Damian Lillard",
+        "Antes": 22598,
+        "Hoy": 0,
+        "Total": 22598,
+        "Diff": "402",
+        "Antece": "23000",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 42,
+        "Nombre": "Giannis Antetokounmpo",
+        "Antes": 20943,
+        "Hoy": 0,
+        "Total": 20943,
+        "Diff": "57",
+        "Antece": "21000",
+        "Nota": "",
+        "game_status": "not_started"
+      },
       {
         "Rank": 64,
         "Nombre": "Anthony Davis",
@@ -54,6 +76,17 @@
         "Total": 16696,
         "Diff": "12",
         "Antece": "Klay Thompson",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 114,
+        "Nombre": "Jrue Holiday",
+        "Antes": 16622,
+        "Hoy": 0,
+        "Total": 16622,
+        "Diff": "74",
+        "Antece": "Nikola Jokic",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -137,6 +170,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 66,
+        "Nombre": "Giannis Antetokounmpo",
+        "Antes": 8671,
+        "Hoy": 0,
+        "Total": 8671,
+        "Diff": "38",
+        "Antece": "Leroy Ellis",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 70,
         "Nombre": "Anthony Davis",
         "Antes": 8467,
@@ -194,6 +238,28 @@
     ],
     "ast": [
       {
+        "Rank": 30,
+        "Nombre": "Jrue Holiday",
+        "Antes": 6539,
+        "Hoy": 0,
+        "Total": 6539,
+        "Diff": "38",
+        "Antece": "Derek Harper",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 41,
+        "Nombre": "Damian Lillard",
+        "Antes": 6069,
+        "Hoy": 0,
+        "Total": 6069,
+        "Diff": "45",
+        "Antece": "John Havlicek",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 54,
         "Nombre": "Nikola Jokic",
         "Antes": 5555,
@@ -201,6 +267,17 @@
         "Total": 5555,
         "Diff": "69",
         "Antece": "Allen Iverson",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 100,
+        "Nombre": "Giannis Antetokounmpo",
+        "Antes": 4377,
+        "Hoy": 0,
+        "Total": 4377,
+        "Diff": "25",
+        "Antece": "Calvin Murphy",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -251,6 +328,17 @@
     ],
     "stl": [
       {
+        "Rank": 56,
+        "Nombre": "Jrue Holiday",
+        "Antes": 1492,
+        "Hoy": 0,
+        "Total": 1492,
+        "Diff": "8",
+        "Antece": "Kyle Lowry",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 152,
         "Nombre": "Kentavious Caldwell-Pope",
         "Antes": 1070,
@@ -293,6 +381,17 @@
         "Antece": "J.R. Smith",
         "Nota": "Mismo total",
         "game_status": "not_started"
+      },
+      {
+        "Rank": 198,
+        "Nombre": "Giannis Antetokounmpo",
+        "Antes": 973,
+        "Hoy": 0,
+        "Total": 973,
+        "Diff": "1",
+        "Antece": "Stacey Augmon",
+        "Nota": "A tiro de 1",
+        "game_status": "not_started"
       }
     ],
     "blk": [
@@ -315,6 +414,28 @@
         "Total": 1568,
         "Diff": "13",
         "Antece": "Benoit Benjamin",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 45,
+        "Nombre": "Myles Turner",
+        "Antes": 1440,
+        "Hoy": 0,
+        "Total": 1440,
+        "Diff": "16",
+        "Antece": "Hot Rod Williams",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 92,
+        "Nombre": "Giannis Antetokounmpo",
+        "Antes": 1079,
+        "Hoy": 0,
+        "Total": 1079,
+        "Diff": "7",
+        "Antece": "Thurl Bailey",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -374,6 +495,17 @@
         "game_status": "playing"
       },
       {
+        "Rank": 168,
+        "Nombre": "Jerami Grant",
+        "Antes": 754,
+        "Hoy": 0,
+        "Total": 754,
+        "Diff": "1",
+        "Antece": "Larry Bird",
+        "Nota": "A tiro de 1",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 184,
         "Nombre": "Jarrett Allen",
         "Antes": 715,
@@ -420,6 +552,17 @@
     ],
     "fg3": [
       {
+        "Rank": 4,
+        "Nombre": "Damian Lillard",
+        "Antes": 2804,
+        "Hoy": 0,
+        "Total": 2804,
+        "Diff": "96",
+        "Antece": "2900",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 5,
         "Nombre": "Klay Thompson",
         "Antes": 2739,
@@ -462,6 +605,17 @@
         "Antece": "Kevin Love",
         "Nota": "",
         "game_status": "playing"
+      },
+      {
+        "Rank": 42,
+        "Nombre": "Jrue Holiday",
+        "Antes": 1605,
+        "Hoy": 0,
+        "Total": 1605,
+        "Diff": "3",
+        "Antece": "Jason Richardson",
+        "Nota": "",
+        "game_status": "not_started"
       },
       {
         "Rank": 44,
@@ -574,6 +728,28 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 148,
+        "Nombre": "Kyle Kuzma",
+        "Antes": 1059,
+        "Hoy": 0,
+        "Total": 1059,
+        "Diff": "",
+        "Antece": "Allen Iverson",
+        "Nota": "Mismo total",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 150,
+        "Nombre": "Gary Trent Jr.",
+        "Antes": 1054,
+        "Hoy": 0,
+        "Total": 1054,
+        "Diff": "1",
+        "Antece": "Nick Anderson",
+        "Nota": "A tiro de 1",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 152,
         "Nombre": "Kevin Huerter",
         "Antes": 1046,
@@ -607,6 +783,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 169,
+        "Nombre": "Taurean Prince",
+        "Antes": 1000,
+        "Hoy": 0,
+        "Total": 1000,
+        "Diff": "2",
+        "Antece": "Danny Ainge",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 170,
         "Nombre": "Coby White",
         "Antes": 996,
@@ -629,6 +816,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 187,
+        "Nombre": "Jerami Grant",
+        "Antes": 973,
+        "Hoy": 0,
+        "Total": 973,
+        "Diff": "2",
+        "Antece": "Alec Burks",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 203,
         "Nombre": "Nikola Vucevic",
         "Antes": 931,
@@ -636,6 +834,17 @@
         "Total": 931,
         "Diff": "3",
         "Antece": "Chucky Atkins",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 212,
+        "Nombre": "Gary Harris",
+        "Antes": 916,
+        "Hoy": 0,
+        "Total": 916,
+        "Diff": "2",
+        "Antece": "Dillon Brooks",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -708,6 +917,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 122,
+        "Nombre": "Jrue Holiday",
+        "Antes": 1049,
+        "Hoy": 0,
+        "Total": 1049,
+        "Diff": "2",
+        "Antece": "Shawn Kemp",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 162,
         "Nombre": "Nikola Vucevic",
         "Antes": 988,
@@ -754,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764030957
+  "cache_buster": 1764030991
 }
