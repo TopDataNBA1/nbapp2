@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "02:28:20",
+  "ultima_actualizacion": "02:28:54",
   "tablas": {
     "pts": [
       {
@@ -263,9 +263,9 @@
         "Rank": 54,
         "Nombre": "Nikola Jokic",
         "Antes": 5555,
-        "Hoy": 2,
-        "Total": 5557,
-        "Diff": "67",
+        "Hoy": 3,
+        "Total": 5558,
+        "Diff": "66",
         "Antece": "Allen Iverson",
         "Nota": "",
         "game_status": "playing"
@@ -684,14 +684,14 @@
         "game_status": "playing"
       },
       {
-        "Rank": 111,
+        "Rank": 110,
         "Nombre": "Jamal Murray",
         "Antes": 1184,
-        "Hoy": 1,
-        "Total": 1185,
-        "Diff": "1",
-        "Antece": "Rudy Gay",
-        "Nota": "A tiro de 1",
+        "Hoy": 2,
+        "Total": 1186,
+        "Diff": "10",
+        "Antece": "Lauri Markkanen",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -974,5 +974,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764034100
+  "cache_buster": 1764034134
 }
