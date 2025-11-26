@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:35:52",
+    "ultima_actualizacion": "05:36:25",
     "tablas": {
         "pts": [
             {
@@ -173,9 +173,9 @@
                 "Rank": 155,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 2,
-                "Total": 6567,
-                "Diff": "8",
+                "Hoy": 3,
+                "Total": 6568,
+                "Diff": "7",
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -877,5 +877,5 @@
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312."
     ],
-    "cache_buster": 1764131752
+    "cache_buster": 1764131785
 }
