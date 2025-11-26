@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:01:39",
+    "ultima_actualizacion": "06:02:11",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 13,
-                "Total": 28145,
-                "Diff": "144",
+                "Hoy": 16,
+                "Total": 28148,
+                "Diff": "141",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -274,9 +274,9 @@
                 "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 4,
-                "Total": 3811,
-                "Diff": "11",
+                "Hoy": 5,
+                "Total": 3812,
+                "Diff": "10",
                 "Antece": "Wes Unseld",
                 "Nota": "",
                 "game_status": "playing"
@@ -566,9 +566,9 @@
                 "Rank": 2,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 3238,
-                "Diff": "62",
+                "Hoy": 2,
+                "Total": 3239,
+                "Diff": "61",
                 "Antece": "3300",
                 "Nota": "",
                 "game_status": "playing"
@@ -879,5 +879,5 @@
         "Kawhi Leonard (6 points today) has passed Richard Jefferson and is now ranked 161st all-time in career points with 14,905.",
         "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045."
     ],
-    "cache_buster": 1764133299
+    "cache_buster": 1764133331
 }
