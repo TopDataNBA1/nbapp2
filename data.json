@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:18:10",
+    "ultima_actualizacion": "03:18:42",
     "tablas": {
         "pts": [
             {
@@ -33,7 +33,7 @@
                 "Diff": "37",
                 "Antece": "Detlef Schrempf",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 191,
@@ -55,7 +55,7 @@
                 "Diff": "33",
                 "Antece": "Metta World Peace",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "trb": [
@@ -103,7 +103,7 @@
                 "Diff": "18",
                 "Antece": "Gail Goodrich",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 191,
@@ -125,7 +125,7 @@
                 "Diff": "3",
                 "Antece": "Foots Walker",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 230,
@@ -136,7 +136,7 @@
                 "Diff": "10",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 234,
@@ -193,7 +193,7 @@
                 "Diff": "4",
                 "Antece": "James Posey",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "blk": [
@@ -217,7 +217,7 @@
                 "Diff": "3",
                 "Antece": "Chris Kaman",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 175,
@@ -274,7 +274,7 @@
                 "Diff": "46",
                 "Antece": "Eric Gordon",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 65,
@@ -285,7 +285,7 @@
                 "Diff": "4",
                 "Antece": "Jordan Clarkson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 84,
@@ -296,7 +296,7 @@
                 "Diff": "1",
                 "Antece": "Mookie Blaylock",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 167,
@@ -318,7 +318,7 @@
                 "Diff": "1",
                 "Antece": "Vladimir Radmanovic",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 204,
@@ -329,7 +329,7 @@
                 "Diff": "4",
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 243,
@@ -383,5 +383,5 @@
         "CJ McCollum (42 points today) has passed Larry Nance, Richard Hamilton and Tobias Harris and is now ranked 135th all-time in career points with 15,720.",
         "Kristaps Porzingis (2 three-pointers today) has passed Donte DiVincenzo and is now ranked 190th all-time in career three-pointers with 970."
     ],
-    "cache_buster": 1764123490
+    "cache_buster": 1764123522
 }
