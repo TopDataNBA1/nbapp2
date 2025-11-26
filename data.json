@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:53:08",
+    "ultima_actualizacion": "06:53:41",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 223,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 35,
-                "Total": 13327,
-                "Diff": "34",
+                "Hoy": 37,
+                "Total": 13329,
+                "Diff": "32",
                 "Antece": "Luol Deng",
                 "Nota": "",
                 "game_status": "playing"
@@ -880,5 +880,5 @@
         "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045.",
         "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425."
     ],
-    "cache_buster": 1764136388
+    "cache_buster": 1764136421
 }
