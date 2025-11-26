@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "05:45:45",
+    "ultima_actualizacion": "05:46:18",
     "tablas": {
         "pts": [
             {
                 "Rank": 1,
                 "Nombre": "LeBron James",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 42212,
-                "Diff": "788",
+                "Hoy": 2,
+                "Total": 42214,
+                "Diff": "786",
                 "Antece": "43000",
                 "Nota": "",
                 "game_status": "playing"
@@ -877,5 +877,5 @@
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312."
     ],
-    "cache_buster": 1764132345
+    "cache_buster": 1764132378
 }
