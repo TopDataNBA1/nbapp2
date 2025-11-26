@@ -1,6 +1,125 @@
 {
-    "ultima_actualizacion": "22:33:33",
-    "tablas": {},
+    "ultima_actualizacion": "22:34:08",
+    "tablas": {
+        "pts": [
+            {
+                "Rank": 136,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 15715,
+                "Diff": "9",
+                "Antece": "CJ McCollum",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 211,
+                "Nombre": "Jayson Tatum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 13784,
+                "Diff": "6",
+                "Antece": "Bill Laimbeer",
+                "Nota": "",
+                "game_status": "not_started"
+            }
+        ],
+        "trb": [
+            {
+                "Rank": 192,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 6011,
+                "Diff": "36",
+                "Antece": "Andre Iguodala",
+                "Nota": "",
+                "game_status": "not_started"
+            }
+        ],
+        "fg3": [
+            {
+                "Rank": 51,
+                "Nombre": "Jayson Tatum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1546,
+                "Diff": "",
+                "Antece": "Eddie Jones",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 78,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1321,
+                "Diff": "4",
+                "Antece": "Ryan Anderson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 88,
+                "Nombre": "Duncan Robinson",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1254,
+                "Diff": "2",
+                "Antece": "Vernon Maxwell",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 113,
+                "Nombre": "Jaylen Brown",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1177,
+                "Diff": "1",
+                "Antece": "Deron Williams",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 164,
+                "Nombre": "Anfernee Simons",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1013,
+                "Diff": "2",
+                "Antece": "Mikal Bridges",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 177,
+                "Nombre": "Derrick White",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 987,
+                "Diff": "1",
+                "Antece": "Leandro Barbosa",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            }
+        ],
+        "g": [
+            {
+                "Rank": 178,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 978,
+                "Diff": "1",
+                "Antece": "Isiah Thomas",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            }
+        ]
+    },
     "notificaciones": [],
-    "cache_buster": 1764192813
+    "cache_buster": 1764192848
 }
