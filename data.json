@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:01:08",
+    "ultima_actualizacion": "03:01:41",
     "tablas": {
         "pts": [
             {
@@ -335,9 +335,9 @@
                 "Rank": 243,
                 "Nombre": "Desmond Bane",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 842,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 843,
+                "Diff": "2",
                 "Antece": "John Stockton",
                 "Nota": "",
                 "game_status": "playing"
@@ -383,5 +383,5 @@
         "CJ McCollum (42 points today) has passed Larry Nance, Richard Hamilton and Tobias Harris and is now ranked 135th all-time in career points with 15,720.",
         "Kristaps Porzingis (2 three-pointers today) has passed Donte DiVincenzo and is now ranked 190th all-time in career three-pointers with 970."
     ],
-    "cache_buster": 1764122468
+    "cache_buster": 1764122501
 }
