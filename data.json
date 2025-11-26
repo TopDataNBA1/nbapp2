@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:00:01",
+    "ultima_actualizacion": "03:00:35",
     "tablas": {
         "pts": [
             {
@@ -50,9 +50,9 @@
                 "Rank": 230,
                 "Nombre": "Khris Middleton",
                 "Team": "FA",
-                "Hoy": 6,
-                "Total": 13021,
-                "Diff": "37",
+                "Hoy": 7,
+                "Total": 13022,
+                "Diff": "36",
                 "Antece": "Metta World Peace",
                 "Nota": "",
                 "game_status": "playing"
@@ -383,5 +383,5 @@
         "CJ McCollum (42 points today) has passed Larry Nance, Richard Hamilton and Tobias Harris and is now ranked 135th all-time in career points with 15,720.",
         "Kristaps Porzingis (2 three-pointers today) has passed Donte DiVincenzo and is now ranked 190th all-time in career three-pointers with 970."
     ],
-    "cache_buster": 1764122401
+    "cache_buster": 1764122435
 }
