@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:59:43",
+    "ultima_actualizacion": "07:00:16",
     "tablas": {
         "pts": [
             {
@@ -173,9 +173,9 @@
                 "Rank": 155,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 4,
-                "Total": 6569,
-                "Diff": "6",
+                "Hoy": 5,
+                "Total": 6570,
+                "Diff": "5",
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -241,9 +241,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 9,
-                "Total": 8459,
-                "Diff": "65",
+                "Hoy": 10,
+                "Total": 8460,
+                "Diff": "64",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -274,9 +274,9 @@
                 "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 9,
-                "Total": 3816,
-                "Diff": "6",
+                "Hoy": 10,
+                "Total": 3817,
+                "Diff": "5",
                 "Antece": "Wes Unseld",
                 "Nota": "",
                 "game_status": "playing"
@@ -731,9 +731,9 @@
                 "Rank": 162,
                 "Nombre": "Marcus Smart",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 1017,
-                "Diff": "9",
+                "Hoy": 1,
+                "Total": 1018,
+                "Diff": "8",
                 "Antece": "Joe Harris",
                 "Nota": "",
                 "game_status": "playing"
@@ -880,5 +880,5 @@
         "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045.",
         "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425."
     ],
-    "cache_buster": 1764136783
+    "cache_buster": 1764136816
 }
