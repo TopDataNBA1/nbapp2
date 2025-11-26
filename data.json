@@ -1,7 +1,29 @@
 {
-    "ultima_actualizacion": "01:34:49",
+    "ultima_actualizacion": "01:35:22",
     "tablas": {
         "pts": [
+            {
+                "Rank": 72,
+                "Nombre": "Paul George",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 18737,
+                "Diff": "50",
+                "Antece": "Bob McAdoo",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 119,
+                "Nombre": "Kyle Lowry",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 16359,
+                "Diff": "42",
+                "Antece": "Joe Dumars",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 137,
                 "Nombre": "CJ McCollum",
@@ -12,6 +34,17 @@
                 "Antece": "Richard Hamilton",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Eric Gordon",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 14142,
+                "Diff": "13",
+                "Antece": "Eddie Jones",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 230,
@@ -27,6 +60,17 @@
         ],
         "ast": [
             {
+                "Rank": 19,
+                "Nombre": "Kyle Lowry",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 7100,
+                "Diff": "60",
+                "Antece": "Terry Porter",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 81,
                 "Nombre": "Trae Young",
                 "Team": "FA",
@@ -36,6 +80,17 @@
                 "Antece": "Gail Goodrich",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Paul George",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3380,
+                "Diff": "14",
+                "Antece": "Darrell Armstrong",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 224,
@@ -58,9 +113,53 @@
                 "Antece": "Dick Van Arsdale",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 234,
+                "Nombre": "Tyus Jones",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3054,
+                "Diff": "1",
+                "Antece": "Blake Griffin",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             }
         ],
         "stl": [
+            {
+                "Rank": 46,
+                "Nombre": "Paul George",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1542,
+                "Diff": "2",
+                "Antece": "Nate McMillan",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 55,
+                "Nombre": "Kyle Lowry",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1500,
+                "Diff": "5",
+                "Antece": "Reggie Miller",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 119,
+                "Nombre": "Andre Drummond",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1145,
+                "Diff": "4",
+                "Antece": "Fred Brown",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 236,
                 "Nombre": "Khris Middleton",
@@ -75,6 +174,17 @@
         ],
         "blk": [
             {
+                "Rank": 69,
+                "Nombre": "Andre Drummond",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1162,
+                "Diff": "21",
+                "Antece": "Elmore Smith",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 119,
                 "Nombre": "Kristaps Porzingis",
                 "Team": "FA",
@@ -84,9 +194,53 @@
                 "Antece": "Chris Kaman",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 175,
+                "Nombre": "Joel Embiid",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 747,
+                "Diff": "2",
+                "Antece": "Rich Kelley",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "fg3": [
+            {
+                "Rank": 9,
+                "Nombre": "Paul George",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2354,
+                "Diff": "46",
+                "Antece": "2400",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 14,
+                "Nombre": "Kyle Lowry",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2206,
+                "Diff": "9",
+                "Antece": "Kevin Durant",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 17,
+                "Nombre": "Eric Gordon",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2086,
+                "Diff": "14",
+                "Antece": "2100",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 18,
                 "Nombre": "CJ McCollum",
@@ -121,6 +275,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 167,
+                "Nombre": "Kelly Oubre Jr.",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1005,
+                "Diff": "1",
+                "Antece": "Danny Granger",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 191,
                 "Nombre": "Kristaps Porzingis",
                 "Team": "FA",
@@ -141,6 +306,76 @@
                 "Antece": "Nikola Vucevic",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 243,
+                "Nombre": "Desmond Bane",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 842,
+                "Diff": "3",
+                "Antece": "John Stockton",
+                "Nota": "",
+                "game_status": "not_started"
+            }
+        ],
+        "trb": [
+            {
+                "Rank": 31,
+                "Nombre": "Andre Drummond",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 11140,
+                "Diff": "116",
+                "Antece": "Dolph Schayes",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 219,
+                "Nombre": "Paul George",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 5698,
+                "Diff": "9",
+                "Antece": "Dan Issel",
+                "Nota": "",
+                "game_status": "not_started"
+            }
+        ],
+        "g": [
+            {
+                "Rank": 58,
+                "Nombre": "Kyle Lowry",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1174,
+                "Diff": "4",
+                "Antece": "Scottie Pippen",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 231,
+                "Nombre": "Eric Gordon",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "1",
+                "Antece": "Tom Van Arsdale",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 244,
+                "Nombre": "Andre Drummond",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 919,
+                "Diff": "1",
+                "Antece": "Larry Nance",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             }
         ]
     },
@@ -148,5 +383,5 @@
         "CJ McCollum (12 points today) has passed Larry Nance and is now ranked 137th all-time in career points with 15,690.",
         "Khris Middleton (4 points today) has passed Jeff Mullins and is now ranked 230th all-time in career points with 13,019."
     ],
-    "cache_buster": 1764117289
+    "cache_buster": 1764117322
 }
