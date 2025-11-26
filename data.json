@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:24:54",
+    "ultima_actualizacion": "05:25:27",
     "tablas": {
         "pts": [
             {
@@ -116,11 +116,11 @@
                 "Rank": 224,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 11,
-                "Total": 13303,
-                "Diff": "6",
+                "Hoy": 14,
+                "Total": 13306,
+                "Diff": "3",
                 "Antece": "Jermaine O'Neal",
-                "Nota": "",
+                "Nota": "A tiro de 3",
                 "game_status": "playing"
             },
             {
@@ -665,9 +665,9 @@
                 "Rank": 65,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 2,
-                "Total": 1421,
-                "Diff": "3",
+                "Hoy": 3,
+                "Total": 1422,
+                "Diff": "2",
                 "Antece": "Jordan Clarkson",
                 "Nota": "",
                 "game_status": "playing"
@@ -678,9 +678,9 @@
                 "Team": "FA",
                 "Hoy": 1,
                 "Total": 1420,
-                "Diff": "1",
+                "Diff": "2",
                 "Antece": "Luka Doncic",
-                "Nota": "A tiro de 1",
+                "Nota": "",
                 "game_status": "finished"
             },
             {
@@ -875,5 +875,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764131094
+    "cache_buster": 1764131127
 }
