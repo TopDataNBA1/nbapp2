@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "07:03:01",
+    "ultima_actualizacion": "07:03:34",
     "tablas": {
         "pts": [
             {
@@ -17,9 +17,9 @@
                 "Rank": 11,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 26,
-                "Total": 28158,
-                "Diff": "131",
+                "Hoy": 27,
+                "Total": 28159,
+                "Diff": "130",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
                 "game_status": "playing"
@@ -880,5 +880,5 @@
         "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045.",
         "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425."
     ],
-    "cache_buster": 1764136981
+    "cache_buster": 1764137014
 }
