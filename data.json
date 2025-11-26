@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "07:18:57",
+    "ultima_actualizacion": "07:19:30",
     "tablas": {
         "pts": [
             {
@@ -550,14 +550,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 235,
+                "Rank": 234,
                 "Nombre": "Ivica Zubac",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 591,
-                "Diff": "1",
-                "Antece": "Jeff Green",
-                "Nota": "A tiro de 1",
+                "Hoy": 2,
+                "Total": 592,
+                "Diff": "",
+                "Antece": "Brad Miller",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             }
         ],
@@ -878,7 +878,8 @@
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312.",
         "Kawhi Leonard (6 points today) has passed Richard Jefferson and is now ranked 161st all-time in career points with 14,905.",
         "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045.",
-        "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425."
+        "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425.",
+        "Ivica Zubac (2 blocks today) has passed Tom Burleson and is now ranked 234th all-time in career blocks with 592."
     ],
-    "cache_buster": 1764137937
+    "cache_buster": 1764137970
 }
