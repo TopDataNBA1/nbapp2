@@ -263,8 +263,10 @@
                             else todayStyle = 'color:#888';
 
                             const tr = document.createElement('tr');
-                            tr.dataset.player = row.Nombre;   // ← ESTA LÍNEA SOLA (sin replace, sin nada)
-                            <tr>
+                            tr.dataset.player = row.Nombre;
+                            
+                            // *** CAMBIO CRÍTICO: Asignar el HTML a tr.innerHTML ***
+                            tr.innerHTML = `
                                 <td class="rank">${row.Rank}</td>
                                 <td class="player">${row.Nombre}</td>
                                 <td class="team">${row.Team || '---'}</td>
@@ -272,7 +274,10 @@
                                 <td class="number"><strong>${Number(row.Total).toLocaleString()}</strong></td>
                                 <td class="diff number${mustBlink?' diff-blink':''}">${diff}</td>
                                 <td>${row.Antece||'-'}</td>
-                            </tr>
+                            `;
+                            
+                            // *** CAMBIO CRÍTICO: Añadir la fila al cuerpo de la tabla ***
+                            tbody.appendChild(tr);
                         });
                         tablesDiv.appendChild(card);
                     }
@@ -362,8 +367,8 @@
 
                     // DETECTAR CAMBIOS Y HACER BRILLAR
                     Object.keys(data.tablas).forEach(stat => {
-                        const viejo = (lastData.tablas[stat] || []);
-                        const nuevo = (data.tablas[stat] || []);
+                        const viejo = (lastData.tablas[stat]?.jugadores || []); 
+                        const nuevo = (data.tablas[stat]?.jugadores || []);
 
                         nuevo.forEach(jugador => {
                             const antes = viejo.find(p => p.Nombre === jugador.Nombre);
