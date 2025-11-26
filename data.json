@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "06:30:05",
+    "ultima_actualizacion": "06:30:38",
     "tablas": {
         "pts": [
             {
                 "Rank": 1,
                 "Nombre": "LeBron James",
                 "Team": "FA",
-                "Hoy": 9,
-                "Total": 42221,
-                "Diff": "779",
+                "Hoy": 11,
+                "Total": 42223,
+                "Diff": "777",
                 "Antece": "43000",
                 "Nota": "",
                 "game_status": "playing"
@@ -241,9 +241,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 5,
-                "Total": 8455,
-                "Diff": "69",
+                "Hoy": 6,
+                "Total": 8456,
+                "Diff": "68",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -274,9 +274,9 @@
                 "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 6,
-                "Total": 3813,
-                "Diff": "9",
+                "Hoy": 7,
+                "Total": 3814,
+                "Diff": "8",
                 "Antece": "Wes Unseld",
                 "Nota": "",
                 "game_status": "playing"
@@ -880,5 +880,5 @@
         "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045.",
         "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425."
     ],
-    "cache_buster": 1764135005
+    "cache_buster": 1764135038
 }
