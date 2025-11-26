@@ -194,38 +194,54 @@
         }
 
         function updatePage() {
-            fetch(DATA_URL + '?v=' + data.cache_buster)
-                .then(response => response.json())
+            const {cest, est} = getTimes();
+            document.getElementById('clock-line').textContent = `${est} ET • ${cest} CEST`;
+
+            fetch('data.json?v=' + new Date().getTime())
+                .then(r => r.ok ? r.json() : Promise.reject())
                 .then(data => {
-                    // 1. Actualizar estado y reloj
-                    // FIX: Esto ahora funciona gracias al cambio en el HTML
-                    document.getElementById('ultima-act').textContent = data.ultima_actualizacion;
-
-                    // Las estadísticas ya están ordenadas en Python, pero mantenemos la lista de claves
-                    const statsOrder = ['pts', 'trb', 'ast', 'stl', 'blk', 'fg3', 'g'];
                     const tablesDiv = document.getElementById('tables');
-                    tablesDiv.innerHTML = ''; // Limpiar el contenedor
+                    tablesDiv.innerHTML = '';
+                    const filters = getActiveFilters();
 
-                    // 2. Renderizar tablas
-                    statsOrder.forEach(stat => {
-                        const tablaData = data.tablas[stat]; // tablaData = {titulo, jugadores: []}
+                    for (const [stat, tablaData] of Object.entries(data.tablas || {})) {
+                        // Si Python es perfecto, tablaData es {titulo, jugadores}, y 'jugadores' es el array.
+                        const tabla = tablaData.jugadores;
+                        if (!tabla || !tabla.length) continue;
 
-                        // Comprobar la nueva estructura
-                        if (!tablaData || !tablaData.jugadores || tablaData.jugadores.length === 0) {
-                            return; 
-                        }
+                        let filtered = tabla.filter(row => {
+                            const rank = row.Rank;
+                            const gameStatus = String(row.game_status || '').toLowerCase();
+                            const hoy = row.Hoy ?? 0;
+                            const diff = (row.Diff ?? '').toString().trim() || '0';
 
-                        const jugadores = tablaData.jugadores;
-                        const card = document.createElement('div');
-                        card.classList.add('card');
-                        
-                        // USAR TITULO FORMATEADO (CON <b>) DE PYTHON Y CABECERA CORREGIDA
+                            // FILTROS EXISTENTES
+                            if (filters.top25 && rank > 25) return false;
+                            if (filters.top100 && !filters.top25 && rank > 100) return false;
+                            if (filters.playing && gameStatus !== 'playing') return false;
+
+                            // FILTRO "ALMOST" – CON EXCEPCIÓN PERFECTA PARA GAMES PLAYED
+                            if (filters.almost) {
+                                if (stat === 'g') {
+                                    // En Games Played: solo los que NO han jugado hoy (Hoy=0) y están a 0 o 1 del de arriba
+                                    if (hoy !== 0 || !['0','1'].includes(diff)) return false;
+                                } else {
+                                    // En el resto de stats: como antes (a 0-1-2-3 del de arriba y jugando o no empezado)
+                                    const isPlayingOrNotStarted = (gameStatus === 'playing' || gameStatus === 'not_started');
+                                    const near = (stat === 'pts') ? ['0','1','2','3'] : ['0','1'];
+                                    if (!isPlayingOrNotStarted || !near.includes(diff)) return false;
+                                }
+                            }
+
+                            if (filters.all || (!filters.top25 && !filters.top100 && !filters.playing && !filters.almost)) return true;
+                            return true;
+                        });
+
+                        if (filtered.length === 0) continue;
+
+                        const card = document.createElement('div'); card.className = 'card';
                         card.innerHTML = `<h2>${tablaData.titulo}</h2><table><thead><tr><th>Rank</th><th>Player</th><th>Team</th><th>Today</th><th>Total</th><th>Diff</th><th>Ahead Of</th></tr></thead><tbody></tbody></table>`;
-
                         const tbody = card.querySelector('tbody');
-                        
-                        // Filtrar solo los 15 primeros para mostrar (se puede cambiar)
-                        const filtered = jugadores.slice(0, 15);
 
                         filtered.forEach(row => {
                             const hoy = row.Hoy ?? 0;
@@ -235,7 +251,6 @@
 
                             const isPoints = stat === 'pts';
                             const isGames = stat === 'g';
-                            // La lógica de diff para parpadeo se mantiene
                             const near = isPoints ? ['0','1','2','3'] : ['0','1'];
                             const mustBlinkNormal = (gameStatus === 'playing' || gameStatus === 'not_started') && near.includes(diff) && !isInactive;
                             const mustBlinkGames = isGames && (gameStatus === 'playing' || gameStatus === 'not_started') && hoy === 0 && near.includes(diff);
@@ -250,7 +265,7 @@
                             const tr = document.createElement('tr');
                             tr.dataset.player = row.Nombre;
                             
-                            // ESTRUCTURA CORREGIDA para la fila
+                            // *** CAMBIO CRÍTICO: Asignar el HTML a tr.innerHTML ***
                             tr.innerHTML = `
                                 <td class="rank">${row.Rank}</td>
                                 <td class="player">${row.Nombre}</td>
@@ -258,77 +273,14 @@
                                 <td class="today" style="${todayStyle}">${hoy}</td>
                                 <td class="number"><strong>${Number(row.Total).toLocaleString()}</strong></td>
                                 <td class="diff number${mustBlink?' diff-blink':''}">${diff}</td>
-                                <td>${row.Precedente||'-'}</td>
+                                <td>${row.Antece||'-'}</td>
                             `;
                             
+                            // *** CAMBIO CRÍTICO: Añadir la fila al cuerpo de la tabla ***
                             tbody.appendChild(tr);
                         });
                         tablesDiv.appendChild(card);
-                    });
-
-                    // 3. Aplicar updates y animaciones (Solo si hay lastData)
-                    if (!lastData || !lastData.tablas) {
-                        lastData = data;
-                        return;
                     }
-                    
-                    statsOrder.forEach(stat => {
-                        const nuevoData = data.tablas[stat];
-                        const viejoData = lastData.tablas[stat];
-
-                        // FIX: Acceso a jugadores en la nueva estructura
-                        if (!nuevoData || !viejoData || !nuevoData.jugadores || !viejoData.jugadores) return;
-
-                        const nuevo = nuevoData.jugadores;
-                        const viejo = viejoData.jugadores;
-
-                        nuevo.forEach(jugador => {
-                            const jugadorViejo = viejo.find(j => j.Nombre === jugador.Nombre);
-                            if (!jugadorViejo) return;
-
-                            // FIX: Selector de celdas más robusto (busca en cualquier tarjeta)
-                            const celdaNombre = Array.from(document.querySelectorAll('.card .player'))
-                                .find(td => td.textContent.trim() === jugador.Nombre);
-
-                            if (celdaNombre) {
-                                const fila = celdaNombre.closest('tr');
-                                // Mapeo de celdas para el nuevo orden (Rank, Player, Team, Today, Total, Diff, Ahead Of)
-                                const celdas = fila.querySelectorAll('td');
-
-                                const cellMap = {
-                                    'Rank': celdas[0],
-                                    'Team': celdas[2],
-                                    'Total': celdas[4],
-                                    'Diff': celdas[5]
-                                };
-
-                                // 1. TOTAL
-                                if (cellMap.Total && cellMap.Total.textContent !== Number(jugador.Total).toLocaleString()) {
-                                    highlightCell(cellMap.Total);
-                                }
-
-                                // 2. DIFF (se actualiza automáticamente por la lógica de renderizado, pero resaltamos si cambia)
-                                if (cellMap.Diff && jugador.Diff !== jugadorViejo.Diff) {
-                                    highlightCell(cellMap.Diff);
-                                }
-
-                                // 3. RANK
-                                if (cellMap.Rank && jugador.Rank !== jugadorViejo.Rank) {
-                                    highlightCell(cellMap.Rank);
-                                }
-                                
-                                // 4. TEAM
-                                if (cellMap.Team && jugador.Team !== jugadorViejo.Team) {
-                                    highlightCell(cellMap.Team);
-                                }
-                            }
-                        });
-                    });
-
-                    lastData = data;
-                })
-                .catch(error => {
-                    console.error("Error al cargar o parsear data.json:", error);
                 });
         }
 
