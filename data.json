@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:46:58",
+    "ultima_actualizacion": "01:47:31",
     "tablas": {
         "pts": [
             {
@@ -107,11 +107,11 @@
                 "Rank": 231,
                 "Nombre": "CJ McCollum",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 3058,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 3059,
+                "Diff": "1",
                 "Antece": "Dick Van Arsdale",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -383,5 +383,5 @@
         "CJ McCollum (12 points today) has passed Larry Nance and is now ranked 137th all-time in career points with 15,690.",
         "Khris Middleton (4 points today) has passed Jeff Mullins and is now ranked 230th all-time in career points with 13,019."
     ],
-    "cache_buster": 1764118018
+    "cache_buster": 1764118051
 }
