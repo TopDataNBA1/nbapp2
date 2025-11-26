@@ -350,7 +350,10 @@
             }, 60000);
         }
 
-        let lastData = null;
+        // FIX 1: Esta línea debe existir para que la función fetch sepa qué archivo pedir
+        const DATA_URL = 'web/data.json'; 
+        let lastData = null; // Confirmado por ti
+        
         const originalUpdatePage = updatePage;
 
         updatePage = function() {
