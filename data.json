@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "07:39:50",
+    "ultima_actualizacion": "07:40:23",
     "tablas": {
         "pts": [
             {
@@ -140,9 +140,9 @@
                 "Rank": 25,
                 "Nombre": "LeBron James",
                 "Team": "FA",
-                "Hoy": 5,
-                "Total": 11745,
-                "Diff": "156",
+                "Hoy": 6,
+                "Total": 11746,
+                "Diff": "155",
                 "Antece": "Kevin Willis",
                 "Nota": "",
                 "game_status": "playing"
@@ -274,9 +274,9 @@
                 "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 12,
-                "Total": 3819,
-                "Diff": "3",
+                "Hoy": 13,
+                "Total": 3820,
+                "Diff": "2",
                 "Antece": "Wes Unseld",
                 "Nota": "",
                 "game_status": "playing"
@@ -881,5 +881,5 @@
         "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425.",
         "Ivica Zubac (2 blocks today) has passed Tom Burleson and is now ranked 234th all-time in career blocks with 592."
     ],
-    "cache_buster": 1764139190
+    "cache_buster": 1764139223
 }
