@@ -1,6 +1,152 @@
 {
-    "ultima_actualizacion": "01:30:50",
-    "tablas": {},
-    "notificaciones": [],
-    "cache_buster": 1764117050
+    "ultima_actualizacion": "01:30:55",
+    "tablas": {
+        "pts": [
+            {
+                "Rank": 137,
+                "Nombre": "CJ McCollum",
+                "Team": "FA",
+                "Hoy": 12,
+                "Total": 15690,
+                "Diff": "18",
+                "Antece": "Richard Hamilton",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 230,
+                "Nombre": "Khris Middleton",
+                "Team": "FA",
+                "Hoy": 4,
+                "Total": 13019,
+                "Diff": "39",
+                "Antece": "Metta World Peace",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "ast": [
+            {
+                "Rank": 81,
+                "Nombre": "Trae Young",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 4787,
+                "Diff": "18",
+                "Antece": "Gail Goodrich",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 224,
+                "Nombre": "Khris Middleton",
+                "Team": "FA",
+                "Hoy": 5,
+                "Total": 3101,
+                "Diff": "10",
+                "Antece": "Foots Walker",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 231,
+                "Nombre": "CJ McCollum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3058,
+                "Diff": "2",
+                "Antece": "Dick Van Arsdale",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "stl": [
+            {
+                "Rank": 236,
+                "Nombre": "Khris Middleton",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 912,
+                "Diff": "",
+                "Antece": "John Long",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            }
+        ],
+        "blk": [
+            {
+                "Rank": 119,
+                "Nombre": "Kristaps Porzingis",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 928,
+                "Diff": "3",
+                "Antece": "Chris Kaman",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "fg3": [
+            {
+                "Rank": 18,
+                "Nombre": "CJ McCollum",
+                "Team": "FA",
+                "Hoy": 4,
+                "Total": 2034,
+                "Diff": "52",
+                "Antece": "Eric Gordon",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 65,
+                "Nombre": "Khris Middleton",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1419,
+                "Diff": "5",
+                "Antece": "Jordan Clarkson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 84,
+                "Nombre": "Trae Young",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1282,
+                "Diff": "1",
+                "Antece": "Mookie Blaylock",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Kristaps Porzingis",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 968,
+                "Diff": "1",
+                "Antece": "Donte DiVincenzo",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 204,
+                "Nombre": "Luke Kennard",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 926,
+                "Diff": "5",
+                "Antece": "Nikola Vucevic",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ]
+    },
+    "notificaciones": [
+        "CJ McCollum (12 points today) has passed Larry Nance and is now ranked 137th all-time in career points with 15,690.",
+        "Khris Middleton (4 points today) has passed Jeff Mullins and is now ranked 230th all-time in career points with 13,019."
+    ],
+    "cache_buster": 1764117055
 }
