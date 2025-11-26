@@ -1,14 +1,14 @@
 {
-    "ultima_actualizacion": "06:05:29",
+    "ultima_actualizacion": "06:06:02",
     "tablas": {
         "pts": [
             {
                 "Rank": 1,
                 "Nombre": "LeBron James",
                 "Team": "FA",
-                "Hoy": 4,
-                "Total": 42216,
-                "Diff": "784",
+                "Hoy": 6,
+                "Total": 42218,
+                "Diff": "782",
                 "Antece": "43000",
                 "Nota": "",
                 "game_status": "playing"
@@ -274,9 +274,9 @@
                 "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 5,
-                "Total": 3812,
-                "Diff": "10",
+                "Hoy": 6,
+                "Total": 3813,
+                "Diff": "9",
                 "Antece": "Wes Unseld",
                 "Nota": "",
                 "game_status": "playing"
@@ -879,5 +879,5 @@
         "Kawhi Leonard (6 points today) has passed Richard Jefferson and is now ranked 161st all-time in career points with 14,905.",
         "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045."
     ],
-    "cache_buster": 1764133529
+    "cache_buster": 1764133562
 }
