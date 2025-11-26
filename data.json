@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:46:18",
+    "ultima_actualizacion": "05:46:50",
     "tablas": {
         "pts": [
             {
@@ -219,9 +219,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 12545,
-                "Diff": "455",
+                "Hoy": 1,
+                "Total": 12546,
+                "Diff": "454",
                 "Antece": "13000",
                 "Nota": "",
                 "game_status": "playing"
@@ -643,9 +643,9 @@
                 "Rank": 32,
                 "Nombre": "Nicolas Batum",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 1774,
-                "Diff": "13",
+                "Hoy": 2,
+                "Total": 1775,
+                "Diff": "12",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
                 "game_status": "playing"
@@ -799,9 +799,9 @@
                 "Rank": 15,
                 "Nombre": "Chris Paul",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 1366,
-                "Diff": "14",
+                "Hoy": 1,
+                "Total": 1367,
+                "Diff": "13",
                 "Antece": "Clifford Robinson",
                 "Nota": "",
                 "game_status": "playing"
@@ -877,5 +877,5 @@
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312."
     ],
-    "cache_buster": 1764132378
+    "cache_buster": 1764132410
 }
