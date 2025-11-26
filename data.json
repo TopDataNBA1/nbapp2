@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "04:30:01",
+    "ultima_actualizacion": "04:30:34",
     "tablas": {
         "pts": [
             {
@@ -39,11 +39,11 @@
                 "Rank": 191,
                 "Nombre": "Eric Gordon",
                 "Team": "FA",
-                "Hoy": 7,
-                "Total": 14149,
-                "Diff": "6",
+                "Hoy": 10,
+                "Total": 14152,
+                "Diff": "3",
                 "Antece": "Eddie Jones",
-                "Nota": "",
+                "Nota": "A tiro de 3",
                 "game_status": "playing"
             },
             {
@@ -258,9 +258,9 @@
                 "Rank": 17,
                 "Nombre": "Eric Gordon",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 2087,
-                "Diff": "13",
+                "Hoy": 2,
+                "Total": 2088,
+                "Diff": "12",
                 "Antece": "2100",
                 "Nota": "",
                 "game_status": "playing"
@@ -271,7 +271,7 @@
                 "Team": "FA",
                 "Hoy": 10,
                 "Total": 2040,
-                "Diff": "47",
+                "Diff": "48",
                 "Antece": "Eric Gordon",
                 "Nota": "",
                 "game_status": "finished"
@@ -380,5 +380,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764127801
+    "cache_buster": 1764127834
 }
