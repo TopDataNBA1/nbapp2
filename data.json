@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:23:15",
+    "ultima_actualizacion": "05:23:48",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 224,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 6,
-                "Total": 13298,
-                "Diff": "11",
+                "Hoy": 8,
+                "Total": 13300,
+                "Diff": "9",
                 "Antece": "Jermaine O'Neal",
                 "Nota": "",
                 "game_status": "playing"
@@ -875,5 +875,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764130995
+    "cache_buster": 1764131028
 }
