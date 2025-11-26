@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:37:35",
+    "ultima_actualizacion": "01:38:08",
     "tablas": {
         "pts": [
             {
@@ -96,9 +96,9 @@
                 "Rank": 224,
                 "Nombre": "Khris Middleton",
                 "Team": "FA",
-                "Hoy": 5,
-                "Total": 3101,
-                "Diff": "10",
+                "Hoy": 4,
+                "Total": 3100,
+                "Diff": "11",
                 "Antece": "Foots Walker",
                 "Nota": "",
                 "game_status": "playing"
@@ -383,5 +383,5 @@
         "CJ McCollum (12 points today) has passed Larry Nance and is now ranked 137th all-time in career points with 15,690.",
         "Khris Middleton (4 points today) has passed Jeff Mullins and is now ranked 230th all-time in career points with 13,019."
     ],
-    "cache_buster": 1764117455
+    "cache_buster": 1764117488
 }
