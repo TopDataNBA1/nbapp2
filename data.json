@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:24:21",
+    "ultima_actualizacion": "05:24:54",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 224,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 8,
-                "Total": 13300,
-                "Diff": "9",
+                "Hoy": 11,
+                "Total": 13303,
+                "Diff": "6",
                 "Antece": "Jermaine O'Neal",
                 "Nota": "",
                 "game_status": "playing"
@@ -663,25 +663,25 @@
             },
             {
                 "Rank": 65,
+                "Nombre": "Luka Doncic",
+                "Team": "FA",
+                "Hoy": 2,
+                "Total": 1421,
+                "Diff": "3",
+                "Antece": "Jordan Clarkson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 66,
                 "Nombre": "Khris Middleton",
                 "Team": "FA",
                 "Hoy": 1,
                 "Total": 1420,
-                "Diff": "4",
-                "Antece": "Jordan Clarkson",
-                "Nota": "",
+                "Diff": "1",
+                "Antece": "Luka Doncic",
+                "Nota": "A tiro de 1",
                 "game_status": "finished"
-            },
-            {
-                "Rank": 66,
-                "Nombre": "Luka Doncic",
-                "Team": "FA",
-                "Hoy": 1,
-                "Total": 1420,
-                "Diff": "",
-                "Antece": "Khris Middleton",
-                "Nota": "Mismo total",
-                "game_status": "playing"
             },
             {
                 "Rank": 84,
@@ -875,5 +875,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764131061
+    "cache_buster": 1764131094
 }
