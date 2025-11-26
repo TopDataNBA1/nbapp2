@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:54:31",
+    "ultima_actualizacion": "05:55:04",
     "tablas": {
         "pts": [
             {
@@ -353,9 +353,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 2728,
-                "Diff": "72",
+                "Hoy": 0,
+                "Total": 2727,
+                "Diff": "73",
                 "Antece": "2800",
                 "Nota": "",
                 "game_status": "playing"
@@ -427,13 +427,13 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 165,
+                "Rank": 164,
                 "Nombre": "Nicolas Batum",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 1044,
+                "Hoy": 2,
+                "Total": 1045,
                 "Diff": "",
-                "Antece": "Darwin Cook",
+                "Antece": "John Wall",
                 "Nota": "Mismo total",
                 "game_status": "playing"
             },
@@ -876,7 +876,8 @@
     },
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312.",
-        "Kawhi Leonard (6 points today) has passed Richard Jefferson and is now ranked 161st all-time in career points with 14,905."
+        "Kawhi Leonard (6 points today) has passed Richard Jefferson and is now ranked 161st all-time in career points with 14,905.",
+        "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045."
     ],
-    "cache_buster": 1764132871
+    "cache_buster": 1764132904
 }
