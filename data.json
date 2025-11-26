@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:38:36",
+    "ultima_actualizacion": "05:39:09",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 223,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 22,
-                "Total": 13314,
-                "Diff": "47",
+                "Hoy": 24,
+                "Total": 13316,
+                "Diff": "45",
                 "Antece": "Luol Deng",
                 "Nota": "",
                 "game_status": "playing"
@@ -430,11 +430,11 @@
                 "Rank": 165,
                 "Nombre": "Nicolas Batum",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 1043,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 1044,
+                "Diff": "",
                 "Antece": "Darwin Cook",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -643,9 +643,9 @@
                 "Rank": 32,
                 "Nombre": "Nicolas Batum",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 1773,
-                "Diff": "14",
+                "Hoy": 1,
+                "Total": 1774,
+                "Diff": "13",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
                 "game_status": "playing"
@@ -832,11 +832,11 @@
                 "Rank": 69,
                 "Nombre": "Nicolas Batum",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 1148,
-                "Diff": "2",
+                "Hoy": 1,
+                "Total": 1149,
+                "Diff": "1",
                 "Antece": "Al Horford",
-                "Nota": "",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -877,5 +877,5 @@
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312."
     ],
-    "cache_buster": 1764131916
+    "cache_buster": 1764131949
 }
