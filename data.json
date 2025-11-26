@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:25:38",
+    "ultima_actualizacion": "02:26:11",
     "tablas": {
         "pts": [
             {
@@ -120,9 +120,9 @@
                 "Rank": 224,
                 "Nombre": "Khris Middleton",
                 "Team": "FA",
-                "Hoy": 11,
-                "Total": 3107,
-                "Diff": "4",
+                "Hoy": 9,
+                "Total": 3105,
+                "Diff": "6",
                 "Antece": "Foots Walker",
                 "Nota": "",
                 "game_status": "playing"
@@ -380,5 +380,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764120338
+    "cache_buster": 1764120371
 }
