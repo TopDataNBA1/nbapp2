@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:23:59",
+    "ultima_actualizacion": "02:24:32",
     "tablas": {
         "pts": [
             {
@@ -25,14 +25,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 137,
+                "Rank": 136,
                 "Nombre": "CJ McCollum",
                 "Team": "FA",
-                "Hoy": 27,
-                "Total": 15705,
-                "Diff": "3",
-                "Antece": "Richard Hamilton",
-                "Nota": "A tiro de 3",
+                "Hoy": 30,
+                "Total": 15708,
+                "Diff": "7",
+                "Antece": "Tobias Harris",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -120,9 +120,9 @@
                 "Rank": 224,
                 "Nombre": "Khris Middleton",
                 "Team": "FA",
-                "Hoy": 9,
-                "Total": 3105,
-                "Diff": "6",
+                "Hoy": 10,
+                "Total": 3106,
+                "Diff": "5",
                 "Antece": "Foots Walker",
                 "Nota": "",
                 "game_status": "playing"
@@ -269,9 +269,9 @@
                 "Rank": 18,
                 "Nombre": "CJ McCollum",
                 "Team": "FA",
-                "Hoy": 7,
-                "Total": 2037,
-                "Diff": "49",
+                "Hoy": 8,
+                "Total": 2038,
+                "Diff": "48",
                 "Antece": "Eric Gordon",
                 "Nota": "",
                 "game_status": "playing"
@@ -313,11 +313,11 @@
                 "Rank": 191,
                 "Nombre": "Kristaps Porzingis",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 968,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 969,
+                "Diff": "",
                 "Antece": "Donte DiVincenzo",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -380,5 +380,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764120239
+    "cache_buster": 1764120272
 }
