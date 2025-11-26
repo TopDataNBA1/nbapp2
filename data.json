@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:51:13",
+    "ultima_actualizacion": "05:51:46",
     "tablas": {
         "pts": [
             {
@@ -353,9 +353,9 @@
                 "Rank": 2,
                 "Nombre": "Chris Paul",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 2727,
-                "Diff": "73",
+                "Hoy": 1,
+                "Total": 2728,
+                "Diff": "72",
                 "Antece": "2800",
                 "Nota": "",
                 "game_status": "playing"
@@ -878,5 +878,5 @@
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312.",
         "Kawhi Leonard (6 points today) has passed Richard Jefferson and is now ranked 161st all-time in career points with 14,905."
     ],
-    "cache_buster": 1764132673
+    "cache_buster": 1764132706
 }
