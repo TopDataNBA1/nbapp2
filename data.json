@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:19:24",
+    "ultima_actualizacion": "05:19:57",
     "tablas": {
         "pts": [
             {
@@ -94,11 +94,11 @@
                 "Rank": 162,
                 "Nombre": "Kawhi Leonard",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 14899,
-                "Diff": "5",
+                "Hoy": 3,
+                "Total": 14902,
+                "Diff": "2",
                 "Antece": "Richard Jefferson",
-                "Nota": "",
+                "Nota": "A tiro de 2",
                 "game_status": "playing"
             },
             {
@@ -173,9 +173,9 @@
                 "Rank": 155,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 6566,
-                "Diff": "9",
+                "Hoy": 2,
+                "Total": 6567,
+                "Diff": "8",
                 "Antece": "Joe Smith",
                 "Nota": "",
                 "game_status": "playing"
@@ -241,9 +241,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 2,
-                "Total": 8452,
-                "Diff": "72",
+                "Hoy": 3,
+                "Total": 8453,
+                "Diff": "71",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -709,11 +709,11 @@
                 "Rank": 108,
                 "Nombre": "Kawhi Leonard",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 1204,
-                "Diff": "1",
+                "Hoy": 1,
+                "Total": 1205,
+                "Diff": "",
                 "Antece": "Jeff Green",
-                "Nota": "A tiro de 1",
+                "Nota": "Mismo total",
                 "game_status": "playing"
             },
             {
@@ -875,5 +875,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764130764
+    "cache_buster": 1764130797
 }
