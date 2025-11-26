@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "03:15:58",
+    "ultima_actualizacion": "03:16:30",
     "tablas": {
         "pts": [
             {
@@ -63,9 +63,9 @@
                 "Rank": 31,
                 "Nombre": "Andre Drummond",
                 "Team": "FA",
-                "Hoy": 9,
-                "Total": 11149,
-                "Diff": "107",
+                "Hoy": 10,
+                "Total": 11150,
+                "Diff": "106",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
                 "game_status": "playing"
@@ -383,5 +383,5 @@
         "CJ McCollum (42 points today) has passed Larry Nance, Richard Hamilton and Tobias Harris and is now ranked 135th all-time in career points with 15,720.",
         "Kristaps Porzingis (2 three-pointers today) has passed Donte DiVincenzo and is now ranked 190th all-time in career three-pointers with 970."
     ],
-    "cache_buster": 1764123358
+    "cache_buster": 1764123390
 }
