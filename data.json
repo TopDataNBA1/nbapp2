@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:18:18",
+    "ultima_actualizacion": "05:18:51",
     "tablas": {
         "pts": [
             {
@@ -230,9 +230,9 @@
                 "Rank": 4,
                 "Nombre": "LeBron James",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 11604,
-                "Diff": "396",
+                "Hoy": 1,
+                "Total": 11605,
+                "Diff": "395",
                 "Antece": "12000",
                 "Nota": "",
                 "game_status": "playing"
@@ -241,9 +241,9 @@
                 "Rank": 13,
                 "Nombre": "James Harden",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 8451,
-                "Diff": "73",
+                "Hoy": 2,
+                "Total": 8452,
+                "Diff": "72",
                 "Antece": "Andre Miller",
                 "Nota": "",
                 "game_status": "playing"
@@ -788,9 +788,9 @@
                 "Rank": 2,
                 "Nombre": "LeBron James",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 1564,
-                "Diff": "36",
+                "Hoy": 1,
+                "Total": 1565,
+                "Diff": "35",
                 "Antece": "1600",
                 "Nota": "",
                 "game_status": "playing"
@@ -875,5 +875,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764130698
+    "cache_buster": 1764130731
 }
