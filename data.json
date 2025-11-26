@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:37:30",
+    "ultima_actualizacion": "05:38:03",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 223,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 20,
-                "Total": 13312,
-                "Diff": "49",
+                "Hoy": 22,
+                "Total": 13314,
+                "Diff": "47",
                 "Antece": "Luol Deng",
                 "Nota": "",
                 "game_status": "playing"
@@ -274,9 +274,9 @@
                 "Rank": 146,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 2,
-                "Total": 3809,
-                "Diff": "13",
+                "Hoy": 3,
+                "Total": 3810,
+                "Diff": "12",
                 "Antece": "Wes Unseld",
                 "Nota": "",
                 "game_status": "playing"
@@ -877,5 +877,5 @@
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312."
     ],
-    "cache_buster": 1764131850
+    "cache_buster": 1764131883
 }
