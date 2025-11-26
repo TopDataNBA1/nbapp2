@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:15:13",
+    "ultima_actualizacion": "02:15:46",
     "tablas": {
         "pts": [
             {
@@ -63,9 +63,9 @@
                 "Rank": 31,
                 "Nombre": "Andre Drummond",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 11140,
-                "Diff": "116",
+                "Hoy": 1,
+                "Total": 11141,
+                "Diff": "115",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
                 "game_status": "playing"
@@ -367,18 +367,18 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 244,
+                "Rank": 243,
                 "Nombre": "Andre Drummond",
                 "Team": "FA",
-                "Hoy": 0,
-                "Total": 919,
+                "Hoy": 1,
+                "Total": 920,
                 "Diff": "1",
-                "Antece": "Larry Nance",
+                "Antece": "Richard Hamilton",
                 "Nota": "A tiro de 1",
                 "game_status": "playing"
             }
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764119713
+    "cache_buster": 1764119746
 }
