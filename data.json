@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "06:10:25",
+    "ultima_actualizacion": "06:10:57",
     "tablas": {
         "pts": [
             {
@@ -116,9 +116,9 @@
                 "Rank": 223,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 29,
-                "Total": 13321,
-                "Diff": "40",
+                "Hoy": 32,
+                "Total": 13324,
+                "Diff": "37",
                 "Antece": "Luol Deng",
                 "Nota": "",
                 "game_status": "playing"
@@ -662,14 +662,14 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 65,
+                "Rank": 64,
                 "Nombre": "Luka Doncic",
                 "Team": "FA",
-                "Hoy": 5,
-                "Total": 1424,
-                "Diff": "",
-                "Antece": "Jordan Clarkson",
-                "Nota": "Mismo total",
+                "Hoy": 6,
+                "Total": 1425,
+                "Diff": "28",
+                "Antece": "Malik Beasley",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -679,7 +679,7 @@
                 "Hoy": 1,
                 "Total": 1420,
                 "Diff": "4",
-                "Antece": "Luka Doncic",
+                "Antece": "Jordan Clarkson",
                 "Nota": "",
                 "game_status": "finished"
             },
@@ -877,7 +877,8 @@
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312.",
         "Kawhi Leonard (6 points today) has passed Richard Jefferson and is now ranked 161st all-time in career points with 14,905.",
-        "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045."
+        "Nicolas Batum (2 steals today) has passed Darwin Cook and is now ranked 164th all-time in career steals with 1,045.",
+        "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425."
     ],
-    "cache_buster": 1764133825
+    "cache_buster": 1764133857
 }
