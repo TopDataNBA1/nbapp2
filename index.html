@@ -88,7 +88,7 @@
     </div>
 
     <div class="status-bar">
-        <div class="status-line1">ONLINE - Last update:</div>
+        <div class="status-line1">ONLINE - Last update: <span id="ultima-act">--:--:--</span></div>
         <div class="status-line2" id="clock-line">--:--:-- ET • --:--:-- CEST</div>
     </div>
 
@@ -374,7 +374,8 @@
                             const antes = viejo.find(p => p.Nombre === jugador.Nombre);
                             if (!antes || jugador.Hoy > antes.Hoy) {
                                 // 1. Encontramos la celda con el nombre del jugador para localizar la fila (<tr>)
-                                const celdaNombre = Array.from(document.querySelectorAll(`#tabla-${stat} .player`))
+                                // CORRECCIÓN: Buscamos en todas las tarjetas (.card) la celda de jugador (.player)
+                                const celdaNombre = Array.from(document.querySelectorAll('.card .player'))
                                     .find(td => td.textContent.trim() === jugador.Nombre);
                                 
                                 if (celdaNombre) {
