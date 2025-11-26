@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "07:46:58",
+    "ultima_actualizacion": "07:47:31",
     "tablas": {
         "pts": [
             {
@@ -11,7 +11,7 @@
                 "Diff": "763",
                 "Antece": "43000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 11,
@@ -22,7 +22,7 @@
                 "Diff": "128",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 36,
@@ -33,7 +33,7 @@
                 "Diff": "104",
                 "Antece": "Elgin Baylor",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 72,
@@ -55,7 +55,7 @@
                 "Diff": "18",
                 "Antece": "Rudy Gay",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 98,
@@ -66,7 +66,7 @@
                 "Diff": "29",
                 "Antece": "Kevin McHale",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 119,
@@ -99,7 +99,7 @@
                 "Diff": "82",
                 "Antece": "15000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 191,
@@ -121,7 +121,7 @@
                 "Diff": "26",
                 "Antece": "Luol Deng",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 230,
@@ -145,7 +145,7 @@
                 "Diff": "155",
                 "Antece": "Kevin Willis",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 31,
@@ -167,7 +167,7 @@
                 "Diff": "76",
                 "Antece": "Clarence Weatherspoo",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 155,
@@ -178,7 +178,7 @@
                 "Diff": "5",
                 "Antece": "Joe Smith",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 194,
@@ -189,7 +189,7 @@
                 "Diff": "2",
                 "Antece": "James Edwards",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 219,
@@ -211,7 +211,7 @@
                 "Diff": "1",
                 "Antece": "Hassan Whiteside",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "ast": [
@@ -224,7 +224,7 @@
                 "Diff": "454",
                 "Antece": "13000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 4,
@@ -235,7 +235,7 @@
                 "Diff": "390",
                 "Antece": "12000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 13,
@@ -246,7 +246,7 @@
                 "Diff": "65",
                 "Antece": "Andre Miller",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 19,
@@ -279,7 +279,7 @@
                 "Diff": "2",
                 "Antece": "Wes Unseld",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 171,
@@ -290,7 +290,7 @@
                 "Diff": "3",
                 "Antece": "Pete Maravich",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 186,
@@ -301,7 +301,7 @@
                 "Diff": "4",
                 "Antece": "Steve Blake",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 191,
@@ -358,7 +358,7 @@
                 "Diff": "73",
                 "Antece": "2800",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 6,
@@ -369,7 +369,7 @@
                 "Diff": "52",
                 "Antece": "2400",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 23,
@@ -380,7 +380,7 @@
                 "Diff": "19",
                 "Antece": "Paul Pierce",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 46,
@@ -413,7 +413,7 @@
                 "Diff": "6",
                 "Antece": "Walter Davis",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 119,
@@ -435,7 +435,7 @@
                 "Diff": "",
                 "Antece": "John Wall",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 178,
@@ -446,7 +446,7 @@
                 "Diff": "3",
                 "Antece": "Stephon Marbury",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 234,
@@ -468,7 +468,7 @@
                 "Diff": "2",
                 "Antece": "Greg Anthony",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "blk": [
@@ -481,7 +481,7 @@
                 "Diff": "8",
                 "Antece": "George Johnson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 69,
@@ -503,7 +503,7 @@
                 "Diff": "9",
                 "Antece": "Sam Lacey",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 119,
@@ -536,7 +536,7 @@
                 "Diff": "1",
                 "Antece": "Billy Paultz",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 201,
@@ -547,7 +547,7 @@
                 "Diff": "6",
                 "Antece": "Bill Cartwright",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 234,
@@ -558,7 +558,7 @@
                 "Diff": "",
                 "Antece": "Brad Miller",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "fg3": [
@@ -571,7 +571,7 @@
                 "Diff": "60",
                 "Antece": "3300",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 6,
@@ -582,7 +582,7 @@
                 "Diff": "37",
                 "Antece": "2600",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 9,
@@ -637,7 +637,7 @@
                 "Diff": "9",
                 "Antece": "Kyrie Irving",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 32,
@@ -648,7 +648,7 @@
                 "Diff": "12",
                 "Antece": "Rashard Lewis",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 35,
@@ -659,7 +659,7 @@
                 "Diff": "7",
                 "Antece": "Carmelo Anthony",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 64,
@@ -670,7 +670,7 @@
                 "Diff": "27",
                 "Antece": "Malik Beasley",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 66,
@@ -703,7 +703,7 @@
                 "Diff": "1",
                 "Antece": "Shane Battier",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 108,
@@ -714,7 +714,7 @@
                 "Diff": "",
                 "Antece": "Jeff Green",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 134,
@@ -725,7 +725,7 @@
                 "Diff": "2",
                 "Antece": "1100",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 162,
@@ -736,7 +736,7 @@
                 "Diff": "8",
                 "Antece": "Joe Harris",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 167,
@@ -793,7 +793,7 @@
                 "Diff": "35",
                 "Antece": "1600",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 15,
@@ -804,7 +804,7 @@
                 "Diff": "13",
                 "Antece": "Clifford Robinson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 58,
@@ -826,7 +826,7 @@
                 "Diff": "",
                 "Antece": "James Edwards",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 69,
@@ -837,7 +837,7 @@
                 "Diff": "1",
                 "Antece": "Al Horford",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 76,
@@ -848,7 +848,7 @@
                 "Diff": "1",
                 "Antece": "Lou Williams",
                 "Nota": "A tiro de 1",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 229,
@@ -881,5 +881,5 @@
         "Luka Doncic (6 three-pointers today) has passed Jordan Clarkson and is now ranked 64th all-time in career three-pointers with 1,425.",
         "Ivica Zubac (2 blocks today) has passed Tom Burleson and is now ranked 234th all-time in career blocks with 592."
     ],
-    "cache_buster": 1764139618
+    "cache_buster": 1764139651
 }
