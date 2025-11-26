@@ -1,29 +1,7 @@
 {
-    "ultima_actualizacion": "02:33:57",
+    "ultima_actualizacion": "02:35:57",
     "tablas": {
         "pts": [
-            {
-                "Rank": 72,
-                "Nombre": "Paul George",
-                "Team": "220",
-                "Hoy": 0,
-                "Total": 18737,
-                "Diff": "50",
-                "Antece": "Bob McAdoo",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 119,
-                "Nombre": "Kyle Lowry",
-                "Team": "196",
-                "Hoy": 0,
-                "Total": 16359,
-                "Diff": "42",
-                "Antece": "Joe Dumars",
-                "Nota": "",
-                "game_status": "playing"
-            },
             {
                 "Rank": 136,
                 "Nombre": "CJ McCollum",
@@ -32,17 +10,6 @@
                 "Total": 15711,
                 "Diff": "4",
                 "Antece": "Tobias Harris",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 191,
-                "Nombre": "Eric Gordon",
-                "Team": "215",
-                "Hoy": 0,
-                "Total": 14142,
-                "Diff": "13",
-                "Antece": "Eddie Jones",
                 "Nota": "",
                 "game_status": "playing"
             },
@@ -84,17 +51,6 @@
         ],
         "ast": [
             {
-                "Rank": 19,
-                "Nombre": "Kyle Lowry",
-                "Team": "196",
-                "Hoy": 0,
-                "Total": 7100,
-                "Diff": "60",
-                "Antece": "Terry Porter",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 81,
                 "Nombre": "Trae Young",
                 "Team": "164",
@@ -106,23 +62,12 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 191,
-                "Nombre": "Paul George",
-                "Team": "220",
-                "Hoy": 0,
-                "Total": 3380,
-                "Diff": "14",
-                "Antece": "Darrell Armstrong",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 224,
                 "Nombre": "Khris Middleton",
                 "Team": "222",
-                "Hoy": 10,
-                "Total": 3106,
-                "Diff": "5",
+                "Hoy": 11,
+                "Total": 3107,
+                "Diff": "4",
                 "Antece": "Foots Walker",
                 "Nota": "",
                 "game_status": "playing"
@@ -137,53 +82,9 @@
                 "Antece": "Dolph Schayes",
                 "Nota": "",
                 "game_status": "playing"
-            },
-            {
-                "Rank": 234,
-                "Nombre": "Tyus Jones",
-                "Team": "196",
-                "Hoy": 0,
-                "Total": 3054,
-                "Diff": "1",
-                "Antece": "Blake Griffin",
-                "Nota": "A tiro de 1",
-                "game_status": "playing"
             }
         ],
         "stl": [
-            {
-                "Rank": 46,
-                "Nombre": "Paul George",
-                "Team": "220",
-                "Hoy": 0,
-                "Total": 1542,
-                "Diff": "2",
-                "Antece": "Nate McMillan",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 55,
-                "Nombre": "Kyle Lowry",
-                "Team": "196",
-                "Hoy": 0,
-                "Total": 1500,
-                "Diff": "5",
-                "Antece": "Reggie Miller",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 119,
-                "Nombre": "Andre Drummond",
-                "Team": "279",
-                "Hoy": 0,
-                "Total": 1145,
-                "Diff": "4",
-                "Antece": "Fred Brown",
-                "Nota": "",
-                "game_status": "playing"
-            },
             {
                 "Rank": 234,
                 "Nombre": "Khris Middleton",
@@ -198,17 +99,6 @@
         ],
         "blk": [
             {
-                "Rank": 69,
-                "Nombre": "Andre Drummond",
-                "Team": "279",
-                "Hoy": 2,
-                "Total": 1164,
-                "Diff": "19",
-                "Antece": "Elmore Smith",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 119,
                 "Nombre": "Kristaps Porzingis",
                 "Team": "240",
@@ -218,53 +108,9 @@
                 "Antece": "Chris Kaman",
                 "Nota": "",
                 "game_status": "playing"
-            },
-            {
-                "Rank": 175,
-                "Nombre": "Joel Embiid",
-                "Team": "---",
-                "Hoy": 0,
-                "Total": 747,
-                "Diff": "2",
-                "Antece": "Rich Kelley",
-                "Nota": "",
-                "game_status": "playing"
             }
         ],
         "fg3": [
-            {
-                "Rank": 9,
-                "Nombre": "Paul George",
-                "Team": "220",
-                "Hoy": 0,
-                "Total": 2354,
-                "Diff": "46",
-                "Antece": "2400",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 14,
-                "Nombre": "Kyle Lowry",
-                "Team": "196",
-                "Hoy": 0,
-                "Total": 2206,
-                "Diff": "9",
-                "Antece": "Kevin Durant",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 17,
-                "Nombre": "Eric Gordon",
-                "Team": "215",
-                "Hoy": 0,
-                "Total": 2086,
-                "Diff": "14",
-                "Antece": "2100",
-                "Nota": "",
-                "game_status": "playing"
-            },
             {
                 "Rank": 18,
                 "Nombre": "CJ McCollum",
@@ -299,17 +145,6 @@
                 "game_status": "playing"
             },
             {
-                "Rank": 167,
-                "Nombre": "Kelly Oubre Jr.",
-                "Team": "---",
-                "Hoy": 0,
-                "Total": 1005,
-                "Diff": "1",
-                "Antece": "Danny Granger",
-                "Nota": "A tiro de 1",
-                "game_status": "playing"
-            },
-            {
                 "Rank": 191,
                 "Nombre": "Kristaps Porzingis",
                 "Team": "240",
@@ -328,17 +163,6 @@
                 "Total": 927,
                 "Diff": "4",
                 "Antece": "Nikola Vucevic",
-                "Nota": "",
-                "game_status": "playing"
-            },
-            {
-                "Rank": 243,
-                "Nombre": "Desmond Bane",
-                "Team": "---",
-                "Hoy": 0,
-                "Total": 842,
-                "Diff": "3",
-                "Antece": "John Stockton",
                 "Nota": "",
                 "game_status": "playing"
             }
@@ -380,5 +204,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764120837
+    "cache_buster": 1764120957
 }
