@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "02:17:57",
+    "ultima_actualizacion": "02:18:30",
     "tablas": {
         "pts": [
             {
@@ -63,9 +63,9 @@
                 "Rank": 31,
                 "Nombre": "Andre Drummond",
                 "Team": "FA",
-                "Hoy": 1,
-                "Total": 11141,
-                "Diff": "115",
+                "Hoy": 2,
+                "Total": 11142,
+                "Diff": "114",
                 "Antece": "Dolph Schayes",
                 "Nota": "",
                 "game_status": "playing"
@@ -380,5 +380,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764119877
+    "cache_buster": 1764119910
 }
