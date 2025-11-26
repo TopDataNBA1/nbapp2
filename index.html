@@ -54,6 +54,7 @@
         th{background:#1a1a2e;position:sticky;top:0;font-size:0.88em;}
         .rank{color:#ffaa00;text-align:center;font-weight:bold;width:8%;}
         .player{text-align:left;font-weight:500;width:28%;}
+        .team{text-align:center;font-weight:bold;width:10%;}
         .number,.today,.diff{text-align:right;}
         .today{font-weight:bold;width:12%;}
         .diff{color:#ffaa00;width:10%;}
@@ -137,8 +138,6 @@
             if (tabName === 'telegram') updateMoves();
         }
 
-        const statNames = {pts:"NBA All-Time Points",trb:"NBA All-Time Rebounds",ast:"NBA All-Time Assists",stl:"NBA All-Time Steals",blk:"NBA All-Time Blocks",fg3:"NBA All-Time Three-Pointers",g:"NBA All-Time Games Played"};
-
         function getTimes() {
             const now = new Date();
             const cest = now.toLocaleTimeString('es-ES', {hour:'2-digit',minute:'2-digit',second:'2-digit',timeZone:'Europe/Paris'});
@@ -205,8 +204,10 @@
                     tablesDiv.innerHTML = '';
                     const filters = getActiveFilters();
 
-                    for (const [stat, tabla] of Object.entries(data.tablas || {})) {
-                        if (!tabla.length) continue;
+                    for (const [stat, tablaData] of Object.entries(data.tablas || {})) {
+                        // Si Python es perfecto, tablaData es {titulo, jugadores}, y 'jugadores' es el array.
+                        const tabla = tablaData.jugadores;
+                        if (!tabla || !tabla.length) continue;
 
                         let filtered = tabla.filter(row => {
                             const rank = row.Rank;
@@ -239,7 +240,7 @@
                         if (filtered.length === 0) continue;
 
                         const card = document.createElement('div'); card.className = 'card';
-                        card.innerHTML = `<h2>${statNames[stat]}</h2><table><thead><tr><th>Rank</th><th>Player</th><th>Before</th><th>Today</th><th>Total</th><th>Diff</th><th>Ahead Of</th></tr></thead><tbody></tbody></table>`;
+                        card.innerHTML = `<h2>${tablaData.titulo}</h2><table><thead><tr><th>Rank</th><th>Player</th><th>Team</th><th>Today</th><th>Total</th><th>Diff</th><th>Ahead Of</th></tr></thead><tbody></tbody></table>`;
                         const tbody = card.querySelector('tbody');
 
                         filtered.forEach(row => {
