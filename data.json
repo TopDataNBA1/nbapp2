@@ -1,7 +1,40 @@
 {
-    "ultima_actualizacion": "04:32:13",
+    "ultima_actualizacion": "04:32:46",
     "tablas": {
         "pts": [
+            {
+                "Rank": 1,
+                "Nombre": "LeBron James",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 42212,
+                "Diff": "788",
+                "Antece": "43000",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 11,
+                "Nombre": "James Harden",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 28132,
+                "Diff": "157",
+                "Antece": "Carmelo Anthony",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 36,
+                "Nombre": "Chris Paul",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 23041,
+                "Diff": "108",
+                "Antece": "Elgin Baylor",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 72,
                 "Nombre": "Paul George",
@@ -12,6 +45,28 @@
                 "Antece": "Bob McAdoo",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 91,
+                "Nombre": "Brook Lopez",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 17624,
+                "Diff": "18",
+                "Antece": "Rudy Gay",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 98,
+                "Nombre": "Bradley Beal",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 17306,
+                "Diff": "29",
+                "Antece": "Kevin McHale",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 119,
@@ -36,6 +91,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 162,
+                "Nombre": "Kawhi Leonard",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 14899,
+                "Diff": "5",
+                "Antece": "Richard Jefferson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 191,
                 "Nombre": "Eric Gordon",
                 "Team": "FA",
@@ -45,6 +111,17 @@
                 "Antece": "Eddie Jones",
                 "Nota": "A tiro de 3",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 224,
+                "Nombre": "Luka Doncic",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 13292,
+                "Diff": "17",
+                "Antece": "Jermaine O'Neal",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 230,
@@ -60,6 +137,17 @@
         ],
         "trb": [
             {
+                "Rank": 25,
+                "Nombre": "LeBron James",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 11740,
+                "Diff": "161",
+                "Antece": "Kevin Willis",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 31,
                 "Nombre": "Andre Drummond",
                 "Team": "FA",
@@ -71,6 +159,39 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 133,
+                "Nombre": "Brook Lopez",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 6770,
+                "Diff": "76",
+                "Antece": "Clarence Weatherspoo",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 155,
+                "Nombre": "James Harden",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 6565,
+                "Diff": "10",
+                "Antece": "Joe Smith",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 194,
+                "Nombre": "Chris Paul",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 6001,
+                "Diff": "3",
+                "Antece": "James Edwards",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 219,
                 "Nombre": "Paul George",
                 "Team": "FA",
@@ -80,9 +201,53 @@
                 "Antece": "Dan Issel",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 236,
+                "Nombre": "Nicolas Batum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 5521,
+                "Diff": "2",
+                "Antece": "Hassan Whiteside",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "ast": [
+            {
+                "Rank": 2,
+                "Nombre": "Chris Paul",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 12545,
+                "Diff": "455",
+                "Antece": "13000",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 4,
+                "Nombre": "LeBron James",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 11604,
+                "Diff": "396",
+                "Antece": "12000",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 13,
+                "Nombre": "James Harden",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 8450,
+                "Diff": "74",
+                "Antece": "Andre Miller",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 19,
                 "Nombre": "Kyle Lowry",
@@ -104,6 +269,39 @@
                 "Antece": "Gail Goodrich",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 146,
+                "Nombre": "Luka Doncic",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3807,
+                "Diff": "15",
+                "Antece": "Wes Unseld",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 171,
+                "Nombre": "Nicolas Batum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3560,
+                "Diff": "3",
+                "Antece": "Pete Maravich",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 186,
+                "Nombre": "Bradley Beal",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3442,
+                "Diff": "4",
+                "Antece": "Steve Blake",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 191,
@@ -152,6 +350,39 @@
         ],
         "stl": [
             {
+                "Rank": 2,
+                "Nombre": "Chris Paul",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2727,
+                "Diff": "73",
+                "Antece": "2800",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 6,
+                "Nombre": "LeBron James",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2347,
+                "Diff": "53",
+                "Antece": "2400",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 23,
+                "Nombre": "James Harden",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1731,
+                "Diff": "21",
+                "Antece": "Paul Pierce",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 46,
                 "Nombre": "Paul George",
                 "Team": "FA",
@@ -174,6 +405,17 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 83,
+                "Nombre": "Kawhi Leonard",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1273,
+                "Diff": "",
+                "Antece": "John Lucas",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 119,
                 "Nombre": "Andre Drummond",
                 "Team": "FA",
@@ -185,6 +427,28 @@
                 "game_status": "playing"
             },
             {
+                "Rank": 165,
+                "Nombre": "Nicolas Batum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1043,
+                "Diff": "1",
+                "Antece": "Darwin Cook",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 178,
+                "Nombre": "Marcus Smart",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1018,
+                "Diff": "4",
+                "Antece": "Stephon Marbury",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 234,
                 "Nombre": "Khris Middleton",
                 "Team": "FA",
@@ -194,9 +458,31 @@
                 "Antece": "James Posey",
                 "Nota": "",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 246,
+                "Nombre": "Bradley Beal",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 885,
+                "Diff": "2",
+                "Antece": "Greg Anthony",
+                "Nota": "",
+                "game_status": "not_started"
             }
         ],
         "blk": [
+            {
+                "Rank": 18,
+                "Nombre": "Brook Lopez",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2074,
+                "Diff": "8",
+                "Antece": "George Johnson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 69,
                 "Nombre": "Andre Drummond",
@@ -207,6 +493,17 @@
                 "Antece": "Elmore Smith",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 71,
+                "Nombre": "LeBron James",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1150,
+                "Diff": "10",
+                "Antece": "Sam Lacey",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 119,
@@ -229,9 +526,64 @@
                 "Antece": "Rich Kelley",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 188,
+                "Nombre": "Nicolas Batum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 705,
+                "Diff": "1",
+                "Antece": "Billy Paultz",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 201,
+                "Nombre": "James Harden",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 662,
+                "Diff": "6",
+                "Antece": "Bill Cartwright",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 237,
+                "Nombre": "Ivica Zubac",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 590,
+                "Diff": "",
+                "Antece": "Greg Anderson",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
             }
         ],
         "fg3": [
+            {
+                "Rank": 2,
+                "Nombre": "James Harden",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3237,
+                "Diff": "63",
+                "Antece": "3300",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 6,
+                "Nombre": "LeBron James",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2561,
+                "Diff": "39",
+                "Antece": "2600",
+                "Nota": "",
+                "game_status": "not_started"
+            },
             {
                 "Rank": 9,
                 "Nombre": "Paul George",
@@ -277,6 +629,39 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 27,
+                "Nombre": "Chris Paul",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1867,
+                "Diff": "9",
+                "Antece": "Kyrie Irving",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 32,
+                "Nombre": "Nicolas Batum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1773,
+                "Diff": "14",
+                "Antece": "Rashard Lewis",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 35,
+                "Nombre": "Bradley Beal",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1724,
+                "Diff": "7",
+                "Antece": "Carmelo Anthony",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 65,
                 "Nombre": "Khris Middleton",
                 "Team": "FA",
@@ -288,6 +673,17 @@
                 "game_status": "finished"
             },
             {
+                "Rank": 66,
+                "Nombre": "Luka Doncic",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1419,
+                "Diff": "1",
+                "Antece": "Khris Middleton",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 84,
                 "Nombre": "Trae Young",
                 "Team": "FA",
@@ -297,6 +693,50 @@
                 "Antece": "Mookie Blaylock",
                 "Nota": "A tiro de 1",
                 "game_status": "finished"
+            },
+            {
+                "Rank": 93,
+                "Nombre": "Bogdan Bogdanovic",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1249,
+                "Diff": "1",
+                "Antece": "Shane Battier",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 108,
+                "Nombre": "Kawhi Leonard",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1204,
+                "Diff": "1",
+                "Antece": "Jeff Green",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 134,
+                "Nombre": "Brook Lopez",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1098,
+                "Diff": "2",
+                "Antece": "1100",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 162,
+                "Nombre": "Marcus Smart",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1017,
+                "Diff": "9",
+                "Antece": "Joe Harris",
+                "Nota": "",
+                "game_status": "not_started"
             },
             {
                 "Rank": 167,
@@ -345,6 +785,28 @@
         ],
         "g": [
             {
+                "Rank": 2,
+                "Nombre": "LeBron James",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1564,
+                "Diff": "36",
+                "Antece": "1600",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 15,
+                "Nombre": "Chris Paul",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1366,
+                "Diff": "14",
+                "Antece": "Clifford Robinson",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
                 "Rank": 58,
                 "Nombre": "Kyle Lowry",
                 "Team": "FA",
@@ -354,6 +816,39 @@
                 "Antece": "Scottie Pippen",
                 "Nota": "",
                 "game_status": "playing"
+            },
+            {
+                "Rank": 61,
+                "Nombre": "James Harden",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1167,
+                "Diff": "1",
+                "Antece": "James Edwards",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 69,
+                "Nombre": "Nicolas Batum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1148,
+                "Diff": "2",
+                "Antece": "Al Horford",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 76,
+                "Nombre": "Brook Lopez",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1122,
+                "Diff": "1",
+                "Antece": "Lou Williams",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
             },
             {
                 "Rank": 229,
@@ -380,5 +875,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764127933
+    "cache_buster": 1764127966
 }
