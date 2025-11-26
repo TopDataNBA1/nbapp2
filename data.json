@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "05:44:39",
+    "ultima_actualizacion": "05:45:12",
     "tablas": {
         "pts": [
             {
@@ -91,14 +91,14 @@
                 "game_status": "finished"
             },
             {
-                "Rank": 162,
+                "Rank": 161,
                 "Nombre": "Kawhi Leonard",
                 "Team": "FA",
-                "Hoy": 3,
-                "Total": 14902,
-                "Diff": "2",
-                "Antece": "Richard Jefferson",
-                "Nota": "A tiro de 2",
+                "Hoy": 5,
+                "Total": 14904,
+                "Diff": "96",
+                "Antece": "15000",
+                "Nota": "",
                 "game_status": "playing"
             },
             {
@@ -877,5 +877,5 @@
     "notificaciones": [
         "Luka Doncic (20 points today) has passed Jermaine O'Neal and is now ranked 223rd all-time in career points with 13,312."
     ],
-    "cache_buster": 1764132279
+    "cache_buster": 1764132312
 }
