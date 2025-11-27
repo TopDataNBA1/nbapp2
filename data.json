@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:29:48",
+  "ultima_actualizacion": "05:30:21",
   "tablas": {
     "pts": [
       {
@@ -61,9 +61,9 @@
         "Rank": 108,
         "Nombre": "Devin Booker",
         "Antes": 16927,
-        "Hoy": 15,
-        "Total": 16942,
-        "Diff": "18",
+        "Hoy": 17,
+        "Total": 16944,
+        "Diff": "16",
         "Antece": "Bob Cousy",
         "Nota": "",
         "game_status": "playing"
@@ -1470,5 +1470,5 @@
     "De'Aaron Fox (7 assists today) has passed Ty Lawson and is now ranked 197th all-time in career assists with 3,318.",
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651."
   ],
-  "cache_buster": 1764217788
+  "cache_buster": 1764217821
 }
