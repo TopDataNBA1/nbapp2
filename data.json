@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:15:52",
+  "ultima_actualizacion": "04:16:26",
   "tablas": {
     "pts": [
       {
@@ -61,9 +61,9 @@
         "Rank": 108,
         "Nombre": "Devin Booker",
         "Antes": 16927,
-        "Hoy": 0,
-        "Total": 16927,
-        "Diff": "33",
+        "Hoy": 3,
+        "Total": 16930,
+        "Diff": "30",
         "Antece": "Bob Cousy",
         "Nota": "",
         "game_status": "playing"
@@ -896,9 +896,9 @@
         "Rank": 59,
         "Nombre": "Devin Booker",
         "Antes": 1458,
-        "Hoy": 0,
-        "Total": 1458,
-        "Diff": "19",
+        "Hoy": 1,
+        "Total": 1459,
+        "Diff": "18",
         "Antece": "Harrison Barnes",
         "Nota": "",
         "game_status": "playing"
@@ -1465,5 +1465,5 @@
     "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155.",
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971."
   ],
-  "cache_buster": 1764213352
+  "cache_buster": 1764213386
 }
