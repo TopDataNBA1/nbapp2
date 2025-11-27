@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:35:56",
+  "ultima_actualizacion": "03:36:28",
   "tablas": {
     "pts": [
       {
@@ -47,6 +47,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 37,
+        "Nombre": "Damian Lillard",
+        "Antes": 22598,
+        "Hoy": 0,
+        "Total": 22598,
+        "Diff": "402",
+        "Antece": "23000",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 108,
         "Nombre": "Devin Booker",
         "Antes": 16927,
@@ -54,6 +65,17 @@
         "Total": 16927,
         "Diff": "33",
         "Antece": "Bob Cousy",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 114,
+        "Nombre": "Jrue Holiday",
+        "Antes": 16622,
+        "Hoy": 0,
+        "Total": 16622,
+        "Diff": "90",
+        "Antece": "Latrell Sprewell",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -120,6 +142,17 @@
         "Total": 14425,
         "Diff": "6",
         "Antece": "Andrew Wiggins",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 198,
+        "Nombre": "Harrison Barnes",
+        "Antes": 14014,
+        "Hoy": 0,
+        "Total": 14014,
+        "Diff": "4",
+        "Antece": "Fred Brown",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -318,9 +351,9 @@
         "Rank": 27,
         "Nombre": "Mike Conley",
         "Antes": 6686,
-        "Hoy": 0,
-        "Total": 6686,
-        "Diff": "25",
+        "Hoy": 1,
+        "Total": 6687,
+        "Diff": "24",
         "Antece": "Kevin Johnson",
         "Nota": "",
         "game_status": "playing"
@@ -331,8 +364,30 @@
         "Antes": 6599,
         "Hoy": 0,
         "Total": 6599,
-        "Diff": "87",
+        "Diff": "88",
         "Antece": "Mike Conley",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 30,
+        "Nombre": "Jrue Holiday",
+        "Antes": 6539,
+        "Hoy": 0,
+        "Total": 6539,
+        "Diff": "38",
+        "Antece": "Derek Harper",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 41,
+        "Nombre": "Damian Lillard",
+        "Antes": 6069,
+        "Hoy": 0,
+        "Total": 6069,
+        "Diff": "45",
+        "Antece": "John Havlicek",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -406,12 +461,23 @@
         "Rank": 169,
         "Nombre": "T.J. McConnell",
         "Antes": 3568,
-        "Hoy": 5,
-        "Total": 3573,
-        "Diff": "18",
+        "Hoy": 6,
+        "Total": 3574,
+        "Diff": "17",
         "Antece": "Paul Westphal",
         "Nota": "",
         "game_status": "playing"
+      },
+      {
+        "Rank": 199,
+        "Nombre": "De'Aaron Fox",
+        "Antes": 3311,
+        "Hoy": 0,
+        "Total": 3311,
+        "Diff": "2",
+        "Antece": "Bimbo Coles",
+        "Nota": "",
+        "game_status": "not_started"
       },
       {
         "Rank": 209,
@@ -478,6 +544,17 @@
         "Total": 1574,
         "Diff": "9",
         "Antece": "Terry Porter",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 56,
+        "Nombre": "Jrue Holiday",
+        "Antes": 1492,
+        "Hoy": 0,
+        "Total": 1492,
+        "Diff": "8",
+        "Antece": "Kyle Lowry",
         "Nota": "",
         "game_status": "not_started"
       },
@@ -583,6 +660,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 84,
+        "Nombre": "Bismack Biyombo",
+        "Antes": 1101,
+        "Hoy": 0,
+        "Total": 1101,
+        "Diff": "1",
+        "Antece": "Antonio McDyess",
+        "Nota": "A tiro de 1",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 112,
         "Nombre": "Clint Capela",
         "Antes": 958,
@@ -636,6 +724,17 @@
         "Antece": "Duane Causwell",
         "Nota": "",
         "game_status": "playing"
+      },
+      {
+        "Rank": 167,
+        "Nombre": "Jerami Grant",
+        "Antes": 755,
+        "Hoy": 0,
+        "Total": 755,
+        "Diff": "3",
+        "Antece": "Oliver Miller",
+        "Nota": "",
+        "game_status": "not_started"
       },
       {
         "Rank": 186,
@@ -695,6 +794,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 4,
+        "Nombre": "Damian Lillard",
+        "Antes": 2804,
+        "Hoy": 0,
+        "Total": 2804,
+        "Diff": "96",
+        "Antece": "2900",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 13,
         "Nombre": "Kevin Durant",
         "Antes": 2215,
@@ -728,6 +838,17 @@
         "game_status": "playing"
       },
       {
+        "Rank": 42,
+        "Nombre": "Jrue Holiday",
+        "Antes": 1605,
+        "Hoy": 0,
+        "Total": 1605,
+        "Diff": "3",
+        "Antece": "Jason Richardson",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 47,
         "Nombre": "Zach LaVine",
         "Antes": 1577,
@@ -759,6 +880,17 @@
         "Antece": "Eddie Jones",
         "Nota": "Mismo total",
         "game_status": "finished"
+      },
+      {
+        "Rank": 58,
+        "Nombre": "Harrison Barnes",
+        "Antes": 1477,
+        "Hoy": 0,
+        "Total": 1477,
+        "Diff": "18",
+        "Antece": "Manu Ginobili",
+        "Nota": "",
+        "game_status": "not_started"
       },
       {
         "Rank": 59,
@@ -1047,6 +1179,17 @@
         "game_status": "not_started"
       },
       {
+        "Rank": 182,
+        "Nombre": "Jerami Grant",
+        "Antes": 979,
+        "Hoy": 0,
+        "Total": 979,
+        "Diff": "3",
+        "Antece": "Matt Barnes",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 191,
         "Nombre": "Donte DiVincenzo",
         "Antes": 969,
@@ -1077,6 +1220,17 @@
         "Diff": "1",
         "Antece": "Raymond Felton",
         "Nota": "A tiro de 1",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 208,
+        "Nombre": "Kelly Olynyk",
+        "Antes": 923,
+        "Hoy": 0,
+        "Total": 923,
+        "Diff": "",
+        "Antece": "Darrell Armstrong",
+        "Nota": "Mismo total",
         "game_status": "not_started"
       },
       {
@@ -1144,6 +1298,17 @@
         "Antece": "Avery Bradley",
         "Nota": "",
         "game_status": "playing"
+      },
+      {
+        "Rank": 244,
+        "Nombre": "De'Aaron Fox",
+        "Antes": 834,
+        "Hoy": 0,
+        "Total": 834,
+        "Diff": "9",
+        "Antece": "Desmond Bane",
+        "Nota": "",
+        "game_status": "not_started"
       },
       {
         "Rank": 249,
@@ -1236,6 +1401,17 @@
         "game_status": "playing"
       },
       {
+        "Rank": 122,
+        "Nombre": "Jrue Holiday",
+        "Antes": 1049,
+        "Hoy": 0,
+        "Total": 1049,
+        "Diff": "2",
+        "Antece": "Shawn Kemp",
+        "Nota": "",
+        "game_status": "not_started"
+      },
+      {
         "Rank": 130,
         "Nombre": "Stephen Curry",
         "Antes": 1041,
@@ -1244,6 +1420,17 @@
         "Diff": "1",
         "Antece": "Danny Ainge",
         "Nota": "A tiro de 1",
+        "game_status": "not_started"
+      },
+      {
+        "Rank": 144,
+        "Nombre": "Harrison Barnes",
+        "Antes": 1009,
+        "Hoy": 0,
+        "Total": 1009,
+        "Diff": "2",
+        "Antece": "Jermaine O'Neal",
+        "Nota": "",
         "game_status": "not_started"
       },
       {
@@ -1273,5 +1460,5 @@
   "notificaciones": [
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764210956
+  "cache_buster": 1764210988
 }
