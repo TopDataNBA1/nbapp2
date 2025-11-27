@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:08:39",
+  "ultima_actualizacion": "04:09:12",
   "tablas": {
     "pts": [
       {
@@ -1190,14 +1190,14 @@
         "game_status": "not_started"
       },
       {
-        "Rank": 190,
+        "Rank": 189,
         "Nombre": "Donte DiVincenzo",
         "Antes": 969,
-        "Hoy": 1,
-        "Total": 970,
-        "Diff": "1",
-        "Antece": "Vladimir Radmanovic",
-        "Nota": "A tiro de 1",
+        "Hoy": 2,
+        "Total": 971,
+        "Diff": "2",
+        "Antece": "Patrick Beverley",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -1462,7 +1462,8 @@
     "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060.",
     "Gary Trent Jr. (5 three-pointers today) has passed Kyle Kuzma and is now ranked 147th all-time in career three-pointers with 1,061.",
     "Anthony Edwards (3 three-pointers today) has passed Jameer Nelson and is now ranked 120th all-time in career three-pointers with 1,154.",
-    "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155."
+    "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155.",
+    "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971."
   ],
-  "cache_buster": 1764212919
+  "cache_buster": 1764212952
 }
