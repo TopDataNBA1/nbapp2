@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:10:52",
+  "ultima_actualizacion": "04:11:25",
   "tablas": {
     "pts": [
       {
@@ -283,9 +283,9 @@
         "Rank": 148,
         "Nombre": "Julius Randle",
         "Antes": 6618,
-        "Hoy": 7,
-        "Total": 6625,
-        "Diff": "7",
+        "Hoy": 8,
+        "Total": 6626,
+        "Diff": "6",
         "Antece": "Amar'e Stoudemire",
         "Nota": "",
         "game_status": "playing"
@@ -1212,14 +1212,14 @@
         "game_status": "playing"
       },
       {
-        "Rank": 206,
+        "Rank": 205,
         "Nombre": "Dillon Brooks",
         "Antes": 924,
-        "Hoy": 0,
-        "Total": 924,
-        "Diff": "1",
-        "Antece": "Raymond Felton",
-        "Nota": "A tiro de 1",
+        "Hoy": 1,
+        "Total": 925,
+        "Diff": "2",
+        "Antece": "Luke Kennard",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -1465,5 +1465,5 @@
     "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155.",
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971."
   ],
-  "cache_buster": 1764213052
+  "cache_buster": 1764213085
 }
