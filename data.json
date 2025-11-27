@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:59:21",
+  "ultima_actualizacion": "05:59:54",
   "tablas": {
     "pts": [
       {
@@ -171,9 +171,9 @@
         "Rank": 202,
         "Nombre": "Zach LaVine",
         "Antes": 13918,
-        "Hoy": 10,
-        "Total": 13928,
-        "Diff": "11",
+        "Hoy": 13,
+        "Total": 13931,
+        "Diff": "8",
         "Antece": "Julius Randle",
         "Nota": "",
         "game_status": "playing"
@@ -417,9 +417,9 @@
         "Rank": 76,
         "Nombre": "DeMar DeRozan",
         "Antes": 4934,
-        "Hoy": 2,
-        "Total": 4936,
-        "Diff": "18",
+        "Hoy": 3,
+        "Total": 4937,
+        "Diff": "17",
         "Antece": "Kevin Durant",
         "Nota": "",
         "game_status": "playing"
@@ -849,14 +849,14 @@
         "game_status": "playing"
       },
       {
-        "Rank": 47,
+        "Rank": 46,
         "Nombre": "Zach LaVine",
         "Antes": 1577,
-        "Hoy": 0,
-        "Total": 1577,
-        "Diff": "",
-        "Antece": "Danny Green",
-        "Nota": "Mismo total",
+        "Hoy": 1,
+        "Total": 1578,
+        "Diff": "12",
+        "Antece": "Mike Miller",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -1471,5 +1471,5 @@
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651.",
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968."
   ],
-  "cache_buster": 1764219561
+  "cache_buster": 1764219594
 }
