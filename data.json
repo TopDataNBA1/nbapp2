@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:49:45",
+  "ultima_actualizacion": "04:50:18",
   "tablas": {
     "pts": [
       {
@@ -149,11 +149,11 @@
         "Rank": 198,
         "Nombre": "Harrison Barnes",
         "Antes": 14014,
-        "Hoy": 2,
-        "Total": 14016,
-        "Diff": "2",
+        "Hoy": 4,
+        "Total": 14018,
+        "Diff": "",
         "Antece": "Fred Brown",
-        "Nota": "A tiro de 2",
+        "Nota": "Mismo total",
         "game_status": "playing"
       },
       {
@@ -171,9 +171,9 @@
         "Rank": 202,
         "Nombre": "Zach LaVine",
         "Antes": 13918,
-        "Hoy": 2,
-        "Total": 13920,
-        "Diff": "19",
+        "Hoy": 3,
+        "Total": 13921,
+        "Diff": "18",
         "Antece": "Julius Randle",
         "Nota": "",
         "game_status": "playing"
@@ -1467,5 +1467,5 @@
     "De'Aaron Fox (3 assists today) has passed Bimbo Coles and is now ranked 198th all-time in career assists with 3,314.",
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048."
   ],
-  "cache_buster": 1764215385
+  "cache_buster": 1764215418
 }
