@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:13:07",
+  "ultima_actualizacion": "05:13:40",
   "tablas": {
     "pts": [
       {
@@ -362,9 +362,9 @@
         "Rank": 28,
         "Nombre": "Stephen Curry",
         "Antes": 6599,
-        "Hoy": 2,
-        "Total": 6601,
-        "Diff": "87",
+        "Hoy": 3,
+        "Total": 6602,
+        "Diff": "86",
         "Antece": "Mike Conley",
         "Nota": "",
         "game_status": "playing"
@@ -1468,5 +1468,5 @@
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048.",
     "Harrison Barnes (5 points today) has passed Fred Brown and is now ranked 197th all-time in career points with 14,019."
   ],
-  "cache_buster": 1764216787
+  "cache_buster": 1764216820
 }
