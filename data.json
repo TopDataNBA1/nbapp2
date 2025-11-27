@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:06:26",
+  "ultima_actualizacion": "05:06:59",
   "tablas": {
     "pts": [
       {
@@ -1303,9 +1303,9 @@
         "Rank": 244,
         "Nombre": "De'Aaron Fox",
         "Antes": 834,
-        "Hoy": 1,
-        "Total": 835,
-        "Diff": "8",
+        "Hoy": 2,
+        "Total": 836,
+        "Diff": "7",
         "Antece": "Desmond Bane",
         "Nota": "",
         "game_status": "playing"
@@ -1468,5 +1468,5 @@
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048.",
     "Harrison Barnes (5 points today) has passed Fred Brown and is now ranked 197th all-time in career points with 14,019."
   ],
-  "cache_buster": 1764216386
+  "cache_buster": 1764216419
 }
