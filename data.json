@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:22:58",
+  "ultima_actualizacion": "03:23:31",
   "tablas": {
     "pts": [
       {
@@ -153,9 +153,9 @@
         "Rank": 169,
         "Nombre": "T.J. McConnell",
         "Antes": 3568,
-        "Hoy": 3,
-        "Total": 3571,
-        "Diff": "20",
+        "Hoy": 4,
+        "Total": 3572,
+        "Diff": "19",
         "Antece": "Paul Westphal",
         "Nota": "",
         "game_status": "playing"
@@ -633,5 +633,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764210178
+  "cache_buster": 1764210211
 }
