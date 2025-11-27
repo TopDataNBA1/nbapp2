@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:56:59",
+  "ultima_actualizacion": "03:57:32",
   "tablas": {
     "pts": [
       {
@@ -718,9 +718,9 @@
         "Rank": 165,
         "Nombre": "Jakob Poeltl",
         "Antes": 764,
-        "Hoy": 0,
-        "Total": 764,
-        "Diff": "3",
+        "Hoy": 1,
+        "Total": 765,
+        "Diff": "2",
         "Antece": "Duane Causwell",
         "Nota": "",
         "game_status": "playing"
@@ -1462,5 +1462,5 @@
     "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060.",
     "Gary Trent Jr. (5 three-pointers today) has passed Kyle Kuzma and is now ranked 147th all-time in career three-pointers with 1,061."
   ],
-  "cache_buster": 1764212219
+  "cache_buster": 1764212252
 }
