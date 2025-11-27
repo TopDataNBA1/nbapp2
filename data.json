@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:16:07",
+  "ultima_actualizacion": "06:16:41",
   "tablas": {
     "pts": [
       {
@@ -1147,17 +1147,28 @@
       },
       {
         "Rank": 178,
-        "Nombre": "Tyler Herro",
+        "Nombre": "Royce O'Neale",
         "Antes": 984,
         "Hoy": 3,
         "Total": 987,
         "Diff": "1",
         "Antece": "Leandro Barbosa",
         "Nota": "A tiro de 1",
-        "game_status": "finished"
+        "game_status": "playing"
       },
       {
         "Rank": 179,
+        "Nombre": "Tyler Herro",
+        "Antes": 984,
+        "Hoy": 3,
+        "Total": 987,
+        "Diff": "",
+        "Antece": "Royce O'Neale",
+        "Nota": "Mismo total",
+        "game_status": "finished"
+      },
+      {
+        "Rank": 180,
         "Nombre": "Doug McDermott",
         "Antes": 986,
         "Hoy": 0,
@@ -1165,17 +1176,6 @@
         "Diff": "1",
         "Antece": "Tyler Herro",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
-      },
-      {
-        "Rank": 180,
-        "Nombre": "Royce O'Neale",
-        "Antes": 984,
-        "Hoy": 2,
-        "Total": 986,
-        "Diff": "",
-        "Antece": "Doug McDermott",
-        "Nota": "Mismo total",
         "game_status": "playing"
       },
       {
@@ -1470,7 +1470,8 @@
     "De'Aaron Fox (7 assists today) has passed Ty Lawson and is now ranked 197th all-time in career assists with 3,318.",
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651.",
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968.",
-    "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652."
+    "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652.",
+    "Royce O'Neale (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764220567
+  "cache_buster": 1764220601
 }
