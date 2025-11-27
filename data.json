@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:47:38",
+  "ultima_actualizacion": "05:48:11",
   "tablas": {
     "pts": [
       {
@@ -1204,11 +1204,11 @@
         "Rank": 192,
         "Nombre": "Malik Monk",
         "Antes": 966,
-        "Hoy": 2,
-        "Total": 968,
-        "Diff": "2",
+        "Hoy": 3,
+        "Total": 969,
+        "Diff": "1",
         "Antece": "Kristaps Porzingis",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       },
       {
@@ -1471,5 +1471,5 @@
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651.",
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968."
   ],
-  "cache_buster": 1764218858
+  "cache_buster": 1764218891
 }
