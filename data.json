@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:42:34",
+  "ultima_actualizacion": "03:43:07",
   "tablas": {
     "pts": [
       {
@@ -132,7 +132,7 @@
         "Diff": "6",
         "Antece": "Nate Thurmond",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 183,
@@ -635,7 +635,7 @@
         "Diff": "11",
         "Antece": "Hot Rod Williams",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 52,
@@ -945,7 +945,7 @@
         "Diff": "3",
         "Antece": "Evan Fournier",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 78,
@@ -1011,7 +1011,7 @@
         "Diff": "3",
         "Antece": "Deron Williams",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 121,
@@ -1044,7 +1044,7 @@
         "Diff": "",
         "Antece": "Latrell Sprewell",
         "Nota": "Mismo total",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 137,
@@ -1061,12 +1061,12 @@
         "Rank": 147,
         "Nombre": "Gary Trent Jr.",
         "Antes": 1056,
-        "Hoy": 4,
-        "Total": 1060,
-        "Diff": "6",
+        "Hoy": 5,
+        "Total": 1061,
+        "Diff": "5",
         "Antece": "George Hill",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 148,
@@ -1074,10 +1074,10 @@
         "Antes": 1060,
         "Hoy": 0,
         "Total": 1060,
-        "Diff": "",
+        "Diff": "1",
         "Antece": "Gary Trent Jr.",
-        "Nota": "Mismo total",
-        "game_status": "playing"
+        "Nota": "A tiro de 1",
+        "game_status": "finished"
       },
       {
         "Rank": 160,
@@ -1121,7 +1121,7 @@
         "Diff": "2",
         "Antece": "Danny Ainge",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 172,
@@ -1154,7 +1154,7 @@
         "Diff": "1",
         "Antece": "Leandro Barbosa",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 179,
@@ -1253,7 +1253,7 @@
         "Diff": "4",
         "Antece": "Jose Calderon",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 216,
@@ -1459,7 +1459,8 @@
   },
   "notificaciones": [
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987.",
-    "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060."
+    "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060.",
+    "Gary Trent Jr. (5 three-pointers today) has passed Kyle Kuzma and is now ranked 147th all-time in career three-pointers with 1,061."
   ],
-  "cache_buster": 1764211354
+  "cache_buster": 1764211387
 }
