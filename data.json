@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:23:37",
+  "ultima_actualizacion": "04:24:10",
   "tablas": {
     "pts": [
       {
@@ -39,9 +39,9 @@
         "Rank": 24,
         "Nombre": "DeMar DeRozan",
         "Antes": 25629,
-        "Hoy": 2,
-        "Total": 25631,
-        "Diff": "97",
+        "Hoy": 4,
+        "Total": 25633,
+        "Diff": "95",
         "Antece": "Vince Carter",
         "Nota": "",
         "game_status": "playing"
@@ -696,11 +696,11 @@
         "Rank": 157,
         "Nombre": "Jaren Jackson Jr.",
         "Antes": 796,
-        "Hoy": 0,
-        "Total": 796,
-        "Diff": "2",
+        "Hoy": 1,
+        "Total": 797,
+        "Diff": "1",
         "Antece": "Vin Baker",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       },
       {
@@ -1466,5 +1466,5 @@
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971.",
     "De'Aaron Fox (3 assists today) has passed Bimbo Coles and is now ranked 198th all-time in career assists with 3,314."
   ],
-  "cache_buster": 1764213817
+  "cache_buster": 1764213850
 }
