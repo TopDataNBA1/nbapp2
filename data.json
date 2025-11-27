@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:21:52",
+  "ultima_actualizacion": "03:22:25",
   "tablas": {
     "pts": [
       {
@@ -85,9 +85,9 @@
         "Rank": 45,
         "Nombre": "Rudy Gobert",
         "Antes": 9874,
-        "Hoy": 10,
-        "Total": 9884,
-        "Diff": "116",
+        "Hoy": 11,
+        "Total": 9885,
+        "Diff": "115",
         "Antece": "10000",
         "Nota": "",
         "game_status": "playing"
@@ -633,5 +633,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764210112
+  "cache_buster": 1764210145
 }
