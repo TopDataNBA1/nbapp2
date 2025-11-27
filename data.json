@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:58:39",
+  "ultima_actualizacion": "03:59:12",
   "tablas": {
     "pts": [
       {
@@ -1017,9 +1017,9 @@
         "Rank": 120,
         "Nombre": "Anthony Edwards",
         "Antes": 1151,
-        "Hoy": 3,
-        "Total": 1154,
-        "Diff": "9",
+        "Hoy": 4,
+        "Total": 1155,
+        "Diff": "8",
         "Antece": "Antawn Jamison",
         "Nota": "",
         "game_status": "playing"
@@ -1461,7 +1461,8 @@
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987.",
     "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060.",
     "Gary Trent Jr. (5 three-pointers today) has passed Kyle Kuzma and is now ranked 147th all-time in career three-pointers with 1,061.",
-    "Anthony Edwards (3 three-pointers today) has passed Jameer Nelson and is now ranked 120th all-time in career three-pointers with 1,154."
+    "Anthony Edwards (3 three-pointers today) has passed Jameer Nelson and is now ranked 120th all-time in career three-pointers with 1,154.",
+    "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155."
   ],
-  "cache_buster": 1764212319
+  "cache_buster": 1764212352
 }
