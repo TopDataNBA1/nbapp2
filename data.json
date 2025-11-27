@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:48:11",
+  "ultima_actualizacion": "05:48:45",
   "tablas": {
     "pts": [
       {
@@ -28,9 +28,9 @@
         "Rank": 22,
         "Nombre": "Stephen Curry",
         "Antes": 25818,
-        "Hoy": 10,
-        "Total": 25828,
-        "Diff": "172",
+        "Hoy": 12,
+        "Total": 25830,
+        "Diff": "170",
         "Antece": "26000",
         "Nota": "",
         "game_status": "playing"
@@ -1471,5 +1471,5 @@
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651.",
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968."
   ],
-  "cache_buster": 1764218891
+  "cache_buster": 1764218925
 }
