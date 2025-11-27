@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:10:19",
+  "ultima_actualizacion": "04:10:52",
   "tablas": {
     "pts": [
       {
@@ -22,7 +22,7 @@
         "Diff": "44",
         "Antece": "Tim Duncan",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 22,
@@ -44,7 +44,7 @@
         "Diff": "99",
         "Antece": "Vince Carter",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 37,
@@ -66,7 +66,7 @@
         "Diff": "33",
         "Antece": "Bob Cousy",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 114,
@@ -176,7 +176,7 @@
         "Diff": "21",
         "Antece": "Julius Randle",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 211,
@@ -233,7 +233,7 @@
         "Diff": "33",
         "Antece": "Shawn Kemp",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 83,
@@ -277,7 +277,7 @@
         "Diff": "8",
         "Antece": "Detlef Schrempf",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 148,
@@ -345,7 +345,7 @@
         "Diff": "98",
         "Antece": "Magic Johnson",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 27,
@@ -422,7 +422,7 @@
         "Diff": "20",
         "Antece": "Kevin Durant",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 114,
@@ -433,7 +433,7 @@
         "Diff": "4",
         "Antece": "Michael Adams",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 161,
@@ -455,7 +455,7 @@
         "Diff": "3",
         "Antece": "Elgin Baylor",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 169,
@@ -488,7 +488,7 @@
         "Diff": "9",
         "Antece": "Vinnie Johnson",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 220,
@@ -523,7 +523,7 @@
         "Diff": "8",
         "Antece": "Allen Iverson",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 35,
@@ -578,7 +578,7 @@
         "Diff": "1",
         "Antece": "Dan Majerle",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 104,
@@ -857,7 +857,7 @@
         "Diff": "",
         "Antece": "Danny Green",
         "Nota": "Mismo total",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 49,
@@ -901,7 +901,7 @@
         "Diff": "19",
         "Antece": "Harrison Barnes",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 65,
@@ -923,7 +923,7 @@
         "Diff": "17",
         "Antece": "Khris Middleton",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 70,
@@ -1055,7 +1055,7 @@
         "Diff": "3",
         "Antece": "Dana Barros",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 147,
@@ -1165,7 +1165,7 @@
         "Diff": "1",
         "Antece": "Tyler Herro",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 180,
@@ -1176,7 +1176,7 @@
         "Diff": "2",
         "Antece": "Doug McDermott",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 182,
@@ -1209,7 +1209,7 @@
         "Diff": "1",
         "Antece": "Spencer Dinwiddie",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 206,
@@ -1220,7 +1220,7 @@
         "Diff": "1",
         "Antece": "Raymond Felton",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 208,
@@ -1264,7 +1264,7 @@
         "Diff": "1",
         "Antece": "Darius Garland",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 218,
@@ -1332,7 +1332,7 @@
         "Diff": "2",
         "Antece": "Otis Thorpe",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 43,
@@ -1354,7 +1354,7 @@
         "Diff": "2",
         "Antece": "Shaquille O'Neal",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 53,
@@ -1465,5 +1465,5 @@
     "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155.",
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971."
   ],
-  "cache_buster": 1764213019
+  "cache_buster": 1764213052
 }
