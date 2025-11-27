@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:38:10",
+  "ultima_actualizacion": "05:38:43",
   "tablas": {
     "pts": [
       {
@@ -228,9 +228,9 @@
         "Rank": 61,
         "Nombre": "Russell Westbrook",
         "Antes": 8801,
-        "Hoy": 5,
-        "Total": 8806,
-        "Diff": "28",
+        "Hoy": 6,
+        "Total": 8807,
+        "Diff": "27",
         "Antece": "Shawn Kemp",
         "Nota": "",
         "game_status": "playing"
@@ -1470,5 +1470,5 @@
     "De'Aaron Fox (7 assists today) has passed Ty Lawson and is now ranked 197th all-time in career assists with 3,318.",
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651."
   ],
-  "cache_buster": 1764218290
+  "cache_buster": 1764218323
 }
