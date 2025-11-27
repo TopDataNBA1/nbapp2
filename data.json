@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:27:00",
+  "ultima_actualizacion": "05:27:34",
   "tablas": {
     "pts": [
       {
@@ -149,9 +149,9 @@
         "Rank": 197,
         "Nombre": "Harrison Barnes",
         "Antes": 14014,
-        "Hoy": 5,
-        "Total": 14019,
-        "Diff": "15",
+        "Hoy": 10,
+        "Total": 14024,
+        "Diff": "10",
         "Antece": "David West",
         "Nota": "",
         "game_status": "playing"
@@ -472,11 +472,11 @@
         "Rank": 197,
         "Nombre": "De'Aaron Fox",
         "Antes": 3311,
-        "Hoy": 5,
-        "Total": 3316,
-        "Diff": "3",
+        "Hoy": 7,
+        "Total": 3318,
+        "Diff": "1",
         "Antece": "World B. Free",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       },
       {
@@ -885,9 +885,9 @@
         "Rank": 58,
         "Nombre": "Harrison Barnes",
         "Antes": 1477,
-        "Hoy": 0,
-        "Total": 1477,
-        "Diff": "18",
+        "Hoy": 1,
+        "Total": 1478,
+        "Diff": "17",
         "Antece": "Manu Ginobili",
         "Nota": "",
         "game_status": "playing"
@@ -898,7 +898,7 @@
         "Antes": 1458,
         "Hoy": 2,
         "Total": 1460,
-        "Diff": "17",
+        "Diff": "18",
         "Antece": "Harrison Barnes",
         "Nota": "",
         "game_status": "playing"
@@ -1466,7 +1466,8 @@
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971.",
     "De'Aaron Fox (3 assists today) has passed Bimbo Coles and is now ranked 198th all-time in career assists with 3,314.",
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048.",
-    "Harrison Barnes (5 points today) has passed Fred Brown and is now ranked 197th all-time in career points with 14,019."
+    "Harrison Barnes (5 points today) has passed Fred Brown and is now ranked 197th all-time in career points with 14,019.",
+    "De'Aaron Fox (7 assists today) has passed Ty Lawson and is now ranked 197th all-time in career assists with 3,318."
   ],
-  "cache_buster": 1764217620
+  "cache_buster": 1764217654
 }
