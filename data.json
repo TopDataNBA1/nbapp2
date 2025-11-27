@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:39:50",
+  "ultima_actualizacion": "05:40:24",
   "tablas": {
     "pts": [
       {
@@ -149,9 +149,9 @@
         "Rank": 197,
         "Nombre": "Harrison Barnes",
         "Antes": 14014,
-        "Hoy": 10,
-        "Total": 14024,
-        "Diff": "10",
+        "Hoy": 13,
+        "Total": 14027,
+        "Diff": "7",
         "Antece": "David West",
         "Nota": "",
         "game_status": "playing"
@@ -885,9 +885,9 @@
         "Rank": 58,
         "Nombre": "Harrison Barnes",
         "Antes": 1477,
-        "Hoy": 1,
-        "Total": 1478,
-        "Diff": "17",
+        "Hoy": 2,
+        "Total": 1479,
+        "Diff": "16",
         "Antece": "Manu Ginobili",
         "Nota": "",
         "game_status": "playing"
@@ -898,7 +898,7 @@
         "Antes": 1458,
         "Hoy": 2,
         "Total": 1460,
-        "Diff": "18",
+        "Diff": "19",
         "Antece": "Harrison Barnes",
         "Nota": "",
         "game_status": "playing"
@@ -1470,5 +1470,5 @@
     "De'Aaron Fox (7 assists today) has passed Ty Lawson and is now ranked 197th all-time in career assists with 3,318.",
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651."
   ],
-  "cache_buster": 1764218390
+  "cache_buster": 1764218424
 }
