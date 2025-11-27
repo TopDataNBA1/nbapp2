@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:05:53",
+  "ultima_actualizacion": "05:06:26",
   "tablas": {
     "pts": [
       {
@@ -61,9 +61,9 @@
         "Rank": 108,
         "Nombre": "Devin Booker",
         "Antes": 16927,
-        "Hoy": 14,
-        "Total": 16941,
-        "Diff": "19",
+        "Hoy": 15,
+        "Total": 16942,
+        "Diff": "18",
         "Antece": "Bob Cousy",
         "Nota": "",
         "game_status": "playing"
@@ -1468,5 +1468,5 @@
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048.",
     "Harrison Barnes (5 points today) has passed Fred Brown and is now ranked 197th all-time in career points with 14,019."
   ],
-  "cache_buster": 1764216353
+  "cache_buster": 1764216386
 }
