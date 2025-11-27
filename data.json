@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:30:57",
+  "ultima_actualizacion": "03:31:30",
   "tablas": {
     "pts": [
       {
@@ -39,9 +39,9 @@
         "Rank": 182,
         "Nombre": "Andrew Wiggins",
         "Antes": 14420,
-        "Hoy": 6,
-        "Total": 14426,
-        "Diff": "11",
+        "Hoy": 9,
+        "Total": 14429,
+        "Diff": "8",
         "Antece": "Nate Thurmond",
         "Nota": "",
         "game_status": "playing"
@@ -390,9 +390,9 @@
         "Rank": 114,
         "Nombre": "Andrew Wiggins",
         "Antes": 1174,
-        "Hoy": 0,
-        "Total": 1174,
-        "Diff": "4",
+        "Hoy": 1,
+        "Total": 1175,
+        "Diff": "3",
         "Antece": "Deron Williams",
         "Nota": "",
         "game_status": "playing"
@@ -635,5 +635,5 @@
   "notificaciones": [
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764210657
+  "cache_buster": 1764210690
 }
