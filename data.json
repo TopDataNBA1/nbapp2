@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:25:17",
+  "ultima_actualizacion": "04:25:50",
   "tablas": {
     "pts": [
       {
@@ -28,9 +28,9 @@
         "Rank": 22,
         "Nombre": "Stephen Curry",
         "Antes": 25818,
-        "Hoy": 0,
-        "Total": 25818,
-        "Diff": "182",
+        "Hoy": 2,
+        "Total": 25820,
+        "Diff": "180",
         "Antece": "26000",
         "Nota": "",
         "game_status": "playing"
@@ -540,9 +540,9 @@
         "Rank": 40,
         "Nombre": "Stephen Curry",
         "Antes": 1574,
-        "Hoy": 0,
-        "Total": 1574,
-        "Diff": "9",
+        "Hoy": 1,
+        "Total": 1575,
+        "Diff": "8",
         "Antece": "Terry Porter",
         "Nota": "",
         "game_status": "playing"
@@ -1466,5 +1466,5 @@
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971.",
     "De'Aaron Fox (3 assists today) has passed Bimbo Coles and is now ranked 198th all-time in career assists with 3,314."
   ],
-  "cache_buster": 1764213917
+  "cache_buster": 1764213950
 }
