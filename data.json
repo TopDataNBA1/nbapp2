@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:42:23",
+  "ultima_actualizacion": "06:42:57",
   "tablas": {
     "pts": [
       {
@@ -395,9 +395,9 @@
         "Rank": 72,
         "Nombre": "Draymond Green",
         "Antes": 5041,
-        "Hoy": 7,
-        "Total": 5048,
-        "Diff": "48",
+        "Hoy": 8,
+        "Total": 5049,
+        "Diff": "47",
         "Antece": "Raymond Felton",
         "Nota": "",
         "game_status": "playing"
@@ -1473,5 +1473,5 @@
     "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652.",
     "Royce O'Neale (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764222143
+  "cache_buster": 1764222177
 }
