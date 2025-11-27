@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:48:45",
+  "ultima_actualizacion": "05:49:18",
   "tablas": {
     "pts": [
       {
@@ -261,9 +261,9 @@
         "Rank": 117,
         "Nombre": "Clint Capela",
         "Antes": 7044,
-        "Hoy": 9,
-        "Total": 7053,
-        "Diff": "57",
+        "Hoy": 10,
+        "Total": 7054,
+        "Diff": "56",
         "Antece": "Olden Polynice",
         "Nota": "",
         "game_status": "playing"
@@ -1471,5 +1471,5 @@
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651.",
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968."
   ],
-  "cache_buster": 1764218925
+  "cache_buster": 1764218958
 }
