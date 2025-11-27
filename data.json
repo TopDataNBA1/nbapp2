@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:59:46",
+  "ultima_actualizacion": "04:00:19",
   "tablas": {
     "pts": [
       {
@@ -466,7 +466,7 @@
         "Diff": "17",
         "Antece": "Paul Westphal",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 199,
@@ -510,7 +510,7 @@
         "Diff": "15",
         "Antece": "Tom Gola",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       }
     ],
     "stl": [
@@ -723,7 +723,7 @@
         "Diff": "2",
         "Antece": "Duane Causwell",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 167,
@@ -1297,7 +1297,7 @@
         "Diff": "3",
         "Antece": "Avery Bradley",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 244,
@@ -1464,5 +1464,5 @@
     "Anthony Edwards (3 three-pointers today) has passed Jameer Nelson and is now ranked 120th all-time in career three-pointers with 1,154.",
     "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155."
   ],
-  "cache_buster": 1764212386
+  "cache_buster": 1764212419
 }
