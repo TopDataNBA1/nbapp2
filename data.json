@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:35:07",
+  "ultima_actualizacion": "06:35:41",
   "tablas": {
     "pts": [
       {
@@ -362,9 +362,9 @@
         "Rank": 28,
         "Nombre": "Stephen Curry",
         "Antes": 6599,
-        "Hoy": 4,
-        "Total": 6603,
-        "Diff": "85",
+        "Hoy": 5,
+        "Total": 6604,
+        "Diff": "84",
         "Antece": "Mike Conley",
         "Nota": "",
         "game_status": "playing"
@@ -1473,5 +1473,5 @@
     "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652.",
     "Royce O'Neale (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764221707
+  "cache_buster": 1764221741
 }
