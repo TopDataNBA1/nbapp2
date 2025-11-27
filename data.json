@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:57:32",
+  "ultima_actualizacion": "04:58:06",
   "tablas": {
     "pts": [
       {
@@ -17,9 +17,9 @@
         "Rank": 18,
         "Nombre": "Russell Westbrook",
         "Antes": 26452,
-        "Hoy": 10,
-        "Total": 26462,
-        "Diff": "34",
+        "Hoy": 12,
+        "Total": 26464,
+        "Diff": "32",
         "Antece": "Tim Duncan",
         "Nota": "",
         "game_status": "playing"
@@ -61,9 +61,9 @@
         "Rank": 108,
         "Nombre": "Devin Booker",
         "Antes": 16927,
-        "Hoy": 12,
-        "Total": 16939,
-        "Diff": "21",
+        "Hoy": 14,
+        "Total": 16941,
+        "Diff": "19",
         "Antece": "Bob Cousy",
         "Nota": "",
         "game_status": "playing"
@@ -1468,5 +1468,5 @@
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048.",
     "Harrison Barnes (5 points today) has passed Fred Brown and is now ranked 197th all-time in career points with 14,019."
   ],
-  "cache_buster": 1764215852
+  "cache_buster": 1764215886
 }
