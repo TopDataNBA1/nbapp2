@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:34:16",
+  "ultima_actualizacion": "03:34:49",
   "tablas": {
     "pts": [
       {
@@ -250,9 +250,9 @@
         "Rank": 148,
         "Nombre": "Julius Randle",
         "Antes": 6618,
-        "Hoy": 6,
-        "Total": 6624,
-        "Diff": "8",
+        "Hoy": 7,
+        "Total": 6625,
+        "Diff": "7",
         "Antece": "Amar'e Stoudemire",
         "Nota": "",
         "game_status": "playing"
@@ -1273,5 +1273,5 @@
   "notificaciones": [
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764210856
+  "cache_buster": 1764210889
 }
