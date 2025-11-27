@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:40:21",
+  "ultima_actualizacion": "03:40:54",
   "tablas": {
     "pts": [
       {
@@ -351,9 +351,9 @@
         "Rank": 27,
         "Nombre": "Mike Conley",
         "Antes": 6686,
-        "Hoy": 1,
-        "Total": 6687,
-        "Diff": "24",
+        "Hoy": 2,
+        "Total": 6688,
+        "Diff": "23",
         "Antece": "Kevin Johnson",
         "Nota": "",
         "game_status": "playing"
@@ -364,7 +364,7 @@
         "Antes": 6599,
         "Hoy": 0,
         "Total": 6599,
-        "Diff": "88",
+        "Diff": "89",
         "Antece": "Mike Conley",
         "Nota": "",
         "game_status": "not_started"
@@ -1461,5 +1461,5 @@
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987.",
     "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060."
   ],
-  "cache_buster": 1764211221
+  "cache_buster": 1764211254
 }
