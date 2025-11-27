@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:17:32",
+  "ultima_actualizacion": "04:18:05",
   "tablas": {
     "pts": [
       {
@@ -11,7 +11,7 @@
         "Diff": "85",
         "Antece": "31000",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 18,
@@ -33,7 +33,7 @@
         "Diff": "182",
         "Antece": "26000",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 24,
@@ -121,7 +121,7 @@
         "Diff": "83",
         "Antece": "Monta Ellis",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 182,
@@ -143,7 +143,7 @@
         "Diff": "6",
         "Antece": "Andrew Wiggins",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 198,
@@ -222,7 +222,7 @@
         "Diff": "6",
         "Antece": "9000",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 61,
@@ -244,7 +244,7 @@
         "Diff": "105",
         "Antece": "8000",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 102,
@@ -266,7 +266,7 @@
         "Diff": "3",
         "Antece": "Kobe Bryant",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 121,
@@ -299,7 +299,7 @@
         "Diff": "39",
         "Antece": "Rudy Gay",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 179,
@@ -310,7 +310,7 @@
         "Diff": "12",
         "Antece": "Zydrunas Ilgauskas",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 192,
@@ -367,7 +367,7 @@
         "Diff": "89",
         "Antece": "Mike Conley",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 30,
@@ -400,7 +400,7 @@
         "Diff": "55",
         "Antece": "Raymond Felton",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 75,
@@ -411,7 +411,7 @@
         "Diff": "46",
         "Antece": "5000",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 76,
@@ -444,7 +444,7 @@
         "Diff": "13",
         "Antece": "Latrell Sprewell",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 164,
@@ -499,7 +499,7 @@
         "Diff": "4",
         "Antece": "Richard Hamilton",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 249,
@@ -545,7 +545,7 @@
         "Diff": "9",
         "Antece": "Terry Porter",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 56,
@@ -567,7 +567,7 @@
         "Diff": "",
         "Antece": "Chris Webber",
         "Nota": "Mismo total",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 103,
@@ -589,7 +589,7 @@
         "Diff": "5",
         "Antece": "DeMar DeRozan",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 152,
@@ -646,7 +646,7 @@
         "Diff": "15",
         "Antece": "Zydrunas Ilgauskas",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 55,
@@ -657,7 +657,7 @@
         "Diff": "11",
         "Antece": "Julius Erving",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 84,
@@ -679,7 +679,7 @@
         "Diff": "6",
         "Antece": "Taj Gibson",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 126,
@@ -690,7 +690,7 @@
         "Diff": "2",
         "Antece": "Kendrick Perkins",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 157,
@@ -745,7 +745,7 @@
         "Diff": "1",
         "Antece": "Tony Battie",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 189,
@@ -778,7 +778,7 @@
         "Diff": "",
         "Antece": "Ivica Zubac",
         "Nota": "Mismo total",
-        "game_status": "not_started"
+        "game_status": "playing"
       }
     ],
     "fg3": [
@@ -791,7 +791,7 @@
         "Diff": "69",
         "Antece": "4200",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 4,
@@ -813,7 +813,7 @@
         "Diff": "6",
         "Antece": "Jamal Crawford",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 15,
@@ -824,7 +824,7 @@
         "Diff": "47",
         "Antece": "2200",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 22,
@@ -934,7 +934,7 @@
         "Diff": "",
         "Antece": "Antoine Walker",
         "Nota": "Mismo total",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 73,
@@ -989,7 +989,7 @@
         "Diff": "9",
         "Antece": "Wayne Ellington",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 112,
@@ -1143,7 +1143,7 @@
         "Diff": "1",
         "Antece": "Derrick White",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 178,
@@ -1242,7 +1242,7 @@
         "Diff": "3",
         "Antece": "Kelly Olynyk",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 212,
@@ -1343,7 +1343,7 @@
         "Diff": "3",
         "Antece": "Pau Gasol",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 48,
@@ -1376,7 +1376,7 @@
         "Diff": "3",
         "Antece": "Jerome Kersey",
         "Nota": "",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 72,
@@ -1387,7 +1387,7 @@
         "Diff": "1",
         "Antece": "Danny Schayes",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 82,
@@ -1420,7 +1420,7 @@
         "Diff": "1",
         "Antece": "Danny Ainge",
         "Nota": "A tiro de 1",
-        "game_status": "not_started"
+        "game_status": "playing"
       },
       {
         "Rank": 144,
@@ -1465,5 +1465,5 @@
     "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155.",
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971."
   ],
-  "cache_buster": 1764213452
+  "cache_buster": 1764213485
 }
