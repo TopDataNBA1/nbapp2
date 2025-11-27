@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:07:44",
+  "ultima_actualizacion": "06:08:17",
   "tablas": {
     "pts": [
       {
@@ -439,9 +439,9 @@
         "Rank": 161,
         "Nombre": "Devin Booker",
         "Antes": 3647,
-        "Hoy": 5,
-        "Total": 3652,
-        "Diff": "12",
+        "Hoy": 6,
+        "Total": 3653,
+        "Diff": "11",
         "Antece": "Latrell Sprewell",
         "Nota": "",
         "game_status": "playing"
@@ -452,9 +452,9 @@
         "Antes": 3651,
         "Hoy": 0,
         "Total": 3651,
-        "Diff": "1",
+        "Diff": "2",
         "Antece": "Devin Booker",
-        "Nota": "A tiro de 1",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -1171,11 +1171,11 @@
         "Rank": 180,
         "Nombre": "Royce O'Neale",
         "Antes": 984,
-        "Hoy": 1,
-        "Total": 985,
-        "Diff": "1",
+        "Hoy": 2,
+        "Total": 986,
+        "Diff": "",
         "Antece": "Doug McDermott",
-        "Nota": "A tiro de 1",
+        "Nota": "Mismo total",
         "game_status": "playing"
       },
       {
@@ -1472,5 +1472,5 @@
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968.",
     "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652."
   ],
-  "cache_buster": 1764220064
+  "cache_buster": 1764220097
 }
