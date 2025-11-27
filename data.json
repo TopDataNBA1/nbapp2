@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:49:11",
+  "ultima_actualizacion": "04:49:45",
   "tablas": {
     "pts": [
       {
@@ -39,9 +39,9 @@
         "Rank": 24,
         "Nombre": "DeMar DeRozan",
         "Antes": 25629,
-        "Hoy": 4,
-        "Total": 25633,
-        "Diff": "95",
+        "Hoy": 6,
+        "Total": 25635,
+        "Diff": "93",
         "Antece": "Vince Carter",
         "Nota": "",
         "game_status": "playing"
@@ -340,9 +340,9 @@
         "Rank": 8,
         "Nombre": "Russell Westbrook",
         "Antes": 10043,
-        "Hoy": 0,
-        "Total": 10043,
-        "Diff": "98",
+        "Hoy": 1,
+        "Total": 10044,
+        "Diff": "97",
         "Antece": "Magic Johnson",
         "Nota": "",
         "game_status": "playing"
@@ -1467,5 +1467,5 @@
     "De'Aaron Fox (3 assists today) has passed Bimbo Coles and is now ranked 198th all-time in career assists with 3,314.",
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048."
   ],
-  "cache_buster": 1764215351
+  "cache_buster": 1764215385
 }
