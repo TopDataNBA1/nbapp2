@@ -1,6 +1,637 @@
 {
-    "ultima_actualizacion": "02:03:36",
-    "tablas": {},
+    "ultima_actualizacion": "02:03:42",
+    "tablas": {
+        "pts": [
+            {
+                "Rank": 115,
+                "Nombre": "Mike Conley",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 16572,
+                "Diff": "50",
+                "Antece": "Jrue Holiday",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 135,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 12,
+                "Total": 15727,
+                "Diff": "34",
+                "Antece": "Detlef Schrempf",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 156,
+                "Nombre": "Karl-Anthony Towns",
+                "Team": "FA",
+                "Hoy": 12,
+                "Total": 15254,
+                "Diff": "37",
+                "Antece": "John Drew",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 183,
+                "Nombre": "Andrew Wiggins",
+                "Team": "FA",
+                "Hoy": 2,
+                "Total": 14422,
+                "Diff": "3",
+                "Antece": "Jeff Green",
+                "Nota": "A tiro de 3",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 201,
+                "Nombre": "Julius Randle",
+                "Team": "FA",
+                "Hoy": 3,
+                "Total": 13932,
+                "Diff": "36",
+                "Antece": "Andre Iguodala",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 211,
+                "Nombre": "Jayson Tatum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 13784,
+                "Diff": "6",
+                "Antece": "Bill Laimbeer",
+                "Nota": "",
+                "game_status": "finished"
+            }
+        ],
+        "trb": [
+            {
+                "Rank": 34,
+                "Nombre": "DeAndre Jordan",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 10795,
+                "Diff": "21",
+                "Antece": "Jack Sikma",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 45,
+                "Nombre": "Rudy Gobert",
+                "Team": "FA",
+                "Hoy": 3,
+                "Total": 9877,
+                "Diff": "123",
+                "Antece": "10000",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 102,
+                "Nombre": "Karl-Anthony Towns",
+                "Team": "FA",
+                "Hoy": 6,
+                "Total": 7341,
+                "Diff": "11",
+                "Antece": "Larry Nance",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 149,
+                "Nombre": "Julius Randle",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 6618,
+                "Diff": "2",
+                "Antece": "Sidney Wicks",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 192,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 4,
+                "Total": 6015,
+                "Diff": "32",
+                "Antece": "Andre Iguodala",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 211,
+                "Nombre": "Mason Plumlee",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 5786,
+                "Diff": "5",
+                "Antece": "Udonis Haslem",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "ast": [
+            {
+                "Rank": 27,
+                "Nombre": "Mike Conley",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 6686,
+                "Diff": "25",
+                "Antece": "Kevin Johnson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 169,
+                "Nombre": "T.J. McConnell",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 3568,
+                "Diff": "23",
+                "Antece": "Paul Westphal",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 249,
+                "Nombre": "Tyrese Haliburton",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 2947,
+                "Diff": "15",
+                "Antece": "Tom Gola",
+                "Nota": "",
+                "game_status": "playing"
+            }
+        ],
+        "stl": [
+            {
+                "Rank": 35,
+                "Nombre": "Mike Conley",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1615,
+                "Diff": "1",
+                "Antece": "Rod Strickland",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 152,
+                "Nombre": "Kentavious Caldwell-Pope",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1070,
+                "Diff": "1",
+                "Antece": "Joe Johnson",
+                "Nota": "A tiro de 1",
+                "game_status": "not_started"
+            }
+        ],
+        "blk": [
+            {
+                "Rank": 28,
+                "Nombre": "Rudy Gobert",
+                "Team": "FA",
+                "Hoy": 2,
+                "Total": 1749,
+                "Diff": "10",
+                "Antece": "Serge Ibaka",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 37,
+                "Nombre": "DeAndre Jordan",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1568,
+                "Diff": "13",
+                "Antece": "Benoit Benjamin",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 45,
+                "Nombre": "Myles Turner",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 1445,
+                "Diff": "11",
+                "Antece": "Hot Rod Williams",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 157,
+                "Nombre": "Jaren Jackson Jr.",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 796,
+                "Diff": "2",
+                "Antece": "Vin Baker",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 162,
+                "Nombre": "Karl-Anthony Towns",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 785,
+                "Diff": "4",
+                "Antece": "Charles Smith",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 165,
+                "Nombre": "Jakob Poeltl",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 764,
+                "Diff": "3",
+                "Antece": "Duane Causwell",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 189,
+                "Nombre": "Mason Plumlee",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 703,
+                "Diff": "2",
+                "Antece": "Nicolas Batum",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 220,
+                "Nombre": "Mitchell Robinson",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 630,
+                "Diff": "",
+                "Antece": "DeSagana Diop",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            }
+        ],
+        "fg3": [
+            {
+                "Rank": 22,
+                "Nombre": "Mike Conley",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1952,
+                "Diff": "26",
+                "Antece": "Joe Johnson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 49,
+                "Nombre": "Kentavious Caldwell-Pope",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1551,
+                "Diff": "8",
+                "Antece": "Glen Rice",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 51,
+                "Nombre": "Jayson Tatum",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1546,
+                "Diff": "",
+                "Antece": "Eddie Jones",
+                "Nota": "Mismo total",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 65,
+                "Nombre": "Jordan Clarkson",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1424,
+                "Diff": "2",
+                "Antece": "Luka Doncic",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 73,
+                "Nombre": "Terry Rozier",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1356,
+                "Diff": "3",
+                "Antece": "Evan Fournier",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 78,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 1322,
+                "Diff": "3",
+                "Antece": "Ryan Anderson",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 87,
+                "Nombre": "Duncan Robinson",
+                "Team": "FA",
+                "Hoy": 3,
+                "Total": 1257,
+                "Diff": "5",
+                "Antece": "D.J. Augustin",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 100,
+                "Nombre": "Joe Ingles",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1227,
+                "Diff": "5",
+                "Antece": "Jae Crowder",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 112,
+                "Nombre": "Jaylen Brown",
+                "Team": "FA",
+                "Hoy": 2,
+                "Total": 1179,
+                "Diff": "7",
+                "Antece": "Rudy Gay",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 114,
+                "Nombre": "Andrew Wiggins",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1174,
+                "Diff": "4",
+                "Antece": "Deron Williams",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 122,
+                "Nombre": "Anthony Edwards",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1151,
+                "Diff": "2",
+                "Antece": "Jameer Nelson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 125,
+                "Nombre": "Karl-Anthony Towns",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1148,
+                "Diff": "2",
+                "Antece": "Wesley Person",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 132,
+                "Nombre": "Norman Powell",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1104,
+                "Diff": "",
+                "Antece": "Latrell Sprewell",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 147,
+                "Nombre": "Kyle Kuzma",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1060,
+                "Diff": "6",
+                "Antece": "George Hill",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 149,
+                "Nombre": "Gary Trent Jr.",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 1057,
+                "Diff": "2",
+                "Antece": "Allen Iverson",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 160,
+                "Nombre": "Jordan Poole",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1035,
+                "Diff": "",
+                "Antece": "James Posey",
+                "Nota": "Mismo total",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 163,
+                "Nombre": "Mikal Bridges",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1015,
+                "Diff": "3",
+                "Antece": "Marcus Smart",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 164,
+                "Nombre": "Anfernee Simons",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 1014,
+                "Diff": "1",
+                "Antece": "Mikal Bridges",
+                "Nota": "A tiro de 1",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 169,
+                "Nombre": "Taurean Prince",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1000,
+                "Diff": "2",
+                "Antece": "Danny Ainge",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 172,
+                "Nombre": "Derrick White",
+                "Team": "FA",
+                "Hoy": 6,
+                "Total": 993,
+                "Diff": "3",
+                "Antece": "Rafer Alston",
+                "Nota": "",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 179,
+                "Nombre": "Tyler Herro",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 985,
+                "Diff": "1",
+                "Antece": "Doug McDermott",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 191,
+                "Nombre": "Donte DiVincenzo",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 969,
+                "Diff": "1",
+                "Antece": "Kristaps Porzingis",
+                "Nota": "A tiro de 1",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 212,
+                "Nombre": "Gary Harris",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 916,
+                "Diff": "4",
+                "Antece": "Jose Calderon",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 218,
+                "Nombre": "OG Anunoby",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 894,
+                "Diff": "6",
+                "Antece": "900",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 226,
+                "Nombre": "Julius Randle",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 881,
+                "Diff": "",
+                "Antece": "Jim Jackson",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 236,
+                "Nombre": "Tyrese Haliburton",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 856,
+                "Diff": "3",
+                "Antece": "Avery Bradley",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 250,
+                "Nombre": "Jalen Brunson",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 819,
+                "Diff": "",
+                "Antece": "J.J. Barea",
+                "Nota": "Mismo total",
+                "game_status": "playing"
+            }
+        ],
+        "g": [
+            {
+                "Rank": 53,
+                "Nombre": "Mike Conley",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1189,
+                "Diff": "4",
+                "Antece": "Alex English",
+                "Nota": "",
+                "game_status": "playing"
+            },
+            {
+                "Rank": 82,
+                "Nombre": "DeAndre Jordan",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 1113,
+                "Diff": "3",
+                "Antece": "Zach Randolph",
+                "Nota": "",
+                "game_status": "not_started"
+            },
+            {
+                "Rank": 178,
+                "Nombre": "Tobias Harris",
+                "Team": "FA",
+                "Hoy": 1,
+                "Total": 979,
+                "Diff": "",
+                "Antece": "Isiah Thomas",
+                "Nota": "Mismo total",
+                "game_status": "finished"
+            },
+            {
+                "Rank": 226,
+                "Nombre": "Kentavious Caldwell-Pope",
+                "Team": "FA",
+                "Hoy": 0,
+                "Total": 930,
+                "Diff": "2",
+                "Antece": "Jerry West",
+                "Nota": "",
+                "game_status": "not_started"
+            }
+        ]
+    },
     "notificaciones": [],
-    "cache_buster": 1764205416
+    "cache_buster": 1764205422
 }
