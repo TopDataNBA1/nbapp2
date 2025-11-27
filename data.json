@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:20:02",
+  "ultima_actualizacion": "06:20:35",
   "tablas": {
     "pts": [
       {
@@ -22,7 +22,7 @@
         "Diff": "25",
         "Antece": "Tim Duncan",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 22,
@@ -44,7 +44,7 @@
         "Diff": "89",
         "Antece": "Vince Carter",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 37,
@@ -66,7 +66,7 @@
         "Diff": "14",
         "Antece": "Bob Cousy",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 114,
@@ -176,7 +176,7 @@
         "Diff": "8",
         "Antece": "Julius Randle",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 211,
@@ -233,7 +233,7 @@
         "Diff": "25",
         "Antece": "Shawn Kemp",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 83,
@@ -277,7 +277,7 @@
         "Diff": "8",
         "Antece": "Detlef Schrempf",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 148,
@@ -345,7 +345,7 @@
         "Diff": "95",
         "Antece": "Magic Johnson",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 27,
@@ -395,9 +395,9 @@
         "Rank": 72,
         "Nombre": "Draymond Green",
         "Antes": 5041,
-        "Hoy": 5,
-        "Total": 5046,
-        "Diff": "50",
+        "Hoy": 6,
+        "Total": 5047,
+        "Diff": "49",
         "Antece": "Raymond Felton",
         "Nota": "",
         "game_status": "playing"
@@ -422,7 +422,7 @@
         "Diff": "17",
         "Antece": "Kevin Durant",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 114,
@@ -433,7 +433,7 @@
         "Diff": "4",
         "Antece": "Michael Adams",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 161,
@@ -444,7 +444,7 @@
         "Diff": "11",
         "Antece": "Latrell Sprewell",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 162,
@@ -488,7 +488,7 @@
         "Diff": "9",
         "Antece": "Vinnie Johnson",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 220,
@@ -523,7 +523,7 @@
         "Diff": "8",
         "Antece": "Allen Iverson",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 35,
@@ -578,7 +578,7 @@
         "Diff": "1",
         "Antece": "Dan Majerle",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 104,
@@ -857,7 +857,7 @@
         "Diff": "12",
         "Antece": "Mike Miller",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 49,
@@ -901,7 +901,7 @@
         "Diff": "19",
         "Antece": "Harrison Barnes",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 65,
@@ -923,7 +923,7 @@
         "Diff": "14",
         "Antece": "Khris Middleton",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 70,
@@ -1055,7 +1055,7 @@
         "Diff": "3",
         "Antece": "Dana Barros",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 147,
@@ -1154,7 +1154,7 @@
         "Diff": "1",
         "Antece": "Leandro Barbosa",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 179,
@@ -1176,7 +1176,7 @@
         "Diff": "1",
         "Antece": "Tyler Herro",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 182,
@@ -1209,7 +1209,7 @@
         "Diff": "1",
         "Antece": "Kristaps Porzingis",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 205,
@@ -1220,7 +1220,7 @@
         "Diff": "2",
         "Antece": "Luke Kennard",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 208,
@@ -1264,7 +1264,7 @@
         "Diff": "1",
         "Antece": "Darius Garland",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 218,
@@ -1332,7 +1332,7 @@
         "Diff": "1",
         "Antece": "Otis Thorpe",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 43,
@@ -1354,7 +1354,7 @@
         "Diff": "1",
         "Antece": "Shaquille O'Neal",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 53,
@@ -1473,5 +1473,5 @@
     "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652.",
     "Royce O'Neale (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764220802
+  "cache_buster": 1764220835
 }
