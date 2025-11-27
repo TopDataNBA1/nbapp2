@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:19:23",
+  "ultima_actualizacion": "03:19:56",
   "tablas": {
     "pts": [
       {
@@ -153,9 +153,9 @@
         "Rank": 169,
         "Nombre": "T.J. McConnell",
         "Antes": 3568,
-        "Hoy": 2,
-        "Total": 3570,
-        "Diff": "21",
+        "Hoy": 3,
+        "Total": 3571,
+        "Diff": "20",
         "Antece": "Paul Westphal",
         "Nota": "",
         "game_status": "playing"
@@ -401,11 +401,11 @@
         "Rank": 122,
         "Nombre": "Anthony Edwards",
         "Antes": 1151,
-        "Hoy": 0,
-        "Total": 1151,
-        "Diff": "2",
+        "Hoy": 1,
+        "Total": 1152,
+        "Diff": "1",
         "Antece": "Jameer Nelson",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       },
       {
@@ -633,5 +633,5 @@
     ]
   },
   "notificaciones": [],
-  "cache_buster": 1764209963
+  "cache_buster": 1764209996
 }
