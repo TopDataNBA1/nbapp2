@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:51:26",
+  "ultima_actualizacion": "03:52:00",
   "tablas": {
     "pts": [
       {
@@ -1190,13 +1190,13 @@
         "game_status": "not_started"
       },
       {
-        "Rank": 191,
+        "Rank": 190,
         "Nombre": "Donte DiVincenzo",
         "Antes": 969,
-        "Hoy": 0,
-        "Total": 969,
+        "Hoy": 1,
+        "Total": 970,
         "Diff": "1",
-        "Antece": "Kristaps Porzingis",
+        "Antece": "Vladimir Radmanovic",
         "Nota": "A tiro de 1",
         "game_status": "playing"
       },
@@ -1462,5 +1462,5 @@
     "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060.",
     "Gary Trent Jr. (5 three-pointers today) has passed Kyle Kuzma and is now ranked 147th all-time in career three-pointers with 1,061."
   ],
-  "cache_buster": 1764211886
+  "cache_buster": 1764211920
 }
