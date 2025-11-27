@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:33:35",
+  "ultima_actualizacion": "04:34:08",
   "tablas": {
     "pts": [
       {
@@ -261,9 +261,9 @@
         "Rank": 117,
         "Nombre": "Clint Capela",
         "Antes": 7044,
-        "Hoy": 4,
-        "Total": 7048,
-        "Diff": "62",
+        "Hoy": 5,
+        "Total": 7049,
+        "Diff": "61",
         "Antece": "Olden Polynice",
         "Nota": "",
         "game_status": "playing"
@@ -447,13 +447,13 @@
         "game_status": "playing"
       },
       {
-        "Rank": 164,
+        "Rank": 163,
         "Nombre": "Devin Booker",
         "Antes": 3647,
-        "Hoy": 2,
-        "Total": 3649,
+        "Hoy": 3,
+        "Total": 3650,
         "Diff": "1",
-        "Antece": "Elgin Baylor",
+        "Antece": "Dirk Nowitzki",
         "Nota": "A tiro de 1",
         "game_status": "playing"
       },
@@ -1467,5 +1467,5 @@
     "De'Aaron Fox (3 assists today) has passed Bimbo Coles and is now ranked 198th all-time in career assists with 3,314.",
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048."
   ],
-  "cache_buster": 1764214415
+  "cache_buster": 1764214448
 }
