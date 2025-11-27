@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:18:05",
+  "ultima_actualizacion": "04:18:38",
   "tablas": {
     "pts": [
       {
@@ -305,9 +305,9 @@
         "Rank": 179,
         "Nombre": "Draymond Green",
         "Antes": 6179,
-        "Hoy": 0,
-        "Total": 6179,
-        "Diff": "12",
+        "Hoy": 1,
+        "Total": 6180,
+        "Diff": "11",
         "Antece": "Zydrunas Ilgauskas",
         "Nota": "",
         "game_status": "playing"
@@ -1017,9 +1017,9 @@
         "Rank": 120,
         "Nombre": "Anthony Edwards",
         "Antes": 1151,
-        "Hoy": 4,
-        "Total": 1155,
-        "Diff": "8",
+        "Hoy": 5,
+        "Total": 1156,
+        "Diff": "7",
         "Antece": "Antawn Jamison",
         "Nota": "",
         "game_status": "playing"
@@ -1465,5 +1465,5 @@
     "Anthony Edwards (4 three-pointers today) has passed Metta World Peace and is now ranked 120th all-time in career three-pointers with 1,155.",
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971."
   ],
-  "cache_buster": 1764213485
+  "cache_buster": 1764213518
 }
