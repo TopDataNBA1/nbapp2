@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:57:32",
+  "ultima_actualizacion": "03:58:05",
   "tablas": {
     "pts": [
       {
@@ -608,9 +608,9 @@
         "Rank": 28,
         "Nombre": "Rudy Gobert",
         "Antes": 1747,
-        "Hoy": 2,
-        "Total": 1749,
-        "Diff": "10",
+        "Hoy": 3,
+        "Total": 1750,
+        "Diff": "9",
         "Antece": "Serge Ibaka",
         "Nota": "",
         "game_status": "playing"
@@ -1014,14 +1014,14 @@
         "game_status": "finished"
       },
       {
-        "Rank": 121,
+        "Rank": 120,
         "Nombre": "Anthony Edwards",
         "Antes": 1151,
-        "Hoy": 2,
-        "Total": 1153,
-        "Diff": "1",
-        "Antece": "Metta World Peace",
-        "Nota": "A tiro de 1",
+        "Hoy": 3,
+        "Total": 1154,
+        "Diff": "9",
+        "Antece": "Antawn Jamison",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -1460,7 +1460,8 @@
   "notificaciones": [
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987.",
     "Gary Trent Jr. (4 three-pointers today) has passed Allen Iverson and is now ranked 147th all-time in career three-pointers with 1,060.",
-    "Gary Trent Jr. (5 three-pointers today) has passed Kyle Kuzma and is now ranked 147th all-time in career three-pointers with 1,061."
+    "Gary Trent Jr. (5 three-pointers today) has passed Kyle Kuzma and is now ranked 147th all-time in career three-pointers with 1,061.",
+    "Anthony Edwards (3 three-pointers today) has passed Jameer Nelson and is now ranked 120th all-time in career three-pointers with 1,154."
   ],
-  "cache_buster": 1764212252
+  "cache_buster": 1764212285
 }
