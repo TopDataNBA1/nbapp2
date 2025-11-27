@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "04:21:25",
+  "ultima_actualizacion": "04:21:58",
   "tablas": {
     "pts": [
       {
@@ -472,11 +472,11 @@
         "Rank": 198,
         "Nombre": "De'Aaron Fox",
         "Antes": 3311,
-        "Hoy": 3,
-        "Total": 3314,
-        "Diff": "2",
+        "Hoy": 4,
+        "Total": 3315,
+        "Diff": "1",
         "Antece": "Ty Lawson",
-        "Nota": "",
+        "Nota": "A tiro de 1",
         "game_status": "playing"
       },
       {
@@ -1466,5 +1466,5 @@
     "Donte DiVincenzo (2 three-pointers today) has passed Kristaps Porzingis and is now ranked 189th all-time in career three-pointers with 971.",
     "De'Aaron Fox (3 assists today) has passed Bimbo Coles and is now ranked 198th all-time in career assists with 3,314."
   ],
-  "cache_buster": 1764213685
+  "cache_buster": 1764213718
 }
