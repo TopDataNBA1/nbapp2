@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:28:57",
+  "ultima_actualizacion": "06:29:31",
   "tablas": {
     "pts": [
       {
@@ -55,7 +55,7 @@
         "Diff": "402",
         "Antece": "23000",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 108,
@@ -77,7 +77,7 @@
         "Diff": "90",
         "Antece": "Latrell Sprewell",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 115,
@@ -154,7 +154,7 @@
         "Diff": "7",
         "Antece": "David West",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 201,
@@ -378,7 +378,7 @@
         "Diff": "38",
         "Antece": "Derek Harper",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 41,
@@ -389,7 +389,7 @@
         "Diff": "45",
         "Antece": "John Havlicek",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 72,
@@ -477,7 +477,7 @@
         "Diff": "11",
         "Antece": "Jamaal Tinsley",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 209,
@@ -556,7 +556,7 @@
         "Diff": "8",
         "Antece": "Kyle Lowry",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 101,
@@ -668,7 +668,7 @@
         "Diff": "1",
         "Antece": "Antonio McDyess",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 112,
@@ -734,7 +734,7 @@
         "Diff": "3",
         "Antece": "Oliver Miller",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 186,
@@ -802,7 +802,7 @@
         "Diff": "96",
         "Antece": "2900",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 13,
@@ -846,7 +846,7 @@
         "Diff": "3",
         "Antece": "Jason Richardson",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 46,
@@ -890,7 +890,7 @@
         "Diff": "16",
         "Antece": "Manu Ginobili",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 59,
@@ -1187,7 +1187,7 @@
         "Diff": "3",
         "Antece": "Matt Barnes",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 189,
@@ -1231,7 +1231,7 @@
         "Diff": "",
         "Antece": "Darrell Armstrong",
         "Nota": "Mismo total",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 209,
@@ -1308,7 +1308,7 @@
         "Diff": "6",
         "Antece": "Desmond Bane",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 249,
@@ -1409,7 +1409,7 @@
         "Diff": "2",
         "Antece": "Shawn Kemp",
         "Nota": "",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 130,
@@ -1431,7 +1431,7 @@
         "Diff": "1",
         "Antece": "Jermaine O'Neal",
         "Nota": "A tiro de 1",
-        "game_status": "playing"
+        "game_status": "finished"
       },
       {
         "Rank": 178,
@@ -1473,5 +1473,5 @@
     "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652.",
     "Royce O'Neale (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764221337
+  "cache_buster": 1764221371
 }
