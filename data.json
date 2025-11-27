@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:13:52",
+  "ultima_actualizacion": "06:14:26",
   "tablas": {
     "pts": [
       {
@@ -305,9 +305,9 @@
         "Rank": 179,
         "Nombre": "Draymond Green",
         "Antes": 6179,
-        "Hoy": 4,
-        "Total": 6183,
-        "Diff": "8",
+        "Hoy": 5,
+        "Total": 6184,
+        "Diff": "7",
         "Antece": "Zydrunas Ilgauskas",
         "Nota": "",
         "game_status": "playing"
@@ -682,14 +682,14 @@
         "game_status": "playing"
       },
       {
-        "Rank": 126,
+        "Rank": 125,
         "Nombre": "Draymond Green",
         "Antes": 901,
-        "Hoy": 1,
-        "Total": 902,
-        "Diff": "1",
-        "Antece": "Kendrick Perkins",
-        "Nota": "A tiro de 1",
+        "Hoy": 2,
+        "Total": 903,
+        "Diff": "3",
+        "Antece": "Shane Battier",
+        "Nota": "",
         "game_status": "playing"
       },
       {
@@ -1472,5 +1472,5 @@
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968.",
     "Devin Booker (5 assists today) has passed Al Horford and Dirk Nowitzki and is now ranked 161st all-time in career assists with 3,652."
   ],
-  "cache_buster": 1764220432
+  "cache_buster": 1764220466
 }
