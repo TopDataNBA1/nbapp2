@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:11:27",
+  "ultima_actualizacion": "05:12:00",
   "tablas": {
     "pts": [
       {
@@ -28,9 +28,9 @@
         "Rank": 22,
         "Nombre": "Stephen Curry",
         "Antes": 25818,
-        "Hoy": 5,
-        "Total": 25823,
-        "Diff": "177",
+        "Hoy": 8,
+        "Total": 25826,
+        "Diff": "174",
         "Antece": "26000",
         "Nota": "",
         "game_status": "playing"
@@ -261,9 +261,9 @@
         "Rank": 117,
         "Nombre": "Clint Capela",
         "Antes": 7044,
-        "Hoy": 7,
-        "Total": 7051,
-        "Diff": "59",
+        "Hoy": 8,
+        "Total": 7052,
+        "Diff": "58",
         "Antece": "Olden Polynice",
         "Nota": "",
         "game_status": "playing"
@@ -395,9 +395,9 @@
         "Rank": 72,
         "Nombre": "Draymond Green",
         "Antes": 5041,
-        "Hoy": 0,
-        "Total": 5041,
-        "Diff": "55",
+        "Hoy": 1,
+        "Total": 5042,
+        "Diff": "54",
         "Antece": "Raymond Felton",
         "Nota": "",
         "game_status": "playing"
@@ -786,9 +786,9 @@
         "Rank": 1,
         "Nombre": "Stephen Curry",
         "Antes": 4131,
-        "Hoy": 1,
-        "Total": 4132,
-        "Diff": "68",
+        "Hoy": 2,
+        "Total": 4133,
+        "Diff": "67",
         "Antece": "4200",
         "Nota": "",
         "game_status": "playing"
@@ -1468,5 +1468,5 @@
     "Clint Capela (4 rebounds today) has passed Kobe Bryant and is now ranked 117th all-time in career rebounds with 7,048.",
     "Harrison Barnes (5 points today) has passed Fred Brown and is now ranked 197th all-time in career points with 14,019."
   ],
-  "cache_buster": 1764216687
+  "cache_buster": 1764216720
 }
