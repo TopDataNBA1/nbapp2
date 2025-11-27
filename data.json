@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "06:00:28",
+  "ultima_actualizacion": "06:01:01",
   "tablas": {
     "pts": [
       {
@@ -228,9 +228,9 @@
         "Rank": 61,
         "Nombre": "Russell Westbrook",
         "Antes": 8801,
-        "Hoy": 6,
-        "Total": 8807,
-        "Diff": "27",
+        "Hoy": 7,
+        "Total": 8808,
+        "Diff": "26",
         "Antece": "Shawn Kemp",
         "Nota": "",
         "game_status": "playing"
@@ -1471,5 +1471,5 @@
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651.",
     "Malik Monk (2 three-pointers today) has passed Spencer Dinwiddie and is now ranked 192nd all-time in career three-pointers with 968."
   ],
-  "cache_buster": 1764219628
+  "cache_buster": 1764219661
 }
