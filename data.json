@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:32:01",
+  "ultima_actualizacion": "05:32:35",
   "tablas": {
     "pts": [
       {
@@ -171,9 +171,9 @@
         "Rank": 202,
         "Nombre": "Zach LaVine",
         "Antes": 13918,
-        "Hoy": 8,
-        "Total": 13926,
-        "Diff": "13",
+        "Hoy": 10,
+        "Total": 13928,
+        "Diff": "11",
         "Antece": "Julius Randle",
         "Nota": "",
         "game_status": "playing"
@@ -1303,9 +1303,9 @@
         "Rank": 244,
         "Nombre": "De'Aaron Fox",
         "Antes": 834,
-        "Hoy": 2,
-        "Total": 836,
-        "Diff": "7",
+        "Hoy": 3,
+        "Total": 837,
+        "Diff": "6",
         "Antece": "Desmond Bane",
         "Nota": "",
         "game_status": "playing"
@@ -1470,5 +1470,5 @@
     "De'Aaron Fox (7 assists today) has passed Ty Lawson and is now ranked 197th all-time in career assists with 3,318.",
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651."
   ],
-  "cache_buster": 1764217921
+  "cache_buster": 1764217955
 }
