@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03:28:12",
+  "ultima_actualizacion": "03:28:45",
   "tablas": {
     "pts": [
       {
@@ -85,9 +85,9 @@
         "Rank": 45,
         "Nombre": "Rudy Gobert",
         "Antes": 9874,
-        "Hoy": 11,
-        "Total": 9885,
-        "Diff": "115",
+        "Hoy": 12,
+        "Total": 9886,
+        "Diff": "114",
         "Antece": "10000",
         "Nota": "",
         "game_status": "playing"
@@ -635,5 +635,5 @@
   "notificaciones": [
     "Tyler Herro (3 three-pointers today) has passed Doug McDermott and is now ranked 178th all-time in career three-pointers with 987."
   ],
-  "cache_buster": 1764210492
+  "cache_buster": 1764210525
 }
