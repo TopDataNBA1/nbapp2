@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "05:32:35",
+  "ultima_actualizacion": "05:33:08",
   "tablas": {
     "pts": [
       {
@@ -362,9 +362,9 @@
         "Rank": 28,
         "Nombre": "Stephen Curry",
         "Antes": 6599,
-        "Hoy": 3,
-        "Total": 6602,
-        "Diff": "86",
+        "Hoy": 4,
+        "Total": 6603,
+        "Diff": "85",
         "Antece": "Mike Conley",
         "Nota": "",
         "game_status": "playing"
@@ -1470,5 +1470,5 @@
     "De'Aaron Fox (7 assists today) has passed Ty Lawson and is now ranked 197th all-time in career assists with 3,318.",
     "Devin Booker (4 assists today) has passed Elgin Baylor and is now ranked 162nd all-time in career assists with 3,651."
   ],
-  "cache_buster": 1764217955
+  "cache_buster": 1764217988
 }
