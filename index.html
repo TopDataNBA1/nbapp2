@@ -192,7 +192,7 @@
             const {cest, est} = getTimes();
             document.getElementById('clock-line').textContent = `${est} ET • ${cest} CEST`;
 
-            fetch('data.json?v=' + new Date().getTime())
+            fetch('web/data.json?v=' + new Date().getTime())
                 .then(r => r.ok ? r.json() : Promise.reject())
                 .then(data => {
                     const tablesDiv = document.getElementById('tables');
@@ -274,7 +274,7 @@
 
         // LATEST MOVES CON FOTOS
         function updateMoves() {
-            fetch('data.json?v=' + new Date().getTime())
+            fetch('web/data.json?v=' + new Date().getTime())
                 .then(r => r.json())
                 .then(data => {
                     const list = document.getElementById('moves-list');
@@ -342,7 +342,7 @@
         const originalUpdatePage = updatePage;
 
         updatePage = function() {
-            fetch('data.json?t=' + Date.now())
+            fetch('web/data.json?t=' + Date.now())
                 .then(r => r.json())
                 .then(data => {
                     originalUpdatePage(); // renderiza las tablas
