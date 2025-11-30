@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:24:30",
+    "ultima_actualizacion": "23:25:07",
     "tablas": {
         "pts": [
             {
@@ -11,7 +11,7 @@
                 "Diff": "60",
                 "Antece": "31000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 149,
@@ -22,7 +22,7 @@
                 "Diff": "50",
                 "Antece": "Bob Dandridge",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 183,
@@ -33,7 +33,7 @@
                 "Diff": "8",
                 "Antece": "Nate Thurmond",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "trb": [
@@ -46,7 +46,7 @@
                 "Diff": "70",
                 "Antece": "Dave DeBusschere",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 83,
@@ -57,7 +57,7 @@
                 "Diff": "99",
                 "Antece": "8000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 117,
@@ -68,7 +68,7 @@
                 "Diff": "50",
                 "Antece": "Olden Polynice",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 173,
@@ -79,7 +79,7 @@
                 "Diff": "27",
                 "Antece": "Rudy Gay",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 244,
@@ -90,7 +90,7 @@
                 "Diff": "5",
                 "Antece": "Joe Barry Carroll",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "ast": [
@@ -103,7 +103,7 @@
                 "Diff": "42",
                 "Antece": "5000",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 220,
@@ -114,7 +114,7 @@
                 "Diff": "4",
                 "Antece": "Richard Hamilton",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "stl": [
@@ -127,7 +127,7 @@
                 "Diff": "3",
                 "Antece": "DeMar DeRozan",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "blk": [
@@ -140,7 +140,7 @@
                 "Diff": "10",
                 "Antece": "Julius Erving",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 112,
@@ -151,7 +151,7 @@
                 "Diff": "3",
                 "Antece": "Taj Gibson",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 185,
@@ -162,7 +162,7 @@
                 "Diff": "3",
                 "Antece": "Jarrett Allen",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 204,
@@ -173,7 +173,7 @@
                 "Diff": "",
                 "Antece": "James Johnson",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 235,
@@ -184,7 +184,7 @@
                 "Diff": "",
                 "Antece": "Brad Miller",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "fg3": [
@@ -197,7 +197,7 @@
                 "Diff": "3",
                 "Antece": "Jamal Crawford",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 38,
@@ -208,7 +208,7 @@
                 "Diff": "6",
                 "Antece": "Donovan Mitchell",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 70,
@@ -219,7 +219,7 @@
                 "Diff": "",
                 "Antece": "Antoine Walker",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 108,
@@ -230,7 +230,7 @@
                 "Diff": "6",
                 "Antece": "Kawhi Leonard",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 109,
@@ -241,7 +241,7 @@
                 "Diff": "3",
                 "Antece": "Jeff Green",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 209,
@@ -252,7 +252,7 @@
                 "Diff": "3",
                 "Antece": "Darrell Armstrong",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 224,
@@ -263,7 +263,7 @@
                 "Diff": "",
                 "Antece": "Ersan Ilyasova",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ],
         "g": [
@@ -276,7 +276,7 @@
                 "Diff": "2",
                 "Antece": "Pau Gasol",
                 "Nota": "",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 72,
@@ -287,7 +287,7 @@
                 "Diff": "",
                 "Antece": "Danny Schayes",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             },
             {
                 "Rank": 198,
@@ -298,10 +298,10 @@
                 "Diff": "",
                 "Antece": "Fred Brown",
                 "Nota": "Mismo total",
-                "game_status": "playing"
+                "game_status": "finished"
             }
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764541470
+    "cache_buster": 1764541507
 }
