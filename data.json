@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:16:26",
+    "ultima_actualizacion": "23:17:01",
     "tablas": {
         "pts": [
             {
@@ -63,9 +63,9 @@
                 "Rank": 117,
                 "Nombre": "Clint Capela",
                 "Antes": 7056,
-                "Hoy": 1,
-                "Total": 7057,
-                "Diff": "53",
+                "Hoy": 2,
+                "Total": 7058,
+                "Diff": "52",
                 "Antece": "Olden Polynice",
                 "Nota": "",
                 "game_status": "playing"
@@ -303,5 +303,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764540986
+    "cache_buster": 1764541021
 }
