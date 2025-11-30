@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:13:00",
+    "ultima_actualizacion": "23:13:34",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 183,
                 "Nombre": "Jeff Green",
                 "Antes": 14425,
-                "Hoy": 0,
-                "Total": 14425,
-                "Diff": "12",
+                "Hoy": 2,
+                "Total": 14427,
+                "Diff": "10",
                 "Antece": "Nate Thurmond",
                 "Nota": "",
                 "game_status": "playing"
@@ -271,9 +271,9 @@
                 "Rank": 43,
                 "Nombre": "Jeff Green",
                 "Antes": 1223,
-                "Hoy": 0,
-                "Total": 1223,
-                "Diff": "3",
+                "Hoy": 1,
+                "Total": 1224,
+                "Diff": "2",
                 "Antece": "Pau Gasol",
                 "Nota": "",
                 "game_status": "playing"
@@ -303,5 +303,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764540780
+    "cache_buster": 1764540814
 }
