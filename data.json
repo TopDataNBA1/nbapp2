@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "23:15:51",
+    "ultima_actualizacion": "23:16:26",
     "tablas": {
         "pts": [
             {
@@ -28,9 +28,9 @@
                 "Rank": 183,
                 "Nombre": "Jeff Green",
                 "Antes": 14425,
-                "Hoy": 2,
-                "Total": 14427,
-                "Diff": "10",
+                "Hoy": 4,
+                "Total": 14429,
+                "Diff": "8",
                 "Antece": "Nate Thurmond",
                 "Nota": "",
                 "game_status": "playing"
@@ -303,5 +303,5 @@
         ]
     },
     "notificaciones": [],
-    "cache_buster": 1764540951
+    "cache_buster": 1764540986
 }
