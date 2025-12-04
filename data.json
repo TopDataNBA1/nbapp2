@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:44:21",
+    "ultima_actualizacion": "01:44:55",
     "tablas": {
         "pts": [
             {
@@ -149,11 +149,11 @@
                 "Rank": 155,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 15321,
-                "Hoy": 0,
-                "Total": 15321,
-                "Diff": "3",
+                "Hoy": 2,
+                "Total": 15323,
+                "Diff": "1",
                 "Antece": "Sam Perkins",
-                "Nota": "A tiro de 3",
+                "Nota": "A tiro de 1",
                 "game_status": "playing"
             },
             {
@@ -261,9 +261,9 @@
                 "Rank": 73,
                 "Nombre": "Nikola Jokic",
                 "Antes": 8397,
-                "Hoy": 3,
-                "Total": 8400,
-                "Diff": "9",
+                "Hoy": 4,
+                "Total": 8401,
+                "Diff": "8",
                 "Antece": "P.J. Brown",
                 "Nota": "",
                 "game_status": "playing"
@@ -283,9 +283,9 @@
                 "Rank": 101,
                 "Nombre": "Karl-Anthony Towns",
                 "Antes": 7370,
-                "Hoy": 0,
-                "Total": 7370,
-                "Diff": "9",
+                "Hoy": 1,
+                "Total": 7371,
+                "Diff": "8",
                 "Antece": "Gus Johnson",
                 "Nota": "",
                 "game_status": "playing"
@@ -560,9 +560,9 @@
                 "Rank": 194,
                 "Nombre": "De'Aaron Fox",
                 "Antes": 3339,
-                "Hoy": 2,
-                "Total": 3341,
-                "Diff": "23",
+                "Hoy": 3,
+                "Total": 3342,
+                "Diff": "22",
                 "Antece": "Mike Newlin",
                 "Nota": "",
                 "game_status": "playing"
@@ -1637,5 +1637,5 @@
         "Donovan Mitchell (1 three-pointer today) becomes the 37th player to reach 1,700 three-pointers",
         "T.J. McConnell (3 assists today) has passed Paul Westphal and is now ranked 168th all-time in career assists with 3,592."
     ],
-    "cache_buster": 1764809061
+    "cache_buster": 1764809095
 }
