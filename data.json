@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "01:43:48",
+    "ultima_actualizacion": "01:44:21",
     "tablas": {
         "pts": [
             {
@@ -154,7 +154,7 @@
                 "Diff": "3",
                 "Antece": "Sam Perkins",
                 "Nota": "A tiro de 3",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 160,
@@ -288,7 +288,7 @@
                 "Diff": "9",
                 "Antece": "Gus Johnson",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 117,
@@ -376,7 +376,7 @@
                 "Diff": "5",
                 "Antece": "Udonis Haslem",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 234,
@@ -844,7 +844,7 @@
                 "Diff": "2",
                 "Antece": "Charles Smith",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 166,
@@ -899,7 +899,7 @@
                 "Diff": "3",
                 "Antece": "Billy Paultz",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 201,
@@ -921,7 +921,7 @@
                 "Diff": "1",
                 "Antece": "Mickey Johnson",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 231,
@@ -1088,7 +1088,7 @@
                 "Diff": "9",
                 "Antece": "Luka Doncic",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 67,
@@ -1198,7 +1198,7 @@
                 "Diff": "1",
                 "Antece": "Jameer Nelson",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 134,
@@ -1264,7 +1264,7 @@
                 "Diff": "8",
                 "Antece": "Jordan Poole",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 169,
@@ -1418,7 +1418,7 @@
                 "Diff": "6",
                 "Antece": "Michael Porter Jr.",
                 "Nota": "",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 236,
@@ -1473,7 +1473,7 @@
                 "Diff": "1",
                 "Antece": "Clyde Drexler",
                 "Nota": "A tiro de 1",
-                "game_status": "not_started"
+                "game_status": "playing"
             },
             {
                 "Rank": 249,
@@ -1637,5 +1637,5 @@
         "Donovan Mitchell (1 three-pointer today) becomes the 37th player to reach 1,700 three-pointers",
         "T.J. McConnell (3 assists today) has passed Paul Westphal and is now ranked 168th all-time in career assists with 3,592."
     ],
-    "cache_buster": 1764809028
+    "cache_buster": 1764809061
 }
